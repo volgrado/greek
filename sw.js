@@ -1,7 +1,7 @@
 const CACHE_NAME = 'greek-zero-v1';
 const ASSETS = [
     './',
-    './greek.html',
+    './index.html',
     './data.json',
     './manifest.json',
     './assets/icon.svg'

@@ -1,7 +1,7 @@
 {
     "name": "Greek Zero",
     "short_name": "Greek0",
-    "start_url": "/greek.html",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
