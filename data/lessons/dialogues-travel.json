@@ -1,0 +1,296 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 42"
+    ],
+    [
+      "h1",
+      {},
+      "Travel Dialogues"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "When traveling in Greece, knowing how to ask for directions and\n            handle common travel situations is essential."
+      ],
+      [
+        "div",
+        {
+          "className": "dialogue-section mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "dialogue-card "
+          },
+          [
+            "h3",
+            {},
+            "Asking Where Something Is"
+          ],
+          [
+            "div",
+            {
+              "className": "line"
+            },
+            [
+              "span",
+              {
+                "className": "greek"
+              },
+              "Πού είναι η τουαλέτα;"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "english"
+              },
+              "Where is the bathroom?"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "line"
+            },
+            [
+              "span",
+              {
+                "className": "greek"
+              },
+              "Πού είναι η στάση;"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "english"
+              },
+              "Where is the bus stop?"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "line"
+            },
+            [
+              "span",
+              {
+                "className": "greek"
+              },
+              "Πού είναι η έξοδος;"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "english"
+              },
+              "Where is the exit?"
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "dialogue-card  mt-6"
+          },
+          [
+            "h3",
+            {},
+            "Asking How to Get Somewhere"
+          ],
+          [
+            "div",
+            {
+              "className": "line"
+            },
+            [
+              "span",
+              {
+                "className": "greek"
+              },
+              "Πώς πάω στην πλατεία;"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "english"
+              },
+              "How do I get to the square?"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "line"
+            },
+            [
+              "span",
+              {
+                "className": "greek"
+              },
+              "Πώς πάω στην Ακρόπολη;"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "english"
+              },
+              "How do I get to the Acropolis?"
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "dialogue-card  mt-6"
+          },
+          [
+            "h3",
+            {},
+            "Direction Vocabulary"
+          ],
+          [
+            "div",
+            {
+              "className": "vocab-grid"
+            },
+            [
+              "div",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Ευθεία"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "Straight"
+              ]
+            ],
+            [
+              "div",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Αριστερά"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "Left"
+              ]
+            ],
+            [
+              "div",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Δεξιά"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "Right"
+              ]
+            ],
+            [
+              "div",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Εδώ / Εκεί"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "Here / There"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Travel Tip"
+        ],
+        [
+          "p",
+          {},
+          "In Greece, a nod of the head ",
+          [
+            "strong",
+            {},
+            "upward"
+          ],
+          " often means \"No\" (Όχι), while a nod ",
+          [
+            "strong",
+            {},
+            "downward"
+          ],
+          " means \"Yes\" (Ναι). This can be confusing for visitors at first!"
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

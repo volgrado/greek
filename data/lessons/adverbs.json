@@ -1,0 +1,569 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 35"
+    ],
+    [
+      "h1",
+      {},
+      "The Adverbs"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Adverbs (Επιρρήματα) are indeclinable words that provide more\n            information about verbs, adjectives, or other adverbs. They tell us",
+        " ",
+        [
+          "strong",
+          {},
+          "when"
+        ],
+        ",",
+        " ",
+        [
+          "strong",
+          {},
+          "where"
+        ],
+        ",",
+        " ",
+        [
+          "strong",
+          {},
+          "how"
+        ],
+        ", or",
+        " ",
+        [
+          "strong",
+          {},
+          "how much"
+        ],
+        " ",
+        "something happened."
+      ],
+      [
+        "div",
+        {
+          "className": "adverb-grid mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "category-card "
+          },
+          [
+            "h3",
+            {},
+            "Time (Χρονικά)"
+          ],
+          [
+            "ul",
+            {
+              "className": "adverb-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "σήμερα"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "today"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "αύριο"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "tomorrow"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "χτες"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "yesterday"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "τώρα"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "now"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "πάντα"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "always"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "ποτέ"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "never"
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "category-card "
+          },
+          [
+            "h3",
+            {},
+            "Place (Τοπικά)"
+          ],
+          [
+            "ul",
+            {
+              "className": "adverb-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "εδώ"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "here"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "εκεί"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "there"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "πάνω"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "up / on top"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "κάτω"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "down / below"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "μέσα"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "inside"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "έξω"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "outside"
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "category-card "
+          },
+          [
+            "h3",
+            {},
+            "Manner (Τροπικά)"
+          ],
+          [
+            "ul",
+            {
+              "className": "adverb-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "σιγά"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "slowly / quietly"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "γρήγορα"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "quickly"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "μαζί"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "together"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "έτσι"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "like this"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "ευτυχώς"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "fortunately"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "δυστυχώς"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "unfortunately"
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "category-card "
+          },
+          [
+            "h3",
+            {},
+            "Quantity (Ποσοτικά)"
+          ],
+          [
+            "ul",
+            {
+              "className": "adverb-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "πολύ"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "very / much"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "λίγο"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "a little"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "αρκετά"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "enough / quite"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "καθόλου"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "not at all"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12"
+        },
+        [
+          "h3",
+          {},
+          "Spelling Alert: πότε vs ποτέ"
+        ],
+        [
+          "p",
+          {},
+          "Be careful with the accent!",
+          " ",
+          [
+            "br",
+            {}
+          ],
+          " ",
+          [
+            "strong",
+            {},
+            "πότε"
+          ],
+          " ",
+          "(accent on the first syllable) means \"when?\"",
+          " ",
+          [
+            "br",
+            {}
+          ],
+          " ",
+          [
+            "strong",
+            {},
+            "ποτέ"
+          ],
+          " ",
+          "(accent on the last syllable) means \"never\"."
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

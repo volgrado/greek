@@ -1,0 +1,458 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 13"
+    ],
+    [
+      "h1",
+      {},
+      "Articles Declension"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Just like nouns, the Greek definite article (\"the\") must be declined\n            to match the case of the noun it describes. This is one of the most\n            important patterns to memorize, as it often provides the clearest\n            clue to a noun's case."
+      ],
+      [
+        "div",
+        {
+          "className": "table-container "
+        },
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Case"
+              ],
+              [
+                "th",
+                {},
+                "Masculine"
+              ],
+              [
+                "th",
+                {},
+                "Feminine"
+              ],
+              [
+                "th",
+                {},
+                "Neuter"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {
+                "className": "singular-row"
+              },
+              [
+                "td",
+                {
+                  "colspan": "4"
+                },
+                [
+                  "strong",
+                  {},
+                  "Singular (Ενικός)"
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nom"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "ο"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "η"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "το"
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Gen"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "του"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "της"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "του"
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Acc"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "το(ν)"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τη(ν)"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "το"
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {
+                "className": "plural-row"
+              },
+              [
+                "td",
+                {
+                  "colspan": "4"
+                },
+                [
+                  "strong",
+                  {},
+                  "Plural (Πληθυντικός)"
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nom"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "οι"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "οι"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τα"
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Gen"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "των"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "των"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "των"
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Acc"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τους"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τις"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τα"
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Patterns to Watch"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Shared Genitive:"
+            ],
+            " ",
+            "Masculine and Neuter share the\n                    same Genitive Singular (",
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "του"
+            ],
+            ")."
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Universal Genitive Plural:"
+            ],
+            " ",
+            "The Genitive Plural\n                    is",
+            " ",
+            [
+              "strong",
+              {},
+              "always"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "των"
+            ],
+            " ",
+            "for every single gender and\n                    noun in the Greek language!"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Shared Plural Nom:"
+            ],
+            " ",
+            "Masculine and Feminine share\n                    the same Nominative Plural (",
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "οι"
+            ],
+            ")."
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

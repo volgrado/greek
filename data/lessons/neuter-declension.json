@@ -1,0 +1,649 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 16"
+    ],
+    [
+      "h1",
+      {},
+      "Neuter Declension"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Neuter nouns in Greek are unique because the",
+        " ",
+        [
+          "strong",
+          {},
+          "Nominative"
+        ],
+        " ",
+        "and",
+        " ",
+        [
+          "strong",
+          {},
+          "Accusative"
+        ],
+        " ",
+        "cases are always identical in both singular\n            and plural forms. They typically end in",
+        " ",
+        [
+          "strong",
+          {},
+          "-ο"
+        ],
+        ",",
+        " ",
+        [
+          "strong",
+          {},
+          "-ι"
+        ],
+        ", or",
+        " ",
+        [
+          "strong",
+          {},
+          "-μα"
+        ],
+        "."
+      ],
+      [
+        "h2",
+        {},
+        "1. Nouns in -ο (το βιβλίο - the book)"
+      ],
+      [
+        "div",
+        {
+          "className": "table-container "
+        },
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Case"
+              ],
+              [
+                "th",
+                {},
+                "Singular"
+              ],
+              [
+                "th",
+                {},
+                "Plural"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nom"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "το βιβλί",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ο"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τα βιβλί",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "α"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Gen"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "του βιβλί",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ου"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "των βιβλί",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ων"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Acc"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "το βιβλί",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ο"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τα βιβλί",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "α"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "h2",
+        {
+          "className": "mt-12"
+        },
+        "2. Nouns in -ι (το παιδί - the child)"
+      ],
+      [
+        "div",
+        {
+          "className": "table-container "
+        },
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Case"
+              ],
+              [
+                "th",
+                {},
+                "Singular"
+              ],
+              [
+                "th",
+                {},
+                "Plural"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nom"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "το παιδ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ί"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τα παιδ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ιά"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Gen"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "του παιδ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ιού"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "των παιδ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ιών"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Acc"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "το παιδ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ί"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τα παιδ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ιά"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "h2",
+        {
+          "className": "mt-12"
+        },
+        "3. Nouns in -μα (το μάθημα - the lesson)"
+      ],
+      [
+        "p",
+        {},
+        "These nouns add an extra syllable (",
+        [
+          "span",
+          {
+            "className": "greek-text"
+          },
+          "-τα"
+        ],
+        ") in the plural."
+      ],
+      [
+        "div",
+        {
+          "className": "table-container "
+        },
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Case"
+              ],
+              [
+                "th",
+                {},
+                "Singular"
+              ],
+              [
+                "th",
+                {},
+                "Plural"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nom"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "το μάθη",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "μα"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τα μαθή",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ματα"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Gen"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "του μαθή",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ματος"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "των μαθη",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "μάτων"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Acc"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "το μάθη",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "μα"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τα μαθή",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ματα"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "The Neuter Rule of Thumb"
+        ],
+        [
+          "p",
+          {},
+          "In the neuter gender, the article for Nominative and Accusative\n                is always the same:",
+          " ",
+          [
+            "strong",
+            {},
+            "το"
+          ],
+          " ",
+          "in the singular and",
+          " ",
+          [
+            "strong",
+            {},
+            "τα"
+          ],
+          " ",
+          "in the plural. This makes neuter nouns the easiest to use as objects!"
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

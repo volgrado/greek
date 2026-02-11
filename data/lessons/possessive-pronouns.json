@@ -1,0 +1,375 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 21"
+    ],
+    [
+      "h1",
+      {},
+      "Possessive Pronouns"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "In Greek, possession is usually expressed using a \"weak\" form of the\n            personal pronoun that follows the noun. To express \"own\" or for\n            stronger emphasis, we use the word",
+        " ",
+        [
+          "strong",
+          {},
+          "δικός"
+        ],
+        "."
+      ],
+      [
+        "h2",
+        {},
+        "1. The Weak Forms (My, Your, His...)"
+      ],
+      [
+        "p",
+        {},
+        "These short words always follow the noun and never change their form\n            based on the noun's case—they only match the person and number of\n            the owner."
+      ],
+      [
+        "div",
+        {
+          "className": "pronoun-grid mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "column "
+          },
+          [
+            "h3",
+            {},
+            "Singular Owner"
+          ],
+          [
+            "ul",
+            {},
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                "μου"
+              ],
+              " ",
+              "(my)"
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                "σου"
+              ],
+              " ",
+              "(your)"
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                "του / της / του"
+              ],
+              " ",
+              "(his / her\n                        / its)"
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "column "
+          },
+          [
+            "h3",
+            {},
+            "Plural Owner"
+          ],
+          [
+            "ul",
+            {},
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                "μας"
+              ],
+              " ",
+              "(our)"
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                "σας"
+              ],
+              " ",
+              "(your [pl])"
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                "τους"
+              ],
+              " ",
+              "(their)"
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "example-box mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "το βιβλίο",
+              " ",
+              [
+                "strong",
+                {},
+                "μου"
+              ]
+            ],
+            " ",
+            "(my book)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "το μολύβι",
+              " ",
+              [
+                "strong",
+                {},
+                "του"
+              ]
+            ],
+            " ",
+            "(his pencil)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "το σκυλί",
+              " ",
+              [
+                "strong",
+                {},
+                "τους"
+              ]
+            ],
+            " ",
+            "(their dog)"
+          ]
+        ]
+      ],
+      [
+        "h2",
+        {
+          "className": "mt-12"
+        },
+        "2. Emphatic Possession (δικός)"
+      ],
+      [
+        "p",
+        {},
+        "The word",
+        " ",
+        [
+          "strong",
+          {},
+          "δικός, δική, δικό"
+        ],
+        " ",
+        "acts like an adjective and\n            is used to say \"mine\" or \"my own\". It must match the gender of the object\n            being possessed."
+      ],
+      [
+        "div",
+        {
+          "className": "comparison-grid mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "το δικό μου"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "translation"
+            },
+            "my own / mine"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "το δικό σου"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "translation"
+            },
+            "your own / yours"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "το δικό του"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "translation"
+            },
+            "his own / his"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Pro-Tip: The Article"
+        ],
+        [
+          "p",
+          {},
+          "When using",
+          " ",
+          [
+            "strong",
+            {},
+            "δικός"
+          ],
+          ", you often need an article\n                before it. Think of it like saying \"the mine own\". Example:",
+          " ",
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "Έχω το δικό μου αυτοκίνητο."
+          ],
+          " ",
+          "(I have my own car)."
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

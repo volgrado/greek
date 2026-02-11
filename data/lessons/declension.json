@@ -1,0 +1,178 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 11"
+    ],
+    [
+      "h1",
+      {},
+      "The Declension"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "In English, words like \"friend\" usually stay the same whether they\n            are the subject or the object of a sentence. In Greek, nouns are",
+        " ",
+        [
+          "strong",
+          {},
+          "inflected"
+        ],
+        ". This means they change their ending based on their grammatical\n            role. This process is called",
+        " ",
+        [
+          "strong",
+          {},
+          "Declension"
+        ],
+        "."
+      ],
+      [
+        "div",
+        {
+          "className": "concept-box  mt-8"
+        },
+        [
+          "h2",
+          {},
+          "The \"Flexing\" Language"
+        ],
+        [
+          "p",
+          {},
+          "Think of Greek as a \"flexing\" language. Just as you flex a\n                muscle, words \"flex\" their endings to signal their function. If\n                a word is the \"doer\" (subject), it has one ending; if it's the\n                \"receiver\" (object), it has another."
+        ]
+      ],
+      [
+        "h2",
+        {
+          "className": "mt-12"
+        },
+        "What gets declined?"
+      ],
+      [
+        "p",
+        {},
+        "In most Greek sentences, the following elements must agree and\n            decline together:"
+      ],
+      [
+        "div",
+        {
+          "className": "inflex-list"
+        },
+        [
+          "div",
+          {
+            "className": "inflex-item "
+          },
+          [
+            "strong",
+            {},
+            "Articles"
+          ],
+          [
+            "p",
+            {},
+            "ο, η, το..."
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "inflex-item "
+          },
+          [
+            "strong",
+            {},
+            "Nouns"
+          ],
+          [
+            "p",
+            {},
+            "πατέρας, μητέρα..."
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "inflex-item "
+          },
+          [
+            "strong",
+            {},
+            "Adjectives"
+          ],
+          [
+            "p",
+            {},
+            "καλός, μεγάλη..."
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "inflex-item "
+          },
+          [
+            "strong",
+            {},
+            "Pronouns"
+          ],
+          [
+            "p",
+            {},
+            "αυτός, εγώ..."
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Standard vs. Irregular"
+        ],
+        [
+          "p",
+          {},
+          "Most nouns follow predictable patterns (Regular Nouns). However,\n                some nouns are \"indeclinable\" (don't change) or follow their own\n                unique rules. We will focus on the regular patterns first."
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

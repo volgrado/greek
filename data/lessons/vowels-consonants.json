@@ -1,0 +1,283 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 4"
+    ],
+    [
+      "h1",
+      {},
+      "Vowels and Consonants"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Understanding the classification of Greek letters into vowels and\n            consonants is the final step before mastering the stress system."
+      ],
+      [
+        "h2",
+        {},
+        "The 7 Vowels (Φωνήεντα)"
+      ],
+      [
+        "p",
+        {},
+        "Greek has seven vowels, although some represent the same sound due\n            to historical phonetic evolution."
+      ],
+      [
+        "div",
+        {
+          "className": "vowel-grid"
+        },
+        [
+          "div",
+          {
+            "className": "vowel-card "
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "Α α"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "phonetic"
+            },
+            "[a]"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "vowel-card  pink-tint"
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "Ε ε"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "phonetic"
+            },
+            "[e]"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "vowel-card  pink-tint"
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "Η η"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "phonetic"
+            },
+            "[i]"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "vowel-card  pink-tint"
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "Ι ι"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "phonetic"
+            },
+            "[i]"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "vowel-card  pink-tint"
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "Υ υ"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "phonetic"
+            },
+            "[i]"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "vowel-card  gold-tint"
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "Ο ο"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "phonetic"
+            },
+            "[o]"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "vowel-card  gold-tint"
+          },
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "Ω ω"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "phonetic"
+            },
+            "[o]"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-8"
+        },
+        [
+          "p",
+          {},
+          [
+            "strong",
+            {},
+            "Did you know?"
+          ],
+          " ",
+          "In Modern Greek,",
+          " ",
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "η, ι, υ"
+          ],
+          " ",
+          "all make the exact same \"ee\" sound. This is called",
+          " ",
+          [
+            "em",
+            {},
+            "iotacism"
+          ],
+          "."
+        ]
+      ],
+      [
+        "h2",
+        {},
+        "The 17 Consonants (Σύμφωνα)"
+      ],
+      [
+        "p",
+        {},
+        "Consonants are divided into categories based on how they are\n            produced (voiced vs. voiceless), but for now, remember their forms:"
+      ],
+      [
+        "div",
+        {
+          "className": "consonant-cloud "
+        },
+        "Β, Γ, Δ, Ζ, Θ, Κ, Λ, Μ, Ν, Ξ, Π, Ρ, Σ, Τ, Φ, Χ, Ψ"
+      ],
+      [
+        "h2",
+        {
+          "className": "mt-12"
+        },
+        "The Importance of Vowels"
+      ],
+      [
+        "p",
+        {},
+        "Vowels are the carriers of the",
+        " ",
+        [
+          "strong",
+          {},
+          "accent"
+        ],
+        ". In Lesson 5,\n            you will learn that the accent mark can only be placed above one of\n            these seven vowels."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

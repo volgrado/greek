@@ -1,0 +1,16 @@
+{
+    "name": "Greek Zero",
+    "short_name": "Greek0",
+    "start_url": "/greek.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "assets/icon.svg",
+            "sizes": "192x192 512x512",
+            "type": "image/svg+xml"
+        }
+    ]
+}

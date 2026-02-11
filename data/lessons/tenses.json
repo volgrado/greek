@@ -1,0 +1,274 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 31"
+    ],
+    [
+      "h1",
+      {},
+      "Verb Tenses"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Greek verb tenses are divided based on",
+        " ",
+        [
+          "strong",
+          {},
+          "when"
+        ],
+        " ",
+        "the action\n            happens (Past, Present, Future) and",
+        " ",
+        [
+          "strong",
+          {},
+          "how"
+        ],
+        " ",
+        "it happens (Continuous\n            vs. Simple/Instant)."
+      ],
+      [
+        "div",
+        {
+          "className": "tenses-timeline mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "time-block "
+          },
+          [
+            "h3",
+            {},
+            "Present (Ενεστώτας)"
+          ],
+          [
+            "div",
+            {
+              "className": "tense"
+            },
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "παίζω"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "translation"
+              },
+              "I am playing / I play"
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "time-block "
+          },
+          [
+            "h3",
+            {},
+            "Future (Μέλλοντας)"
+          ],
+          [
+            "div",
+            {
+              "className": "tense"
+            },
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "θα παίζω"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "translation"
+              },
+              "I will be playing (continuous)"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "tense mt-2"
+            },
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "θα παίξω"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "translation"
+              },
+              "I will play (once)"
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "time-block "
+          },
+          [
+            "h3",
+            {},
+            "Past (Παρελθόν)"
+          ],
+          [
+            "div",
+            {
+              "className": "tense"
+            },
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "έπαιζα"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "translation"
+              },
+              "I was playing (Imperfect)"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "tense mt-2"
+            },
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "έπαιξα"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "translation"
+              },
+              "I played (Aorist)"
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "time-block "
+          },
+          [
+            "h3",
+            {},
+            "Perfect (Παρακείμενος)"
+          ],
+          [
+            "div",
+            {
+              "className": "tense"
+            },
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "έχω παίξει"
+            ],
+            " ",
+            [
+              "span",
+              {
+                "className": "translation"
+              },
+              "I have played"
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "The Aspect Rule"
+        ],
+        [
+          "p",
+          {},
+          "In Greek, the most important distinction is between",
+          " ",
+          [
+            "strong",
+            {},
+            "Continuous"
+          ],
+          " ",
+          "(actions that happen repeatedly or over time) and",
+          " ",
+          [
+            "strong",
+            {},
+            "Simple"
+          ],
+          " ",
+          "(actions that happen once). This distinction is reflected in most\n                tenses!"
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

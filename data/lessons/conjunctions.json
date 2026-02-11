@@ -1,0 +1,593 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 37"
+    ],
+    [
+      "h1",
+      {},
+      "The Conjunctions"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Conjunctions (Σύνδεσμοι) are words used to connect sentences,\n            phrases, or individual words. They are essential for building\n            complex thoughts and flowing conversation."
+      ],
+      [
+        "div",
+        {
+          "className": "conjunction-grid mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "category "
+          },
+          [
+            "h3",
+            {},
+            "Connecting (Συμπλεκτικοί)"
+          ],
+          [
+            "ul",
+            {
+              "className": "conj-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "και / κι"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "and"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "ούτε / μήτε"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "neither / nor"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "ή ... ή"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "either ... or"
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "category "
+          },
+          [
+            "h3",
+            {},
+            "Contrasting (Αντιθετικοί)"
+          ],
+          [
+            "ul",
+            {
+              "className": "conj-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "αλλά / μα"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "but"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "όμως / ωστόσο"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "however / yet"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "αν και"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "although"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "ενώ"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "while"
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "category "
+          },
+          [
+            "h3",
+            {},
+            "Causal (Αιτιολογικοί)"
+          ],
+          [
+            "ul",
+            {
+              "className": "conj-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "γιατί"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "because / why"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "επειδή"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "since / as"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "διότι"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "because (formal)"
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "category "
+          },
+          [
+            "h3",
+            {},
+            "Time (Χρονικοί)"
+          ],
+          [
+            "ul",
+            {
+              "className": "conj-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "όταν"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "when"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "πριν"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "before"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "αφού"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "after / since"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "μόλις"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "as soon as"
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "category "
+          },
+          [
+            "h3",
+            {},
+            "Result (Συμπερασματικοί)"
+          ],
+          [
+            "ul",
+            {
+              "className": "conj-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "άρα / επομένως"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "therefore"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "λοιπόν"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "so / well"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "ώστε"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "so that"
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "category "
+          },
+          [
+            "h3",
+            {},
+            "Purpose / Condition"
+          ],
+          [
+            "ul",
+            {
+              "className": "conj-list"
+            },
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "να / για να"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "to / so that"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "αν / εάν"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "if"
+              ]
+            ],
+            [
+              "li",
+              {},
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "μήπως"
+              ],
+              " ",
+              [
+                "span",
+                {},
+                "maybe / lest"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "example-box mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Common Patterns"
+        ],
+        [
+          "p",
+          {},
+          [
+            "span",
+            {
+              "className": "greek"
+            },
+            "Θέλω",
+            " ",
+            [
+              "strong",
+              {},
+              "να"
+            ],
+            " ",
+            "πάω",
+            " ",
+            [
+              "strong",
+              {},
+              "αλλά"
+            ],
+            " ",
+            "δεν μπορώ."
+          ],
+          " ",
+          [
+            "br",
+            {}
+          ],
+          " ",
+          "(I want",
+          " ",
+          [
+            "strong",
+            {},
+            "to"
+          ],
+          " ",
+          "go",
+          " ",
+          [
+            "strong",
+            {},
+            "but"
+          ],
+          " ",
+          "I cannot.)"
+        ],
+        [
+          "p",
+          {},
+          [
+            "span",
+            {
+              "className": "greek"
+            },
+            "Είναι καλό",
+            " ",
+            [
+              "strong",
+              {},
+              "γιατί"
+            ],
+            " ",
+            "είναι φθηνό."
+          ],
+          " ",
+          [
+            "br",
+            {}
+          ],
+          " ",
+          "(It is good",
+          " ",
+          [
+            "strong",
+            {},
+            "because"
+          ],
+          " ",
+          "it is cheap.)"
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

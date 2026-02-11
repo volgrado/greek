@@ -1,0 +1,369 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 26"
+    ],
+    [
+      "h1",
+      {},
+      "Indefinite Pronouns"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Indefinite pronouns refer to people or things in a non-specific way.\n            Greek has a rich set of these pronouns, some of which are declinable\n            and others which are stable (indeclinable)."
+      ],
+      [
+        "div",
+        {
+          "className": "indefinite-grid mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "κάποιος, -α, -ο"
+            ],
+            [
+              "h3",
+              {},
+              "Somebody / Someone"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              "Refering to an unknown specific person."
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "κάτι"
+            ],
+            [
+              "h3",
+              {},
+              "Something"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              "Indeclinable. Used for unspecified things."
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "κάθε / καθένας"
+            ],
+            [
+              "h3",
+              {},
+              "Each / Every"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              [
+                "strong",
+                {},
+                "κάθε"
+              ],
+              " ",
+              "is indeclinable;",
+              " ",
+              [
+                "strong",
+                {},
+                "καθένας"
+              ],
+              " ",
+              "declines like",
+              " ",
+              [
+                "em",
+                {},
+                "ένας"
+              ],
+              "."
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "κανένας / καμία / κανένα"
+            ],
+            [
+              "h3",
+              {},
+              "Nobody / No one"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              "Also means \"anyone\" in questions."
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "τίποτα"
+            ],
+            [
+              "h3",
+              {},
+              "Nothing / Anything"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              "Indeclinable. Used in negative sentences."
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "άλλος, -η, -ο"
+            ],
+            [
+              "h3",
+              {},
+              "Another / Other"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              "Declines like a standard adjective."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "example-box mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Usage in Sentences"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              [
+                "strong",
+                {},
+                "Κάποιος"
+              ],
+              " ",
+              "είναι εκεί."
+            ],
+            " ",
+            "(",
+            [
+              "strong",
+              {},
+              "Someone"
+            ],
+            " ",
+            "is there.)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "Δεν θέλω",
+              " ",
+              [
+                "strong",
+                {},
+                "τίποτα"
+              ],
+              "."
+            ],
+            " ",
+            "(I don't want",
+            " ",
+            [
+              "strong",
+              {},
+              "anything/nothing"
+            ],
+            ".)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              [
+                "strong",
+                {},
+                "Κάθε"
+              ],
+              " ",
+              "μέρα."
+            ],
+            " ",
+            "(",
+            [
+              "strong",
+              {},
+              "Every"
+            ],
+            " ",
+            "day.)"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

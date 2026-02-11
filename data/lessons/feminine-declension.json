@@ -1,0 +1,491 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 15"
+    ],
+    [
+      "h1",
+      {},
+      "Feminine Declension"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Feminine nouns in Greek typically end in",
+        " ",
+        [
+          "strong",
+          {},
+          "-α"
+        ],
+        " ",
+        "or",
+        " ",
+        [
+          "strong",
+          {},
+          "-η"
+        ],
+        ". Unlike masculine nouns, they are generally very consistent in\n            their declension patterns."
+      ],
+      [
+        "h2",
+        {},
+        "1. Nouns in -α (η μητέρα - the mother)"
+      ],
+      [
+        "div",
+        {
+          "className": "table-container "
+        },
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Case"
+              ],
+              [
+                "th",
+                {},
+                "Singular"
+              ],
+              [
+                "th",
+                {},
+                "Plural"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nom"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "η μητέρ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "α"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "οι μητέρ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ες"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Gen"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "της μητέρ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ας"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "των μητέρ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ων"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Acc"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τη(ν) μητέρ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "α"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τις μητέρ",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ες"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "h2",
+        {
+          "className": "mt-12"
+        },
+        "2. Nouns in -η (η ζωή - the life)"
+      ],
+      [
+        "div",
+        {
+          "className": "table-container "
+        },
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Case"
+              ],
+              [
+                "th",
+                {},
+                "Singular"
+              ],
+              [
+                "th",
+                {},
+                "Plural"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nom"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "η ζω",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ή"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "οι ζω",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ές"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Gen"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "της ζω",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ής"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "των ζω",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ών"
+                  ]
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Acc"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τη(ν) ζω",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ή"
+                  ]
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τις ζω",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "ές"
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "The Special \"Mama\" Case"
+        ],
+        [
+          "p",
+          {},
+          "Some feminine nouns (often kinship terms or loanwords) ending in\n                an accented",
+          " ",
+          [
+            "strong",
+            {},
+            "-ά"
+          ],
+          " ",
+          "follow a slightly different plural\n                pattern:"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "η μαμά"
+            ],
+            " ",
+            "→",
+            " ",
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "οι μαμά",
+              " ",
+              [
+                "strong",
+                {},
+                "δες"
+              ]
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "η γιαγιά"
+            ],
+            " ",
+            "→",
+            " ",
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "οι γιαγιά",
+              " ",
+              [
+                "strong",
+                {},
+                "δες"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

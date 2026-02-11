@@ -1,0 +1,438 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 24"
+    ],
+    [
+      "h1",
+      {},
+      "Relative Pronouns"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Relative pronouns are used to connect clauses or refer back to a\n            noun previously mentioned. The most common one is the indeclinable",
+        " ",
+        [
+          "strong",
+          {},
+          "που"
+        ],
+        "."
+      ],
+      [
+        "div",
+        {
+          "className": "relative-cards mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "που"
+            ],
+            [
+              "h3",
+              {},
+              "That / Which / Who"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              "The universal relative pronoun. It never changes its\n                        form."
+            ],
+            [
+              "div",
+              {
+                "className": "example mt-4"
+              },
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                "Αγόρασα το βιβλίο",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "που"
+                ],
+                " ",
+                "είδα."
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "translation"
+                },
+                "I bought the book",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "that"
+                ],
+                " ",
+                "I saw."
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "ό,τι"
+            ],
+            [
+              "h3",
+              {},
+              "Whatever / What"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              "Used to refer to an unspecified thing or sentence."
+            ],
+            [
+              "div",
+              {
+                "className": "example mt-4"
+              },
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                "Πάρε",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "ό,τι"
+                ],
+                " ",
+                "θέλεις."
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "translation"
+                },
+                "Take",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "whatever"
+                ],
+                " ",
+                "you want."
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "όποιος, -α, -ο"
+            ],
+            [
+              "h3",
+              {},
+              "Whoever / Whichever"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              "Declines like an adjective."
+            ],
+            [
+              "div",
+              {
+                "className": "example mt-4"
+              },
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                [
+                  "strong",
+                  {},
+                  "Όποιος"
+                ],
+                " ",
+                "κλέβει..."
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "translation"
+                },
+                [
+                  "strong",
+                  {},
+                  "Whoever"
+                ],
+                " ",
+                "steals..."
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "όσος, -η, -ο"
+            ],
+            [
+              "h3",
+              {},
+              "As much as"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "p",
+              {},
+              "Indicates quantity."
+            ],
+            [
+              "div",
+              {
+                "className": "example mt-4"
+              },
+              [
+                "span",
+                {
+                  "className": "greek-text"
+                },
+                "Δώσε μου",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "όσα"
+                ],
+                " ",
+                "λεφτά θέλεις."
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "translation"
+                },
+                "Give me",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "as much"
+                ],
+                " ",
+                "money",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "as"
+                ],
+                " ",
+                "you want."
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Spelling Alert: που vs πού"
+        ],
+        [
+          "p",
+          {},
+          "Don't confuse the relative pronoun",
+          " ",
+          [
+            "strong",
+            {},
+            "που"
+          ],
+          " ",
+          "(no accent)\n                with the interrogative",
+          " ",
+          [
+            "strong",
+            {},
+            "πού"
+          ],
+          " ",
+          "(with accent)."
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              "Το σπίτι",
+              " ",
+              [
+                "strong",
+                {},
+                "που"
+              ],
+              " ",
+              "μένω."
+            ],
+            " ",
+            "(The house",
+            " ",
+            [
+              "strong",
+              {},
+              "that"
+            ],
+            " ",
+            "I live in.)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "greek-text"
+              },
+              [
+                "strong",
+                {},
+                "Πού"
+              ],
+              " ",
+              "μένεις;"
+            ],
+            " ",
+            "(",
+            [
+              "strong",
+              {},
+              "Where"
+            ],
+            " ",
+            "do you live?)"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

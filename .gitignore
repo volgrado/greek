@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+vamer/
+.env
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+greek_zero_app.zip
+greek_zero_app_v2.zip
+temp_browser_data/
+log/

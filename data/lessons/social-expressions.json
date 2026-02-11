@@ -1,0 +1,372 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson D2"
+    ],
+    [
+      "h1",
+      {},
+      "Social Expressions"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "This lesson covers common expressions used in social settings,\n            including answering the phone and social events."
+      ],
+      [
+        "div",
+        {
+          "className": "expression-grid mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "h3",
+              {},
+              "On the Phone"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Εμπρός;"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Hello? (answering)"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Ναι;"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Yes? / Hello?"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Ποιος είναι;"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Who is it?"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Ένα λεπτό."
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "One minute."
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "h3",
+              {},
+              "Congratulations & Wishes"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Χρόνια Πολλά!"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Happy Birthday/Anniversary! (lit. Many Years)"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Συγχαρητήρια!"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Congratulations!"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Καλή επιτυχία!"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Good luck!"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Περαστικά!"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Get well soon!"
+              ]
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "card "
+          },
+          [
+            "header",
+            {},
+            [
+              "h3",
+              {},
+              "Drinks & Food"
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "content"
+            },
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Στην υγειά μας!"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Cheers! (To our health)"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Γειά μας!"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Cheers! (Short version)"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "line"
+              },
+              [
+                "span",
+                {
+                  "className": "greek"
+                },
+                "Καλή όρεξη!"
+              ],
+              " ",
+              [
+                "span",
+                {
+                  "className": "meaning"
+                },
+                "Bon Appétit!"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Cultural Note"
+        ],
+        [
+          "p",
+          {},
+          [
+            "strong",
+            {},
+            "Χρόνια Πολλά"
+          ],
+          " ",
+          "is the most common wish in Greece. It\n                is used for birthdays, name days, weddings, Christmas, Easter, and\n                almost every national holiday!"
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]

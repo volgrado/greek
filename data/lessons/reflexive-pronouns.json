@@ -1,0 +1,310 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "header",
+    {
+      "className": "lesson-header"
+    },
+    [
+      "p",
+      {
+        "className": "lesson-meta"
+      },
+      "Lesson 27"
+    ],
+    [
+      "h1",
+      {},
+      "Reflexive Pronouns"
+    ]
+  ],
+  [
+    "article",
+    {},
+    [
+      "section",
+      {},
+      [
+        "p",
+        {},
+        "Reflexive pronouns are used when the subject and the object of a\n            verb are the same person. In Greek, we use the phrase",
+        " ",
+        [
+          "strong",
+          {},
+          "ο εαυτός μου"
+        ],
+        " ",
+        "(my self)."
+      ],
+      [
+        "div",
+        {
+          "className": "reflexive-showcase mt-8"
+        },
+        [
+          "div",
+          {
+            "className": "person-card "
+          },
+          [
+            "h3",
+            {},
+            "1st Person"
+          ],
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "ο εαυτός μου"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "translation"
+            },
+            "myself"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "person-card "
+          },
+          [
+            "h3",
+            {},
+            "2nd Person"
+          ],
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "ο εαυτός σου"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "translation"
+            },
+            "yourself"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "person-card "
+          },
+          [
+            "h3",
+            {},
+            "3rd Person"
+          ],
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "ο εαυτός του / της"
+          ],
+          " ",
+          [
+            "span",
+            {
+              "className": "translation"
+            },
+            "himself / herself"
+          ]
+        ]
+      ],
+      [
+        "h2",
+        {
+          "className": "mt-12"
+        },
+        "Plural Reflexives"
+      ],
+      [
+        "p",
+        {},
+        "In the plural, the word \"self\" (εαυτός) can either stay singular or\n            become plural (εαυτοί)."
+      ],
+      [
+        "div",
+        {
+          "className": "table-container  mt-8"
+        },
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Person"
+              ],
+              [
+                "th",
+                {},
+                "Singular (Self)"
+              ],
+              [
+                "th",
+                {},
+                "Plural (Selves)"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "1st (Ourselves)"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τον εαυτό μας"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τους εαυτούς μας"
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "2nd (Yourselves)"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τον εαυτό σας"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τους εαυτούς σας"
+                ]
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "3rd (Themselves)"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τον εαυτό τους"
+                ]
+              ],
+              [
+                "td",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "τους εαυτούς τους"
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box  mt-12 mb-12"
+        },
+        [
+          "h3",
+          {},
+          "Common Usage"
+        ],
+        [
+          "p",
+          {},
+          "Reflexive pronouns are usually used as objects. Example:",
+          " ",
+          [
+            "span",
+            {
+              "className": "greek-text"
+            },
+            "Σκέφτομαι τον εαυτό μου."
+          ],
+          " ",
+          "(I am thinking of myself)."
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "lesson-nav"
+    },
+    [
+      "a",
+      {
+        "href": "#/curriculum"
+      },
+      "Back to Menu"
+    ]
+  ]
+]
