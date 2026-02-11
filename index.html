@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modern Greek</title>
+    <title>Greek</title>
     <!-- Mobile App Settings -->
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#ffffff">
@@ -14,16 +14,60 @@
     <link rel="apple-touch-icon" href="assets/icon.svg">
     <style>
         :root {
+            --bg: #ffffff;
+            --text: #111111;
+            --muted-text: #666666;
+            --border: #eeeeee;
+            --accent: #0051ff;
+            --secondary-bg: #f4f4f4;
+            --card-bg: #fafafa;
+            --info-bg: #f0f7ff;
+            --grammar-bg: #fff8e1;
+            --grammar-border: #fbc02d;
+            --grammar-text: #f57f17;
+
             font-family: 'Inter', system-ui, sans-serif;
             line-height: 1.6;
-            color: #111;
+        }
+
+        html.dark-mode,
+        body.dark-mode {
+            --bg: #111111;
+            --text: #eeeeee;
+            --muted-text: #aaaaaa;
+            --border: #333333;
+            --accent: #4d8aff;
+            --secondary-bg: #1a1a1a;
+            --card-bg: #161616;
+            --info-bg: #0a192f;
+            --grammar-bg: #2d2a1e;
+            --grammar-border: #fbc02d;
+            --grammar-text: #ffe082;
+        }
+
+        body {
+            color: var(--text);
+            background: var(--bg);
             max-width: 70ch;
             margin: 0 auto;
             padding: 1rem;
+            transition: background 0.3s ease, color 0.3s ease;
+        }
+
+        /* Invert logo in dark mode if needed, but it's an SVG owl, maybe filter is better */
+        body.dark-mode img {
+            filter: invert(1) brightness(2);
         }
 
         *+* {
             margin-top: 1.5em;
+        }
+
+        /* Reset for header elements to avoid top margin */
+        header *,
+        footer *,
+        .lesson-nav * {
+            margin-top: 0;
         }
 
         h1,
@@ -40,11 +84,11 @@
 
         h2 {
             margin-top: 3em;
-            border-top: 1px solid #eee;
+            border-top: 1px solid var(--border);
             padding-top: 1em;
             font-size: 1.25em;
             text-transform: uppercase;
-            color: #666;
+            color: var(--muted-text);
             letter-spacing: 0.05em;
         }
 
@@ -55,17 +99,43 @@
             transition: 0.2s;
         }
 
+        body.dark-mode a {
+            border-bottom-color: #444;
+        }
+
         a:hover {
-            border-bottom-color: #000;
+            border-bottom-color: var(--text);
         }
 
         header.root-nav {
             display: flex;
             justify-content: space-between;
-            align-items: baseline;
+            align-items: center;
             padding-bottom: 1.5rem;
             margin-bottom: 2.5rem;
-            border-bottom: 2px solid #000;
+            border-bottom: 2px solid var(--text);
+        }
+
+        .theme-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            transition: background 0.2s;
+        }
+
+        .theme-toggle:hover {
+            background: var(--secondary-bg);
+        }
+
+        .theme-toggle svg {
+            width: 1.25rem;
+            height: 1.25rem;
+            fill: var(--text);
         }
 
         /* Recuperando las Clases del Currículo */
@@ -73,12 +143,12 @@
             display: flex;
             justify-content: space-between;
             padding: 0.75rem 0.5rem;
-            border-bottom: 1px solid #eee;
+            border-bottom: 1px solid var(--border);
             transition: all 0.2s ease;
         }
 
         .curriculum-link:hover {
-            background: #f4f4f4;
+            background: var(--secondary-bg);
             padding-left: 1rem;
             padding-right: 1rem;
         }
@@ -103,14 +173,14 @@
         td {
             text-align: left;
             padding: 0.75em;
-            border-bottom: 1px solid #eee;
+            border-bottom: 1px solid var(--border);
         }
 
         th {
-            color: #888;
+            color: var(--muted-text);
             text-transform: uppercase;
             font-size: 0.8em;
-            background: #fafafa;
+            background: var(--card-bg);
         }
 
         .lesson-nav {
@@ -119,7 +189,7 @@
             align-items: center;
             margin-top: 6rem;
             padding: 2.5rem 0;
-            border-top: 1px solid #eee;
+            border-top: 1px solid var(--border);
             font-size: 0.85rem;
             gap: 1rem;
         }
@@ -127,7 +197,6 @@
         .lesson-nav>* {
             flex: 1;
             margin-top: 0 !important;
-            /* Desactivar el Lobotomized Owl */
             border: none !important;
             line-height: 1.2;
             display: block;
@@ -142,7 +211,7 @@
             font-weight: 800;
             text-transform: uppercase;
             letter-spacing: 0.1em;
-            color: #000;
+            color: var(--text);
         }
 
         .lesson-nav a:last-child {
@@ -155,15 +224,14 @@
         }
 
         .lesson-nav a:hover {
-            color: var(--accent, #0051ff);
+            color: var(--accent);
             background: transparent;
-            /* Asegurar que no hay fondo del hover anterior */
         }
 
         /* Estilos para componentes interactivos */
         .flash-card {
-            background: #f4f4f4;
-            border: 1px solid #ddd;
+            background: var(--secondary-bg);
+            border: 1px solid var(--border);
             padding: 1rem;
             border-radius: 6px;
             cursor: pointer;
@@ -174,9 +242,9 @@
         }
 
         .flash-card:hover {
-            background: #000;
-            color: #fff;
-            border-color: #000;
+            background: var(--text);
+            color: var(--bg);
+            border-color: var(--text);
         }
 
         /* Lesson Header Alignment */
@@ -187,13 +255,13 @@
             gap: 0.8rem;
             margin-bottom: 2rem;
             padding-bottom: 1rem;
-            border-bottom: 1px solid #eee;
+            border-bottom: 1px solid var(--border);
         }
 
         .lesson-meta {
             margin: 0;
             font-size: 1.5rem;
-            color: #888;
+            color: var(--muted-text);
             font-weight: 400;
         }
 
@@ -223,17 +291,17 @@
         /* Cards */
         .phrase-card,
         .tense-card {
-            border: 1px solid #eee;
+            border: 1px solid var(--border);
             padding: 1.5rem;
             border-radius: 8px;
-            background: #fafafa;
+            background: var(--card-bg);
         }
 
         .phrase-card h3,
         .tense-card h3 {
             margin-top: 0;
             font-size: 1.1rem;
-            border-bottom: 1px solid #ddd;
+            border-bottom: 1px solid var(--border);
             padding-bottom: 0.5rem;
             margin-bottom: 1rem;
         }
@@ -253,7 +321,7 @@
             align-items: baseline;
             margin-bottom: 0.75rem;
             padding-bottom: 0.5rem;
-            border-bottom: 1px dashed #eee;
+            border-bottom: 1px dashed var(--border);
         }
 
         .phrase-list li:last-child,
@@ -269,14 +337,14 @@
         }
 
         .meaning {
-            color: #666;
+            color: var(--muted-text);
             font-size: 0.95em;
         }
 
         /* Info Box */
         .info-box {
-            background: #f0f7ff;
-            border-left: 4px solid #0051ff;
+            background: var(--info-bg);
+            border-left: 4px solid var(--accent);
             padding: 1.5rem;
             margin: 2rem 0;
             border-radius: 0 8px 8px 0;
@@ -284,14 +352,15 @@
 
         .info-box h3 {
             margin-top: 0;
-            color: #0051ff;
+            color: var(--accent);
             font-size: 1rem;
         }
 
         /* Structured Content Modules */
         .section-intro {
             font-size: 1.2rem;
-            color: #444;
+            color: var(--text);
+            opacity: 0.9;
             margin-bottom: 2rem;
             line-height: 1.5;
         }
@@ -299,13 +368,12 @@
         .module-section {
             margin-top: 3rem;
             padding-top: 2rem;
-            border-top: 1px dashed #eee;
+            border-top: 1px dashed var(--border);
         }
 
         .grammar-info {
-            background: #fff8e1;
-            /* Subtle yellow for grammar highlight */
-            border-left: 4px solid #fbc02d;
+            background: var(--grammar-bg);
+            border-left: 4px solid var(--grammar-border);
             padding: 1.5rem;
             margin: 2rem 0;
             border-radius: 4px;
@@ -314,25 +382,57 @@
         .grammar-info h2,
         .grammar-info h3 {
             margin-top: 0;
-            color: #f57f17;
+            color: var(--grammar-text);
             border-bottom: none;
             font-size: 1.1em;
+        }
+
+        /* Example Box (Case Studies) for Dark Mode Compatibility */
+        .example-box {
+            background: var(--secondary-bg);
+            border-left: 3px solid var(--muted-text);
+            padding: 1rem;
+            margin-bottom: 1rem;
+        }
+
+        .translation {
+            color: var(--muted-text);
+            font-style: italic;
         }
     </style>
 </head>
 
 <body>
     <header class="root-nav">
-        <a href="#/" style="font-weight: 800; border:none;">GREEK ZERO</a>
-        <a href="#/curriculum" style="border:none;">INDEX</a>
+        <a href="#/" style="font-weight: 800; border:none; display: flex; align-items: center; gap: 0.8rem;">
+            <img src="assets/icon.svg" alt="logo" style="height: 1.5rem; width: auto;">
+            GREEK
+        </a>
+        <button id="theme-toggle" class="theme-toggle" title="Alternar Modo Oscuro">
+            <svg viewBox="0 0 24 24">
+                <path
+                    d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-2.98 0-5.4-2.42-5.4-5.4 0-1.81.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z" />
+            </svg>
+        </button>
     </header>
     <main id="app"></main>
     <footer
-        style="margin-top: 6rem; text-align: center; color: #999; font-size: 0.8em; border-top: 1px solid #eee; padding-top: 2rem;">
+        style="margin-top: 6rem; text-align: center; color: var(--muted-text); font-size: 0.8em; border-top: 1px solid var(--border); padding-top: 2rem;">
         &copy; 2026 / MODERN GREEK PROJECT
     </footer>
     <script>
         const app = document.getElementById('app');
+        const themeToggle = document.getElementById('theme-toggle');
+
+        // Theme Management
+        if (localStorage.getItem('dark-mode') === 'true') {
+            document.documentElement.classList.add('dark-mode');
+        }
+
+        themeToggle.addEventListener('click', () => {
+            const isDark = document.documentElement.classList.toggle('dark-mode');
+            localStorage.setItem('dark-mode', isDark);
+        });
 
         // El Atractor Recursivo (Zen + Interactive)
         const render = (node) => {
@@ -341,8 +441,7 @@
             const el = document.createElement(tag);
 
             if (props) Object.entries(props).forEach(([k, v]) => {
-                const key = k === 'class' ? 'className' : k;
-                // Soporte para eventos definidos como strings (IA-Ready)
+                const key = (k === 'class' || k === 'className') ? 'className' : k;
                 if (key.startsWith('on') && typeof v === 'string') {
                     el[key] = new Function(v);
                 } else {

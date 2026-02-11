@@ -126,13 +126,13 @@
       [
         "a",
         {
-          "href": "#/lessons/articles",
+          "href": "#/lessons/nouns",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "7. The Articles"
+          "7. The Nouns"
         ],
         [
           "span",
@@ -160,13 +160,13 @@
       [
         "a",
         {
-          "href": "#/lessons/masculine-declension",
+          "href": "#/lessons/articles",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "9. Masculine Declension"
+          "9. The Articles"
         ],
         [
           "span",
@@ -177,13 +177,13 @@
       [
         "a",
         {
-          "href": "#/lessons/nouns",
+          "href": "#/lessons/cases",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "10. The Nouns"
+          "10. The Cases"
         ],
         [
           "span",
@@ -211,13 +211,13 @@
       [
         "a",
         {
-          "href": "#/lessons/cases",
+          "href": "#/lessons/masculine-declension",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "12. The Cases"
+          "12. Masculine Declension"
         ],
         [
           "span",
@@ -935,13 +935,13 @@
       [
         "a",
         {
-          "href": "#/lessons/articles",
+          "href": "#/lessons/nouns",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "7. The Articles"
+          "7. The Nouns"
         ],
         [
           "span",
@@ -969,13 +969,13 @@
       [
         "a",
         {
-          "href": "#/lessons/masculine-declension",
+          "href": "#/lessons/articles",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "9. Masculine Declension"
+          "9. The Articles"
         ],
         [
           "span",
@@ -986,13 +986,13 @@
       [
         "a",
         {
-          "href": "#/lessons/nouns",
+          "href": "#/lessons/cases",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "10. The Nouns"
+          "10. The Cases"
         ],
         [
           "span",
@@ -1020,13 +1020,13 @@
       [
         "a",
         {
-          "href": "#/lessons/cases",
+          "href": "#/lessons/masculine-declension",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "12. The Cases"
+          "12. Masculine Declension"
         ],
         [
           "span",
@@ -4321,6 +4321,558 @@
       [
         "a",
         {
+          "href": "#/lessons/nouns"
+        },
+        "The Nouns →"
+      ]
+    ]
+  ],
+  "/lessons/nouns": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 7"
+      ],
+      [
+        "h1",
+        {},
+        "The Nouns"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {},
+        "Nouns in Modern Greek (Τα Ουσιαστικά) are complex entities governed by gender, case, and number. Gender is a\n        fundamental property."
+      ],
+      [
+        "h2",
+        {},
+        "The Three Genders"
+      ],
+      [
+        "div",
+        {
+          "style": "display: grid; gridtemplatecolumns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 2rem 0"
+        },
+        [
+          "div",
+          {},
+          [
+            "h3",
+            {},
+            "Masculine (Ο)"
+          ],
+          [
+            "p",
+            {
+              "style": "font-size: 2rem; margin: 0"
+            },
+            "ο"
+          ],
+          [
+            "ul",
+            {},
+            [
+              "li",
+              {},
+              "δρόμος (street)"
+            ],
+            [
+              "li",
+              {},
+              "άντρας (man)"
+            ],
+            [
+              "li",
+              {},
+              "χάρτης (map)"
+            ]
+          ]
+        ],
+        [
+          "div",
+          {},
+          [
+            "h3",
+            {},
+            "Feminine (Η)"
+          ],
+          [
+            "p",
+            {
+              "style": "font-size: 2rem; margin: 0"
+            },
+            "η"
+          ],
+          [
+            "ul",
+            {},
+            [
+              "li",
+              {},
+              "ώρα (hour)"
+            ],
+            [
+              "li",
+              {},
+              "ζώνη (belt)"
+            ],
+            [
+              "li",
+              {},
+              "γυναίκα (woman)"
+            ]
+          ]
+        ],
+        [
+          "div",
+          {},
+          [
+            "h3",
+            {},
+            "Neuter (Το)"
+          ],
+          [
+            "p",
+            {
+              "style": "font-size: 2rem; margin: 0"
+            },
+            "το"
+          ],
+          [
+            "ul",
+            {},
+            [
+              "li",
+              {},
+              "βιβλίο (book)"
+            ],
+            [
+              "li",
+              {},
+              "παιδί (child)"
+            ],
+            [
+              "li",
+              {},
+              "πράγμα (thing)"
+            ]
+          ]
+        ]
+      ],
+      [
+        "h2",
+        {},
+        "Case Study"
+      ],
+      [
+        "div",
+        {
+          "className": "example-box"
+        },
+        [
+          "p",
+          {},
+          [
+            "strong",
+            {},
+            "Ο Γιάννης"
+          ],
+          " ",
+          "μένει με",
+          " ",
+          [
+            "strong",
+            {},
+            "τον Πέτρο"
+          ],
+          "."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "John lives with Peter."
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "example-box"
+        },
+        [
+          "p",
+          {},
+          [
+            "strong",
+            {},
+            "Ο Πέτρος"
+          ],
+          " ",
+          "μένει με",
+          " ",
+          [
+            "strong",
+            {},
+            "τον Γιάννη"
+          ],
+          "."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "Peter lives with John."
+        ]
+      ],
+      [
+        "h2",
+        {},
+        "The Golden Rule"
+      ],
+      [
+        "p",
+        {},
+        "Never learn a noun in isolation. Always learn it alongside its definite article (ο, η, το)."
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/punctuation"
+        },
+        "← Punctuation Marks"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/genders"
+        },
+        "The Genders →"
+      ]
+    ]
+  ],
+  "/lessons/genders": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 8"
+      ],
+      [
+        "h1",
+        {},
+        "The Genders"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "text-xl leading-relaxed text-gray-600 mb-12"
+        },
+        "Every Greek noun belongs to one of three grammatical categories: Masculine, Feminine, or Neuter."
+      ],
+      [
+        "div",
+        {
+          "className": "space-y-12"
+        },
+        [
+          "section",
+          {},
+          [
+            "h2",
+            {
+              "className": "font-bold border-b border-black pb-2 mb-6 uppercase text-xs tracking-widest"
+            },
+            "01. Masculine (Ο)"
+          ],
+          [
+            "ul",
+            {
+              "className": "space-y-2 text-sm text-gray-600"
+            },
+            [
+              "li",
+              {},
+              "Ends generally in",
+              " ",
+              [
+                "span",
+                {
+                  "className": "font-mono text-black"
+                },
+                "-ος"
+              ],
+              ",",
+              " ",
+              [
+                "span",
+                {
+                  "className": "font-mono text-black"
+                },
+                "-as"
+              ],
+              ", or",
+              " ",
+              [
+                "span",
+                {
+                  "className": "font-mono text-black"
+                },
+                "-ης"
+              ],
+              "."
+            ],
+            [
+              "li",
+              {},
+              "Examples:",
+              " ",
+              [
+                "span",
+                {
+                  "className": "italic"
+                },
+                "ο δρόμος"
+              ],
+              " ",
+              "(street),",
+              " ",
+              [
+                "span",
+                {
+                  "className": "italic"
+                },
+                "ο πατέρας"
+              ],
+              " ",
+              "(father)."
+            ]
+          ]
+        ],
+        [
+          "section",
+          {},
+          [
+            "h2",
+            {
+              "className": "font-bold border-b border-black pb-2 mb-6 uppercase text-xs tracking-widest"
+            },
+            "02. Feminine (Η)"
+          ],
+          [
+            "ul",
+            {
+              "className": "space-y-2 text-sm text-gray-600"
+            },
+            [
+              "li",
+              {},
+              "Ends generally in",
+              " ",
+              [
+                "span",
+                {
+                  "className": "font-mono text-black"
+                },
+                "-η"
+              ],
+              " ",
+              "or",
+              " ",
+              [
+                "span",
+                {
+                  "className": "font-mono text-black"
+                },
+                "-a"
+              ],
+              "."
+            ],
+            [
+              "li",
+              {},
+              "Examples:",
+              " ",
+              [
+                "span",
+                {
+                  "className": "italic"
+                },
+                "η μητέρα"
+              ],
+              " ",
+              "(mother),",
+              " ",
+              [
+                "span",
+                {
+                  "className": "italic"
+                },
+                "η καρδιά"
+              ],
+              " ",
+              "(heart)."
+            ]
+          ]
+        ],
+        [
+          "section",
+          {},
+          [
+            "h2",
+            {
+              "className": "font-bold border-b border-black pb-2 mb-6 uppercase text-xs tracking-widest"
+            },
+            "03. Neuter (Το)"
+          ],
+          [
+            "ul",
+            {
+              "className": "space-y-2 text-sm text-gray-600"
+            },
+            [
+              "li",
+              {},
+              "Ends generally in",
+              " ",
+              [
+                "span",
+                {
+                  "className": "font-mono text-black"
+                },
+                "-o"
+              ],
+              ",",
+              " ",
+              [
+                "span",
+                {
+                  "className": "font-mono text-black"
+                },
+                "-ι"
+              ],
+              ", or",
+              " ",
+              [
+                "span",
+                {
+                  "className": "font-mono text-black"
+                },
+                "-μα"
+              ],
+              "."
+            ],
+            [
+              "li",
+              {},
+              "Examples:",
+              " ",
+              [
+                "span",
+                {
+                  "className": "italic"
+                },
+                "το παιδί"
+              ],
+              " ",
+              "(child),",
+              " ",
+              [
+                "span",
+                {
+                  "className": "italic"
+                },
+                "το σπίτι"
+              ],
+              " ",
+              "(house)."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "mt-12 pt-8 border-t border-gray-100 text-sm text-gray-500"
+        },
+        [
+          "strong",
+          {
+            "className": "text-black block mb-2"
+          },
+          "Note on Ambiguity"
+        ],
+        " ",
+        "While most -ος nouns are masculine, some are feminine (η οδός). The article is your only fail-safe guide."
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/nouns"
+        },
+        "← The Nouns"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
           "href": "#/lessons/articles"
         },
         "The Articles →"
@@ -4342,7 +4894,7 @@
         {
           "className": "lesson-meta"
         },
-        "Lesson 7"
+        "Lesson 9"
       ],
       [
         "h1",
@@ -4754,9 +5306,9 @@
       [
         "a",
         {
-          "href": "#/lessons/punctuation"
+          "href": "#/lessons/genders"
         },
-        "← Punctuation Marks"
+        "← The Genders"
       ],
       [
         "a",
@@ -4769,13 +5321,13 @@
       [
         "a",
         {
-          "href": "#/lessons/genders"
+          "href": "#/lessons/cases"
         },
-        "The Genders →"
+        "The Cases →"
       ]
     ]
   ],
-  "/lessons/genders": [
+  "/lessons/cases": [
     "div",
     {
       "className": "content-wrapper"
@@ -4790,258 +5342,470 @@
         {
           "className": "lesson-meta"
         },
-        "Lesson 8"
+        "Lesson 10"
       ],
       [
         "h1",
         {},
-        "The Genders"
+        "The Cases"
       ]
     ],
     [
       "article",
       {},
       [
-        "p",
-        {
-          "className": "text-xl leading-relaxed text-gray-600 mb-12"
-        },
-        "Every Greek noun belongs to one of three grammatical categories: Masculine, Feminine, or Neuter."
-      ],
-      [
-        "div",
-        {
-          "className": "space-y-12"
-        },
+        "section",
+        {},
         [
-          "section",
+          "p",
           {},
+          "The role of a noun in a sentence is determined by its",
+          " ",
           [
-            "h2",
-            {
-              "className": "font-bold border-b border-black pb-2 mb-6 uppercase text-xs tracking-widest"
-            },
-            "01. Masculine (Ο)"
+            "strong",
+            {},
+            "case"
           ],
+          ". Modern Greek uses four primary cases."
+        ],
+        [
+          "div",
+          {
+            "className": "case-grid"
+          },
           [
-            "ul",
+            "div",
             {
-              "className": "space-y-2 text-sm text-gray-600"
+              "className": "case-card "
             },
             [
-              "li",
+              "header",
               {},
-              "Ends generally in",
-              " ",
               [
                 "span",
                 {
-                  "className": "font-mono text-black"
+                  "className": "case-name"
                 },
-                "-ος"
+                "Ονομαστική"
               ],
-              ",",
-              " ",
               [
-                "span",
-                {
-                  "className": "font-mono text-black"
-                },
-                "-as"
-              ],
-              ", or",
-              " ",
-              [
-                "span",
-                {
-                  "className": "font-mono text-black"
-                },
-                "-ης"
-              ],
-              "."
+                "h3",
+                {},
+                "Nominative"
+              ]
             ],
             [
-              "li",
+              "div",
+              {
+                "className": "body"
+              },
+              [
+                "p",
+                {
+                  "className": "role"
+                },
+                "Role:",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "The Subject"
+                ]
+              ],
+              [
+                "p",
+                {
+                  "className": "question"
+                },
+                "Question:",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "Who? / What?"
+                ]
+              ],
+              [
+                "div",
+                {
+                  "className": "example"
+                },
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  [
+                    "strong",
+                    {},
+                    "Ο Νίκος"
+                  ],
+                  " ",
+                  "διαβάζει."
+                ],
+                " ",
+                [
+                  "span",
+                  {
+                    "className": "translation"
+                  },
+                  [
+                    "strong",
+                    {},
+                    "Nick"
+                  ],
+                  " ",
+                  "is reading."
+                ]
+              ]
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "case-card "
+            },
+            [
+              "header",
               {},
-              "Examples:",
-              " ",
               [
                 "span",
                 {
-                  "className": "italic"
+                  "className": "case-name"
                 },
-                "ο δρόμος"
+                "Γενική"
               ],
-              " ",
-              "(street),",
-              " ",
+              [
+                "h3",
+                {},
+                "Genitive"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "body"
+              },
+              [
+                "p",
+                {
+                  "className": "role"
+                },
+                "Role:",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "Possession"
+                ]
+              ],
+              [
+                "p",
+                {
+                  "className": "question"
+                },
+                "Question:",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "Whose?"
+                ]
+              ],
+              [
+                "div",
+                {
+                  "className": "example"
+                },
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "Το χέρι",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "του Νίκου"
+                  ],
+                  "."
+                ],
+                " ",
+                [
+                  "span",
+                  {
+                    "className": "translation"
+                  },
+                  "The hand",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "of Nick"
+                  ],
+                  "."
+                ]
+              ]
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "case-card  highlight"
+            },
+            [
+              "header",
+              {},
               [
                 "span",
                 {
-                  "className": "italic"
+                  "className": "case-name"
                 },
-                "ο πατέρας"
+                "Αιτιατική"
               ],
-              " ",
-              "(father)."
+              [
+                "h3",
+                {},
+                "Accusative"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "body"
+              },
+              [
+                "p",
+                {
+                  "className": "role"
+                },
+                "Role:",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "The Direct Object"
+                ]
+              ],
+              [
+                "p",
+                {
+                  "className": "question"
+                },
+                "Question:",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "Whom? / What?"
+                ]
+              ],
+              [
+                "div",
+                {
+                  "className": "example"
+                },
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  "Βλέπω",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "το(ν) Νίκο"
+                  ],
+                  "."
+                ],
+                " ",
+                [
+                  "span",
+                  {
+                    "className": "translation"
+                  },
+                  "I see",
+                  " ",
+                  [
+                    "strong",
+                    {},
+                    "Nick"
+                  ],
+                  "."
+                ]
+              ]
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "case-card "
+            },
+            [
+              "header",
+              {},
+              [
+                "span",
+                {
+                  "className": "case-name"
+                },
+                "Κλητική"
+              ],
+              [
+                "h3",
+                {},
+                "Vocative"
+              ]
+            ],
+            [
+              "div",
+              {
+                "className": "body"
+              },
+              [
+                "p",
+                {
+                  "className": "role"
+                },
+                "Role:",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "Addressing"
+                ]
+              ],
+              [
+                "p",
+                {
+                  "className": "question"
+                },
+                "Question:",
+                " ",
+                [
+                  "strong",
+                  {},
+                  "Hey! Who?"
+                ]
+              ],
+              [
+                "div",
+                {
+                  "className": "example"
+                },
+                [
+                  "span",
+                  {
+                    "className": "greek-text"
+                  },
+                  [
+                    "strong",
+                    {},
+                    "Νίκο"
+                  ],
+                  ", πού είσαι;"
+                ],
+                " ",
+                [
+                  "span",
+                  {
+                    "className": "translation"
+                  },
+                  [
+                    "strong",
+                    {},
+                    "Nick"
+                  ],
+                  ", where are you?"
+                ]
+              ]
             ]
           ]
         ],
         [
-          "section",
-          {},
+          "div",
+          {
+            "className": "summary-box  mt-12"
+          },
           [
-            "h2",
-            {
-              "className": "font-bold border-b border-black pb-2 mb-6 uppercase text-xs tracking-widest"
-            },
-            "02. Feminine (Η)"
+            "h3",
+            {},
+            "Summary of Word Changes"
+          ],
+          [
+            "p",
+            {},
+            "Notice how the name",
+            " ",
+            [
+              "strong",
+              {},
+              "Νίκος"
+            ],
+            " ",
+            "changed in each sentence:"
           ],
           [
             "ul",
             {
-              "className": "space-y-2 text-sm text-gray-600"
+              "className": "flex-list"
             },
             [
               "li",
               {},
-              "Ends generally in",
-              " ",
               [
                 "span",
                 {
-                  "className": "font-mono text-black"
+                  "className": "greek-text"
                 },
-                "-η"
+                "ο Νίκος"
               ],
               " ",
-              "or",
-              " ",
-              [
-                "span",
-                {
-                  "className": "font-mono text-black"
-                },
-                "-a"
-              ],
-              "."
+              "(Nom)"
             ],
             [
               "li",
               {},
-              "Examples:",
-              " ",
               [
                 "span",
                 {
-                  "className": "italic"
+                  "className": "greek-text"
                 },
-                "η μητέρα"
+                "του Νίκου"
               ],
               " ",
-              "(mother),",
-              " ",
-              [
-                "span",
-                {
-                  "className": "italic"
-                },
-                "η καρδιά"
-              ],
-              " ",
-              "(heart)."
-            ]
-          ]
-        ],
-        [
-          "section",
-          {},
-          [
-            "h2",
-            {
-              "className": "font-bold border-b border-black pb-2 mb-6 uppercase text-xs tracking-widest"
-            },
-            "03. Neuter (Το)"
-          ],
-          [
-            "ul",
-            {
-              "className": "space-y-2 text-sm text-gray-600"
-            },
-            [
-              "li",
-              {},
-              "Ends generally in",
-              " ",
-              [
-                "span",
-                {
-                  "className": "font-mono text-black"
-                },
-                "-o"
-              ],
-              ",",
-              " ",
-              [
-                "span",
-                {
-                  "className": "font-mono text-black"
-                },
-                "-ι"
-              ],
-              ", or",
-              " ",
-              [
-                "span",
-                {
-                  "className": "font-mono text-black"
-                },
-                "-μα"
-              ],
-              "."
+              "(Gen)"
             ],
             [
               "li",
               {},
-              "Examples:",
-              " ",
               [
                 "span",
                 {
-                  "className": "italic"
+                  "className": "greek-text"
                 },
-                "το παιδί"
+                "τον Νίκο"
               ],
               " ",
-              "(child),",
-              " ",
+              "(Acc)"
+            ],
+            [
+              "li",
+              {},
               [
                 "span",
                 {
-                  "className": "italic"
+                  "className": "greek-text"
                 },
-                "το σπίτι"
+                "Νίκο!"
               ],
               " ",
-              "(house)."
+              "(Voc)"
             ]
           ]
         ]
-      ],
-      [
-        "div",
-        {
-          "className": "mt-12 pt-8 border-t border-gray-100 text-sm text-gray-500"
-        },
-        [
-          "strong",
-          {
-            "className": "text-black block mb-2"
-          },
-          "Note on Ambiguity"
-        ],
-        " ",
-        "While most -ος nouns are masculine, some are feminine (η οδός). The article is your only fail-safe guide."
       ]
     ],
     [
@@ -5055,6 +5819,199 @@
           "href": "#/lessons/articles"
         },
         "← The Articles"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/declension"
+        },
+        "The Declension →"
+      ]
+    ]
+  ],
+  "/lessons/declension": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 11"
+      ],
+      [
+        "h1",
+        {},
+        "The Declension"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "section",
+        {},
+        [
+          "p",
+          {},
+          "In English, words like \"friend\" usually stay the same whether they\n            are the subject or the object of a sentence. In Greek, nouns are",
+          " ",
+          [
+            "strong",
+            {},
+            "inflected"
+          ],
+          ". This means they change their ending based on their grammatical\n            role. This process is called",
+          " ",
+          [
+            "strong",
+            {},
+            "Declension"
+          ],
+          "."
+        ],
+        [
+          "div",
+          {
+            "className": "concept-box  mt-8"
+          },
+          [
+            "h2",
+            {},
+            "The \"Flexing\" Language"
+          ],
+          [
+            "p",
+            {},
+            "Think of Greek as a \"flexing\" language. Just as you flex a\n                muscle, words \"flex\" their endings to signal their function. If\n                a word is the \"doer\" (subject), it has one ending; if it's the\n                \"receiver\" (object), it has another."
+          ]
+        ],
+        [
+          "h2",
+          {
+            "className": "mt-12"
+          },
+          "What gets declined?"
+        ],
+        [
+          "p",
+          {},
+          "In most Greek sentences, the following elements must agree and\n            decline together:"
+        ],
+        [
+          "div",
+          {
+            "className": "inflex-list"
+          },
+          [
+            "div",
+            {
+              "className": "inflex-item "
+            },
+            [
+              "strong",
+              {},
+              "Articles"
+            ],
+            [
+              "p",
+              {},
+              "ο, η, το..."
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "inflex-item "
+            },
+            [
+              "strong",
+              {},
+              "Nouns"
+            ],
+            [
+              "p",
+              {},
+              "πατέρας, μητέρα..."
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "inflex-item "
+            },
+            [
+              "strong",
+              {},
+              "Adjectives"
+            ],
+            [
+              "p",
+              {},
+              "καλός, μεγάλη..."
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "inflex-item "
+            },
+            [
+              "strong",
+              {},
+              "Pronouns"
+            ],
+            [
+              "p",
+              {},
+              "αυτός, εγώ..."
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "info-box  mt-12 mb-12"
+          },
+          [
+            "h3",
+            {},
+            "Standard vs. Irregular"
+          ],
+          [
+            "p",
+            {},
+            "Most nouns follow predictable patterns (Regular Nouns). However,\n                some nouns are \"indeclinable\" (don't change) or follow their own\n                unique rules. We will focus on the regular patterns first."
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/cases"
+        },
+        "← The Cases"
       ],
       [
         "a",
@@ -5088,7 +6045,7 @@
         {
           "className": "lesson-meta"
         },
-        "Lesson 14"
+        "Lesson 12"
       ],
       [
         "h1",
@@ -5703,963 +6660,6 @@
       [
         "a",
         {
-          "href": "#/lessons/genders"
-        },
-        "← The Genders"
-      ],
-      [
-        "a",
-        {
-          "href": "#/",
-          "className": "menu-btn"
-        },
-        "MENU"
-      ],
-      [
-        "a",
-        {
-          "href": "#/lessons/nouns"
-        },
-        "The Nouns →"
-      ]
-    ]
-  ],
-  "/lessons/nouns": [
-    "div",
-    {
-      "className": "content-wrapper"
-    },
-    [
-      "header",
-      {
-        "className": "lesson-header"
-      },
-      [
-        "p",
-        {
-          "className": "lesson-meta"
-        },
-        "Lesson 10"
-      ],
-      [
-        "h1",
-        {},
-        "The Nouns"
-      ]
-    ],
-    [
-      "article",
-      {},
-      [
-        "p",
-        {},
-        "Nouns in Modern Greek (Τα Ουσιαστικά) are complex entities governed by gender, case, and number. Gender is a\n        fundamental property."
-      ],
-      [
-        "h2",
-        {},
-        "The Three Genders"
-      ],
-      [
-        "div",
-        {
-          "style": "display: grid; gridtemplatecolumns: repeat(auto-fit, minmax(200px, 1fr)); gap: 2rem; margin: 2rem 0"
-        },
-        [
-          "div",
-          {},
-          [
-            "h3",
-            {},
-            "Masculine (Ο)"
-          ],
-          [
-            "p",
-            {
-              "style": "font-size: 2rem; margin: 0"
-            },
-            "ο"
-          ],
-          [
-            "ul",
-            {},
-            [
-              "li",
-              {},
-              "δρόμος (street)"
-            ],
-            [
-              "li",
-              {},
-              "άντρας (man)"
-            ],
-            [
-              "li",
-              {},
-              "χάρτης (map)"
-            ]
-          ]
-        ],
-        [
-          "div",
-          {},
-          [
-            "h3",
-            {},
-            "Feminine (Η)"
-          ],
-          [
-            "p",
-            {
-              "style": "font-size: 2rem; margin: 0"
-            },
-            "η"
-          ],
-          [
-            "ul",
-            {},
-            [
-              "li",
-              {},
-              "ώρα (hour)"
-            ],
-            [
-              "li",
-              {},
-              "ζώνη (belt)"
-            ],
-            [
-              "li",
-              {},
-              "γυναίκα (woman)"
-            ]
-          ]
-        ],
-        [
-          "div",
-          {},
-          [
-            "h3",
-            {},
-            "Neuter (Το)"
-          ],
-          [
-            "p",
-            {
-              "style": "font-size: 2rem; margin: 0"
-            },
-            "το"
-          ],
-          [
-            "ul",
-            {},
-            [
-              "li",
-              {},
-              "βιβλίο (book)"
-            ],
-            [
-              "li",
-              {},
-              "παιδί (child)"
-            ],
-            [
-              "li",
-              {},
-              "πράγμα (thing)"
-            ]
-          ]
-        ]
-      ],
-      [
-        "h2",
-        {},
-        "Case Study"
-      ],
-      [
-        "div",
-        {
-          "style": "background: #f9f9f9; padding: 1rem; borderleft: 3px solid #ccc; marginbottom: 1rem"
-        },
-        [
-          "p",
-          {},
-          [
-            "strong",
-            {},
-            "Ο Γιάννης"
-          ],
-          " ",
-          "μένει με",
-          " ",
-          [
-            "strong",
-            {},
-            "τον Πέτρο"
-          ],
-          "."
-        ],
-        [
-          "p",
-          {
-            "style": "color: #666; fontstyle: italic"
-          },
-          "John lives with Peter."
-        ]
-      ],
-      [
-        "div",
-        {
-          "style": "background: #f9f9f9; padding: 1rem; borderleft: 3px solid #ccc"
-        },
-        [
-          "p",
-          {},
-          [
-            "strong",
-            {},
-            "Ο Πέτρος"
-          ],
-          " ",
-          "μένει με",
-          " ",
-          [
-            "strong",
-            {},
-            "τον Γιάννη"
-          ],
-          "."
-        ],
-        [
-          "p",
-          {
-            "style": "color: #666; fontstyle: italic"
-          },
-          "Peter lives with John."
-        ]
-      ],
-      [
-        "h2",
-        {},
-        "The Golden Rule"
-      ],
-      [
-        "p",
-        {},
-        "Never learn a noun in isolation. Always learn it alongside its definite article (ο, η, το)."
-      ]
-    ],
-    [
-      "div",
-      {
-        "className": "lesson-nav"
-      },
-      [
-        "a",
-        {
-          "href": "#/lessons/masculine-declension"
-        },
-        "← Masculine Declension"
-      ],
-      [
-        "a",
-        {
-          "href": "#/",
-          "className": "menu-btn"
-        },
-        "MENU"
-      ],
-      [
-        "a",
-        {
-          "href": "#/lessons/declension"
-        },
-        "The Declension →"
-      ]
-    ]
-  ],
-  "/lessons/declension": [
-    "div",
-    {
-      "className": "content-wrapper"
-    },
-    [
-      "header",
-      {
-        "className": "lesson-header"
-      },
-      [
-        "p",
-        {
-          "className": "lesson-meta"
-        },
-        "Lesson 11"
-      ],
-      [
-        "h1",
-        {},
-        "The Declension"
-      ]
-    ],
-    [
-      "article",
-      {},
-      [
-        "section",
-        {},
-        [
-          "p",
-          {},
-          "In English, words like \"friend\" usually stay the same whether they\n            are the subject or the object of a sentence. In Greek, nouns are",
-          " ",
-          [
-            "strong",
-            {},
-            "inflected"
-          ],
-          ". This means they change their ending based on their grammatical\n            role. This process is called",
-          " ",
-          [
-            "strong",
-            {},
-            "Declension"
-          ],
-          "."
-        ],
-        [
-          "div",
-          {
-            "className": "concept-box  mt-8"
-          },
-          [
-            "h2",
-            {},
-            "The \"Flexing\" Language"
-          ],
-          [
-            "p",
-            {},
-            "Think of Greek as a \"flexing\" language. Just as you flex a\n                muscle, words \"flex\" their endings to signal their function. If\n                a word is the \"doer\" (subject), it has one ending; if it's the\n                \"receiver\" (object), it has another."
-          ]
-        ],
-        [
-          "h2",
-          {
-            "className": "mt-12"
-          },
-          "What gets declined?"
-        ],
-        [
-          "p",
-          {},
-          "In most Greek sentences, the following elements must agree and\n            decline together:"
-        ],
-        [
-          "div",
-          {
-            "className": "inflex-list"
-          },
-          [
-            "div",
-            {
-              "className": "inflex-item "
-            },
-            [
-              "strong",
-              {},
-              "Articles"
-            ],
-            [
-              "p",
-              {},
-              "ο, η, το..."
-            ]
-          ],
-          [
-            "div",
-            {
-              "className": "inflex-item "
-            },
-            [
-              "strong",
-              {},
-              "Nouns"
-            ],
-            [
-              "p",
-              {},
-              "πατέρας, μητέρα..."
-            ]
-          ],
-          [
-            "div",
-            {
-              "className": "inflex-item "
-            },
-            [
-              "strong",
-              {},
-              "Adjectives"
-            ],
-            [
-              "p",
-              {},
-              "καλός, μεγάλη..."
-            ]
-          ],
-          [
-            "div",
-            {
-              "className": "inflex-item "
-            },
-            [
-              "strong",
-              {},
-              "Pronouns"
-            ],
-            [
-              "p",
-              {},
-              "αυτός, εγώ..."
-            ]
-          ]
-        ],
-        [
-          "div",
-          {
-            "className": "info-box  mt-12 mb-12"
-          },
-          [
-            "h3",
-            {},
-            "Standard vs. Irregular"
-          ],
-          [
-            "p",
-            {},
-            "Most nouns follow predictable patterns (Regular Nouns). However,\n                some nouns are \"indeclinable\" (don't change) or follow their own\n                unique rules. We will focus on the regular patterns first."
-          ]
-        ]
-      ]
-    ],
-    [
-      "div",
-      {
-        "className": "lesson-nav"
-      },
-      [
-        "a",
-        {
-          "href": "#/lessons/nouns"
-        },
-        "← The Nouns"
-      ],
-      [
-        "a",
-        {
-          "href": "#/",
-          "className": "menu-btn"
-        },
-        "MENU"
-      ],
-      [
-        "a",
-        {
-          "href": "#/lessons/cases"
-        },
-        "The Cases →"
-      ]
-    ]
-  ],
-  "/lessons/cases": [
-    "div",
-    {
-      "className": "content-wrapper"
-    },
-    [
-      "header",
-      {
-        "className": "lesson-header"
-      },
-      [
-        "p",
-        {
-          "className": "lesson-meta"
-        },
-        "Lesson 12"
-      ],
-      [
-        "h1",
-        {},
-        "The Cases"
-      ]
-    ],
-    [
-      "article",
-      {},
-      [
-        "section",
-        {},
-        [
-          "p",
-          {},
-          "The role of a noun in a sentence is determined by its",
-          " ",
-          [
-            "strong",
-            {},
-            "case"
-          ],
-          ". Modern Greek uses four primary cases."
-        ],
-        [
-          "div",
-          {
-            "className": "case-grid"
-          },
-          [
-            "div",
-            {
-              "className": "case-card "
-            },
-            [
-              "header",
-              {},
-              [
-                "span",
-                {
-                  "className": "case-name"
-                },
-                "Ονομαστική"
-              ],
-              [
-                "h3",
-                {},
-                "Nominative"
-              ]
-            ],
-            [
-              "div",
-              {
-                "className": "body"
-              },
-              [
-                "p",
-                {
-                  "className": "role"
-                },
-                "Role:",
-                " ",
-                [
-                  "strong",
-                  {},
-                  "The Subject"
-                ]
-              ],
-              [
-                "p",
-                {
-                  "className": "question"
-                },
-                "Question:",
-                " ",
-                [
-                  "strong",
-                  {},
-                  "Who? / What?"
-                ]
-              ],
-              [
-                "div",
-                {
-                  "className": "example"
-                },
-                [
-                  "span",
-                  {
-                    "className": "greek-text"
-                  },
-                  [
-                    "strong",
-                    {},
-                    "Ο Νίκος"
-                  ],
-                  " ",
-                  "διαβάζει."
-                ],
-                " ",
-                [
-                  "span",
-                  {
-                    "className": "translation"
-                  },
-                  [
-                    "strong",
-                    {},
-                    "Nick"
-                  ],
-                  " ",
-                  "is reading."
-                ]
-              ]
-            ]
-          ],
-          [
-            "div",
-            {
-              "className": "case-card "
-            },
-            [
-              "header",
-              {},
-              [
-                "span",
-                {
-                  "className": "case-name"
-                },
-                "Γενική"
-              ],
-              [
-                "h3",
-                {},
-                "Genitive"
-              ]
-            ],
-            [
-              "div",
-              {
-                "className": "body"
-              },
-              [
-                "p",
-                {
-                  "className": "role"
-                },
-                "Role:",
-                " ",
-                [
-                  "strong",
-                  {},
-                  "Possession"
-                ]
-              ],
-              [
-                "p",
-                {
-                  "className": "question"
-                },
-                "Question:",
-                " ",
-                [
-                  "strong",
-                  {},
-                  "Whose?"
-                ]
-              ],
-              [
-                "div",
-                {
-                  "className": "example"
-                },
-                [
-                  "span",
-                  {
-                    "className": "greek-text"
-                  },
-                  "Το χέρι",
-                  " ",
-                  [
-                    "strong",
-                    {},
-                    "του Νίκου"
-                  ],
-                  "."
-                ],
-                " ",
-                [
-                  "span",
-                  {
-                    "className": "translation"
-                  },
-                  "The hand",
-                  " ",
-                  [
-                    "strong",
-                    {},
-                    "of Nick"
-                  ],
-                  "."
-                ]
-              ]
-            ]
-          ],
-          [
-            "div",
-            {
-              "className": "case-card  highlight"
-            },
-            [
-              "header",
-              {},
-              [
-                "span",
-                {
-                  "className": "case-name"
-                },
-                "Αιτιατική"
-              ],
-              [
-                "h3",
-                {},
-                "Accusative"
-              ]
-            ],
-            [
-              "div",
-              {
-                "className": "body"
-              },
-              [
-                "p",
-                {
-                  "className": "role"
-                },
-                "Role:",
-                " ",
-                [
-                  "strong",
-                  {},
-                  "The Direct Object"
-                ]
-              ],
-              [
-                "p",
-                {
-                  "className": "question"
-                },
-                "Question:",
-                " ",
-                [
-                  "strong",
-                  {},
-                  "Whom? / What?"
-                ]
-              ],
-              [
-                "div",
-                {
-                  "className": "example"
-                },
-                [
-                  "span",
-                  {
-                    "className": "greek-text"
-                  },
-                  "Βλέπω",
-                  " ",
-                  [
-                    "strong",
-                    {},
-                    "το(ν) Νίκο"
-                  ],
-                  "."
-                ],
-                " ",
-                [
-                  "span",
-                  {
-                    "className": "translation"
-                  },
-                  "I see",
-                  " ",
-                  [
-                    "strong",
-                    {},
-                    "Nick"
-                  ],
-                  "."
-                ]
-              ]
-            ]
-          ],
-          [
-            "div",
-            {
-              "className": "case-card "
-            },
-            [
-              "header",
-              {},
-              [
-                "span",
-                {
-                  "className": "case-name"
-                },
-                "Κλητική"
-              ],
-              [
-                "h3",
-                {},
-                "Vocative"
-              ]
-            ],
-            [
-              "div",
-              {
-                "className": "body"
-              },
-              [
-                "p",
-                {
-                  "className": "role"
-                },
-                "Role:",
-                " ",
-                [
-                  "strong",
-                  {},
-                  "Addressing"
-                ]
-              ],
-              [
-                "p",
-                {
-                  "className": "question"
-                },
-                "Question:",
-                " ",
-                [
-                  "strong",
-                  {},
-                  "Hey! Who?"
-                ]
-              ],
-              [
-                "div",
-                {
-                  "className": "example"
-                },
-                [
-                  "span",
-                  {
-                    "className": "greek-text"
-                  },
-                  [
-                    "strong",
-                    {},
-                    "Νίκο"
-                  ],
-                  ", πού είσαι;"
-                ],
-                " ",
-                [
-                  "span",
-                  {
-                    "className": "translation"
-                  },
-                  [
-                    "strong",
-                    {},
-                    "Nick"
-                  ],
-                  ", where are you?"
-                ]
-              ]
-            ]
-          ]
-        ],
-        [
-          "div",
-          {
-            "className": "summary-box  mt-12"
-          },
-          [
-            "h3",
-            {},
-            "Summary of Word Changes"
-          ],
-          [
-            "p",
-            {},
-            "Notice how the name",
-            " ",
-            [
-              "strong",
-              {},
-              "Νίκος"
-            ],
-            " ",
-            "changed in each sentence:"
-          ],
-          [
-            "ul",
-            {
-              "className": "flex-list"
-            },
-            [
-              "li",
-              {},
-              [
-                "span",
-                {
-                  "className": "greek-text"
-                },
-                "ο Νίκος"
-              ],
-              " ",
-              "(Nom)"
-            ],
-            [
-              "li",
-              {},
-              [
-                "span",
-                {
-                  "className": "greek-text"
-                },
-                "του Νίκου"
-              ],
-              " ",
-              "(Gen)"
-            ],
-            [
-              "li",
-              {},
-              [
-                "span",
-                {
-                  "className": "greek-text"
-                },
-                "τον Νίκο"
-              ],
-              " ",
-              "(Acc)"
-            ],
-            [
-              "li",
-              {},
-              [
-                "span",
-                {
-                  "className": "greek-text"
-                },
-                "Νίκο!"
-              ],
-              " ",
-              "(Voc)"
-            ]
-          ]
-        ]
-      ]
-    ],
-    [
-      "div",
-      {
-        "className": "lesson-nav"
-      },
-      [
-        "a",
-        {
           "href": "#/lessons/declension"
         },
         "← The Declension"
@@ -6696,7 +6696,7 @@
         {
           "className": "lesson-meta"
         },
-        "Lesson 15"
+        "Lesson 13"
       ],
       [
         "h1",
@@ -7166,9 +7166,9 @@
       [
         "a",
         {
-          "href": "#/lessons/cases"
+          "href": "#/lessons/masculine-declension"
         },
-        "← The Cases"
+        "← Masculine Declension"
       ],
       [
         "a",
@@ -7202,7 +7202,7 @@
         {
           "className": "lesson-meta"
         },
-        "Lesson 16"
+        "Lesson 14"
       ],
       [
         "h1",
@@ -7866,7 +7866,7 @@
         {
           "className": "lesson-meta"
         },
-        "Lesson 13"
+        "Lesson 15"
       ],
       [
         "h1",
@@ -15305,13 +15305,12 @@
       [
         "div",
         {
-          "style": "display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 2rem;"
+          "className": "phrase-grid"
         },
         [
           "button",
           {
             "className": "flash-card",
-            "style": "padding: 2rem; border: 1px solid #eee; background: #fff; border-radius: 8px; cursor: pointer; transition: all 0.2s;",
             "onclick": "const pairs = {'Είμαι καλά': 'I am well', 'I am well': 'Είμαι καλά'}; this.innerText = pairs[this.innerText] || this.innerText;"
           },
           "Είμαι καλά"
@@ -15320,7 +15319,6 @@
           "button",
           {
             "className": "flash-card",
-            "style": "padding: 2rem; border: 1px solid #eee; background: #fff; border-radius: 8px; cursor: pointer; transition: all 0.2s;",
             "onclick": "const pairs = {'Είσαι έτοιμος;': 'Are you ready?', 'Are you ready?': 'Είσαι έτοιμος;'}; this.innerText = pairs[this.innerText] || this.innerText;"
           },
           "Είσαι έτοιμος;"
@@ -15329,10 +15327,9 @@
           "button",
           {
             "className": "flash-card",
-            "style": "padding: 2rem; border: 1px solid #eee; background: #fff; border-radius: 8px; cursor: pointer; transition: all 0.2s;",
             "onclick": "const pairs = {'Είμαστε εδώ': 'We are here', 'We are here': 'Είμαστε aquí'}; this.innerText = pairs[this.innerText] || this.innerText;"
           },
-          "Είμαστε aquí"
+          "Είμαστε εδώ"
         ]
       ]
     ],

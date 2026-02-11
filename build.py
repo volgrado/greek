@@ -57,44 +57,52 @@ def build():
                 with open(os.path.join(lessons_dir, filename), 'r', encoding='utf-8') as f:
                     try:
                         lesson_fragments[lesson_id] = json.load(f)
-                    except:
-                        pass
+                    except Exception as e:
+                        print(f"❌ Error loading {filename}: {e}")
 
     # 4. Procesar Navigación Automática
-    for i, l in enumerate(flat_lessons):
+    # Solo generamos navegación entre lecciones que REALMENTE tienen contenido
+    available_lessons = [l for l in flat_lessons if l['id'] in lesson_fragments]
+    
+    for i, l in enumerate(available_lessons):
         lid = l['id']
         path = f"/lessons/{lid}"
-        if lid in lesson_fragments:
-            node = lesson_fragments[lid]
-            
-            # Limpiar cualquier bloque de navegación previo (evitar duplicados)
-            if isinstance(node, list):
-                node = [child for child in node if not (isinstance(child, list) and len(child) > 1 and isinstance(child[1], dict) and child[1].get('className') == 'lesson-nav')]
+        node = lesson_fragments[lid]
+        
+        # Limpiar cualquier bloque de navegación previo (evitar duplicados)
+        if isinstance(node, list):
+            # Limpieza más profunda: buscamos cualquier nodo con 'lesson-nav'
+            node = [child for child in node if not (
+                isinstance(child, list) and 
+                len(child) > 1 and 
+                isinstance(child[1], dict) and 
+                (child[1].get('className') == 'lesson-nav' or child[1].get('class') == 'lesson-nav')
+            )]
 
-            # Crear nuevo bloque de navegación (PREV - MENU - NEXT)
-            nav_block = ["div", {"className": "lesson-nav"}]
-            
-            # 1. Previous
-            if i > 0:
-                prev_l = flat_lessons[i-1]
-                nav_block.append(["a", {"href": f"#/lessons/{prev_l['id']}"}, f"← {prev_l['title']}"])
-            else:
-                nav_block.append(["span", {}, ""]) 
+        # Crear nuevo bloque de navegación (PREV - MENU - NEXT)
+        nav_block = ["div", {"className": "lesson-nav"}]
+        
+        # 1. Previous
+        if i > 0:
+            prev_l = available_lessons[i-1]
+            nav_block.append(["a", {"href": f"#/lessons/{prev_l['id']}"}, f"← {prev_l['title']}"])
+        else:
+            nav_block.append(["span", {}, ""]) 
 
-            # 2. Menu (Central)
-            nav_block.append(["a", {"href": "#/", "className": "menu-btn"}, "MENU"])
+        # 2. Menu (Central)
+        nav_block.append(["a", {"href": "#/", "className": "menu-btn"}, "MENU"])
 
-            # 3. Next
-            if i < len(flat_lessons) - 1:
-                next_l = flat_lessons[i+1]
-                nav_block.append(["a", {"href": f"#/lessons/{next_l['id']}"}, f"{next_l['title']} →"])
-            else:
-                nav_block.append(["span", {}, ""]) 
+        # 3. Next
+        if i < len(available_lessons) - 1:
+            next_l = available_lessons[i+1]
+            nav_block.append(["a", {"href": f"#/lessons/{next_l['id']}"}, f"{next_l['title']} →"])
+        else:
+            nav_block.append(["span", {}, ""]) 
 
-            if isinstance(node, list):
-                node.append(nav_block)
-            
-            db[path] = node
+        if isinstance(node, list):
+            node.append(nav_block)
+        
+        db[path] = node
 
     # 5. Estado de Fallo (404)
     db["404"] = ["div", {"style": "padding: 5rem; text-align: center"},
