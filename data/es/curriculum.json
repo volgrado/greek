@@ -253,5 +253,57 @@
             "title": "Preterite: Spelling Changes",
             "num": 50
         }
+    ],
+    "Unit 6: Past Tense Mastery": [
+        {
+            "id": "preterite-stem-changers",
+            "title": "Preterite: Stem-Changers",
+            "num": 51
+        },
+        {
+            "id": "preterite-irregular-1",
+            "title": "Preterite: Irregular Verbs I",
+            "num": 52
+        },
+        {
+            "id": "preterite-irregular-2",
+            "title": "Preterite: Irregular Verbs II",
+            "num": 53
+        },
+        {
+            "id": "preterite-irregular-3",
+            "title": "Preterite: Irregular Verbs III",
+            "num": 54
+        },
+        {
+            "id": "preterite-irregular-4",
+            "title": "Preterite: Irregular Verbs IV",
+            "num": 55
+        },
+        {
+            "id": "imperfect-regular",
+            "title": "Imperfect: Regular Verbs",
+            "num": 56
+        },
+        {
+            "id": "imperfect-irregular",
+            "title": "Imperfect: Irregular Verbs",
+            "num": 57
+        },
+        {
+            "id": "pret-vs-imp-1",
+            "title": "Preterite vs Imperfect I",
+            "num": 58
+        },
+        {
+            "id": "pret-vs-imp-2",
+            "title": "Preterite vs Imperfect II",
+            "num": 59
+        },
+        {
+            "id": "pret-vs-imp-3",
+            "title": "Preterite vs Imperfect III",
+            "num": 60
+        }
     ]
 }
