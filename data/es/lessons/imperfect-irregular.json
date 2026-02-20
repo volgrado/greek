@@ -1,0 +1,254 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 57"
+        ],
+        [
+            "h1",
+            {},
+            "Imperfect: Irregular Verbs"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Great news! There are only ",
+            [
+                "strong",
+                {},
+                "three"
+            ],
+            " irregular verbs in the imperfect tense."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Ser, Ir, and Ver"
+            ],
+            [
+                "table",
+                {},
+                [
+                    "thead",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "th",
+                            {},
+                            "Person"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Ser"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Ir"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Ver"
+                        ]
+                    ]
+                ],
+                [
+                    "tbody",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "yo"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "era"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "iba"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "veía"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "tú"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "eras"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "ibas"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "veías"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "él/ella"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "era"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "iba"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "veía"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "nosotros"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "éramos"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "íbamos"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "veíamos"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "ellos"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "eran"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "iban"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "veían"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "grammar-info"
+            },
+            [
+                "h3",
+                {},
+                "Note on Ver"
+            ],
+            [
+                "p",
+                {},
+                "Ver is only 'slightly' irregular because it keeps the 'e' from the infinitive (veía instead of vía)."
+            ]
+        ]
+    ]
+]

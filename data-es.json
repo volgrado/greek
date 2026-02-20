@@ -881,6 +881,185 @@
           "→"
         ]
       ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 6: Past Tense Mastery"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-stem-changers",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "51. Preterite: Stem-Changers"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "52. Preterite: Irregular Verbs I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "53. Preterite: Irregular Verbs II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "54. Preterite: Irregular Verbs III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-4",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "55. Preterite: Irregular Verbs IV"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "56. Imperfect: Regular Verbs"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-irregular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "57. Imperfect: Irregular Verbs"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "58. Preterite vs Imperfect I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "59. Preterite vs Imperfect II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "60. Preterite vs Imperfect III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
     ]
   ],
   "/curriculum": [
@@ -1758,6 +1937,185 @@
           "span",
           {},
           "50. Preterite: Spelling Changes"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 6: Past Tense Mastery"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-stem-changers",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "51. Preterite: Stem-Changers"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "52. Preterite: Irregular Verbs I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "53. Preterite: Irregular Verbs II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "54. Preterite: Irregular Verbs III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-4",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "55. Preterite: Irregular Verbs IV"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "56. Imperfect: Regular Verbs"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-irregular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "57. Imperfect: Irregular Verbs"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "58. Preterite vs Imperfect I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "59. Preterite vs Imperfect II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "60. Preterite vs Imperfect III"
         ],
         [
           "span",
@@ -11831,6 +12189,2316 @@
           "href": "#/lessons/preterite-regular"
         },
         "← Preterite: Regular Verbs"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-stem-changers"
+        },
+        "Preterite: Stem-Changers →"
+      ]
+    ]
+  ],
+  "/lessons/preterite-stem-changers": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 51"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite: Stem-Changers"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In the preterite, only ",
+        [
+          "strong",
+          {},
+          "-ir"
+        ],
+        " verbs that change their stem in the present tense also change in the past."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Rule"
+        ],
+        [
+          "p",
+          {},
+          "Stem-changing happens only in the ",
+          [
+            "strong",
+            {},
+            "third-person"
+          ],
+          " forms (él/ella/usted and ellos/ellas/ustedes)."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "e → i: ",
+            [
+              "strong",
+              {},
+              "Pedir"
+            ],
+            " (to ask for)"
+          ],
+          [
+            "li",
+            {},
+            "o → u: ",
+            [
+              "strong",
+              {},
+              "Dormir"
+            ],
+            " (to sleep)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Conjugation of Pedir (e → i)"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "pedí"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "pediste"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "p",
+                [
+                  "strong",
+                  {},
+                  "i"
+                ],
+                "dió"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "pedimos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "p",
+                [
+                  "strong",
+                  {},
+                  "i"
+                ],
+                "dieron"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Conjugation of Dormir (o → u)"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "dormí"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "dormiste"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "d",
+                [
+                  "strong",
+                  {},
+                  "u"
+                ],
+                "rmió"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "dormimos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "d",
+                [
+                  "strong",
+                  {},
+                  "u"
+                ],
+                "rmieron"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-spelling"
+        },
+        "← Preterite: Spelling Changes"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-1"
+        },
+        "Preterite: Irregular Verbs I →"
+      ]
+    ]
+  ],
+  "/lessons/preterite-irregular-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 52"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite: Irregular Verbs I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Some of the most common verbs in Spanish are completely irregular in the preterite. Interestingly, 'ser' and 'ir' share the exact same forms!"
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Ir & Ser (To go / To be)"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "fui"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "fuiste"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "fue"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "fuimos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "fueron"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Dar (To give)"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "di"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "diste"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "dio"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "dimos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "dieron"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Ver (To see)"
+        ],
+        [
+          "p",
+          {},
+          "Ver follows the same pattern as 'dar', but with a 'v'."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "vi, viste, vio, vimos, vieron"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-stem-changers"
+        },
+        "← Preterite: Stem-Changers"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-2"
+        },
+        "Preterite: Irregular Verbs II →"
+      ]
+    ]
+  ],
+  "/lessons/preterite-irregular-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 53"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite: Irregular Verbs II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Many irregular preterite verbs follow a pattern: they have a special stem and share the same set of endings (which have no accent marks!)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Verbs: Estar, Tener, Hacer"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "Estar → ",
+            [
+              "strong",
+              {},
+              "estuv-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Tener → ",
+            [
+              "strong",
+              {},
+              "tuv-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Hacer → ",
+            [
+              "strong",
+              {},
+              "hic-"
+            ],
+            " (hizo in 3rd pers. sing.)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Shared Endings"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-e"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-iste"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-o"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-imos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ieron"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Example: Tener"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "tuve, tuviste, tuvo, tuvimos, tuvieron"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-1"
+        },
+        "← Preterite: Irregular Verbs I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-3"
+        },
+        "Preterite: Irregular Verbs III →"
+      ]
+    ]
+  ],
+  "/lessons/preterite-irregular-3": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 54"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite: Irregular Verbs III"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Continuing with the irregular stems that share the same endings (-e, -iste, -o, -imos, -ieron)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Verbs: Poder, Poner, Saber"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "Poder → ",
+            [
+              "strong",
+              {},
+              "pud-"
+            ],
+            " (to be able to)"
+          ],
+          [
+            "li",
+            {},
+            "Poner → ",
+            [
+              "strong",
+              {},
+              "pus-"
+            ],
+            " (to put)"
+          ],
+          [
+            "li",
+            {},
+            "Saber → ",
+            [
+              "strong",
+              {},
+              "sup-"
+            ],
+            " (to know facts)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Example Conjugations"
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            "Poder: pude, pudiste, pudo, pudimos, pudieron"
+          ],
+          [
+            "p",
+            {},
+            "Poner: puse, pusiste, puso, pusimos, pusieron"
+          ],
+          [
+            "p",
+            {},
+            "Saber: supe, supiste, supo, supimos, supieron"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Meaning Changes"
+        ],
+        [
+          "p",
+          {},
+          "In the preterite, some of these verbs take on slightly different meanings:"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            "Saber (preterite) = to find out"
+          ],
+          [
+            "li",
+            {},
+            "Poder (preterite) = to manage to/succeed"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-2"
+        },
+        "← Preterite: Irregular Verbs II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-4"
+        },
+        "Preterite: Irregular Verbs IV →"
+      ]
+    ]
+  ],
+  "/lessons/preterite-irregular-4": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 55"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite: Irregular Verbs IV"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The final group of irregular stems, including those that use a 'j' in their stem and have a slightly different plural ending."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Verbs: Querer, Venir, Decir"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "Querer → ",
+            [
+              "strong",
+              {},
+              "quis-"
+            ],
+            " (to want)"
+          ],
+          [
+            "li",
+            {},
+            "Venir → ",
+            [
+              "strong",
+              {},
+              "vin-"
+            ],
+            " (to come)"
+          ],
+          [
+            "li",
+            {},
+            "Decir → ",
+            [
+              "strong",
+              {},
+              "dij-"
+            ],
+            " (to say/tell)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The 'J' Stem Rule"
+        ],
+        [
+          "p",
+          {},
+          "For verbs with a 'j' in the stem (like decir), the third-person plural ending is ",
+          [
+            "strong",
+            {},
+            "-eron"
+          ],
+          " (without the 'i')."
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            "Decir: dije, dijiste, dijo, dijimos, ",
+            [
+              "strong",
+              {},
+              "dijeron"
+            ]
+          ],
+          [
+            "p",
+            {},
+            "Traer: traje, trajiste, trajo, trajimos, ",
+            [
+              "strong",
+              {},
+              "trajeron"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-3"
+        },
+        "← Preterite: Irregular Verbs III"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-regular"
+        },
+        "Imperfect: Regular Verbs →"
+      ]
+    ]
+  ],
+  "/lessons/imperfect-regular": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 56"
+      ],
+      [
+        "h1",
+        {},
+        "Imperfect: Regular Verbs"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The imperfect tense is used to describe ongoing, habitual, or descriptive actions in the past (was doing, used to do)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "-ar Endings"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-aba"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-abas"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-aba"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ábamos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-aban"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "-er / -ir Endings"
+        ],
+        [
+          "p",
+          {},
+          "Just like in the preterite, -er and -ir verbs share the same endings in the imperfect."
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ía"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ías"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ía"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-íamos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ían"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Accent Alert!"
+        ],
+        [
+          "p",
+          {},
+          "In the imperfect, all -er/-ir endings have an accent mark on the 'i'."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-irregular-4"
+        },
+        "← Preterite: Irregular Verbs IV"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-irregular"
+        },
+        "Imperfect: Irregular Verbs →"
+      ]
+    ]
+  ],
+  "/lessons/imperfect-irregular": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 57"
+      ],
+      [
+        "h1",
+        {},
+        "Imperfect: Irregular Verbs"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Great news! There are only ",
+        [
+          "strong",
+          {},
+          "three"
+        ],
+        " irregular verbs in the imperfect tense."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Ser, Ir, and Ver"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Person"
+              ],
+              [
+                "th",
+                {},
+                "Ser"
+              ],
+              [
+                "th",
+                {},
+                "Ir"
+              ],
+              [
+                "th",
+                {},
+                "Ver"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "era"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "iba"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "veía"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "eras"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "ibas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "veías"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "era"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "iba"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "veía"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "éramos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "íbamos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "veíamos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "eran"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "iban"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "veían"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Note on Ver"
+        ],
+        [
+          "p",
+          {},
+          "Ver is only 'slightly' irregular because it keeps the 'e' from the infinitive (veía instead of vía)."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-regular"
+        },
+        "← Imperfect: Regular Verbs"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-1"
+        },
+        "Preterite vs Imperfect I →"
+      ]
+    ]
+  ],
+  "/lessons/pret-vs-imp-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 58"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite vs Imperfect I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Deciding between preterite and imperfect is one of the biggest challenges in Spanish. It depends on how you view the action."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Preterite (The 'Box')"
+        ],
+        [
+          "p",
+          {},
+          "Use the preterite for actions that are ",
+          [
+            "strong",
+            {},
+            "complete"
+          ],
+          " or have a clear beginning and end."
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            "Specific events"
+          ],
+          [
+            "li",
+            {},
+            "List of sequential actions"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Imperfect (The 'Line')"
+        ],
+        [
+          "p",
+          {},
+          "Use the imperfect for actions that were ",
+          [
+            "strong",
+            {},
+            "ongoing"
+          ],
+          ", habitual, or descriptive."
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            "Characteristics/Descriptions"
+          ],
+          [
+            "li",
+            {},
+            "Time, Age, Weather"
+          ],
+          [
+            "li",
+            {},
+            "Habitual actions (Used to)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "example-box"
+        },
+        [
+          "p",
+          {},
+          "Preterite: ",
+          [
+            "span",
+            {
+              "className": "spanish"
+            },
+            "Comí a las dos."
+          ],
+          " (I ate at 2:00)."
+        ],
+        [
+          "p",
+          {},
+          "Imperfect: ",
+          [
+            "span",
+            {
+              "className": "spanish"
+            },
+            "Comía mucho de niño."
+          ],
+          " (I used to eat a lot as a child)."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-irregular"
+        },
+        "← Imperfect: Irregular Verbs"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-2"
+        },
+        "Preterite vs Imperfect II →"
+      ]
+    ]
+  ],
+  "/lessons/pret-vs-imp-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 59"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite vs Imperfect II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Often, both tenses appear in the same sentence to describe an action that was in progress when something else happened."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Interrupting Actions"
+        ],
+        [
+          "p",
+          {},
+          "The ",
+          [
+            "strong",
+            {},
+            "imperfect"
+          ],
+          " provides the background/setting, and the ",
+          [
+            "strong",
+            {},
+            "preterite"
+          ],
+          " is the interruption."
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {
+              "className": "spanish"
+            },
+            "Yo ",
+            [
+              "strong",
+              {},
+              "leía"
+            ],
+            " (Imp) cuando Juan ",
+            [
+              "strong",
+              {},
+              "entró"
+            ],
+            " (Pret)."
+          ],
+          [
+            "p",
+            {},
+            "I was reading when Juan entered."
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Simultaneous Actions"
+        ],
+        [
+          "p",
+          {},
+          "If two actions were happening at the same time, use the ",
+          [
+            "strong",
+            {},
+            "imperfect"
+          ],
+          " for both."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Ella ",
+          [
+            "strong",
+            {},
+            "cantaba"
+          ],
+          " mientras yo ",
+          [
+            "strong",
+            {},
+            "bailaba"
+          ],
+          "."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-1"
+        },
+        "← Preterite vs Imperfect I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-3"
+        },
+        "Preterite vs Imperfect III →"
+      ]
+    ]
+  ],
+  "/lessons/pret-vs-imp-3": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 60"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite vs Imperfect III"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Some verbs change their English translation depending on whether you use the preterite or the imperfect."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Meaning Changes"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Verb"
+              ],
+              [
+                "th",
+                {},
+                "Imperfect"
+              ],
+              [
+                "th",
+                {},
+                "Preterite"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Saber"
+              ],
+              [
+                "td",
+                {},
+                "Knew (info)"
+              ],
+              [
+                "td",
+                {},
+                "Found out"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Conocer"
+              ],
+              [
+                "td",
+                {},
+                "Knew (person)"
+              ],
+              [
+                "td",
+                {},
+                "Met (for first time)"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Querer"
+              ],
+              [
+                "td",
+                {},
+                "Wanted"
+              ],
+              [
+                "td",
+                {},
+                "Tried to"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Poder"
+              ],
+              [
+                "td",
+                {},
+                "Was able to"
+              ],
+              [
+                "td",
+                {},
+                "Succeeded/Managed to"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Tip"
+        ],
+        [
+          "p",
+          {},
+          "The preterite often focuses on the ",
+          [
+            "strong",
+            {},
+            "start"
+          ],
+          " or ",
+          [
+            "strong",
+            {},
+            "finish"
+          ],
+          " of an action, while the imperfect focuses on the ",
+          [
+            "strong",
+            {},
+            "state"
+          ],
+          "."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-2"
+        },
+        "← Preterite vs Imperfect II"
       ],
       [
         "a",

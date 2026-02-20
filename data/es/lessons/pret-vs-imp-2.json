@@ -1,0 +1,134 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 59"
+        ],
+        [
+            "h1",
+            {},
+            "Preterite vs Imperfect II"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Often, both tenses appear in the same sentence to describe an action that was in progress when something else happened."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Interrupting Actions"
+            ],
+            [
+                "p",
+                {},
+                "The ",
+                [
+                    "strong",
+                    {},
+                    "imperfect"
+                ],
+                " provides the background/setting, and the ",
+                [
+                    "strong",
+                    {},
+                    "preterite"
+                ],
+                " is the interruption."
+            ],
+            [
+                "div",
+                {
+                    "className": "example-box"
+                },
+                [
+                    "p",
+                    {
+                        "className": "spanish"
+                    },
+                    "Yo ",
+                    [
+                        "strong",
+                        {},
+                        "leía"
+                    ],
+                    " (Imp) cuando Juan ",
+                    [
+                        "strong",
+                        {},
+                        "entró"
+                    ],
+                    " (Pret)."
+                ],
+                [
+                    "p",
+                    {},
+                    "I was reading when Juan entered."
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Simultaneous Actions"
+            ],
+            [
+                "p",
+                {},
+                "If two actions were happening at the same time, use the ",
+                [
+                    "strong",
+                    {},
+                    "imperfect"
+                ],
+                " for both."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Ella ",
+                [
+                    "strong",
+                    {},
+                    "cantaba"
+                ],
+                " mientras yo ",
+                [
+                    "strong",
+                    {},
+                    "bailaba"
+                ],
+                "."
+            ]
+        ]
+    ]
+]

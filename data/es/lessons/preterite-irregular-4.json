@@ -1,0 +1,133 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 55"
+        ],
+        [
+            "h1",
+            {},
+            "Preterite: Irregular Verbs IV"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "The final group of irregular stems, including those that use a 'j' in their stem and have a slightly different plural ending."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Verbs: Querer, Venir, Decir"
+            ],
+            [
+                "ul",
+                {
+                    "className": "rule-list"
+                },
+                [
+                    "li",
+                    {},
+                    "Querer → ",
+                    [
+                        "strong",
+                        {},
+                        "quis-"
+                    ],
+                    " (to want)"
+                ],
+                [
+                    "li",
+                    {},
+                    "Venir → ",
+                    [
+                        "strong",
+                        {},
+                        "vin-"
+                    ],
+                    " (to come)"
+                ],
+                [
+                    "li",
+                    {},
+                    "Decir → ",
+                    [
+                        "strong",
+                        {},
+                        "dij-"
+                    ],
+                    " (to say/tell)"
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The 'J' Stem Rule"
+            ],
+            [
+                "p",
+                {},
+                "For verbs with a 'j' in the stem (like decir), the third-person plural ending is ",
+                [
+                    "strong",
+                    {},
+                    "-eron"
+                ],
+                " (without the 'i')."
+            ],
+            [
+                "div",
+                {
+                    "className": "example-box"
+                },
+                [
+                    "p",
+                    {},
+                    "Decir: dije, dijiste, dijo, dijimos, ",
+                    [
+                        "strong",
+                        {},
+                        "dijeron"
+                    ]
+                ],
+                [
+                    "p",
+                    {},
+                    "Traer: traje, trajiste, trajo, trajimos, ",
+                    [
+                        "strong",
+                        {},
+                        "trajeron"
+                    ]
+                ]
+            ]
+        ]
+    ]
+]
