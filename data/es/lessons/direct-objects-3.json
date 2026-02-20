@@ -1,0 +1,104 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 40"
+        ],
+        [
+            "h1",
+            {},
+            "Direct Object Pronouns III"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Just like with infinitives, direct object pronouns can also be attached to present particles (-ando, -iendo)."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Placement with Particles"
+            ],
+            [
+                "p",
+                {},
+                "Option 1: Before the conjugated verb (estar)."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                [
+                    "strong",
+                    {},
+                    "Lo"
+                ],
+                " estoy leyendo."
+            ],
+            [
+                "p",
+                {},
+                "Option 2: Attached to the end of the participle."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Estoy leyéndo",
+                [
+                    "strong",
+                    {},
+                    "lo"
+                ],
+                "."
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "grammar-info"
+            },
+            [
+                "h3",
+                {},
+                "Accent Alert!"
+            ],
+            [
+                "p",
+                {},
+                "Notice that when you attach a pronoun to a present participle, you must add an accent mark to the original stressed vowel of the participle to maintain the correct stress."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "leyendo → leyéndolo"
+            ]
+        ]
+    ]
+]

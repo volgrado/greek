@@ -1,0 +1,127 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 36"
+        ],
+        [
+            "h1",
+            {},
+            "Superlatives"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Superlatives are used to describe something that has the highest or lowest degree of a quality (the most, the least)."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The Formula"
+            ],
+            [
+                "p",
+                {},
+                "Formula: ",
+                [
+                    "strong",
+                    {},
+                    "definite article + [noun] + más/menos + [adjective] + de"
+                ]
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Juan es el más alto de la clase."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "Juan is the tallest in the class."
+                    ]
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Es la película menos interesante de todas."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "It is the least interesting movie of all."
+                    ]
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "grammar-info"
+            },
+            [
+                "h3",
+                {},
+                "Absolute Superlatives"
+            ],
+            [
+                "p",
+                {},
+                "To say something is 'extremely' or 'very' [adjective], you can add the suffix ",
+                [
+                    "strong",
+                    {},
+                    "-ísimo/a/os/as"
+                ],
+                " to the adjective."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "rápido → rapidísimo | inteligente → inteligentísimo"
+            ]
+        ]
+    ]
+]
