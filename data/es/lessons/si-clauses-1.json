@@ -1,0 +1,90 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 94"
+        ],
+        [
+            "h1",
+            {},
+            "Si Clauses I"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "'Si' clauses (If clauses) express conditions. There are several types depending on how likely the condition is to be true."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Type 1: Possible Conditions"
+            ],
+            [
+                "p",
+                {},
+                "If the condition is likely or possible, use the ",
+                [
+                    "strong",
+                    {},
+                    "Indicative"
+                ],
+                "."
+            ],
+            [
+                "p",
+                {},
+                "Pattern: ",
+                [
+                    "strong",
+                    {},
+                    "Si + Present Indicative → Present/Future Indicative"
+                ]
+            ],
+            [
+                "div",
+                {
+                    "className": "example-box"
+                },
+                [
+                    "p",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Si tengo dinero, iré a España."
+                    ],
+                    " (If I have money, I will go to Spain.)"
+                ],
+                [
+                    "p",
+                    {},
+                    "Note: NEVER use the present subjunctive after 'si' to express a possible condition."
+                ]
+            ]
+        ]
+    ]
+]

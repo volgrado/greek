@@ -461,5 +461,57 @@
             "title": "Subjunctive: The Six Irregulars",
             "num": 90
         }
+    ],
+    "Unit 10: Advanced Subjunctive and Syntax": [
+        {
+            "id": "imperfect-subjunctive-1",
+            "title": "Imperfect Subjunctive I",
+            "num": 91
+        },
+        {
+            "id": "imperfect-subjunctive-2",
+            "title": "Imperfect Subjunctive II",
+            "num": 92
+        },
+        {
+            "id": "imperfect-subjunctive-3",
+            "title": "Imperfect Subjunctive III",
+            "num": 93
+        },
+        {
+            "id": "si-clauses-1",
+            "title": "Si Clauses I",
+            "num": 94
+        },
+        {
+            "id": "si-clauses-2",
+            "title": "Si Clauses II",
+            "num": 95
+        },
+        {
+            "id": "passive-voice",
+            "title": "The Passive Voice",
+            "num": 96
+        },
+        {
+            "id": "se-accidental",
+            "title": "Accidental 'Se'",
+            "num": 97
+        },
+        {
+            "id": "hace-ago",
+            "title": "Hace meaning 'Ago'",
+            "num": 98
+        },
+        {
+            "id": "pero-vs-sino",
+            "title": "Pero vs Sino",
+            "num": 99
+        },
+        {
+            "id": "finale-summary",
+            "title": "Spanish Finale",
+            "num": 100
+        }
     ]
 }
