@@ -1,0 +1,2782 @@
+{
+  "/": [
+    "div",
+    {
+      "className": "curriculum-container"
+    },
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 1: Basic Spanish"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/gender-nouns-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "1. Gender of Nouns I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/gender-nouns-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "2. Gender of Nouns II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/plural-nouns",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "3. Plural Forms of Nouns"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/articles",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "4. Definite and Indefinite Articles"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subject-pronouns",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "5. Subject Pronouns"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "6. Regular Verbs I (-ar)"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "7. Regular Verbs II (-er)"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "8. Regular Verbs III (-ir)"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/adjectives-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "9. Adjectives I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/adjectives-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "10. Adjectives II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ]
+  ],
+  "/curriculum": [
+    "div",
+    {
+      "className": "curriculum-container"
+    },
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 1: Basic Spanish"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/gender-nouns-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "1. Gender of Nouns I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/gender-nouns-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "2. Gender of Nouns II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/plural-nouns",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "3. Plural Forms of Nouns"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/articles",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "4. Definite and Indefinite Articles"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subject-pronouns",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "5. Subject Pronouns"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "6. Regular Verbs I (-ar)"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "7. Regular Verbs II (-er)"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "8. Regular Verbs III (-ir)"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/adjectives-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "9. Adjectives I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/adjectives-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "10. Adjectives II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ]
+  ],
+  "/lessons/gender-nouns-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 1"
+      ],
+      [
+        "h1",
+        {},
+        "Gender of Nouns I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In Spanish, all nouns have a grammatical gender: they are either masculine or feminine."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Basic Rules"
+        ],
+        [
+          "p",
+          {},
+          "While there are exceptions, the most common way to identify the gender of a noun is by its ending:"
+        ],
+        [
+          "div",
+          {
+            "className": "case-grid"
+          },
+          [
+            "div",
+            {
+              "className": "phrase-card"
+            },
+            [
+              "h3",
+              {},
+              "Masculine Nouns"
+            ],
+            [
+              "p",
+              {},
+              "Nouns that end in ",
+              [
+                "strong",
+                {},
+                "-o"
+              ],
+              " are usually masculine."
+            ],
+            [
+              "ul",
+              {
+                "className": "phrase-list"
+              },
+              [
+                "li",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "spanish"
+                  },
+                  "el chico"
+                ],
+                [
+                  "span",
+                  {
+                    "className": "meaning"
+                  },
+                  "the boy"
+                ]
+              ],
+              [
+                "li",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "spanish"
+                  },
+                  "el libro"
+                ],
+                [
+                  "span",
+                  {
+                    "className": "meaning"
+                  },
+                  "the book"
+                ]
+              ]
+            ]
+          ],
+          [
+            "div",
+            {
+              "className": "phrase-card"
+            },
+            [
+              "h3",
+              {},
+              "Feminine Nouns"
+            ],
+            [
+              "p",
+              {},
+              "Nouns that end in ",
+              [
+                "strong",
+                {},
+                "-a"
+              ],
+              " are usually feminine."
+            ],
+            [
+              "ul",
+              {
+                "className": "phrase-list"
+              },
+              [
+                "li",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "spanish"
+                  },
+                  "la chica"
+                ],
+                [
+                  "span",
+                  {
+                    "className": "meaning"
+                  },
+                  "the girl"
+                ]
+              ],
+              [
+                "li",
+                {},
+                [
+                  "span",
+                  {
+                    "className": "spanish"
+                  },
+                  "la pluma"
+                ],
+                [
+                  "span",
+                  {
+                    "className": "meaning"
+                  },
+                  "the pen"
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Pro Tip!"
+        ],
+        [
+          "p",
+          {},
+          "Always learn the noun with its article (el or la). This is the most reliable way to remember its gender."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "span",
+        {},
+        ""
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/gender-nouns-2"
+        },
+        "Gender of Nouns II →"
+      ]
+    ]
+  ],
+  "/lessons/gender-nouns-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 2"
+      ],
+      [
+        "h1",
+        {},
+        "Gender of Nouns II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Beyond -o and -a, there are other common endings that can help you determine a noun's gender."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Additional Feminine Endings"
+        ],
+        [
+          "p",
+          {},
+          "Nouns ending in these suffixes are almost always feminine:"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Ending"
+              ],
+              [
+                "th",
+                {},
+                "Example"
+              ],
+              [
+                "th",
+                {},
+                "Meaning"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-ción"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "la lección"
+              ],
+              [
+                "td",
+                {
+                  "className": "meaning"
+                },
+                "the lesson"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-tad"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "la libertad"
+              ],
+              [
+                "td",
+                {
+                  "className": "meaning"
+                },
+                "the liberty"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-dad"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "la ciudad"
+              ],
+              [
+                "td",
+                {
+                  "className": "meaning"
+                },
+                "the city"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Common Exceptions: Masculine -ma / -pa"
+        ],
+        [
+          "p",
+          {},
+          "Nouns of Greek origin ending in ",
+          [
+            "strong",
+            {},
+            "-ma"
+          ],
+          " or ",
+          [
+            "strong",
+            {},
+            "-pa"
+          ],
+          " are usually masculine, even though they end in -a."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "el problema"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the problem"
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "el mapa"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the map"
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "el sistema"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the system"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/gender-nouns-1"
+        },
+        "← Gender of Nouns I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/plural-nouns"
+        },
+        "Plural Forms of Nouns →"
+      ]
+    ]
+  ],
+  "/lessons/plural-nouns": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 3"
+      ],
+      [
+        "h1",
+        {},
+        "Plural Forms of Nouns"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Making nouns plural in Spanish is a straightforward process based on whether the word ends in a vowel or a consonant."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Rule 1: Ending in a Vowel"
+        ],
+        [
+          "p",
+          {},
+          "If a noun ends in a vowel, simply add ",
+          [
+            "strong",
+            {},
+            "-s"
+          ],
+          "."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "el libro → los libros"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the books"
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "la pluma → las plumas"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the pens"
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Rule 2: Ending in a Consonant"
+        ],
+        [
+          "p",
+          {},
+          "If a noun ends in a consonant, add ",
+          [
+            "strong",
+            {},
+            "-es"
+          ],
+          "."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "el borrador → los borradores"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the erasers"
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "la ciudad → las ciudades"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the cities"
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Nouns ending in -z"
+        ],
+        [
+          "p",
+          {},
+          "If a noun ends in ",
+          [
+            "strong",
+            {},
+            "z"
+          ],
+          ", change the ",
+          [
+            "strong",
+            {},
+            "z"
+          ],
+          " to ",
+          [
+            "strong",
+            {},
+            "c"
+          ],
+          " before adding ",
+          [
+            "strong",
+            {},
+            "-es"
+          ],
+          "."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "el lápiz → los lápices"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/gender-nouns-2"
+        },
+        "← Gender of Nouns II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/articles"
+        },
+        "Definite and Indefinite Articles →"
+      ]
+    ]
+  ],
+  "/lessons/articles": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 4"
+      ],
+      [
+        "h1",
+        {},
+        "Definite and Indefinite Articles"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Spanish articles must agree in gender and number with the nouns they modify."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Definite Articles (The)"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Number"
+              ],
+              [
+                "th",
+                {},
+                "Masculine"
+              ],
+              [
+                "th",
+                {},
+                "Feminine"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Singular"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "el"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "la"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Plural"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "los"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "las"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Indefinite Articles (A, An, Some)"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Number"
+              ],
+              [
+                "th",
+                {},
+                "Masculine"
+              ],
+              [
+                "th",
+                {},
+                "Feminine"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Singular"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "un"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "una"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Plural"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "unos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "unas"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/plural-nouns"
+        },
+        "← Plural Forms of Nouns"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subject-pronouns"
+        },
+        "Subject Pronouns →"
+      ]
+    ]
+  ],
+  "/lessons/subject-pronouns": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 5"
+      ],
+      [
+        "h1",
+        {},
+        "Subject Pronouns"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Subject pronouns are the words that tell us who is performing the action of the verb."
+      ],
+      [
+        "table",
+        {},
+        [
+          "thead",
+          {},
+          [
+            "tr",
+            {},
+            [
+              "th",
+              {},
+              "Person"
+            ],
+            [
+              "th",
+              {},
+              "Singular"
+            ],
+            [
+              "th",
+              {},
+              "Plural"
+            ]
+          ]
+        ],
+        [
+          "tbody",
+          {},
+          [
+            "tr",
+            {},
+            [
+              "td",
+              {},
+              "1st Person"
+            ],
+            [
+              "td",
+              {},
+              [
+                "span",
+                {
+                  "className": "spanish"
+                },
+                "yo"
+              ],
+              " (I)"
+            ],
+            [
+              "td",
+              {},
+              [
+                "span",
+                {
+                  "className": "spanish"
+                },
+                "nosotros/as"
+              ],
+              " (we)"
+            ]
+          ],
+          [
+            "tr",
+            {},
+            [
+              "td",
+              {},
+              "2nd Person (Informal)"
+            ],
+            [
+              "td",
+              {},
+              [
+                "span",
+                {
+                  "className": "spanish"
+                },
+                "tú"
+              ],
+              " (you)"
+            ],
+            [
+              "td",
+              {},
+              [
+                "span",
+                {
+                  "className": "spanish"
+                },
+                "vosotros/as"
+              ],
+              " (you all)"
+            ]
+          ],
+          [
+            "tr",
+            {},
+            [
+              "td",
+              {},
+              "3rd Person / Formal"
+            ],
+            [
+              "td",
+              {},
+              [
+                "span",
+                {
+                  "className": "spanish"
+                },
+                "él / ella / usted"
+              ],
+              " (he/she/you formal)"
+            ],
+            [
+              "td",
+              {},
+              [
+                "span",
+                {
+                  "className": "spanish"
+                },
+                "ellos / ellas / ustedes"
+              ],
+              " (they/you all formal)"
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Did you know?"
+        ],
+        [
+          "p",
+          {},
+          "In many parts of the Spanish-speaking world, ",
+          [
+            "strong",
+            {},
+            "ustedes"
+          ],
+          " is used for both formal and informal 'you all,' and ",
+          [
+            "strong",
+            {},
+            "vosotros"
+          ],
+          " is primarily used in Spain."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/articles"
+        },
+        "← Definite and Indefinite Articles"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-1"
+        },
+        "Regular Verbs I (-ar) →"
+      ]
+    ]
+  ],
+  "/lessons/regular-verbs-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 6"
+      ],
+      [
+        "h1",
+        {},
+        "Regular Verbs I (-ar)"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In Spanish, verbs are categorized by their endings: -ar, -er, or -ir. This lesson focuses on the most common group: -ar verbs."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Conjugation Pattern"
+        ],
+        [
+          "p",
+          {},
+          "To conjugate a regular -ar verb in the present tense, remove the -ar to find the stem, then add the following endings:"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Subject"
+              ],
+              [
+                "th",
+                {},
+                "Ending"
+              ],
+              [
+                "th",
+                {},
+                "Example (Hablar)"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-o"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hablo"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Tú"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-as"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hablas"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Él / Ella / Ud."
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-a"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "habla"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros/as"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-amos"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hablamos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Vosotros/as"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-áis"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "habláis"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ellos / Ellas / Uds."
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-an"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hablan"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subject-pronouns"
+        },
+        "← Subject Pronouns"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-2"
+        },
+        "Regular Verbs II (-er) →"
+      ]
+    ]
+  ],
+  "/lessons/regular-verbs-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 7"
+      ],
+      [
+        "h1",
+        {},
+        "Regular Verbs II (-er)"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Regular -er verbs follow a pattern similar to -ar verbs, but using 'e' instead of 'a' in the endings."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Conjugation Pattern"
+        ],
+        [
+          "p",
+          {},
+          "To conjugate a regular -er verb in the present tense, remove the -er to find the stem, then add the following endings:"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Subject"
+              ],
+              [
+                "th",
+                {},
+                "Ending"
+              ],
+              [
+                "th",
+                {},
+                "Example (Comer)"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-o"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "como"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Tú"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-es"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "comes"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Él / Ella / Ud."
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-e"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "come"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros/as"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-emos"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "comemos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Vosotros/as"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-éis"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "coméis"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ellos / Ellas / Uds."
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-en"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "comen"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-1"
+        },
+        "← Regular Verbs I (-ar)"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-3"
+        },
+        "Regular Verbs III (-ir) →"
+      ]
+    ]
+  ],
+  "/lessons/regular-verbs-3": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 8"
+      ],
+      [
+        "h1",
+        {},
+        "Regular Verbs III (-ir)"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Regular -ir verbs are almost identical to -er verbs in their endings, with exceptions in the 'nosotros' and 'vosotros' forms."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Conjugation Pattern"
+        ],
+        [
+          "p",
+          {},
+          "To conjugate a regular -ir verb in the present tense, remove the -ir to find the stem, then add the following endings:"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Subject"
+              ],
+              [
+                "th",
+                {},
+                "Ending"
+              ],
+              [
+                "th",
+                {},
+                "Example (Vivir)"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-o"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vivo"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Tú"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-es"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vives"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Él / Ella / Ud."
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-e"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vive"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros/as"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-imos"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vivimos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Vosotros/as"
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-ís"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vivís"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ellos / Ellas / Uds."
+              ],
+              [
+                "td",
+                {},
+                [
+                  "strong",
+                  {},
+                  "-en"
+                ]
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "viven"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-2"
+        },
+        "← Regular Verbs II (-er)"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/adjectives-1"
+        },
+        "Adjectives I →"
+      ]
+    ]
+  ],
+  "/lessons/adjectives-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 9"
+      ],
+      [
+        "h1",
+        {},
+        "Adjectives I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In Spanish, adjectives must agree in both gender and number with the nouns they describe."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Agreement in Gender"
+        ],
+        [
+          "p",
+          {},
+          "Adjectives ending in ",
+          [
+            "strong",
+            {},
+            "-o"
+          ],
+          " change to ",
+          [
+            "strong",
+            {},
+            "-a"
+          ],
+          " for feminine nouns."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "el gato negro"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the black cat"
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "la gata negra"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the black cat (female)"
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Agreement in Number"
+        ],
+        [
+          "p",
+          {},
+          "Adjectives follow the same rules as nouns for making plural forms."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "los gatos negros"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the black cats"
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "las gatas negras"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the black cats (female)"
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Exception!"
+        ],
+        [
+          "p",
+          {},
+          "Adjectives that end in ",
+          [
+            "strong",
+            {},
+            "-e"
+          ],
+          " or a consonant don't change for gender, only for number."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "el libro grande / la casa grande"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/regular-verbs-3"
+        },
+        "← Regular Verbs III (-ir)"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/adjectives-2"
+        },
+        "Adjectives II →"
+      ]
+    ]
+  ],
+  "/lessons/adjectives-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 10"
+      ],
+      [
+        "h1",
+        {},
+        "Adjectives II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In Spanish, the position of an adjective is just as important as its form."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Standard Placement"
+        ],
+        [
+          "p",
+          {},
+          "Most adjectives follow the noun they modify, which is the opposite of English."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "el auto rojo"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the red car"
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "English: red car → Spanish: car red"
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Exceptions: Determinative Adjectives"
+        ],
+        [
+          "p",
+          {},
+          "Adjectives that indicate quantity or order often precede the noun."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "muchos libros"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "many books"
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "la primera vez"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "the first time"
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Aesthetic Placement"
+        ],
+        [
+          "p",
+          {},
+          "In poetry or literature, adjectives may precede the noun to add emphasis or a descriptive quality, but in daily speech, they almost always follow the noun."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/adjectives-1"
+        },
+        "← Adjectives I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "span",
+        {},
+        ""
+      ]
+    ]
+  ],
+  "404": [
+    "div",
+    {
+      "style": "padding: 5rem; text-align: center"
+    },
+    [
+      "h1",
+      {
+        "style": "color: #e53e3e"
+      },
+      "404: Nodo no encontrado"
+    ],
+    [
+      "a",
+      {
+        "href": "#/"
+      },
+      "Volver al Origen"
+    ]
+  ]
+}
