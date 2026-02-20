@@ -1,0 +1,201 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 34"
+        ],
+        [
+            "h1",
+            {},
+            "Comparisons of Inequality"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "In Spanish, we use specific formulas to compare things that are not equal (more than or less than)."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "More than / Less than"
+            ],
+            [
+                "ul",
+                {
+                    "className": "rule-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "más"
+                    ],
+                    " + [adjective/noun] + ",
+                    [
+                        "strong",
+                        {},
+                        "que"
+                    ],
+                    " (more than)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "menos"
+                    ],
+                    " + [adjective/noun] + ",
+                    [
+                        "strong",
+                        {},
+                        "que"
+                    ],
+                    " (less than)"
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Examples"
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Juan es más alto que Pedro."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "Juan is taller than Pedro."
+                    ]
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Tengo menos dinero que tú."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "I have less money than you."
+                    ]
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "info-box"
+            },
+            [
+                "h3",
+                {},
+                "Irregular Comparatives"
+            ],
+            [
+                "p",
+                {},
+                "Some adjectives have their own comparative forms:"
+            ],
+            [
+                "ul",
+                {},
+                [
+                    "li",
+                    {},
+                    "Bueno → ",
+                    [
+                        "strong",
+                        {},
+                        "Mejor"
+                    ],
+                    " (Better)"
+                ],
+                [
+                    "li",
+                    {},
+                    "Malo → ",
+                    [
+                        "strong",
+                        {},
+                        "Peor"
+                    ],
+                    " (Worse)"
+                ],
+                [
+                    "li",
+                    {},
+                    "Viejo → ",
+                    [
+                        "strong",
+                        {},
+                        "Mayor"
+                    ],
+                    " (Older)"
+                ],
+                [
+                    "li",
+                    {},
+                    "Joven → ",
+                    [
+                        "strong",
+                        {},
+                        "Menor"
+                    ],
+                    " (Younger)"
+                ]
+            ]
+        ]
+    ]
+]

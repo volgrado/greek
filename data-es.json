@@ -540,6 +540,185 @@
           "→"
         ]
       ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 4: Prepositions and Pronouns"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/por-para-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "31. Por vs Para I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/por-para-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "32. Por vs Para II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/adverbs",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "33. Adverbs"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/comparisons-inequality",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "34. Comparisons of Inequality"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/comparisons-equality",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "35. Comparisons of Equality"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/superlatives",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "36. Superlatives"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pronouns-prep-objects",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "37. Pronouns: Object of Prepositions"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "38. Direct Object Pronouns I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "39. Direct Object Pronouns II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "40. Direct Object Pronouns III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
     ]
   ],
   "/curriculum": [
@@ -1076,6 +1255,185 @@
           "span",
           {},
           "30. Affirmative and Negative Words"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 4: Prepositions and Pronouns"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/por-para-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "31. Por vs Para I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/por-para-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "32. Por vs Para II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/adverbs",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "33. Adverbs"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/comparisons-inequality",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "34. Comparisons of Inequality"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/comparisons-equality",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "35. Comparisons of Equality"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/superlatives",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "36. Superlatives"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pronouns-prep-objects",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "37. Pronouns: Object of Prepositions"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "38. Direct Object Pronouns I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "39. Direct Object Pronouns II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "40. Direct Object Pronouns III"
         ],
         [
           "span",
@@ -7651,6 +8009,1836 @@
           "href": "#/lessons/stem-changers-e-i"
         },
         "← Stem-Changers: e -> i"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/por-para-1"
+        },
+        "Por vs Para I →"
+      ]
+    ]
+  ],
+  "/lessons/por-para-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 31"
+      ],
+      [
+        "h1",
+        {},
+        "Por vs Para I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In English, both 'por' and 'para' are often translated as 'for.' However, in Spanish, they have distinct uses that are never interchangeable."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Primary Uses of POR"
+        ],
+        [
+          "p",
+          {},
+          "Think of ",
+          [
+            "strong",
+            {},
+            "por"
+          ],
+          " as expressing movement through a space, duration of time, or cause/reason."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Motion or general location"
+            ],
+            " (through, along, by, or in the area of)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Duration of an action"
+            ],
+            " (for, during, in)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Reason or motive"
+            ],
+            " (because of, on account of, on behalf of)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Exchange or substitution"
+            ],
+            " (for, in exchange for)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples of Por"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Paseamos por el parque."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "We walked through the park (Motion)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Estudié por dos horas."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I studied for two hours (Duration)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Gracias por el regalo."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "Thank you for the gift (Exchange)."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/affinity-words"
+        },
+        "← Affirmative and Negative Words"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/por-para-2"
+        },
+        "Por vs Para II →"
+      ]
+    ]
+  ],
+  "/lessons/por-para-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 32"
+      ],
+      [
+        "h1",
+        {},
+        "Por vs Para II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "While 'por' is about the 'through' or the 'why,' ",
+        [
+          "strong",
+          {},
+          "para"
+        ],
+        " is about the 'for' in terms of destination, goal, or deadline."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Primary Uses of PARA"
+        ],
+        [
+          "p",
+          {},
+          "Think of ",
+          [
+            "strong",
+            {},
+            "para"
+          ],
+          " as expressing a destination, a purpose, or a point in the future."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Destination"
+            ],
+            " (toward, in the direction of)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Deadline or specific time"
+            ],
+            " (by, for)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Purpose or goal"
+            ],
+            " (in order to + infinitive)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Recipient"
+            ],
+            " (for)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples of Para"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Salgo para Madrid."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I'm leaving for Madrid (Destination)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Esta tarea es para mañana."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "This homework is for tomorrow (Deadline)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Estudio para aprender."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I study in order to learn (Purpose)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Este regalo es para ti."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "This gift is for you (Recipient)."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/por-para-1"
+        },
+        "← Por vs Para I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/adverbs"
+        },
+        "Adverbs →"
+      ]
+    ]
+  ],
+  "/lessons/adverbs": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 33"
+      ],
+      [
+        "h1",
+        {},
+        "Adverbs"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Adverbs describe how, when, or where an action occurs. Many Spanish adverbs are formed from adjectives."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The -mente Ending"
+        ],
+        [
+          "p",
+          {},
+          "To form an adverb from an adjective, use the feminine singular form and add ",
+          [
+            "strong",
+            {},
+            "-mente"
+          ],
+          " (equivalent to -ly in English)."
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Adjective"
+              ],
+              [
+                "th",
+                {},
+                "Adverb"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Rápido (Fast)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Rápidamente"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Lento (Slow)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Lentamente"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Fácil (Easy)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Fácilmente"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Placement"
+        ],
+        [
+          "p",
+          {},
+          "Adverbs that modify verbs usually come ",
+          [
+            "strong",
+            {},
+            "after"
+          ],
+          " the verb. Adverbs that modify adjectives or other adverbs come ",
+          [
+            "strong",
+            {},
+            "before"
+          ],
+          " the word they modify."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/por-para-2"
+        },
+        "← Por vs Para II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/comparisons-inequality"
+        },
+        "Comparisons of Inequality →"
+      ]
+    ]
+  ],
+  "/lessons/comparisons-inequality": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 34"
+      ],
+      [
+        "h1",
+        {},
+        "Comparisons of Inequality"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In Spanish, we use specific formulas to compare things that are not equal (more than or less than)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "More than / Less than"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "más"
+            ],
+            " + [adjective/noun] + ",
+            [
+              "strong",
+              {},
+              "que"
+            ],
+            " (more than)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "menos"
+            ],
+            " + [adjective/noun] + ",
+            [
+              "strong",
+              {},
+              "que"
+            ],
+            " (less than)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Juan es más alto que Pedro."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "Juan is taller than Pedro."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Tengo menos dinero que tú."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I have less money than you."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Irregular Comparatives"
+        ],
+        [
+          "p",
+          {},
+          "Some adjectives have their own comparative forms:"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            "Bueno → ",
+            [
+              "strong",
+              {},
+              "Mejor"
+            ],
+            " (Better)"
+          ],
+          [
+            "li",
+            {},
+            "Malo → ",
+            [
+              "strong",
+              {},
+              "Peor"
+            ],
+            " (Worse)"
+          ],
+          [
+            "li",
+            {},
+            "Viejo → ",
+            [
+              "strong",
+              {},
+              "Mayor"
+            ],
+            " (Older)"
+          ],
+          [
+            "li",
+            {},
+            "Joven → ",
+            [
+              "strong",
+              {},
+              "Menor"
+            ],
+            " (Younger)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/adverbs"
+        },
+        "← Adverbs"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/comparisons-equality"
+        },
+        "Comparisons of Equality →"
+      ]
+    ]
+  ],
+  "/lessons/comparisons-equality": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 35"
+      ],
+      [
+        "h1",
+        {},
+        "Comparisons of Equality"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "To compare things that are equal (as... as), Spanish uses different formulas depending on whether you are using adjectives or nouns."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "With Adjectives"
+        ],
+        [
+          "p",
+          {},
+          "Formula: ",
+          [
+            "strong",
+            {},
+            "tan"
+          ],
+          " + [adjective] + ",
+          [
+            "strong",
+            {},
+            "como"
+          ]
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Ella es tan inteligente como él."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "She is as intelligent as him."
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "With Nouns"
+        ],
+        [
+          "p",
+          {},
+          "Formula: ",
+          [
+            "strong",
+            {},
+            "tanto/a/os/as"
+          ],
+          " + [noun] + ",
+          [
+            "strong",
+            {},
+            "como"
+          ]
+        ],
+        [
+          "p",
+          {},
+          "Notice that 'tanto' must agree in gender and number with the noun."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Tengo tantos libros como tú."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I have as many books as you."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Hay tanta gente como ayer."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "There is as much people (as many people) as yesterday."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/comparisons-inequality"
+        },
+        "← Comparisons of Inequality"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/superlatives"
+        },
+        "Superlatives →"
+      ]
+    ]
+  ],
+  "/lessons/superlatives": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 36"
+      ],
+      [
+        "h1",
+        {},
+        "Superlatives"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Superlatives are used to describe something that has the highest or lowest degree of a quality (the most, the least)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Formula"
+        ],
+        [
+          "p",
+          {},
+          "Formula: ",
+          [
+            "strong",
+            {},
+            "definite article + [noun] + más/menos + [adjective] + de"
+          ]
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Juan es el más alto de la clase."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "Juan is the tallest in the class."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Es la película menos interesante de todas."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "It is the least interesting movie of all."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Absolute Superlatives"
+        ],
+        [
+          "p",
+          {},
+          "To say something is 'extremely' or 'very' [adjective], you can add the suffix ",
+          [
+            "strong",
+            {},
+            "-ísimo/a/os/as"
+          ],
+          " to the adjective."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "rápido → rapidísimo | inteligente → inteligentísimo"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/comparisons-equality"
+        },
+        "← Comparisons of Equality"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pronouns-prep-objects"
+        },
+        "Pronouns: Object of Prepositions →"
+      ]
+    ]
+  ],
+  "/lessons/pronouns-prep-objects": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 37"
+      ],
+      [
+        "h1",
+        {},
+        "Pronouns: Object of Prepositions"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "When a pronoun follows a preposition (like for, with, about), Spanish uses specific forms that are mostly identical to subject pronouns."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Pronoun Forms"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Subject"
+              ],
+              [
+                "th",
+                {},
+                "Object of Preposition"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "mí"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "ti"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Él / Ella / Ud."
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "él / ella / ud."
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nosotros"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Special Cases with 'Con'"
+        ],
+        [
+          "p",
+          {},
+          "When used with 'con' (with), 'mí' and 'ti' become:"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "conmigo (with me) | contigo (with you)"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/superlatives"
+        },
+        "← Superlatives"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-1"
+        },
+        "Direct Object Pronouns I →"
+      ]
+    ]
+  ],
+  "/lessons/direct-objects-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 38"
+      ],
+      [
+        "h1",
+        {},
+        "Direct Object Pronouns I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Direct object pronouns replace nouns that receive the action of a verb, helping to avoid repetition."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Forms"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Person"
+              ],
+              [
+                "th",
+                {},
+                "Singular"
+              ],
+              [
+                "th",
+                {},
+                "Plural"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "1st"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "me (me)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nos (us)"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "2nd"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "te (you)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "os (you all)"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "3rd"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "lo / la (it/him/her)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "los / las (them)"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Placement Rule"
+        ],
+        [
+          "p",
+          {},
+          "In a simple sentence with one conjugated verb, the direct object pronoun must come ",
+          [
+            "strong",
+            {},
+            "before"
+          ],
+          " the verb."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Yo tengo el libro → Yo ",
+          [
+            "strong",
+            {},
+            "lo"
+          ],
+          " tengo."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/pronouns-prep-objects"
+        },
+        "← Pronouns: Object of Prepositions"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-2"
+        },
+        "Direct Object Pronouns II →"
+      ]
+    ]
+  ],
+  "/lessons/direct-objects-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 39"
+      ],
+      [
+        "h1",
+        {},
+        "Direct Object Pronouns II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "When a sentence contains two verbs (like 'I want to see it'), you have a choice of where to place the pronoun."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Placement with Infinitives"
+        ],
+        [
+          "p",
+          {},
+          "Option 1: Before the conjugated verb."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          [
+            "strong",
+            {},
+            "Lo"
+          ],
+          " quiero ver."
+        ],
+        [
+          "p",
+          {},
+          "Option 2: Attached to the end of the infinitive."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Quiero ver",
+          [
+            "strong",
+            {},
+            "lo"
+          ],
+          "."
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Both are correct!"
+        ],
+        [
+          "p",
+          {},
+          "Spanish speakers use both forms, although attaching it to the end is often considered more natural in spoken Spanish for some learners."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-1"
+        },
+        "← Direct Object Pronouns I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-3"
+        },
+        "Direct Object Pronouns III →"
+      ]
+    ]
+  ],
+  "/lessons/direct-objects-3": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 40"
+      ],
+      [
+        "h1",
+        {},
+        "Direct Object Pronouns III"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Just like with infinitives, direct object pronouns can also be attached to present particles (-ando, -iendo)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Placement with Particles"
+        ],
+        [
+          "p",
+          {},
+          "Option 1: Before the conjugated verb (estar)."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          [
+            "strong",
+            {},
+            "Lo"
+          ],
+          " estoy leyendo."
+        ],
+        [
+          "p",
+          {},
+          "Option 2: Attached to the end of the participle."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Estoy leyéndo",
+          [
+            "strong",
+            {},
+            "lo"
+          ],
+          "."
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Accent Alert!"
+        ],
+        [
+          "p",
+          {},
+          "Notice that when you attach a pronoun to a present participle, you must add an accent mark to the original stressed vowel of the participle to maintain the correct stress."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "leyendo → leyéndolo"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-2"
+        },
+        "← Direct Object Pronouns II"
       ],
       [
         "a",
