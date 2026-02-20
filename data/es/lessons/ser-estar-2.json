@@ -1,0 +1,198 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 12"
+        ],
+        [
+            "h1",
+            {},
+            "Ser vs Estar II (Uses of Ser)"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "The verb ",
+            [
+                "strong",
+                {},
+                "ser"
+            ],
+            " is used to describe permanent or essential qualities."
+        ],
+        [
+            "div",
+            {
+                "className": "info-box"
+            },
+            [
+                "h3",
+                {},
+                "The D.O.C.T.O.R. Acronym"
+            ],
+            [
+                "p",
+                {},
+                "Use ",
+                [
+                    "strong",
+                    {},
+                    "SER"
+                ],
+                " for:"
+            ],
+            [
+                "ul",
+                {},
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "D"
+                    ],
+                    "escription (Physical/Personality)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "O"
+                    ],
+                    "cupation"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "C"
+                    ],
+                    "haracteristic"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "T"
+                    ],
+                    "ime"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "O"
+                    ],
+                    "rigin"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "R"
+                    ],
+                    "elationship"
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Examples"
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Yo soy profesor."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "I am a teacher (Occupation)."
+                    ]
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Ella es de Madrid."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "She is from Madrid (Origin)."
+                    ]
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Hoy es lunes."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "Today is Monday (Time)."
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

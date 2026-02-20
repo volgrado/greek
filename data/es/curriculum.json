@@ -50,5 +50,57 @@
             "title": "Adjectives II",
             "num": 10
         }
+    ],
+    "Unit 2: More Basics": [
+        {
+            "id": "ser-estar-1",
+            "title": "Ser vs Estar I",
+            "num": 11
+        },
+        {
+            "id": "ser-estar-2",
+            "title": "Ser vs Estar II",
+            "num": 12
+        },
+        {
+            "id": "ser-estar-3",
+            "title": "Ser vs Estar III",
+            "num": 13
+        },
+        {
+            "id": "ser-estar-4",
+            "title": "Ser vs Estar IV",
+            "num": 14
+        },
+        {
+            "id": "negation",
+            "title": "Negation",
+            "num": 15
+        },
+        {
+            "id": "interrogatives",
+            "title": "Interrogatives",
+            "num": 16
+        },
+        {
+            "id": "numbers-1",
+            "title": "Numbers: 1-10",
+            "num": 17
+        },
+        {
+            "id": "numbers-2",
+            "title": "Numbers: 11-100",
+            "num": 18
+        },
+        {
+            "id": "telling-time",
+            "title": "Telling Time",
+            "num": 19
+        },
+        {
+            "id": "dates",
+            "title": "Dates",
+            "num": 20
+        }
     ]
 }

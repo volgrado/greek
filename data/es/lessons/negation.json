@@ -1,0 +1,159 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 15"
+        ],
+        [
+            "h1",
+            {},
+            "Negation"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "In Spanish, making a sentence negative is much simpler than in English. You just add ",
+            [
+                "strong",
+                {},
+                "no"
+            ],
+            " before the verb."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Rule & Examples"
+            ],
+            [
+                "div",
+                {
+                    "className": "example-box"
+                },
+                [
+                    "p",
+                    {},
+                    "Positive: ",
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Yo hablo español."
+                    ]
+                ],
+                [
+                    "p",
+                    {},
+                    "Negative: ",
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Yo ",
+                        [
+                            "strong",
+                            {},
+                            "no"
+                        ],
+                        " hablo español."
+                    ]
+                ]
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "No estoy cansado."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "I am not tired."
+                    ]
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Ellos no son de aquí."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "They are not from here."
+                    ]
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "grammar-info"
+            },
+            [
+                "h3",
+                {},
+                "Answer with No"
+            ],
+            [
+                "p",
+                {},
+                "When answering a question in the negative, you often say ",
+                [
+                    "strong",
+                    {},
+                    "no"
+                ],
+                " twice: once for the 'No' and once for the sentence negation."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "—¿Hablas inglés? —No, no hablo inglés."
+            ]
+        ]
+    ]
+]
