@@ -1,0 +1,143 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 65"
+        ],
+        [
+            "h1",
+            {},
+            "Negative Commands"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "To tell someone NOT to do something, the rules change significantly, especially for the 'tú' form."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The Rule for All Forms"
+            ],
+            [
+                "p",
+                {},
+                "To form any negative command (Ud., Uds., or tú), start with the ",
+                [
+                    "strong",
+                    {},
+                    "formal command"
+                ],
+                " form and add 'no' in front."
+            ],
+            [
+                "ul",
+                {
+                    "className": "rule-list"
+                },
+                [
+                    "li",
+                    {},
+                    "Usted: ",
+                    [
+                        "strong",
+                        {},
+                        "No hable"
+                    ],
+                    " (Don't speak)"
+                ],
+                [
+                    "li",
+                    {},
+                    "Ustedes: ",
+                    [
+                        "strong",
+                        {},
+                        "No hablen"
+                    ],
+                    " (Don't speak)"
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Negative Tú Commands"
+            ],
+            [
+                "p",
+                {},
+                "For the 'tú' form, take the Usted command form and add ",
+                [
+                    "strong",
+                    {},
+                    "-s"
+                ],
+                "."
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    "Hablar → No hable → ",
+                    [
+                        "strong",
+                        {},
+                        "No hables"
+                    ]
+                ],
+                [
+                    "li",
+                    {},
+                    "Comer → No coma → ",
+                    [
+                        "strong",
+                        {},
+                        "No comas"
+                    ]
+                ],
+                [
+                    "li",
+                    {},
+                    "Decir → No diga → ",
+                    [
+                        "strong",
+                        {},
+                        "No digas"
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

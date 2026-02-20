@@ -1,0 +1,178 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 64"
+        ],
+        [
+            "h1",
+            {},
+            "Informal Commands: Tú"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Affirmative informal commands are used with friends, family, and people you know well."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The Regular Rule"
+            ],
+            [
+                "p",
+                {},
+                "For regular verbs, use the ",
+                [
+                    "strong",
+                    {},
+                    "third-person singular"
+                ],
+                " form of the present tense (the él/ella form)."
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    "Hablar → ",
+                    [
+                        "strong",
+                        {},
+                        "Habla"
+                    ],
+                    " (Speak!)"
+                ],
+                [
+                    "li",
+                    {},
+                    "Comer → ",
+                    [
+                        "strong",
+                        {},
+                        "Come"
+                    ],
+                    " (Eat!)"
+                ],
+                [
+                    "li",
+                    {},
+                    "Escribir → ",
+                    [
+                        "strong",
+                        {},
+                        "Escribe"
+                    ],
+                    " (Write!)"
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Irregular Tú Commands"
+            ],
+            [
+                "p",
+                {},
+                "There are 8 common irregular commands in the 'tú' form:"
+            ],
+            [
+                "div",
+                {
+                    "className": "example-box"
+                },
+                [
+                    "p",
+                    {},
+                    "Decir → ",
+                    [
+                        "strong",
+                        {},
+                        "di"
+                    ],
+                    " | Hacer → ",
+                    [
+                        "strong",
+                        {},
+                        "haz"
+                    ],
+                    " | Ir → ",
+                    [
+                        "strong",
+                        {},
+                        "ve"
+                    ]
+                ],
+                [
+                    "p",
+                    {},
+                    "Poner → ",
+                    [
+                        "strong",
+                        {},
+                        "pon"
+                    ],
+                    " | Salir → ",
+                    [
+                        "strong",
+                        {},
+                        "sal"
+                    ],
+                    " | Ser → ",
+                    [
+                        "strong",
+                        {},
+                        "sé"
+                    ]
+                ],
+                [
+                    "p",
+                    {},
+                    "Tener → ",
+                    [
+                        "strong",
+                        {},
+                        "ten"
+                    ],
+                    " | Venir → ",
+                    [
+                        "strong",
+                        {},
+                        "ven"
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

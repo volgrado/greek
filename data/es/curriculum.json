@@ -305,5 +305,57 @@
             "title": "Preterite vs Imperfect III",
             "num": 60
         }
+    ],
+    "Unit 7: Commands and Reflexives": [
+        {
+            "id": "rel-pronouns-1",
+            "title": "Relative Pronouns I",
+            "num": 61
+        },
+        {
+            "id": "rel-pronouns-2",
+            "title": "Relative Pronouns II",
+            "num": 62
+        },
+        {
+            "id": "formal-commands",
+            "title": "Formal Commands",
+            "num": 63
+        },
+        {
+            "id": "informal-commands-tu",
+            "title": "Informal Commands: Tú",
+            "num": 64
+        },
+        {
+            "id": "negative-commands",
+            "title": "Negative Commands",
+            "num": 65
+        },
+        {
+            "id": "commands-pronouns",
+            "title": "Object Pronouns with Commands",
+            "num": 66
+        },
+        {
+            "id": "reflexive-verbs-1",
+            "title": "Reflexive Verbs I",
+            "num": 67
+        },
+        {
+            "id": "reflexive-verbs-2",
+            "title": "Reflexive Verbs II",
+            "num": 68
+        },
+        {
+            "id": "definite-article-2",
+            "title": "Definite Article II",
+            "num": 69
+        },
+        {
+            "id": "possessive-pronouns",
+            "title": "Possessive Pronouns",
+            "num": 70
+        }
     ]
 }
