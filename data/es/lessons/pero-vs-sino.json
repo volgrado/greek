@@ -1,0 +1,100 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 99"
+        ],
+        [
+            "h1",
+            {},
+            "Pero vs Sino"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Spanish has two words for 'but', and they are used in very specific contexts."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Pero"
+            ],
+            [
+                "p",
+                {},
+                "The standard word for 'but'. It adds information that contrasts with the first part of the sentence."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Es caro pero bueno. (It's expensive but good.)"
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Sino"
+            ],
+            [
+                "p",
+                {},
+                "Used after a ",
+                [
+                    "strong",
+                    {},
+                    "negative"
+                ],
+                " statement to mean 'but rather' or 'on the contrary'."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "No es azul ",
+                [
+                    "strong",
+                    {},
+                    "sino"
+                ],
+                " verde."
+            ],
+            [
+                "p",
+                {
+                    "className": "translation"
+                },
+                "It's not blue but (rather) green."
+            ]
+        ]
+    ]
+]

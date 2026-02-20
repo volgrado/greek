@@ -1,0 +1,108 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 97"
+        ],
+        [
+            "h1",
+            {},
+            "Accidental 'Se'"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Spanish uses a special construction with 'se' to describe accidental or unintentional events, shifting the blame away from the person."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The Construction"
+            ],
+            [
+                "p",
+                {},
+                "Pattern: ",
+                [
+                    "strong",
+                    {},
+                    "SE + Indirect Object Pronoun + Verb (+ Subject)"
+                ]
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Se me rompió el vaso."
+                    ],
+                    " (The glass broke [on me / accidentally].)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Se nos olvidaron las llaves."
+                    ],
+                    " (We forgot the keys [accidentally].)"
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "info-box"
+            },
+            [
+                "h3",
+                {},
+                "Grammar Logic"
+            ],
+            [
+                "p",
+                {},
+                "In this structure, the thing that was dropped/broken is the ",
+                [
+                    "strong",
+                    {},
+                    "subject"
+                ],
+                ", and the person is merely the indirect object affected by the event."
+            ]
+        ]
+    ]
+]

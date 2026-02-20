@@ -1,0 +1,150 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 93"
+        ],
+        [
+            "h1",
+            {},
+            "Imperfect Subjunctive III"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "The choice between present and imperfect subjunctive depends on the tense of the main clause."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The Sequence of Tenses"
+            ],
+            [
+                "ul",
+                {
+                    "className": "rule-list"
+                },
+                [
+                    "li",
+                    {},
+                    "If the main verb is in ",
+                    [
+                        "strong",
+                        {},
+                        "Present, Future, or Imperative"
+                    ],
+                    " → Use ",
+                    [
+                        "strong",
+                        {},
+                        "Present Subjunctive"
+                    ],
+                    "."
+                ],
+                [
+                    "li",
+                    {},
+                    "If the main verb is in ",
+                    [
+                        "strong",
+                        {},
+                        "Preterite, Imperfect, or Conditional"
+                    ],
+                    " → Use ",
+                    [
+                        "strong",
+                        {},
+                        "Imperfect Subjunctive"
+                    ],
+                    "."
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Examples"
+            ],
+            [
+                "div",
+                {
+                    "className": "example-box"
+                },
+                [
+                    "p",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Quiero que vengas."
+                    ],
+                    " (I want you to come - Present)"
+                ],
+                [
+                    "p",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Quería que vinieras."
+                    ],
+                    " (I wanted you to come - Past)"
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "info-box"
+            },
+            [
+                "h3",
+                {},
+                "Polite Requests"
+            ],
+            [
+                "p",
+                {},
+                "The imperfect subjunctive of 'querer' (quisiera) is frequently used to make very polite requests."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Quisiera un café, por favor."
+            ]
+        ]
+    ]
+]

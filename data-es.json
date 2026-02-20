@@ -1597,6 +1597,185 @@
           "→"
         ]
       ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 10: Advanced Subjunctive and Syntax"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "91. Imperfect Subjunctive I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "92. Imperfect Subjunctive II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "93. Imperfect Subjunctive III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/si-clauses-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "94. Si Clauses I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/si-clauses-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "95. Si Clauses II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/passive-voice",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "96. The Passive Voice"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/se-accidental",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "97. Accidental 'Se'"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/hace-ago",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "98. Hace meaning 'Ago'"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pero-vs-sino",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "99. Pero vs Sino"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/finale-summary",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "100. Spanish Finale"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
     ]
   ],
   "/curriculum": [
@@ -3190,6 +3369,185 @@
           "span",
           {},
           "90. Subjunctive: The Six Irregulars"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 10: Advanced Subjunctive and Syntax"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "91. Imperfect Subjunctive I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "92. Imperfect Subjunctive II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "93. Imperfect Subjunctive III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/si-clauses-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "94. Si Clauses I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/si-clauses-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "95. Si Clauses II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/passive-voice",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "96. The Passive Voice"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/se-accidental",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "97. Accidental 'Se'"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/hace-ago",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "98. Hace meaning 'Ago'"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pero-vs-sino",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "99. Pero vs Sino"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/finale-summary",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "100. Spanish Finale"
         ],
         [
           "span",
@@ -21171,6 +21529,1607 @@
           "href": "#/lessons/subjunctive-ojala"
         },
         "← Subjunctive: Ojalá"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-1"
+        },
+        "Imperfect Subjunctive I →"
+      ]
+    ]
+  ],
+  "/lessons/imperfect-subjunctive-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 91"
+      ],
+      [
+        "h1",
+        {},
+        "Imperfect Subjunctive I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The imperfect subjunctive is used in the same situations as the present subjunctive (WEIRDO), but when the main verb is in the past tense or conditional."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Formula"
+        ],
+        [
+          "p",
+          {},
+          "To form the imperfect subjunctive, you always start with the ",
+          [
+            "strong",
+            {},
+            "third-person plural (ellos/ellas)"
+          ],
+          " form of the ",
+          [
+            "strong",
+            {},
+            "Preterite"
+          ],
+          "."
+        ],
+        [
+          "ol",
+          {},
+          [
+            "li",
+            {},
+            "Take the 'ellos' preterite form (e.g., hablaron, comieron)."
+          ],
+          [
+            "li",
+            {},
+            "Drop the ",
+            [
+              "strong",
+              {},
+              "-ron"
+            ],
+            "."
+          ],
+          [
+            "li",
+            {},
+            "Add the imperfect subjunctive endings."
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Endings"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ra"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ras"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ra"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ramos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ran"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Accent Rule"
+        ],
+        [
+          "p",
+          {},
+          "In the 'nosotros' form, you must add an accent mark to the vowel immediately preceding the ending: ",
+          [
+            "strong",
+            {},
+            "habláramos, comiéramos"
+          ],
+          "."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-disish"
+        },
+        "← Subjunctive: The Six Irregulars"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-2"
+        },
+        "Imperfect Subjunctive II →"
+      ]
+    ]
+  ],
+  "/lessons/imperfect-subjunctive-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 92"
+      ],
+      [
+        "h1",
+        {},
+        "Imperfect Subjunctive II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Because the imperfect subjunctive is based on the 'ellos' preterite form, any verb that is irregular in the preterite will have the same irregularity here."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Irregular Examples"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Verb"
+              ],
+              [
+                "th",
+                {},
+                "Ellos Preterite"
+              ],
+              [
+                "th",
+                {},
+                "Subj. Stem"
+              ],
+              [
+                "th",
+                {},
+                "Yo Form"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Estar"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "estuvieron"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "estuvie-"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "estuviera"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Hacer"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hicieron"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hicie-"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hiciera"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ir/Ser"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "fueron"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "fue-"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "fuera"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Tener"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "tuvieron"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "tuvie-"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "tuviera"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Alternate Endings"
+        ],
+        [
+          "p",
+          {},
+          "In some regions (especially Spain) and in literature, you may see an alternative set of endings: -se, -ses, -se, -semos, -seis, -sen. Both are correct, but -ra is more common in speech."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-1"
+        },
+        "← Imperfect Subjunctive I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-3"
+        },
+        "Imperfect Subjunctive III →"
+      ]
+    ]
+  ],
+  "/lessons/imperfect-subjunctive-3": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 93"
+      ],
+      [
+        "h1",
+        {},
+        "Imperfect Subjunctive III"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The choice between present and imperfect subjunctive depends on the tense of the main clause."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Sequence of Tenses"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "If the main verb is in ",
+            [
+              "strong",
+              {},
+              "Present, Future, or Imperative"
+            ],
+            " → Use ",
+            [
+              "strong",
+              {},
+              "Present Subjunctive"
+            ],
+            "."
+          ],
+          [
+            "li",
+            {},
+            "If the main verb is in ",
+            [
+              "strong",
+              {},
+              "Preterite, Imperfect, or Conditional"
+            ],
+            " → Use ",
+            [
+              "strong",
+              {},
+              "Imperfect Subjunctive"
+            ],
+            "."
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Quiero que vengas."
+            ],
+            " (I want you to come - Present)"
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Quería que vinieras."
+            ],
+            " (I wanted you to come - Past)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Polite Requests"
+        ],
+        [
+          "p",
+          {},
+          "The imperfect subjunctive of 'querer' (quisiera) is frequently used to make very polite requests."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Quisiera un café, por favor."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-2"
+        },
+        "← Imperfect Subjunctive II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/si-clauses-1"
+        },
+        "Si Clauses I →"
+      ]
+    ]
+  ],
+  "/lessons/si-clauses-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 94"
+      ],
+      [
+        "h1",
+        {},
+        "Si Clauses I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "'Si' clauses (If clauses) express conditions. There are several types depending on how likely the condition is to be true."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Type 1: Possible Conditions"
+        ],
+        [
+          "p",
+          {},
+          "If the condition is likely or possible, use the ",
+          [
+            "strong",
+            {},
+            "Indicative"
+          ],
+          "."
+        ],
+        [
+          "p",
+          {},
+          "Pattern: ",
+          [
+            "strong",
+            {},
+            "Si + Present Indicative → Present/Future Indicative"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Si tengo dinero, iré a España."
+            ],
+            " (If I have money, I will go to Spain.)"
+          ],
+          [
+            "p",
+            {},
+            "Note: NEVER use the present subjunctive after 'si' to express a possible condition."
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/imperfect-subjunctive-3"
+        },
+        "← Imperfect Subjunctive III"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/si-clauses-2"
+        },
+        "Si Clauses II →"
+      ]
+    ]
+  ],
+  "/lessons/si-clauses-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 95"
+      ],
+      [
+        "h1",
+        {},
+        "Si Clauses II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Hypothetical or contrary-to-fact conditions require a specific combination of tenses."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Type 2: Improbable / Unlikely Conditions"
+        ],
+        [
+          "p",
+          {},
+          "If you are talking about something that is not currently true (If I were rich...), use the subjunctive."
+        ],
+        [
+          "p",
+          {},
+          "Pattern: ",
+          [
+            "strong",
+            {},
+            "Si + Imperfect Subjunctive → Conditional"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Si ",
+              [
+                "strong",
+                {},
+                "fuera"
+              ],
+              " rico, ",
+              [
+                "strong",
+                {},
+                "compraría"
+              ],
+              " un coche."
+            ],
+            " (If I were rich, I would buy a car.)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "The Magic Mnemonic"
+        ],
+        [
+          "p",
+          {},
+          "A common way to remember this is: ",
+          [
+            "strong",
+            {},
+            "Subjunctive-Si, Conditional-Other"
+          ],
+          "."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/si-clauses-1"
+        },
+        "← Si Clauses I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/passive-voice"
+        },
+        "The Passive Voice →"
+      ]
+    ]
+  ],
+  "/lessons/passive-voice": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 96"
+      ],
+      [
+        "h1",
+        {},
+        "The Passive Voice"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In the passive voice, the subject of the sentence receives the action rather than performing it (The book was written)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Option 1: SER + Past Participle"
+        ],
+        [
+          "p",
+          {},
+          "This is used when the person performing the action (the agent) is mentioned using 'por'."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "El libro ",
+          [
+            "strong",
+            {},
+            "fue escrito por"
+          ],
+          " Cervantes."
+        ],
+        [
+          "p",
+          {},
+          "Note: The participle must agree in gender and number with the subject."
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Option 2: The Passive 'Se'"
+        ],
+        [
+          "p",
+          {},
+          "This is far more common in everyday Spanish when the agent is unknown or unimportant."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          [
+            "strong",
+            {},
+            "Se vende"
+          ],
+          " pan aquí."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "Bread is sold here."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/si-clauses-2"
+        },
+        "← Si Clauses II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/se-accidental"
+        },
+        "Accidental 'Se' →"
+      ]
+    ]
+  ],
+  "/lessons/se-accidental": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 97"
+      ],
+      [
+        "h1",
+        {},
+        "Accidental 'Se'"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Spanish uses a special construction with 'se' to describe accidental or unintentional events, shifting the blame away from the person."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Construction"
+        ],
+        [
+          "p",
+          {},
+          "Pattern: ",
+          [
+            "strong",
+            {},
+            "SE + Indirect Object Pronoun + Verb (+ Subject)"
+          ]
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Se me rompió el vaso."
+            ],
+            " (The glass broke [on me / accidentally].)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Se nos olvidaron las llaves."
+            ],
+            " (We forgot the keys [accidentally].)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Grammar Logic"
+        ],
+        [
+          "p",
+          {},
+          "In this structure, the thing that was dropped/broken is the ",
+          [
+            "strong",
+            {},
+            "subject"
+          ],
+          ", and the person is merely the indirect object affected by the event."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/passive-voice"
+        },
+        "← The Passive Voice"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/hace-ago"
+        },
+        "Hace meaning 'Ago' →"
+      ]
+    ]
+  ],
+  "/lessons/hace-ago": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 98"
+      ],
+      [
+        "h1",
+        {},
+        "Hace meaning 'Ago'"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The verb 'hacer' is used in several time-related expressions, most notably to mean 'ago'."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Time Passed"
+        ],
+        [
+          "p",
+          {},
+          "Pattern: ",
+          [
+            "strong",
+            {},
+            "Hace + Time + que + Present Verb"
+          ]
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "To express how long you have BEEN doing something:"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Hace dos años que vivo aquí. (I have lived here for two years.)"
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Actions in the Past ('Ago')"
+        ],
+        [
+          "p",
+          {},
+          "Pattern: ",
+          [
+            "strong",
+            {},
+            "Preterite Verb + hace + Time"
+          ]
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Fui a España hace tres meses. (I went to Spain three months ago.)"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/se-accidental"
+        },
+        "← Accidental 'Se'"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pero-vs-sino"
+        },
+        "Pero vs Sino →"
+      ]
+    ]
+  ],
+  "/lessons/pero-vs-sino": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 99"
+      ],
+      [
+        "h1",
+        {},
+        "Pero vs Sino"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Spanish has two words for 'but', and they are used in very specific contexts."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Pero"
+        ],
+        [
+          "p",
+          {},
+          "The standard word for 'but'. It adds information that contrasts with the first part of the sentence."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Es caro pero bueno. (It's expensive but good.)"
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Sino"
+        ],
+        [
+          "p",
+          {},
+          "Used after a ",
+          [
+            "strong",
+            {},
+            "negative"
+          ],
+          " statement to mean 'but rather' or 'on the contrary'."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "No es azul ",
+          [
+            "strong",
+            {},
+            "sino"
+          ],
+          " verde."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "It's not blue but (rather) green."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/hace-ago"
+        },
+        "← Hace meaning 'Ago'"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/finale-summary"
+        },
+        "Spanish Finale →"
+      ]
+    ]
+  ],
+  "/lessons/finale-summary": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 100"
+      ],
+      [
+        "h1",
+        {},
+        "Spanish Finale: 100 Lessons Milestone"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Congratulations! You've reached the end of the 100-lesson Spanish Grammar course."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "What You've Accomplished"
+        ],
+        [
+          "p",
+          {},
+          "Over the last 10 units, we have covered:"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Basics"
+            ],
+            ": Gender, Articles, and Regular Verbs."
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Syntax"
+            ],
+            ": Pronoun placement and Sentence structure."
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "The Past"
+            ],
+            ": Preterite, Imperfect, and Perfect tenses."
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "The Future"
+            ],
+            ": Future and Conditional moods."
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "The Subjunctive"
+            ],
+            ": The most complex and beautiful part of Spanish grammar."
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h2",
+          {},
+          "Keep Practicing!"
+        ],
+        [
+          "p",
+          {},
+          "Mastering a language is a lifelong journey. Use these lessons as a reference as you continue to speak, read, and listen to Spanish every day."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish",
+            "style": "font-size: 1.5rem; text-align: center; margin-top: 1rem;"
+          },
+          "¡Buena suerte!"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/pero-vs-sino"
+        },
+        "← Pero vs Sino"
       ],
       [
         "a",
