@@ -357,5 +357,57 @@
             "title": "Possessive Pronouns",
             "num": 70
         }
+    ],
+    "Unit 8: Future, Conditional, and Subjunctive": [
+        {
+            "id": "future-regular",
+            "title": "Future Tense: Regular",
+            "num": 71
+        },
+        {
+            "id": "future-irregular",
+            "title": "Future Tense: Irregular",
+            "num": 72
+        },
+        {
+            "id": "conditional-regular",
+            "title": "Conditional Tense",
+            "num": 73
+        },
+        {
+            "id": "rel-pronouns-3",
+            "title": "Relative Pronouns III",
+            "num": 74
+        },
+        {
+            "id": "rel-pronouns-4",
+            "title": "Relative Pronouns IV",
+            "num": 75
+        },
+        {
+            "id": "subjunctive-intro",
+            "title": "Subjunctive Intro",
+            "num": 76
+        },
+        {
+            "id": "subjunctive-present-regular",
+            "title": "Subjunctive: Present",
+            "num": 77
+        },
+        {
+            "id": "subjunctive-irregular-yo",
+            "title": "Subjunctive: Irregular Yo",
+            "num": 78
+        },
+        {
+            "id": "subjunctive-spelling-change",
+            "title": "Subjunctive: Spelling Changes",
+            "num": 79
+        },
+        {
+            "id": "subjunctive-stem-change",
+            "title": "Subjunctive: Stem-Changers",
+            "num": 80
+        }
     ]
 }
