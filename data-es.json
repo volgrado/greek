@@ -182,6 +182,185 @@
           "→"
         ]
       ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 2: More Basics"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "11. Ser vs Estar I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "12. Ser vs Estar II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "13. Ser vs Estar III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-4",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "14. Ser vs Estar IV"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/negation",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "15. Negation"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/interrogatives",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "16. Interrogatives"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/numbers-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "17. Numbers: 1-10"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/numbers-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "18. Numbers: 11-100"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/telling-time",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "19. Telling Time"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/dates",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "20. Dates"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
     ]
   ],
   "/curriculum": [
@@ -360,6 +539,185 @@
           "span",
           {},
           "10. Adjectives II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 2: More Basics"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "11. Ser vs Estar I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "12. Ser vs Estar II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "13. Ser vs Estar III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-4",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "14. Ser vs Estar IV"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/negation",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "15. Negation"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/interrogatives",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "16. Interrogatives"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/numbers-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "17. Numbers: 1-10"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/numbers-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "18. Numbers: 11-100"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/telling-time",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "19. Telling Time"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/dates",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "20. Dates"
         ],
         [
           "span",
@@ -2743,6 +3101,2188 @@
           "href": "#/lessons/adjectives-1"
         },
         "← Adjectives I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-1"
+        },
+        "Ser vs Estar I →"
+      ]
+    ]
+  ],
+  "/lessons/ser-estar-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 11"
+      ],
+      [
+        "h1",
+        {},
+        "Ser vs Estar I (Conjugation)"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In English, the verb 'to be' is always the same. In Spanish, there are two distinct verbs: ",
+        [
+          "strong",
+          {},
+          "ser"
+        ],
+        " and ",
+        [
+          "strong",
+          {},
+          "estar"
+        ],
+        "."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Conjugation of Ser"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Subject"
+              ],
+              [
+                "th",
+                {},
+                "Ser"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "soy"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "eres"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Él / Ella / Ud."
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "es"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros/as"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "somos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Vosotros/as"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "sois"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ellos / Ellas / Uds."
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "son"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Conjugation of Estar"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Subject"
+              ],
+              [
+                "th",
+                {},
+                "Estar"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "estoy"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "estás"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Él / Ella / Ud."
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "está"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros/as"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "estamos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Vosotros/as"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "estáis"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ellos / Ellas / Uds."
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "están"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/adjectives-2"
+        },
+        "← Adjectives II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-2"
+        },
+        "Ser vs Estar II →"
+      ]
+    ]
+  ],
+  "/lessons/ser-estar-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 12"
+      ],
+      [
+        "h1",
+        {},
+        "Ser vs Estar II (Uses of Ser)"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The verb ",
+        [
+          "strong",
+          {},
+          "ser"
+        ],
+        " is used to describe permanent or essential qualities."
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "The D.O.C.T.O.R. Acronym"
+        ],
+        [
+          "p",
+          {},
+          "Use ",
+          [
+            "strong",
+            {},
+            "SER"
+          ],
+          " for:"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "D"
+            ],
+            "escription (Physical/Personality)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "O"
+            ],
+            "cupation"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "C"
+            ],
+            "haracteristic"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "T"
+            ],
+            "ime"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "O"
+            ],
+            "rigin"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "R"
+            ],
+            "elationship"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Yo soy profesor."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I am a teacher (Occupation)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Ella es de Madrid."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "She is from Madrid (Origin)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Hoy es lunes."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "Today is Monday (Time)."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-1"
+        },
+        "← Ser vs Estar I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-3"
+        },
+        "Ser vs Estar III →"
+      ]
+    ]
+  ],
+  "/lessons/ser-estar-3": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 13"
+      ],
+      [
+        "h1",
+        {},
+        "Ser vs Estar III (Uses of Estar)"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The verb ",
+        [
+          "strong",
+          {},
+          "estar"
+        ],
+        " is used to describe temporary states, moods, and locations."
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "The P.L.A.C.E. Acronym"
+        ],
+        [
+          "p",
+          {},
+          "Use ",
+          [
+            "strong",
+            {},
+            "ESTAR"
+          ],
+          " for:"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "P"
+            ],
+            "osition"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "L"
+            ],
+            "ocation"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "A"
+            ],
+            "ction (Progressive)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "C"
+            ],
+            "ondition (Physical/Mental)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "E"
+            ],
+            "motion"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Estoy en casa."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I am at home (Location)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Él está cansado."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "He is tired (Condition)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Estamos felices."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "We are happy (Emotion)."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-2"
+        },
+        "← Ser vs Estar II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-4"
+        },
+        "Ser vs Estar IV →"
+      ]
+    ]
+  ],
+  "/lessons/ser-estar-4": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 14"
+      ],
+      [
+        "h1",
+        {},
+        "Ser vs Estar IV (Comparison)"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Sometimes, choosing between ",
+        [
+          "strong",
+          {},
+          "ser"
+        ],
+        " and ",
+        [
+          "strong",
+          {},
+          "estar"
+        ],
+        " can change the meaning of an adjective."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Contrast Table"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Adjective"
+              ],
+              [
+                "th",
+                {},
+                "With Ser"
+              ],
+              [
+                "th",
+                {},
+                "With Estar"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Aburrido"
+              ],
+              [
+                "td",
+                {},
+                "To be boring"
+              ],
+              [
+                "td",
+                {},
+                "To be bored"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Listo"
+              ],
+              [
+                "td",
+                {},
+                "To be smart"
+              ],
+              [
+                "td",
+                {},
+                "To be ready"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Rico"
+              ],
+              [
+                "td",
+                {},
+                "To be wealthy"
+              ],
+              [
+                "td",
+                {},
+                "To be delicious"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Summary Tip"
+        ],
+        [
+          "p",
+          {},
+          "Remember: ",
+          [
+            "strong",
+            {},
+            "Ser"
+          ],
+          " is for WHAT something is, and ",
+          [
+            "strong",
+            {},
+            "Estar"
+          ],
+          " is for HOW something is at the moment."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-3"
+        },
+        "← Ser vs Estar III"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/negation"
+        },
+        "Negation →"
+      ]
+    ]
+  ],
+  "/lessons/negation": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 15"
+      ],
+      [
+        "h1",
+        {},
+        "Negation"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In Spanish, making a sentence negative is much simpler than in English. You just add ",
+        [
+          "strong",
+          {},
+          "no"
+        ],
+        " before the verb."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Rule & Examples"
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            "Positive: ",
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Yo hablo español."
+            ]
+          ],
+          [
+            "p",
+            {},
+            "Negative: ",
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Yo ",
+              [
+                "strong",
+                {},
+                "no"
+              ],
+              " hablo español."
+            ]
+          ]
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "No estoy cansado."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I am not tired."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Ellos no son de aquí."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "They are not from here."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Answer with No"
+        ],
+        [
+          "p",
+          {},
+          "When answering a question in the negative, you often say ",
+          [
+            "strong",
+            {},
+            "no"
+          ],
+          " twice: once for the 'No' and once for the sentence negation."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "—¿Hablas inglés? —No, no hablo inglés."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/ser-estar-4"
+        },
+        "← Ser vs Estar IV"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/interrogatives"
+        },
+        "Interrogatives →"
+      ]
+    ]
+  ],
+  "/lessons/interrogatives": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 16"
+      ],
+      [
+        "h1",
+        {},
+        "Interrogatives"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Spanish uses unique punctuation and specific question words to ask questions."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Punctuation Rule"
+        ],
+        [
+          "p",
+          {},
+          "In Spanish, questions always start with an inverted question mark (",
+          [
+            "strong",
+            {},
+            "¿"
+          ],
+          ") and end with a standard one (",
+          [
+            "strong",
+            {},
+            "?"
+          ],
+          ")."
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Common Question Words"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Spanish"
+              ],
+              [
+                "th",
+                {},
+                "English"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "¿Qué?"
+              ],
+              [
+                "td",
+                {},
+                "What?"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "¿Quién?"
+              ],
+              [
+                "td",
+                {},
+                "Who?"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "¿Cuándo?"
+              ],
+              [
+                "td",
+                {},
+                "When?"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "¿Dónde?"
+              ],
+              [
+                "td",
+                {},
+                "Where?"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "¿Por qué?"
+              ],
+              [
+                "td",
+                {},
+                "Why?"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "¿Cómo?"
+              ],
+              [
+                "td",
+                {},
+                "How?"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Accent Marks"
+        ],
+        [
+          "p",
+          {},
+          "Notice that all question words in Spanish have an accent mark when used in a question."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/negation"
+        },
+        "← Negation"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/numbers-1"
+        },
+        "Numbers: 1-10 →"
+      ]
+    ]
+  ],
+  "/lessons/numbers-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 17"
+      ],
+      [
+        "h1",
+        {},
+        "Numbers: 1-10"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Counting is a basic skill in any language. Let's start with the first ten numbers in Spanish."
+      ],
+      [
+        "div",
+        {
+          "className": "case-grid"
+        },
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "1 — Uno"
+        ],
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "2 — Dos"
+        ],
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "3 — Tres"
+        ],
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "4 — Cuatro"
+        ],
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "5 — Cinco"
+        ],
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "6 — Seis"
+        ],
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "7 — Siete"
+        ],
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "8 — Ocho"
+        ],
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "9 — Nueve"
+        ],
+        [
+          "div",
+          {
+            "className": "flash-card"
+          },
+          "10 — Diez"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/interrogatives"
+        },
+        "← Interrogatives"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/numbers-2"
+        },
+        "Numbers: 11-100 →"
+      ]
+    ]
+  ],
+  "/lessons/numbers-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 18"
+      ],
+      [
+        "h1",
+        {},
+        "Numbers: 11-100"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "As you go higher, Spanish numbers follow a pattern, especially after 20."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Tricky Teens"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            "11 — Once"
+          ],
+          [
+            "li",
+            {},
+            "12 — Doce"
+          ],
+          [
+            "li",
+            {},
+            "13 — Trece"
+          ],
+          [
+            "li",
+            {},
+            "14 — Catorce"
+          ],
+          [
+            "li",
+            {},
+            "15 — Quince"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Tens and Patterns"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Number"
+              ],
+              [
+                "th",
+                {},
+                "Spanish"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "20"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "veinte"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "30"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "treinta"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "40"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "cuarenta"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "50"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "cincuenta"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "100"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "cien"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Building Numbers"
+        ],
+        [
+          "p",
+          {},
+          "For numbers between tens, use 'y' (and) for 31 and above: ",
+          [
+            "strong",
+            {},
+            "treinta y uno"
+          ],
+          " (31). Between 21 and 29, it's one word: ",
+          [
+            "strong",
+            {},
+            "veintiuno"
+          ],
+          " (21)."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/numbers-1"
+        },
+        "← Numbers: 1-10"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/telling-time"
+        },
+        "Telling Time →"
+      ]
+    ]
+  ],
+  "/lessons/telling-time": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 19"
+      ],
+      [
+        "h1",
+        {},
+        "Telling Time"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "To tell time in Spanish, we use the verb ",
+        [
+          "strong",
+          {},
+          "ser"
+        ],
+        " followed by the feminine article to agree with 'las horas'."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Hour"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Es la una."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "It is one o'clock (Singular)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Son las dos."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "It is two o'clock (Plural)."
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Minutes and Fractions"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Son las tres y diez."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "It's 3:10."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Son las cuatro y cuarto."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "It's 4:15 (quarter past)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Son las cinco y media."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "It's 5:30 (half past)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Son las seis menos cuarto."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "It's quarter to six (5:45)."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/numbers-2"
+        },
+        "← Numbers: 11-100"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/dates"
+        },
+        "Dates →"
+      ]
+    ]
+  ],
+  "/lessons/dates": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 20"
+      ],
+      [
+        "h1",
+        {},
+        "Dates"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Talking about dates in Spanish follows a very specific formula."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Formula"
+        ],
+        [
+          "p",
+          {},
+          "To state the date: ",
+          [
+            "strong",
+            {},
+            "el + [number] + de + [month]"
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "el cinco de mayo"
+            ],
+            " (May 5th)"
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "el doce de octubre"
+            ],
+            " (October 12th)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "The First Day"
+        ],
+        [
+          "p",
+          {},
+          "While we use regular numbers for most dates, for the first day of the month, we use ",
+          [
+            "strong",
+            {},
+            "el primero"
+          ],
+          "."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "el primero de enero"
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Months"
+        ],
+        [
+          "p",
+          {},
+          "Months in Spanish are not capitalized unless they start a sentence."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/telling-time"
+        },
+        "← Telling Time"
       ],
       [
         "a",
