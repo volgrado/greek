@@ -1,0 +1,133 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 84"
+        ],
+        [
+            "h1",
+            {},
+            "Subjunctive Usage: Wishes"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "One of the primary uses of the subjunctive is to express wishes, wants, or desires for someone else."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Trigger Verbs"
+            ],
+            [
+                "p",
+                {},
+                "These verbs in the main clause trigger the subjunctive in the dependent clause:"
+            ],
+            [
+                "ul",
+                {
+                    "className": "rule-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Querer que"
+                    ],
+                    " (To want that)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Desear que"
+                    ],
+                    " (To desire that)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Esperar que"
+                    ],
+                    " (To hope that)"
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The Pattern"
+            ],
+            [
+                "div",
+                {
+                    "className": "example-box"
+                },
+                [
+                    "p",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Quiero ",
+                        [
+                            "strong",
+                            {},
+                            "que"
+                        ],
+                        " tú ",
+                        [
+                            "strong",
+                            {},
+                            "vengas"
+                        ],
+                        "."
+                    ],
+                    " (I want you to come.)"
+                ]
+            ],
+            [
+                "p",
+                {},
+                "Note: If there is no change of subject, use the infinitive (Quiero venir)."
+            ]
+        ]
+    ]
+]

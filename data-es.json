@@ -1418,6 +1418,185 @@
           "→"
         ]
       ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 9: Perfect Tenses and Subjunctive Usage"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/present-perfect",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "81. Present Perfect"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/past-participles-irreg",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "82. Irregular Past Participles"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/past-perfect",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "83. Past Perfect"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-wishes",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "84. Subjunctive: Wishes"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-emotion",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "85. Subjunctive: Emotion"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-impersonal",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "86. Subjunctive: Impersonal"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-requests",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "87. Subjunctive: Requests"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-doubt",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "88. Subjunctive: Doubt"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-ojala",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "89. Subjunctive: Ojalá"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-disish",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "90. Subjunctive: The Six Irregulars"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
     ]
   ],
   "/curriculum": [
@@ -2832,6 +3011,185 @@
           "span",
           {},
           "80. Subjunctive: Stem-Changers"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 9: Perfect Tenses and Subjunctive Usage"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/present-perfect",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "81. Present Perfect"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/past-participles-irreg",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "82. Irregular Past Participles"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/past-perfect",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "83. Past Perfect"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-wishes",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "84. Subjunctive: Wishes"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-emotion",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "85. Subjunctive: Emotion"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-impersonal",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "86. Subjunctive: Impersonal"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-requests",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "87. Subjunctive: Requests"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-doubt",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "88. Subjunctive: Doubt"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-ojala",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "89. Subjunctive: Ojalá"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-disish",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "90. Subjunctive: The Six Irregulars"
         ],
         [
           "span",
@@ -18884,6 +19242,1935 @@
           "href": "#/lessons/subjunctive-spelling-change"
         },
         "← Subjunctive: Spelling Changes"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/present-perfect"
+        },
+        "Present Perfect →"
+      ]
+    ]
+  ],
+  "/lessons/present-perfect": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 81"
+      ],
+      [
+        "h1",
+        {},
+        "The Present Perfect"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The present perfect is used to talk about actions that have happened in the past and continue to be relevant in the present (I have eaten)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Formula"
+        ],
+        [
+          "p",
+          {},
+          "Formula: ",
+          [
+            "strong",
+            {},
+            "Present tense of HABER + Past Participle"
+          ]
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Person"
+              ],
+              [
+                "th",
+                {},
+                "Haber"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "he"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "has"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "ha"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hemos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "han"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Forming Regular Past Participles"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "-ar verbs → ",
+            [
+              "strong",
+              {},
+              "-ado"
+            ],
+            " (hablar → hablado)"
+          ],
+          [
+            "li",
+            {},
+            "-er/-ir verbs → ",
+            [
+              "strong",
+              {},
+              "-ido"
+            ],
+            " (comer → comido / vivir → vivido)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "example-box"
+        },
+        [
+          "p",
+          {},
+          [
+            "span",
+            {
+              "className": "spanish"
+            },
+            "He hablado con mi padre."
+          ],
+          " (I have spoken with my father.)"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-stem-change"
+        },
+        "← Subjunctive: Stem-Changers"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/past-participles-irreg"
+        },
+        "Irregular Past Participles →"
+      ]
+    ]
+  ],
+  "/lessons/past-participles-irreg": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 82"
+      ],
+      [
+        "h1",
+        {},
+        "Irregular Past Participles"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Many common verbs have irregular past participles that do not follow the -ado/-ido pattern."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Common Irregulars"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Infinitive"
+              ],
+              [
+                "th",
+                {},
+                "Past Participle"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Abrir"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "abierto"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Decir"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "dicho"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Escribir"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "escrito"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Hacer"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hecho"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Morir"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "muerto"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Poner"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "puesto"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Ver"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "visto"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Volver"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vuelto"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Accent Marks"
+        ],
+        [
+          "p",
+          {},
+          "Verbs like leer, oír, and creer require an accent mark on the 'i' to avoid a diphthong: ",
+          [
+            "strong",
+            {},
+            "leído, oído, creído"
+          ],
+          "."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/present-perfect"
+        },
+        "← Present Perfect"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/past-perfect"
+        },
+        "Past Perfect →"
+      ]
+    ]
+  ],
+  "/lessons/past-perfect": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 83"
+      ],
+      [
+        "h1",
+        {},
+        "The Past Perfect"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The past perfect (pluperfect) is used to describe an action that had happened before another action in the past (I had eaten)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Formula"
+        ],
+        [
+          "p",
+          {},
+          "Formula: ",
+          [
+            "strong",
+            {},
+            "Imperfect tense of HABER + Past Participle"
+          ]
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Person"
+              ],
+              [
+                "th",
+                {},
+                "Haber (Imp.)"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "había"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "habías"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "había"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "habíamos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "habían"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Example"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Yo ya había comido cuando él llegó."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "I had already eaten when he arrived."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/past-participles-irreg"
+        },
+        "← Irregular Past Participles"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-wishes"
+        },
+        "Subjunctive: Wishes →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-wishes": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 84"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive Usage: Wishes"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "One of the primary uses of the subjunctive is to express wishes, wants, or desires for someone else."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Trigger Verbs"
+        ],
+        [
+          "p",
+          {},
+          "These verbs in the main clause trigger the subjunctive in the dependent clause:"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Querer que"
+            ],
+            " (To want that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Desear que"
+            ],
+            " (To desire that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Esperar que"
+            ],
+            " (To hope that)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Pattern"
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Quiero ",
+              [
+                "strong",
+                {},
+                "que"
+              ],
+              " tú ",
+              [
+                "strong",
+                {},
+                "vengas"
+              ],
+              "."
+            ],
+            " (I want you to come.)"
+          ]
+        ],
+        [
+          "p",
+          {},
+          "Note: If there is no change of subject, use the infinitive (Quiero venir)."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/past-perfect"
+        },
+        "← Past Perfect"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-emotion"
+        },
+        "Subjunctive: Emotion →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-emotion": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 85"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive Usage: Emotion"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "When the main clause expresses a feeling or emotion about an action, the subjunctive is used in the second clause."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Emotional Triggers"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Sentir que"
+            ],
+            " (To be sorry that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Alegrarse de que"
+            ],
+            " (To be glad that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Temer que"
+            ],
+            " (To fear that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Tener miedo de que"
+            ],
+            " (To be afraid that)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Example"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Me alegro de que estés aquí."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "I am glad that you are here."
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Note"
+        ],
+        [
+          "p",
+          {},
+          "Just like with wishes, if there is no change of subject, use the infinitive: ",
+          [
+            "span",
+            {
+              "className": "spanish"
+            },
+            "Me alegro de estar aquí."
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-wishes"
+        },
+        "← Subjunctive: Wishes"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-impersonal"
+        },
+        "Subjunctive: Impersonal →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-impersonal": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 86"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive Usage: Impersonal Expressions"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Impersonal expressions (It is + adjective + that) often trigger the subjunctive, provided they don't express certainty."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Triggers"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Es necesario que"
+            ],
+            " (It is necessary that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Es importante que"
+            ],
+            " (It is important that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Es posible que"
+            ],
+            " (It is possible that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Es una lástima que"
+            ],
+            " (It is a pity that)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Exception: Certainty"
+        ],
+        [
+          "p",
+          {},
+          "Expressions that imply certainty or truth use the ",
+          [
+            "strong",
+            {},
+            "indicative"
+          ],
+          "."
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Es verdad que"
+            ],
+            " (It is true that) + indicative"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Es cierto que"
+            ],
+            " (It is certain that) + indicative"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-emotion"
+        },
+        "← Subjunctive: Emotion"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-requests"
+        },
+        "Subjunctive: Requests →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-requests": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 87"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive Usage: Requests"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Verbs that express a request, command, advice, or suggestion for another person trigger the subjunctive."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Request/Influence Triggers"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Pedir que"
+            ],
+            " (To ask that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Decir que"
+            ],
+            " (To tell [someone to do something])"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Recomendar que"
+            ],
+            " (To recommend that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Sugerir que"
+            ],
+            " (To suggest that)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Example"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Él me pide que estudie más."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "He asks me to study more."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-impersonal"
+        },
+        "← Subjunctive: Impersonal"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-doubt"
+        },
+        "Subjunctive: Doubt →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-doubt": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 88"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive Usage: Doubt"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The subjunctive is used to express doubt, denial, or disbelief about a statement."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Triggers of Doubt"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Dudar que"
+            ],
+            " (To doubt that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "No creer que"
+            ],
+            " (To not believe that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "No pensar que"
+            ],
+            " (To not think that)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Es imposible que"
+            ],
+            " (It is impossible that)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Difference"
+        ],
+        [
+          "p",
+          {},
+          "Note the difference between belief and doubt:"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Creo que"
+            ],
+            " (Fact/Belief) → Indicative"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "No creo que"
+            ],
+            " (Doubt) → Subjunctive"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-requests"
+        },
+        "← Subjunctive: Requests"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-ojala"
+        },
+        "Subjunctive: Ojalá →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-ojala": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 89"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive Usage: Ojalá"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The word ",
+        [
+          "strong",
+          {},
+          "Ojalá"
+        ],
+        " (meaning 'hopefully' or 'I wish to God') always triggers the subjunctive."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Using Ojalá"
+        ],
+        [
+          "p",
+          {},
+          "You can use it with or without 'que'."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "¡Ojalá llueva!"
+            ],
+            " (I hope it rains!)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Ojalá que tú ganes."
+            ],
+            " (Hopefully you win.)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Origin"
+        ],
+        [
+          "p",
+          {},
+          "'Ojalá' comes from the Arabic 'Insha'Allah', reflecting the long historical influence of Arabic on the Spanish language."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-doubt"
+        },
+        "← Subjunctive: Doubt"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-disish"
+        },
+        "Subjunctive: The Six Irregulars →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-disish": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 90"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive: The Six Irregulars"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "While most subjunctive forms come from the 'yo' form, there are six verbs that are completely irregular. Use the mnemonic ",
+        [
+          "strong",
+          {},
+          "DISISH"
+        ],
+        " to remember them."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "DISISH Verbs"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "D"
+            ],
+            "ar (dé, des, dé...)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "I"
+            ],
+            "r (vaya, vayas, vaya...)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "S"
+            ],
+            "er (sea, seas, sea...)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "I"
+            ],
+            "r (Wait, the second I is for ",
+            [
+              "strong",
+              {},
+              "Ir"
+            ],
+            " again or just a mnemonic? Usually it's Dar, Ir, Ser, Haber, Estar, Saber)"
+          ],
+          [
+            "li",
+            {},
+            "Let's list them properly below."
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Big Six"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Verb"
+              ],
+              [
+                "th",
+                {},
+                "Subj. Form (yo)"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Dar"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "dé"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ir"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vaya"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ser"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "sea"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Haber"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "haya"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Estar"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "esté"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Saber"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "sepa"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-ojala"
+        },
+        "← Subjunctive: Ojalá"
       ],
       [
         "a",
