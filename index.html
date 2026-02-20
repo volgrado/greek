@@ -531,7 +531,7 @@
 
         // El Navegador de Estados
         const loadData = async () => {
-            const r = await fetch(I18N[currentLang].dataFile);
+            const r = await fetch(`${I18N[currentLang].dataFile}?v=${Date.now()}`);
             db = await r.json();
         };
 
