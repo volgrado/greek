@@ -1,0 +1,135 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 25"
+        ],
+        [
+            "h1",
+            {},
+            "The Personal 'a'"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "When the direct object of a verb is a person, Spanish requires a special preposition: the personal ",
+            [
+                "strong",
+                {},
+                "'a'"
+            ],
+            "."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Usage"
+            ],
+            [
+                "p",
+                {},
+                "It doesn't translate to English, but it must be there if the object is human or a pet."
+            ],
+            [
+                "div",
+                {
+                    "className": "example-box"
+                },
+                [
+                    "p",
+                    {},
+                    "Object is a thing: ",
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Veo el libro."
+                    ]
+                ],
+                [
+                    "p",
+                    {},
+                    "Object is a person: ",
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Veo ",
+                        [
+                            "strong",
+                            {},
+                            "a"
+                        ],
+                        " Juan."
+                    ]
+                ]
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Llamo a mi madre."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "I call my mother."
+                    ]
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Conozco a esa señora."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "I know that lady."
+                    ]
+                ]
+            ]
+        ]
+    ]
+]
