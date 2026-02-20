@@ -1,0 +1,140 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 68"
+        ],
+        [
+            "h1",
+            {},
+            "Reflexive Verbs II"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "The placement of reflexive pronouns follows the same rules as direct and indirect object pronouns."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Placement Rules"
+            ],
+            [
+                "ul",
+                {
+                    "className": "rule-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Before a conjugated verb"
+                    ],
+                    ": Me levanto temprano."
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Attached to an infinitive"
+                    ],
+                    ": Quiero levantarme temprano."
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Attached to a present participle"
+                    ],
+                    ": Estoy levantándome temprano."
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Emotional Reflexives"
+            ],
+            [
+                "p",
+                {},
+                "Many verbs in Spanish are reflexive even if they don't seem like an action performed on oneself in English."
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Divertirse"
+                    ],
+                    " (To have fun)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Aburrirse"
+                    ],
+                    " (To get bored)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Enojarse"
+                    ],
+                    " (To get angry)"
+                ]
+            ]
+        ]
+    ]
+]

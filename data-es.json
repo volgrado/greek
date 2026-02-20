@@ -1060,6 +1060,185 @@
           "→"
         ]
       ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 7: Commands and Reflexives"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "61. Relative Pronouns I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "62. Relative Pronouns II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/formal-commands",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "63. Formal Commands"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/informal-commands-tu",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "64. Informal Commands: Tú"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/negative-commands",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "65. Negative Commands"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/commands-pronouns",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "66. Object Pronouns with Commands"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/reflexive-verbs-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "67. Reflexive Verbs I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/reflexive-verbs-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "68. Reflexive Verbs II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/definite-article-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "69. Definite Article II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/possessive-pronouns",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "70. Possessive Pronouns"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
     ]
   ],
   "/curriculum": [
@@ -2116,6 +2295,185 @@
           "span",
           {},
           "60. Preterite vs Imperfect III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 7: Commands and Reflexives"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "61. Relative Pronouns I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "62. Relative Pronouns II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/formal-commands",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "63. Formal Commands"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/informal-commands-tu",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "64. Informal Commands: Tú"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/negative-commands",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "65. Negative Commands"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/commands-pronouns",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "66. Object Pronouns with Commands"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/reflexive-verbs-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "67. Reflexive Verbs I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/reflexive-verbs-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "68. Reflexive Verbs II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/definite-article-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "69. Definite Article II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/possessive-pronouns",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "70. Possessive Pronouns"
         ],
         [
           "span",
@@ -14499,6 +14857,1912 @@
           "href": "#/lessons/pret-vs-imp-2"
         },
         "← Preterite vs Imperfect II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-1"
+        },
+        "Relative Pronouns I →"
+      ]
+    ]
+  ],
+  "/lessons/rel-pronouns-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 61"
+      ],
+      [
+        "h1",
+        {},
+        "Relative Pronouns I: Que"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Relative pronouns are used to connect two sentences that share a common noun. ",
+        [
+          "strong",
+          {},
+          "Que"
+        ],
+        " is the most common relative pronoun in Spanish."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Using 'Que'"
+        ],
+        [
+          "p",
+          {},
+          "Unlike in English, where you can often omit 'that' (the book [that] I read), in Spanish you ",
+          [
+            "strong",
+            {},
+            "must"
+          ],
+          " always use 'que'."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "'Que' can refer to people or things."
+          ],
+          [
+            "li",
+            {},
+            "It translates to: that, which, who, whom."
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "El libro ",
+              [
+                "strong",
+                {},
+                "que"
+              ],
+              " compré es bueno."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "The book (that) I bought is good."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "La mujer ",
+              [
+                "strong",
+                {},
+                "que"
+              ],
+              " habla es mi tía."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "The woman who is speaking is my aunt."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/pret-vs-imp-3"
+        },
+        "← Preterite vs Imperfect III"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-2"
+        },
+        "Relative Pronouns II →"
+      ]
+    ]
+  ],
+  "/lessons/rel-pronouns-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 62"
+      ],
+      [
+        "h1",
+        {},
+        "Relative Pronouns II: Quien"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "While 'que' is the universal pronoun, ",
+        [
+          "strong",
+          {},
+          "quien"
+        ],
+        " (singular) and ",
+        [
+          "strong",
+          {},
+          "quienes"
+        ],
+        " (plural) are used specifically for people, usually after a preposition."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Using 'Quien'"
+        ],
+        [
+          "p",
+          {},
+          "Use 'quien' when referring to people after prepositions like ",
+          [
+            "strong",
+            {},
+            "a, con, de, para"
+          ],
+          "."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "La mujer ",
+              [
+                "strong",
+                {},
+                "a quien"
+              ],
+              " llamaste no está."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "The woman whom you called is not here."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Los amigos ",
+              [
+                "strong",
+                {},
+                "con quienes"
+              ],
+              " viajo son simpáticos."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "The friends with whom I travel are nice."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Lo que"
+        ],
+        [
+          "p",
+          {},
+          "Use ",
+          [
+            "strong",
+            {},
+            "lo que"
+          ],
+          " to mean 'what' or 'that which' when referring to an abstract idea, situation, or a previous clause."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Lo que necesito es tiempo. (What I need is time)."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-1"
+        },
+        "← Relative Pronouns I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/formal-commands"
+        },
+        "Formal Commands →"
+      ]
+    ]
+  ],
+  "/lessons/formal-commands": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 63"
+      ],
+      [
+        "h1",
+        {},
+        "Formal Commands"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Formal commands are used with people you address as 'usted' or 'ustedes' (strangers, superiors, groups)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Formula"
+        ],
+        [
+          "p",
+          {},
+          "Step 1: Start with the ",
+          [
+            "strong",
+            {},
+            "yo"
+          ],
+          " form of the present tense."
+        ],
+        [
+          "p",
+          {},
+          "Step 2: Drop the ",
+          [
+            "strong",
+            {},
+            "-o"
+          ],
+          "."
+        ],
+        [
+          "p",
+          {},
+          "Step 3: Add the 'opposite' ending."
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Verb Group"
+              ],
+              [
+                "th",
+                {},
+                "Usted"
+              ],
+              [
+                "th",
+                {},
+                "Ustedes"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "-ar verbs"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-e"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-en"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "-er / -ir verbs"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-a"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-an"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            "Hablar → yo hablo → ",
+            [
+              "strong",
+              {},
+              "Hable"
+            ],
+            " / ",
+            [
+              "strong",
+              {},
+              "Hablen"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Comer → yo como → ",
+            [
+              "strong",
+              {},
+              "Coma"
+            ],
+            " / ",
+            [
+              "strong",
+              {},
+              "Coman"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Escribir → yo escribo → ",
+            [
+              "strong",
+              {},
+              "Escriba"
+            ],
+            " / ",
+            [
+              "strong",
+              {},
+              "Escriban"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-2"
+        },
+        "← Relative Pronouns II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/informal-commands-tu"
+        },
+        "Informal Commands: Tú →"
+      ]
+    ]
+  ],
+  "/lessons/informal-commands-tu": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 64"
+      ],
+      [
+        "h1",
+        {},
+        "Informal Commands: Tú"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Affirmative informal commands are used with friends, family, and people you know well."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Regular Rule"
+        ],
+        [
+          "p",
+          {},
+          "For regular verbs, use the ",
+          [
+            "strong",
+            {},
+            "third-person singular"
+          ],
+          " form of the present tense (the él/ella form)."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            "Hablar → ",
+            [
+              "strong",
+              {},
+              "Habla"
+            ],
+            " (Speak!)"
+          ],
+          [
+            "li",
+            {},
+            "Comer → ",
+            [
+              "strong",
+              {},
+              "Come"
+            ],
+            " (Eat!)"
+          ],
+          [
+            "li",
+            {},
+            "Escribir → ",
+            [
+              "strong",
+              {},
+              "Escribe"
+            ],
+            " (Write!)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Irregular Tú Commands"
+        ],
+        [
+          "p",
+          {},
+          "There are 8 common irregular commands in the 'tú' form:"
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            "Decir → ",
+            [
+              "strong",
+              {},
+              "di"
+            ],
+            " | Hacer → ",
+            [
+              "strong",
+              {},
+              "haz"
+            ],
+            " | Ir → ",
+            [
+              "strong",
+              {},
+              "ve"
+            ]
+          ],
+          [
+            "p",
+            {},
+            "Poner → ",
+            [
+              "strong",
+              {},
+              "pon"
+            ],
+            " | Salir → ",
+            [
+              "strong",
+              {},
+              "sal"
+            ],
+            " | Ser → ",
+            [
+              "strong",
+              {},
+              "sé"
+            ]
+          ],
+          [
+            "p",
+            {},
+            "Tener → ",
+            [
+              "strong",
+              {},
+              "ten"
+            ],
+            " | Venir → ",
+            [
+              "strong",
+              {},
+              "ven"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/formal-commands"
+        },
+        "← Formal Commands"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/negative-commands"
+        },
+        "Negative Commands →"
+      ]
+    ]
+  ],
+  "/lessons/negative-commands": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 65"
+      ],
+      [
+        "h1",
+        {},
+        "Negative Commands"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "To tell someone NOT to do something, the rules change significantly, especially for the 'tú' form."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Rule for All Forms"
+        ],
+        [
+          "p",
+          {},
+          "To form any negative command (Ud., Uds., or tú), start with the ",
+          [
+            "strong",
+            {},
+            "formal command"
+          ],
+          " form and add 'no' in front."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "Usted: ",
+            [
+              "strong",
+              {},
+              "No hable"
+            ],
+            " (Don't speak)"
+          ],
+          [
+            "li",
+            {},
+            "Ustedes: ",
+            [
+              "strong",
+              {},
+              "No hablen"
+            ],
+            " (Don't speak)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Negative Tú Commands"
+        ],
+        [
+          "p",
+          {},
+          "For the 'tú' form, take the Usted command form and add ",
+          [
+            "strong",
+            {},
+            "-s"
+          ],
+          "."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            "Hablar → No hable → ",
+            [
+              "strong",
+              {},
+              "No hables"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Comer → No coma → ",
+            [
+              "strong",
+              {},
+              "No comas"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Decir → No diga → ",
+            [
+              "strong",
+              {},
+              "No digas"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/informal-commands-tu"
+        },
+        "← Informal Commands: Tú"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/commands-pronouns"
+        },
+        "Object Pronouns with Commands →"
+      ]
+    ]
+  ],
+  "/lessons/commands-pronouns": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 66"
+      ],
+      [
+        "h1",
+        {},
+        "Object Pronouns with Commands"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The position of object pronouns changes depending on whether a command is affirmative or negative."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Affirmative Commands"
+        ],
+        [
+          "p",
+          {},
+          "In affirmative commands, pronouns are ",
+          [
+            "strong",
+            {},
+            "attached"
+          ],
+          " to the end of the verb."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Dí",
+          [
+            "strong",
+            {},
+            "melo"
+          ],
+          ". (Tell it to me.)"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Cómpre",
+          [
+            "strong",
+            {},
+            "lo"
+          ],
+          ". (Buy it.)"
+        ],
+        [
+          "p",
+          {},
+          "Note: Adding a pronoun often requires adding an accent mark to maintain the original stress."
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Negative Commands"
+        ],
+        [
+          "p",
+          {},
+          "In negative commands, pronouns come ",
+          [
+            "strong",
+            {},
+            "before"
+          ],
+          " the verb (and after 'no')."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "No ",
+          [
+            "strong",
+            {},
+            "me lo"
+          ],
+          " diga. (Don't tell it to me.)"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "No ",
+          [
+            "strong",
+            {},
+            "lo"
+          ],
+          " compre. (Don't buy it.)"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/negative-commands"
+        },
+        "← Negative Commands"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/reflexive-verbs-1"
+        },
+        "Reflexive Verbs I →"
+      ]
+    ]
+  ],
+  "/lessons/reflexive-verbs-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 67"
+      ],
+      [
+        "h1",
+        {},
+        "Reflexive Verbs I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Reflexive verbs indicate that the subject performs an action on ",
+        [
+          "strong",
+          {},
+          "themselves"
+        ],
+        "."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Pronouns"
+        ],
+        [
+          "p",
+          {},
+          "Reflexive verbs are always accompanied by these pronouns:"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "me"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "te"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "se"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "se"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Example: Lavarse (To wash oneself)"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Me lavo las manos."
+            ],
+            " (I wash my hands.)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Se lava la cara."
+            ],
+            " (He/She washes their face.)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Identifying Reflexives"
+        ],
+        [
+          "p",
+          {},
+          "In their infinitive form, reflexive verbs always end in ",
+          [
+            "strong",
+            {},
+            "-se"
+          ],
+          " (e.g., lavarse, ducharse, levantarse)."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/commands-pronouns"
+        },
+        "← Object Pronouns with Commands"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/reflexive-verbs-2"
+        },
+        "Reflexive Verbs II →"
+      ]
+    ]
+  ],
+  "/lessons/reflexive-verbs-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 68"
+      ],
+      [
+        "h1",
+        {},
+        "Reflexive Verbs II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The placement of reflexive pronouns follows the same rules as direct and indirect object pronouns."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Placement Rules"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Before a conjugated verb"
+            ],
+            ": Me levanto temprano."
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Attached to an infinitive"
+            ],
+            ": Quiero levantarme temprano."
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Attached to a present participle"
+            ],
+            ": Estoy levantándome temprano."
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Emotional Reflexives"
+        ],
+        [
+          "p",
+          {},
+          "Many verbs in Spanish are reflexive even if they don't seem like an action performed on oneself in English."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Divertirse"
+            ],
+            " (To have fun)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Aburrirse"
+            ],
+            " (To get bored)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Enojarse"
+            ],
+            " (To get angry)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/reflexive-verbs-1"
+        },
+        "← Reflexive Verbs I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/definite-article-2"
+        },
+        "Definite Article II →"
+      ]
+    ]
+  ],
+  "/lessons/definite-article-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 69"
+      ],
+      [
+        "h1",
+        {},
+        "Definite Article II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "In Spanish, the definite article (el, la, los, las) is used in several situations where it is omitted in English."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Special Uses"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "With abstract nouns"
+            ],
+            ": El amor es importante. (Love is important.)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "With days of the week"
+            ],
+            ": El lunes voy al cine. (On Monday I'm going to the cinema.)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "With titles (when talking about someone)"
+            ],
+            ": El doctor García está aquí. (Dr. Garcia is here.)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "With body parts and clothing"
+            ],
+            " (replaces possessive adjectives): Me lavo las manos. (I wash my hands.)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/reflexive-verbs-2"
+        },
+        "← Reflexive Verbs II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/possessive-pronouns"
+        },
+        "Possessive Pronouns →"
+      ]
+    ]
+  ],
+  "/lessons/possessive-pronouns": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 70"
+      ],
+      [
+        "h1",
+        {},
+        "Possessive Pronouns"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Possessive pronouns are used to show ownership without repeating the noun (mine, yours, theirs)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Forms"
+        ],
+        [
+          "p",
+          {},
+          "Possessive pronouns must agree in gender and number with the noun being replaced."
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Person"
+              ],
+              [
+                "th",
+                {},
+                "Masc. Sing."
+              ],
+              [
+                "th",
+                {},
+                "Fem. Sing."
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "mío"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "mía"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "tuyo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "tuya"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Él/Ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "suyo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "suya"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nuestro"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nuestra"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Using them with Articles"
+        ],
+        [
+          "p",
+          {},
+          "In Spanish, you usually include the definite article."
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Este libro es el mío."
+            ],
+            " (This book is mine.)"
+          ],
+          [
+            "p",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Tengo mi pluma y la tuya."
+            ],
+            " (I have my pen and yours.)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/definite-article-2"
+        },
+        "← Definite Article II"
       ],
       [
         "a",
