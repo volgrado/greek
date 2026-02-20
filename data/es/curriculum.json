@@ -102,5 +102,57 @@
             "title": "Dates",
             "num": 20
         }
+    ],
+    "Unit 3: Even More Basics": [
+        {
+            "id": "possessives-1",
+            "title": "Possessive Adjectives I",
+            "num": 21
+        },
+        {
+            "id": "possessives-2",
+            "title": "Possessive Adjectives II",
+            "num": 22
+        },
+        {
+            "id": "irregular-verbs-yo",
+            "title": "Verbs with Irregular Yo",
+            "num": 23
+        },
+        {
+            "id": "saber-conocer",
+            "title": "Saber vs Conocer",
+            "num": 24
+        },
+        {
+            "id": "personal-a",
+            "title": "The Personal 'a'",
+            "num": 25
+        },
+        {
+            "id": "gustar",
+            "title": "Gustar",
+            "num": 26
+        },
+        {
+            "id": "stem-changers-e-ie",
+            "title": "Stem-Changers: e -> ie",
+            "num": 27
+        },
+        {
+            "id": "stem-changers-o-ue",
+            "title": "Stem-Changers: o -> ue",
+            "num": 28
+        },
+        {
+            "id": "stem-changers-e-i",
+            "title": "Stem-Changers: e -> i",
+            "num": 29
+        },
+        {
+            "id": "affinity-words",
+            "title": "Affirmative and Negative Words",
+            "num": 30
+        }
     ]
 }

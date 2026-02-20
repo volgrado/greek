@@ -361,6 +361,185 @@
           "→"
         ]
       ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 3: Even More Basics"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/possessives-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "21. Possessive Adjectives I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/possessives-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "22. Possessive Adjectives II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/irregular-verbs-yo",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "23. Verbs with Irregular Yo"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/saber-conocer",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "24. Saber vs Conocer"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/personal-a",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "25. The Personal 'a'"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/gustar",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "26. Gustar"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-e-ie",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "27. Stem-Changers: e -> ie"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-o-ue",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "28. Stem-Changers: o -> ue"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-e-i",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "29. Stem-Changers: e -> i"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/affinity-words",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "30. Affirmative and Negative Words"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
     ]
   ],
   "/curriculum": [
@@ -718,6 +897,185 @@
           "span",
           {},
           "20. Dates"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 3: Even More Basics"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/possessives-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "21. Possessive Adjectives I"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/possessives-2",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "22. Possessive Adjectives II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/irregular-verbs-yo",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "23. Verbs with Irregular Yo"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/saber-conocer",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "24. Saber vs Conocer"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/personal-a",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "25. The Personal 'a'"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/gustar",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "26. Gustar"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-e-ie",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "27. Stem-Changers: e -> ie"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-o-ue",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "28. Stem-Changers: o -> ue"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-e-i",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "29. Stem-Changers: e -> i"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/affinity-words",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "30. Affirmative and Negative Words"
         ],
         [
           "span",
@@ -5283,6 +5641,2016 @@
           "href": "#/lessons/telling-time"
         },
         "← Telling Time"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/possessives-1"
+        },
+        "Possessive Adjectives I →"
+      ]
+    ]
+  ],
+  "/lessons/possessives-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 21"
+      ],
+      [
+        "h1",
+        {},
+        "Possessive Adjectives I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Possessive adjectives indicate ownership or relationship. In Spanish, they must agree in number with the noun they modify."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Short-Form Possessive Adjectives"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Person"
+              ],
+              [
+                "th",
+                {},
+                "Singular"
+              ],
+              [
+                "th",
+                {},
+                "Plural"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "My"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "mi"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "mis"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Your (inf.)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "tu"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "tus"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "His/Her/Your (for.)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "su"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "sus"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Agreement Rule"
+        ],
+        [
+          "p",
+          {},
+          "Possessive adjectives agree with the ",
+          [
+            "strong",
+            {},
+            "possessed object"
+          ],
+          ", not the possessor."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "mi libro / mis libros"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/dates"
+        },
+        "← Dates"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/possessives-2"
+        },
+        "Possessive Adjectives II →"
+      ]
+    ]
+  ],
+  "/lessons/possessives-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 22"
+      ],
+      [
+        "h1",
+        {},
+        "Possessive Adjectives II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "For 'our' and 'your' (plural), the possessive adjectives also agree in gender."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Nosotros/as & Vosotros/as"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Adjective"
+              ],
+              [
+                "th",
+                {},
+                "Masc. Sing."
+              ],
+              [
+                "th",
+                {},
+                "Fem. Sing."
+              ],
+              [
+                "th",
+                {},
+                "Masc. Plur."
+              ],
+              [
+                "th",
+                {},
+                "Fem. Plur."
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Our"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nuestro"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nuestra"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nuestros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nuestras"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Your (pl. inf.)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vuestro"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vuestra"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vuestros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "vuestras"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Their / Your (Formal Plural)"
+        ],
+        [
+          "p",
+          {},
+          "For 'their' (ellos/ellas) and 'your' (ustedes), we reuse ",
+          [
+            "strong",
+            {},
+            "su"
+          ],
+          " and ",
+          [
+            "strong",
+            {},
+            "sus"
+          ],
+          "."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "su casa / sus libros"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/possessives-1"
+        },
+        "← Possessive Adjectives I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/irregular-verbs-yo"
+        },
+        "Verbs with Irregular Yo →"
+      ]
+    ]
+  ],
+  "/lessons/irregular-verbs-yo": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 23"
+      ],
+      [
+        "h1",
+        {},
+        "Verbs with Irregular Yo"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Some common Spanish verbs are regular in all forms except for the first-person singular (yo)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The 'Go' Verbs"
+        ],
+        [
+          "p",
+          {},
+          "These verbs add a ",
+          [
+            "strong",
+            {},
+            "g"
+          ],
+          " in the yo form."
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Infinitive"
+              ],
+              [
+                "th",
+                {},
+                "Yo Form"
+              ],
+              [
+                "th",
+                {},
+                "Meaning"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hacer"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "hago"
+              ],
+              [
+                "td",
+                {},
+                "I do/make"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "poner"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "pongo"
+              ],
+              [
+                "td",
+                {},
+                "I put"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "salir"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "salgo"
+              ],
+              [
+                "td",
+                {},
+                "I leave"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "traer"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "traigo"
+              ],
+              [
+                "td",
+                {},
+                "I bring"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The 'Yo-oy' Verbs"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "dar → doy"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "(I give)"
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "ir → voy"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "(I go)"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/possessives-2"
+        },
+        "← Possessive Adjectives II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/saber-conocer"
+        },
+        "Saber vs Conocer →"
+      ]
+    ]
+  ],
+  "/lessons/saber-conocer": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 24"
+      ],
+      [
+        "h1",
+        {},
+        "Saber vs Conocer"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Both verbs mean 'to know,' but they are used in completely different contexts."
+      ],
+      [
+        "div",
+        {
+          "className": "case-grid"
+        },
+        [
+          "div",
+          {
+            "className": "tense-card"
+          },
+          [
+            "h3",
+            {},
+            "Saber"
+          ],
+          [
+            "p",
+            {},
+            "Used for facts, information, and skills (how to do something)."
+          ],
+          [
+            "ul",
+            {
+              "className": "rule-list"
+            },
+            [
+              "li",
+              {},
+              "Yo sé la verdad."
+            ],
+            [
+              "li",
+              {},
+              "Sé nadar."
+            ]
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "tense-card"
+          },
+          [
+            "h3",
+            {},
+            "Conocer"
+          ],
+          [
+            "p",
+            {},
+            "Used for people, places, and things (being familiar with)."
+          ],
+          [
+            "ul",
+            {
+              "className": "rule-list"
+            },
+            [
+              "li",
+              {},
+              "Conozco a María."
+            ],
+            [
+              "li",
+              {},
+              "Conozco Madrid."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Conjugation Check"
+        ],
+        [
+          "p",
+          {},
+          "Both are irregular in the yo form:"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "saber → sé | conocer → conozco"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/irregular-verbs-yo"
+        },
+        "← Verbs with Irregular Yo"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/personal-a"
+        },
+        "The Personal 'a' →"
+      ]
+    ]
+  ],
+  "/lessons/personal-a": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 25"
+      ],
+      [
+        "h1",
+        {},
+        "The Personal 'a'"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "When the direct object of a verb is a person, Spanish requires a special preposition: the personal ",
+        [
+          "strong",
+          {},
+          "'a'"
+        ],
+        "."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Usage"
+        ],
+        [
+          "p",
+          {},
+          "It doesn't translate to English, but it must be there if the object is human or a pet."
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            "Object is a thing: ",
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Veo el libro."
+            ]
+          ],
+          [
+            "p",
+            {},
+            "Object is a person: ",
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Veo ",
+              [
+                "strong",
+                {},
+                "a"
+              ],
+              " Juan."
+            ]
+          ]
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Llamo a mi madre."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I call my mother."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Conozco a esa señora."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I know that lady."
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/saber-conocer"
+        },
+        "← Saber vs Conocer"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/gustar"
+        },
+        "Gustar →"
+      ]
+    ]
+  ],
+  "/lessons/gustar": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 26"
+      ],
+      [
+        "h1",
+        {},
+        "Gustar"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The verb ",
+        [
+          "strong",
+          {},
+          "gustar"
+        ],
+        " doesn't mean 'to like' in the way English does. It literally means 'to be pleasing to.'"
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Structure"
+        ],
+        [
+          "p",
+          {},
+          "The thing being 'liked' is actually the subject of the sentence. Therefore, we mostly use only two forms: ",
+          [
+            "strong",
+            {},
+            "gusta"
+          ],
+          " (singular) and ",
+          [
+            "strong",
+            {},
+            "gustan"
+          ],
+          " (plural)."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Me gusta el café."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I like coffee (Coffee is pleasing to me)."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Me gustan los libros."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I like books (Books are pleasing to me)."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Indirect Object Pronouns"
+        ],
+        [
+          "p",
+          {},
+          "You must use a pronoun with gustar to show who is pleased:"
+        ],
+        [
+          "p",
+          {},
+          [
+            "strong",
+            {},
+            "me, te, le, nos, os, les"
+          ]
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "¿Te gusta la música?"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/personal-a"
+        },
+        "← The Personal 'a'"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-e-ie"
+        },
+        "Stem-Changers: e -> ie →"
+      ]
+    ]
+  ],
+  "/lessons/stem-changers-e-ie": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 27"
+      ],
+      [
+        "h1",
+        {},
+        "Stem-Changers: e -> ie"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Stem-changing verbs change their spelling in the root of the word for all forms except nosotros and vosotros."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Example: Entender (to understand)"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Subject"
+              ],
+              [
+                "th",
+                {},
+                "Conjugation"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "ent",
+                [
+                  "strong",
+                  {},
+                  "ie"
+                ],
+                "ndo"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "ent",
+                [
+                  "strong",
+                  {},
+                  "ie"
+                ],
+                "ndes"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "entendemos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ellos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "ent",
+                [
+                  "strong",
+                  {},
+                  "ie"
+                ],
+                "nden"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Boot Verbs"
+        ],
+        [
+          "p",
+          {},
+          "These are often called 'boot verbs' because if you circle the changing forms on a standard grid, it looks like a boot!"
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/gustar"
+        },
+        "← Gustar"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-o-ue"
+        },
+        "Stem-Changers: o -> ue →"
+      ]
+    ]
+  ],
+  "/lessons/stem-changers-o-ue": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 28"
+      ],
+      [
+        "h1",
+        {},
+        "Stem-Changers: o -> ue"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Just like e->ie verbs, these verbs change the 'o' in the stem to 'ue' for all forms except nosotros/vosotros."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Example: Dormir (to sleep)"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Subject"
+              ],
+              [
+                "th",
+                {},
+                "Conjugation"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "d",
+                [
+                  "strong",
+                  {},
+                  "ue"
+                ],
+                "rmo"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Él / Ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "d",
+                [
+                  "strong",
+                  {},
+                  "ue"
+                ],
+                "rme"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "dormimos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ellos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "d",
+                [
+                  "strong",
+                  {},
+                  "ue"
+                ],
+                "rmen"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "ul",
+        {
+          "className": "rule-list"
+        },
+        [
+          "li",
+          {},
+          [
+            "span",
+            {
+              "className": "spanish"
+            },
+            "Poder → Puedo"
+          ],
+          [
+            "span",
+            {
+              "className": "meaning"
+            },
+            "(I can)"
+          ]
+        ],
+        [
+          "li",
+          {},
+          [
+            "span",
+            {
+              "className": "spanish"
+            },
+            "Almorzar → Almuerzo"
+          ],
+          [
+            "span",
+            {
+              "className": "meaning"
+            },
+            "(I eat lunch)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-e-ie"
+        },
+        "← Stem-Changers: e -> ie"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-e-i"
+        },
+        "Stem-Changers: e -> i →"
+      ]
+    ]
+  ],
+  "/lessons/stem-changers-e-i": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 29"
+      ],
+      [
+        "h1",
+        {},
+        "Stem-Changers: e -> i"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "A smaller group of -ir verbs change the 'e' in the stem to a simple 'i'."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Example: Pedir (to ask for/order)"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Subject"
+              ],
+              [
+                "th",
+                {},
+                "Conjugation"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "p",
+                [
+                  "strong",
+                  {},
+                  "i"
+                ],
+                "do"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Él / Ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "p",
+                [
+                  "strong",
+                  {},
+                  "i"
+                ],
+                "de"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "pedimos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Ellos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "p",
+                [
+                  "strong",
+                  {},
+                  "i"
+                ],
+                "den"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "ul",
+        {
+          "className": "rule-list"
+        },
+        [
+          "li",
+          {},
+          [
+            "span",
+            {
+              "className": "spanish"
+            },
+            "Repetir → Repito"
+          ],
+          [
+            "span",
+            {
+              "className": "meaning"
+            },
+            "(I repeat)"
+          ]
+        ],
+        [
+          "li",
+          {},
+          [
+            "span",
+            {
+              "className": "spanish"
+            },
+            "Servir → Sirvo"
+          ],
+          [
+            "span",
+            {
+              "className": "meaning"
+            },
+            "(I serve)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-o-ue"
+        },
+        "← Stem-Changers: o -> ue"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/affinity-words"
+        },
+        "Affirmative and Negative Words →"
+      ]
+    ]
+  ],
+  "/lessons/affinity-words": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 30"
+      ],
+      [
+        "h1",
+        {},
+        "Affirmative and Negative Words"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Spanish uses pairs of words to affirm or deny the existence of people or things."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Pairings"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Affirmative"
+              ],
+              [
+                "th",
+                {},
+                "Negative"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Algo (Something)"
+              ],
+              [
+                "td",
+                {},
+                "Nada (Nothing)"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Alguien (Someone)"
+              ],
+              [
+                "td",
+                {},
+                "Nadie (No one)"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "Siempre (Always)"
+              ],
+              [
+                "td",
+                {},
+                "Nunca (Never)"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "También (Also)"
+              ],
+              [
+                "td",
+                {},
+                "Tampoco (Neither)"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Double Negatives"
+        ],
+        [
+          "p",
+          {},
+          "In English, double negatives are avoided. In Spanish, they are required!"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "No veo a nadie."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "I don't see anyone (I don't see no one)."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/stem-changers-e-i"
+        },
+        "← Stem-Changers: e -> i"
       ],
       [
         "a",
