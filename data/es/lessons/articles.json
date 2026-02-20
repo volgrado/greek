@@ -1,0 +1,211 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 4"
+        ],
+        [
+            "h1",
+            {},
+            "Definite and Indefinite Articles"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Spanish articles must agree in gender and number with the nouns they modify."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Definite Articles (The)"
+            ],
+            [
+                "table",
+                {},
+                [
+                    "thead",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "th",
+                            {},
+                            "Number"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Masculine"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Feminine"
+                        ]
+                    ]
+                ],
+                [
+                    "tbody",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "Singular"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "el"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "la"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "Plural"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "los"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "las"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Indefinite Articles (A, An, Some)"
+            ],
+            [
+                "table",
+                {},
+                [
+                    "thead",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "th",
+                            {},
+                            "Number"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Masculine"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Feminine"
+                        ]
+                    ]
+                ],
+                [
+                    "tbody",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "Singular"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "un"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "una"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "Plural"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "unos"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "unas"
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

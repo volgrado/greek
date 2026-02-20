@@ -1,0 +1,193 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 5"
+        ],
+        [
+            "h1",
+            {},
+            "Subject Pronouns"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Subject pronouns are the words that tell us who is performing the action of the verb."
+        ],
+        [
+            "table",
+            {},
+            [
+                "thead",
+                {},
+                [
+                    "tr",
+                    {},
+                    [
+                        "th",
+                        {},
+                        "Person"
+                    ],
+                    [
+                        "th",
+                        {},
+                        "Singular"
+                    ],
+                    [
+                        "th",
+                        {},
+                        "Plural"
+                    ]
+                ]
+            ],
+            [
+                "tbody",
+                {},
+                [
+                    "tr",
+                    {},
+                    [
+                        "td",
+                        {},
+                        "1st Person"
+                    ],
+                    [
+                        "td",
+                        {},
+                        [
+                            "span",
+                            {
+                                "className": "spanish"
+                            },
+                            "yo"
+                        ],
+                        " (I)"
+                    ],
+                    [
+                        "td",
+                        {},
+                        [
+                            "span",
+                            {
+                                "className": "spanish"
+                            },
+                            "nosotros/as"
+                        ],
+                        " (we)"
+                    ]
+                ],
+                [
+                    "tr",
+                    {},
+                    [
+                        "td",
+                        {},
+                        "2nd Person (Informal)"
+                    ],
+                    [
+                        "td",
+                        {},
+                        [
+                            "span",
+                            {
+                                "className": "spanish"
+                            },
+                            "tú"
+                        ],
+                        " (you)"
+                    ],
+                    [
+                        "td",
+                        {},
+                        [
+                            "span",
+                            {
+                                "className": "spanish"
+                            },
+                            "vosotros/as"
+                        ],
+                        " (you all)"
+                    ]
+                ],
+                [
+                    "tr",
+                    {},
+                    [
+                        "td",
+                        {},
+                        "3rd Person / Formal"
+                    ],
+                    [
+                        "td",
+                        {},
+                        [
+                            "span",
+                            {
+                                "className": "spanish"
+                            },
+                            "él / ella / usted"
+                        ],
+                        " (he/she/you formal)"
+                    ],
+                    [
+                        "td",
+                        {},
+                        [
+                            "span",
+                            {
+                                "className": "spanish"
+                            },
+                            "ellos / ellas / ustedes"
+                        ],
+                        " (they/you all formal)"
+                    ]
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "info-box"
+            },
+            [
+                "h3",
+                {},
+                "Did you know?"
+            ],
+            [
+                "p",
+                {},
+                "In many parts of the Spanish-speaking world, ",
+                [
+                    "strong",
+                    {},
+                    "ustedes"
+                ],
+                " is used for both formal and informal 'you all,' and ",
+                [
+                    "strong",
+                    {},
+                    "vosotros"
+                ],
+                " is primarily used in Spain."
+            ]
+        ]
+    ]
+]

@@ -11,14 +11,16 @@ def validate_node(node, path):
     if len(node) < 2 or not isinstance(node[1], dict):
         print(f"❌ Error in {path}: Node must be [tag, {{props}}, ...children]")
 
-def build():
+def build_lang(lang_code):
+    print(f"--- Building language: {lang_code} ---")
     db = {}
+    lang_dir = os.path.join('data', lang_code)
     
     # 1. Cargar la Ontología (Currículo)
-    curriculum_path = 'data/curriculum.json'
+    curriculum_path = os.path.join(lang_dir, 'curriculum.json')
     if not os.path.exists(curriculum_path):
-        print("❌ Error: data/curriculum.json not found.")
-        return
+        print(f"WRN: {curriculum_path} not found. Skipping.")
+        return None
         
     with open(curriculum_path, 'r', encoding='utf-8') as f:
         structure = json.load(f)
@@ -48,7 +50,7 @@ def build():
     db["/curriculum"] = home
 
     # 3. Recolectar Fragmentos de Conocimiento (Lessons)
-    lessons_dir = 'data/lessons'
+    lessons_dir = os.path.join(lang_dir, 'lessons')
     lesson_fragments = {}
     if os.path.exists(lessons_dir):
         for filename in os.listdir(lessons_dir):
@@ -58,10 +60,9 @@ def build():
                     try:
                         lesson_fragments[lesson_id] = json.load(f)
                     except Exception as e:
-                        print(f"❌ Error loading {filename}: {e}")
+                        print(f"[ERR] Error loading {filename}: {e}")
 
     # 4. Procesar Navigación Automática
-    # Solo generamos navegación entre lecciones que REALMENTE tienen contenido
     available_lessons = [l for l in flat_lessons if l['id'] in lesson_fragments]
     
     for i, l in enumerate(available_lessons):
@@ -69,9 +70,7 @@ def build():
         path = f"/lessons/{lid}"
         node = lesson_fragments[lid]
         
-        # Limpiar cualquier bloque de navegación previo (evitar duplicados)
         if isinstance(node, list):
-            # Limpieza más profunda: buscamos cualquier nodo con 'lesson-nav'
             node = [child for child in node if not (
                 isinstance(child, list) and 
                 len(child) > 1 and 
@@ -79,20 +78,16 @@ def build():
                 (child[1].get('className') == 'lesson-nav' or child[1].get('class') == 'lesson-nav')
             )]
 
-        # Crear nuevo bloque de navegación (PREV - MENU - NEXT)
         nav_block = ["div", {"className": "lesson-nav"}]
         
-        # 1. Previous
         if i > 0:
             prev_l = available_lessons[i-1]
             nav_block.append(["a", {"href": f"#/lessons/{prev_l['id']}"}, f"← {prev_l['title']}"])
         else:
             nav_block.append(["span", {}, ""]) 
 
-        # 2. Menu (Central)
         nav_block.append(["a", {"href": "#/", "className": "menu-btn"}, "MENU"])
 
-        # 3. Next
         if i < len(available_lessons) - 1:
             next_l = available_lessons[i+1]
             nav_block.append(["a", {"href": f"#/lessons/{next_l['id']}"}, f"{next_l['title']} →"])
@@ -111,10 +106,36 @@ def build():
     ]
 
     # 6. Consolidación del Grafo
-    with open('data.json', 'w', encoding='utf-8') as f:
+    output_filename = f'data-{lang_code}.json'
+    with open(output_filename, 'w', encoding='utf-8') as f:
         json.dump(db, f, ensure_ascii=False, indent=2)
     
-    print("Zen Graph Build Success: The infrastructure has been re-woven with Auto-Nav.")
+    # Special case for backward compatibility
+    if lang_code == 'el':
+        with open('data.json', 'w', encoding='utf-8') as f:
+            json.dump(db, f, ensure_ascii=False, indent=2)
+        print(f"[OK] data.json (linked to {lang_code}) updated.")
+
+    print(f"[OK] {output_filename} generated successfully.")
+    return db
+
+def build_all():
+    data_dir = 'data'
+    if not os.path.exists(data_dir):
+        print(f"[ERR] Error: {data_dir} directory not found.")
+        return
+
+    langs = [d for d in os.listdir(data_dir) if os.path.isdir(os.path.join(data_dir, d))]
+    
+    if not langs:
+        print("[ERR] Error: No language directories found in data/")
+        return
+
+    for lang in langs:
+        build_lang(lang)
+
+    print("\n--- Build process completed for all languages ---")
 
 if __name__ == "__main__":
-    build()
+    build_all()
+

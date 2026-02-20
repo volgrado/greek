@@ -1,0 +1,54 @@
+{
+    "Unit 1: Basic Spanish": [
+        {
+            "id": "gender-nouns-1",
+            "title": "Gender of Nouns I",
+            "num": 1
+        },
+        {
+            "id": "gender-nouns-2",
+            "title": "Gender of Nouns II",
+            "num": 2
+        },
+        {
+            "id": "plural-nouns",
+            "title": "Plural Forms of Nouns",
+            "num": 3
+        },
+        {
+            "id": "articles",
+            "title": "Definite and Indefinite Articles",
+            "num": 4
+        },
+        {
+            "id": "subject-pronouns",
+            "title": "Subject Pronouns",
+            "num": 5
+        },
+        {
+            "id": "regular-verbs-1",
+            "title": "Regular Verbs I (-ar)",
+            "num": 6
+        },
+        {
+            "id": "regular-verbs-2",
+            "title": "Regular Verbs II (-er)",
+            "num": 7
+        },
+        {
+            "id": "regular-verbs-3",
+            "title": "Regular Verbs III (-ir)",
+            "num": 8
+        },
+        {
+            "id": "adjectives-1",
+            "title": "Adjectives I",
+            "num": 9
+        },
+        {
+            "id": "adjectives-2",
+            "title": "Adjectives II",
+            "num": 10
+        }
+    ]
+}
