@@ -688,13 +688,39 @@
       [
         "a",
         {
-          "href": "#/lessons/direct-objects-2",
+          "href": "#/lessons/direct-objects-3",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "39. Direct Object Pronouns II"
+          "40. Direct Object Pronouns III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 5: Objects and Progressive"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "41. Indirect Object Pronouns I"
         ],
         [
           "span",
@@ -705,13 +731,149 @@
       [
         "a",
         {
-          "href": "#/lessons/direct-objects-3",
+          "href": "#/lessons/indirect-objects-2",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "40. Direct Object Pronouns III"
+          "42. Indirect Object Pronouns II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "43. Indirect Object Pronouns III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pronouns-combined",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "44. Combined Object Pronouns"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/verbs-like-gustar",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "45. Verbs like Gustar"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/present-progressive",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "46. Present Progressive"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/irregular-participles",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "47. Irregular Present Participles"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/intro-preterite",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "48. Intro to the Preterite"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "49. Preterite: Regular Verbs"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-spelling",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "50. Preterite: Spelling Changes"
         ],
         [
           "span",
@@ -1410,13 +1572,39 @@
       [
         "a",
         {
-          "href": "#/lessons/direct-objects-2",
+          "href": "#/lessons/direct-objects-3",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "39. Direct Object Pronouns II"
+          "40. Direct Object Pronouns III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 5: Objects and Progressive"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-1",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "41. Indirect Object Pronouns I"
         ],
         [
           "span",
@@ -1427,13 +1615,149 @@
       [
         "a",
         {
-          "href": "#/lessons/direct-objects-3",
+          "href": "#/lessons/indirect-objects-2",
           "className": "curriculum-link"
         },
         [
           "span",
           {},
-          "40. Direct Object Pronouns III"
+          "42. Indirect Object Pronouns II"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "43. Indirect Object Pronouns III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pronouns-combined",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "44. Combined Object Pronouns"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/verbs-like-gustar",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "45. Verbs like Gustar"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/present-progressive",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "46. Present Progressive"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/irregular-participles",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "47. Irregular Present Participles"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/intro-preterite",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "48. Intro to the Preterite"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "49. Preterite: Regular Verbs"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-spelling",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "50. Preterite: Spelling Changes"
         ],
         [
           "span",
@@ -9594,131 +9918,6 @@
       [
         "a",
         {
-          "href": "#/lessons/direct-objects-2"
-        },
-        "Direct Object Pronouns II →"
-      ]
-    ]
-  ],
-  "/lessons/direct-objects-2": [
-    "div",
-    {
-      "className": "content-wrapper"
-    },
-    [
-      "header",
-      {
-        "className": "lesson-header"
-      },
-      [
-        "p",
-        {
-          "className": "lesson-meta"
-        },
-        "Lesson 39"
-      ],
-      [
-        "h1",
-        {},
-        "Direct Object Pronouns II"
-      ]
-    ],
-    [
-      "article",
-      {},
-      [
-        "p",
-        {
-          "className": "section-intro"
-        },
-        "When a sentence contains two verbs (like 'I want to see it'), you have a choice of where to place the pronoun."
-      ],
-      [
-        "section",
-        {
-          "className": "module-section"
-        },
-        [
-          "h2",
-          {},
-          "Placement with Infinitives"
-        ],
-        [
-          "p",
-          {},
-          "Option 1: Before the conjugated verb."
-        ],
-        [
-          "p",
-          {
-            "className": "spanish"
-          },
-          [
-            "strong",
-            {},
-            "Lo"
-          ],
-          " quiero ver."
-        ],
-        [
-          "p",
-          {},
-          "Option 2: Attached to the end of the infinitive."
-        ],
-        [
-          "p",
-          {
-            "className": "spanish"
-          },
-          "Quiero ver",
-          [
-            "strong",
-            {},
-            "lo"
-          ],
-          "."
-        ]
-      ],
-      [
-        "div",
-        {
-          "className": "info-box"
-        },
-        [
-          "h3",
-          {},
-          "Both are correct!"
-        ],
-        [
-          "p",
-          {},
-          "Spanish speakers use both forms, although attaching it to the end is often considered more natural in spoken Spanish for some learners."
-        ]
-      ]
-    ],
-    [
-      "div",
-      {
-        "className": "lesson-nav"
-      },
-      [
-        "a",
-        {
-          "href": "#/lessons/direct-objects-1"
-        },
-        "← Direct Object Pronouns I"
-      ],
-      [
-        "a",
-        {
-          "href": "#/",
-          "className": "menu-btn"
-        },
-        "MENU"
-      ],
-      [
-        "a",
-        {
           "href": "#/lessons/direct-objects-3"
         },
         "Direct Object Pronouns III →"
@@ -9836,9 +10035,1802 @@
       [
         "a",
         {
-          "href": "#/lessons/direct-objects-2"
+          "href": "#/lessons/direct-objects-1"
         },
-        "← Direct Object Pronouns II"
+        "← Direct Object Pronouns I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-1"
+        },
+        "Indirect Object Pronouns I →"
+      ]
+    ]
+  ],
+  "/lessons/indirect-objects-1": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 41"
+      ],
+      [
+        "h1",
+        {},
+        "Indirect Object Pronouns I"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "An indirect object tells us ",
+        [
+          "strong",
+          {},
+          "to whom"
+        ],
+        " or ",
+        [
+          "strong",
+          {},
+          "for whom"
+        ],
+        " an action is performed. Indirect object pronouns replace these nouns."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Forms"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Person"
+              ],
+              [
+                "th",
+                {},
+                "Singular"
+              ],
+              [
+                "th",
+                {},
+                "Plural"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "1st"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "me (to/for me)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "nos (to/for us)"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "2nd"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "te (to/for you)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "os (to/for you all)"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "3rd"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "le (to/for him/her/you)"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "les (to/for them/you all)"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Placement"
+        ],
+        [
+          "p",
+          {},
+          "Similar to direct object pronouns, indirect ones usually come immediately ",
+          [
+            "strong",
+            {},
+            "before"
+          ],
+          " the conjugated verb."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Juan ",
+          [
+            "strong",
+            {},
+            "me"
+          ],
+          " da el libro."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "Juan gives the book to me."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/direct-objects-3"
+        },
+        "← Direct Object Pronouns III"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-2"
+        },
+        "Indirect Object Pronouns II →"
+      ]
+    ]
+  ],
+  "/lessons/indirect-objects-2": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 42"
+      ],
+      [
+        "h1",
+        {},
+        "Indirect Object Pronouns II"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Because ",
+        [
+          "strong",
+          {},
+          "le"
+        ],
+        " and ",
+        [
+          "strong",
+          {},
+          "les"
+        ],
+        " can refer to many different people, Spanish often uses extra phrases for clarity."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Clarity Phrases"
+        ],
+        [
+          "p",
+          {},
+          "Formula: ",
+          [
+            "strong",
+            {},
+            "[Pronoun] ... a + [noun/pronoun]"
+          ]
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Yo le doy el libro ",
+              [
+                "strong",
+                {},
+                "a ella"
+              ],
+              "."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I give the book to her."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Él les habla ",
+              [
+                "strong",
+                {},
+                "a los estudiantes"
+              ],
+              "."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "He speaks to the students."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Redundancy"
+        ],
+        [
+          "p",
+          {},
+          "In Spanish, the indirect object pronoun is often used even when the noun is also present in the sentence. This is perfectly normal and required in many contexts."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-1"
+        },
+        "← Indirect Object Pronouns I"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-3"
+        },
+        "Indirect Object Pronouns III →"
+      ]
+    ]
+  ],
+  "/lessons/indirect-objects-3": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 43"
+      ],
+      [
+        "h1",
+        {},
+        "Indirect Object Pronouns III"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Just like direct object pronouns, indirect pronouns can also be attached to infinitives and present participles."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Attachment Examples"
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            "With Infinitive: ",
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Quiero dar",
+              [
+                "strong",
+                {},
+                "le"
+              ],
+              " el regalo."
+            ]
+          ],
+          [
+            "p",
+            {},
+            "With Participle: ",
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Estoy dándo",
+              [
+                "strong",
+                {},
+                "le"
+              ],
+              " el regalo."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Remember the Choice!"
+        ],
+        [
+          "p",
+          {},
+          "You always have the alternative option of placing the pronoun before the conjugated verb:"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Le quiero dar el regalo."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-2"
+        },
+        "← Indirect Object Pronouns II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/pronouns-combined"
+        },
+        "Combined Object Pronouns →"
+      ]
+    ]
+  ],
+  "/lessons/pronouns-combined": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 44"
+      ],
+      [
+        "h1",
+        {},
+        "Combined Object Pronouns"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "When a sentence has both a direct and an indirect object pronoun, follow these two critical rules."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Rule 1: Order"
+        ],
+        [
+          "p",
+          {},
+          "The indirect object pronoun always comes ",
+          [
+            "strong",
+            {},
+            "before"
+          ],
+          " the direct object pronoun."
+        ],
+        [
+          "p",
+          {},
+          "Mnemonic: ",
+          [
+            "strong",
+            {},
+            "RID"
+          ],
+          " (Reflexive, Indirect, Direct)."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Él ",
+          [
+            "strong",
+            {},
+            "me lo"
+          ],
+          " da."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "He gives it to me. (me = indirect, lo = direct)"
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Rule 2: The 'Se' Rule"
+        ],
+        [
+          "p",
+          {},
+          "If both pronouns start with an 'l' (le/les + lo/la/los/las), the indirect pronoun changes to ",
+          [
+            "strong",
+            {},
+            "se"
+          ],
+          " to avoid an awkward sound."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "Incorrect: Le lo doy. → Correct: ",
+          [
+            "strong",
+            {},
+            "Se lo"
+          ],
+          " doy."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/indirect-objects-3"
+        },
+        "← Indirect Object Pronouns III"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/verbs-like-gustar"
+        },
+        "Verbs like Gustar →"
+      ]
+    ]
+  ],
+  "/lessons/verbs-like-gustar": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 45"
+      ],
+      [
+        "h1",
+        {},
+        "Verbs like Gustar"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Many other verbs in Spanish follow the same 'backwards' structure as gustar."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Common Verbs"
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Verb"
+              ],
+              [
+                "th",
+                {},
+                "Meaning"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Fascinar"
+              ],
+              [
+                "td",
+                {},
+                "To fascinate"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Encantar"
+              ],
+              [
+                "td",
+                {},
+                "To love/delight"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Importar"
+              ],
+              [
+                "td",
+                {},
+                "To matter/be important"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Molestar"
+              ],
+              [
+                "td",
+                {},
+                "To bother/annoy"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "Quedar"
+              ],
+              [
+                "td",
+                {},
+                "To remain/to be left"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Me encanta el chocolate."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I love chocolate."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "¿Te molesta el ruido?"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "Does the noise bother you?"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/pronouns-combined"
+        },
+        "← Combined Object Pronouns"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/present-progressive"
+        },
+        "Present Progressive →"
+      ]
+    ]
+  ],
+  "/lessons/present-progressive": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 46"
+      ],
+      [
+        "h1",
+        {},
+        "Present Progressive"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The present progressive is used to describe an action that is happening ",
+        [
+          "strong",
+          {},
+          "right now"
+        ],
+        "."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Formula"
+        ],
+        [
+          "p",
+          {},
+          "Formula: ",
+          [
+            "strong",
+            {},
+            "Estar + Present Participle (-ando / -iendo)"
+          ]
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "For -ar verbs: replace -ar with ",
+            [
+              "strong",
+              {},
+              "-ando"
+            ],
+            " (hablar → hablando)"
+          ],
+          [
+            "li",
+            {},
+            "For -er/-ir verbs: replace -er/-ir with ",
+            [
+              "strong",
+              {},
+              "-iendo"
+            ],
+            " (comer → comiendo / vivir → viviendo)"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Estoy hablando por teléfono."
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "I am speaking on the phone."
+            ]
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "¿Qué estás comiendo?"
+            ],
+            [
+              "span",
+              {
+                "className": "meaning"
+              },
+              "What are you eating?"
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/verbs-like-gustar"
+        },
+        "← Verbs like Gustar"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/irregular-participles"
+        },
+        "Irregular Present Participles →"
+      ]
+    ]
+  ],
+  "/lessons/irregular-participles": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 47"
+      ],
+      [
+        "h1",
+        {},
+        "Irregular Present Participles"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Some verbs have irregular present participles, often due to spelling changes or stem-shifts."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The '-yendo' Group"
+        ],
+        [
+          "p",
+          {},
+          "When the stem of an -er or -ir verb ends in a vowel, use ",
+          [
+            "strong",
+            {},
+            "-yendo"
+          ],
+          " instead of -iendo."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "Leer → ",
+            [
+              "strong",
+              {},
+              "leyendo"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Oír → ",
+            [
+              "strong",
+              {},
+              "oyendo"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Traer → ",
+            [
+              "strong",
+              {},
+              "trayendo"
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Stem-Changing Verbs"
+        ],
+        [
+          "p",
+          {},
+          "Only -ir stem-changing verbs keep their change in the participle."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            "e → i: ",
+            [
+              "strong",
+              {},
+              "Diciendo"
+            ],
+            " (from decir)"
+          ],
+          [
+            "li",
+            {},
+            "o → u: ",
+            [
+              "strong",
+              {},
+              "Durmiendo"
+            ],
+            " (from dormir)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/present-progressive"
+        },
+        "← Present Progressive"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/intro-preterite"
+        },
+        "Intro to the Preterite →"
+      ]
+    ]
+  ],
+  "/lessons/intro-preterite": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 48"
+      ],
+      [
+        "h1",
+        {},
+        "Intro to the Preterite"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The preterite tense is used to describe actions that were ",
+        [
+          "strong",
+          {},
+          "completed"
+        ],
+        " in the past at a specific point in time."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "When to Use"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "Actions that occurred once."
+          ],
+          [
+            "li",
+            {},
+            "Actions that were part of a chain of events."
+          ],
+          [
+            "li",
+            {},
+            "Actions that occurred within a specific time frame."
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Keywords"
+        ],
+        [
+          "p",
+          {},
+          "If you see these words, you usually need the preterite:"
+        ],
+        [
+          "p",
+          {},
+          [
+            "strong",
+            {},
+            "ayer"
+          ],
+          " (yesterday), ",
+          [
+            "strong",
+            {},
+            "anoche"
+          ],
+          " (last night), ",
+          [
+            "strong",
+            {},
+            "la semana pasada"
+          ],
+          " (last week)."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/irregular-participles"
+        },
+        "← Irregular Present Participles"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-regular"
+        },
+        "Preterite: Regular Verbs →"
+      ]
+    ]
+  ],
+  "/lessons/preterite-regular": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 49"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite: Regular Verbs"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "To conjugate regular verbs in the preterite, remove the -ar, -er, or -ir ending and add these forms."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "-ar Endings"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-é"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-aste"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ó"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nos."
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-amos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-aron"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "-er / -ir Endings"
+        ],
+        [
+          "p",
+          {},
+          "Notice that -er and -ir verbs share the same set of preterite endings!"
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-í"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-iste"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ió"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nos."
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-imos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ieron"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/intro-preterite"
+        },
+        "← Intro to the Preterite"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-spelling"
+        },
+        "Preterite: Spelling Changes →"
+      ]
+    ]
+  ],
+  "/lessons/preterite-spelling": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 50"
+      ],
+      [
+        "h1",
+        {},
+        "Preterite: Spelling Changes"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "To preserve the original pronunciation of the infinitive, some verbs require a spelling change in the ",
+        [
+          "strong",
+          {},
+          "yo"
+        ],
+        " form only."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The -car, -gar, -zar Rule"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "-car → ",
+            [
+              "strong",
+              {},
+              "-qué"
+            ],
+            " (buscar → busqué)"
+          ],
+          [
+            "li",
+            {},
+            "-gar → ",
+            [
+              "strong",
+              {},
+              "-gué"
+            ],
+            " (pagar → pagué)"
+          ],
+          [
+            "li",
+            {},
+            "-zar → ",
+            [
+              "strong",
+              {},
+              "-cé"
+            ],
+            " (empezar → empecé)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Note"
+        ],
+        [
+          "p",
+          {},
+          "These changes only happen in the first-person singular. All other forms follow the regular -ar pattern."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/preterite-regular"
+        },
+        "← Preterite: Regular Verbs"
       ],
       [
         "a",

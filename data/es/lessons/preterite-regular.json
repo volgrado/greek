@@ -1,0 +1,238 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 49"
+        ],
+        [
+            "h1",
+            {},
+            "Preterite: Regular Verbs"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "To conjugate regular verbs in the preterite, remove the -ar, -er, or -ir ending and add these forms."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "-ar Endings"
+            ],
+            [
+                "table",
+                {},
+                [
+                    "tbody",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "yo"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-é"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "tú"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-aste"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "él"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-ó"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "nos."
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-amos"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "ellos"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-aron"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "-er / -ir Endings"
+            ],
+            [
+                "p",
+                {},
+                "Notice that -er and -ir verbs share the same set of preterite endings!"
+            ],
+            [
+                "table",
+                {},
+                [
+                    "tbody",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "yo"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-í"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "tú"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-iste"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "él"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-ió"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "nos."
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-imos"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "ellos"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "-ieron"
+                        ]
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

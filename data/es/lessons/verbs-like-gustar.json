@@ -1,0 +1,205 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 45"
+        ],
+        [
+            "h1",
+            {},
+            "Verbs like Gustar"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Many other verbs in Spanish follow the same 'backwards' structure as gustar."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Common Verbs"
+            ],
+            [
+                "table",
+                {},
+                [
+                    "thead",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "th",
+                            {},
+                            "Verb"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Meaning"
+                        ]
+                    ]
+                ],
+                [
+                    "tbody",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Fascinar"
+                        ],
+                        [
+                            "td",
+                            {},
+                            "To fascinate"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Encantar"
+                        ],
+                        [
+                            "td",
+                            {},
+                            "To love/delight"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Importar"
+                        ],
+                        [
+                            "td",
+                            {},
+                            "To matter/be important"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Molestar"
+                        ],
+                        [
+                            "td",
+                            {},
+                            "To bother/annoy"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Quedar"
+                        ],
+                        [
+                            "td",
+                            {},
+                            "To remain/to be left"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Examples"
+            ],
+            [
+                "ul",
+                {
+                    "className": "phrase-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "Me encanta el chocolate."
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "I love chocolate."
+                    ]
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "span",
+                        {
+                            "className": "spanish"
+                        },
+                        "¿Te molesta el ruido?"
+                    ],
+                    [
+                        "span",
+                        {
+                            "className": "meaning"
+                        },
+                        "Does the noise bother you?"
+                    ]
+                ]
+            ]
+        ]
+    ]
+]

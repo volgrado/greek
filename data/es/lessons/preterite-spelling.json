@@ -1,0 +1,107 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 50"
+        ],
+        [
+            "h1",
+            {},
+            "Preterite: Spelling Changes"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "To preserve the original pronunciation of the infinitive, some verbs require a spelling change in the ",
+            [
+                "strong",
+                {},
+                "yo"
+            ],
+            " form only."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The -car, -gar, -zar Rule"
+            ],
+            [
+                "ul",
+                {
+                    "className": "rule-list"
+                },
+                [
+                    "li",
+                    {},
+                    "-car → ",
+                    [
+                        "strong",
+                        {},
+                        "-qué"
+                    ],
+                    " (buscar → busqué)"
+                ],
+                [
+                    "li",
+                    {},
+                    "-gar → ",
+                    [
+                        "strong",
+                        {},
+                        "-gué"
+                    ],
+                    " (pagar → pagué)"
+                ],
+                [
+                    "li",
+                    {},
+                    "-zar → ",
+                    [
+                        "strong",
+                        {},
+                        "-cé"
+                    ],
+                    " (empezar → empecé)"
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "grammar-info"
+            },
+            [
+                "h3",
+                {},
+                "Note"
+            ],
+            [
+                "p",
+                {},
+                "These changes only happen in the first-person singular. All other forms follow the regular -ar pattern."
+            ]
+        ]
+    ]
+]
