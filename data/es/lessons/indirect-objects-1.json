@@ -1,0 +1,200 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 41"
+        ],
+        [
+            "h1",
+            {},
+            "Indirect Object Pronouns I"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "An indirect object tells us ",
+            [
+                "strong",
+                {},
+                "to whom"
+            ],
+            " or ",
+            [
+                "strong",
+                {},
+                "for whom"
+            ],
+            " an action is performed. Indirect object pronouns replace these nouns."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The Forms"
+            ],
+            [
+                "table",
+                {},
+                [
+                    "thead",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "th",
+                            {},
+                            "Person"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Singular"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Plural"
+                        ]
+                    ]
+                ],
+                [
+                    "tbody",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "1st"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "me (to/for me)"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "nos (to/for us)"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "2nd"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "te (to/for you)"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "os (to/for you all)"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "3rd"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "le (to/for him/her/you)"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "les (to/for them/you all)"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "info-box"
+            },
+            [
+                "h3",
+                {},
+                "Placement"
+            ],
+            [
+                "p",
+                {},
+                "Similar to direct object pronouns, indirect ones usually come immediately ",
+                [
+                    "strong",
+                    {},
+                    "before"
+                ],
+                " the conjugated verb."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Juan ",
+                [
+                    "strong",
+                    {},
+                    "me"
+                ],
+                " da el libro."
+            ],
+            [
+                "p",
+                {
+                    "className": "translation"
+                },
+                "Juan gives the book to me."
+            ]
+        ]
+    ]
+]

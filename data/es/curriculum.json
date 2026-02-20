@@ -197,14 +197,61 @@
             "num": 38
         },
         {
-            "id": "direct-objects-2",
-            "title": "Direct Object Pronouns II",
-            "num": 39
-        },
-        {
             "id": "direct-objects-3",
             "title": "Direct Object Pronouns III",
             "num": 40
+        }
+    ],
+    "Unit 5: Objects and Progressive": [
+        {
+            "id": "indirect-objects-1",
+            "title": "Indirect Object Pronouns I",
+            "num": 41
+        },
+        {
+            "id": "indirect-objects-2",
+            "title": "Indirect Object Pronouns II",
+            "num": 42
+        },
+        {
+            "id": "indirect-objects-3",
+            "title": "Indirect Object Pronouns III",
+            "num": 43
+        },
+        {
+            "id": "pronouns-combined",
+            "title": "Combined Object Pronouns",
+            "num": 44
+        },
+        {
+            "id": "verbs-like-gustar",
+            "title": "Verbs like Gustar",
+            "num": 45
+        },
+        {
+            "id": "present-progressive",
+            "title": "Present Progressive",
+            "num": 46
+        },
+        {
+            "id": "irregular-participles",
+            "title": "Irregular Present Participles",
+            "num": 47
+        },
+        {
+            "id": "intro-preterite",
+            "title": "Intro to the Preterite",
+            "num": 48
+        },
+        {
+            "id": "preterite-regular",
+            "title": "Preterite: Regular Verbs",
+            "num": 49
+        },
+        {
+            "id": "preterite-spelling",
+            "title": "Preterite: Spelling Changes",
+            "num": 50
         }
     ]
 }

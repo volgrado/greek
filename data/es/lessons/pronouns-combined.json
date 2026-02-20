@@ -1,0 +1,123 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 44"
+        ],
+        [
+            "h1",
+            {},
+            "Combined Object Pronouns"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "When a sentence has both a direct and an indirect object pronoun, follow these two critical rules."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Rule 1: Order"
+            ],
+            [
+                "p",
+                {},
+                "The indirect object pronoun always comes ",
+                [
+                    "strong",
+                    {},
+                    "before"
+                ],
+                " the direct object pronoun."
+            ],
+            [
+                "p",
+                {},
+                "Mnemonic: ",
+                [
+                    "strong",
+                    {},
+                    "RID"
+                ],
+                " (Reflexive, Indirect, Direct)."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Él ",
+                [
+                    "strong",
+                    {},
+                    "me lo"
+                ],
+                " da."
+            ],
+            [
+                "p",
+                {
+                    "className": "translation"
+                },
+                "He gives it to me. (me = indirect, lo = direct)"
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Rule 2: The 'Se' Rule"
+            ],
+            [
+                "p",
+                {},
+                "If both pronouns start with an 'l' (le/les + lo/la/los/las), the indirect pronoun changes to ",
+                [
+                    "strong",
+                    {},
+                    "se"
+                ],
+                " to avoid an awkward sound."
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Incorrect: Le lo doy. → Correct: ",
+                [
+                    "strong",
+                    {},
+                    "Se lo"
+                ],
+                " doy."
+            ]
+        ]
+    ]
+]
