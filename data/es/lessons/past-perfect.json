@@ -1,0 +1,187 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 83"
+        ],
+        [
+            "h1",
+            {},
+            "The Past Perfect"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "The past perfect (pluperfect) is used to describe an action that had happened before another action in the past (I had eaten)."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "The Formula"
+            ],
+            [
+                "p",
+                {},
+                "Formula: ",
+                [
+                    "strong",
+                    {},
+                    "Imperfect tense of HABER + Past Participle"
+                ]
+            ],
+            [
+                "table",
+                {},
+                [
+                    "thead",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "th",
+                            {},
+                            "Person"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Haber (Imp.)"
+                        ]
+                    ]
+                ],
+                [
+                    "tbody",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "yo"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "había"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "tú"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "habías"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "él/ella"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "había"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "nosotros"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "habíamos"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {},
+                            "ellos/ellas"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "habían"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Example"
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Yo ya había comido cuando él llegó."
+            ],
+            [
+                "p",
+                {
+                    "className": "translation"
+                },
+                "I had already eaten when he arrived."
+            ]
+        ]
+    ]
+]

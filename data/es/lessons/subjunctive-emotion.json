@@ -1,0 +1,140 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 85"
+        ],
+        [
+            "h1",
+            {},
+            "Subjunctive Usage: Emotion"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "When the main clause expresses a feeling or emotion about an action, the subjunctive is used in the second clause."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Emotional Triggers"
+            ],
+            [
+                "ul",
+                {
+                    "className": "rule-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Sentir que"
+                    ],
+                    " (To be sorry that)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Alegrarse de que"
+                    ],
+                    " (To be glad that)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Temer que"
+                    ],
+                    " (To fear that)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Tener miedo de que"
+                    ],
+                    " (To be afraid that)"
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Example"
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Me alegro de que estés aquí."
+            ],
+            [
+                "p",
+                {
+                    "className": "translation"
+                },
+                "I am glad that you are here."
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "grammar-info"
+            },
+            [
+                "h3",
+                {},
+                "Note"
+            ],
+            [
+                "p",
+                {},
+                "Just like with wishes, if there is no change of subject, use the infinitive: ",
+                [
+                    "span",
+                    {
+                        "className": "spanish"
+                    },
+                    "Me alegro de estar aquí."
+                ]
+            ]
+        ]
+    ]
+]

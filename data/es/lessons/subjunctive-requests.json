@@ -1,0 +1,117 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 87"
+        ],
+        [
+            "h1",
+            {},
+            "Subjunctive Usage: Requests"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Verbs that express a request, command, advice, or suggestion for another person trigger the subjunctive."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Request/Influence Triggers"
+            ],
+            [
+                "ul",
+                {
+                    "className": "rule-list"
+                },
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Pedir que"
+                    ],
+                    " (To ask that)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Decir que"
+                    ],
+                    " (To tell [someone to do something])"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Recomendar que"
+                    ],
+                    " (To recommend that)"
+                ],
+                [
+                    "li",
+                    {},
+                    [
+                        "strong",
+                        {},
+                        "Sugerir que"
+                    ],
+                    " (To suggest that)"
+                ]
+            ]
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Example"
+            ],
+            [
+                "p",
+                {
+                    "className": "spanish"
+                },
+                "Él me pide que estudie más."
+            ],
+            [
+                "p",
+                {
+                    "className": "translation"
+                },
+                "He asks me to study more."
+            ]
+        ]
+    ]
+]

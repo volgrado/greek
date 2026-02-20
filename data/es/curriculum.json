@@ -409,5 +409,57 @@
             "title": "Subjunctive: Stem-Changers",
             "num": 80
         }
+    ],
+    "Unit 9: Perfect Tenses and Subjunctive Usage": [
+        {
+            "id": "present-perfect",
+            "title": "Present Perfect",
+            "num": 81
+        },
+        {
+            "id": "past-participles-irreg",
+            "title": "Irregular Past Participles",
+            "num": 82
+        },
+        {
+            "id": "past-perfect",
+            "title": "Past Perfect",
+            "num": 83
+        },
+        {
+            "id": "subjunctive-wishes",
+            "title": "Subjunctive: Wishes",
+            "num": 84
+        },
+        {
+            "id": "subjunctive-emotion",
+            "title": "Subjunctive: Emotion",
+            "num": 85
+        },
+        {
+            "id": "subjunctive-impersonal",
+            "title": "Subjunctive: Impersonal",
+            "num": 86
+        },
+        {
+            "id": "subjunctive-requests",
+            "title": "Subjunctive: Requests",
+            "num": 87
+        },
+        {
+            "id": "subjunctive-doubt",
+            "title": "Subjunctive: Doubt",
+            "num": 88
+        },
+        {
+            "id": "subjunctive-ojala",
+            "title": "Subjunctive: Ojalá",
+            "num": 89
+        },
+        {
+            "id": "subjunctive-disish",
+            "title": "Subjunctive: The Six Irregulars",
+            "num": 90
+        }
     ]
 }

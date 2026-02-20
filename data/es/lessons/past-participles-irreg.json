@@ -1,0 +1,238 @@
+[
+    "div",
+    {
+        "className": "content-wrapper"
+    },
+    [
+        "header",
+        {
+            "className": "lesson-header"
+        },
+        [
+            "p",
+            {
+                "className": "lesson-meta"
+            },
+            "Lesson 82"
+        ],
+        [
+            "h1",
+            {},
+            "Irregular Past Participles"
+        ]
+    ],
+    [
+        "article",
+        {},
+        [
+            "p",
+            {
+                "className": "section-intro"
+            },
+            "Many common verbs have irregular past participles that do not follow the -ado/-ido pattern."
+        ],
+        [
+            "section",
+            {
+                "className": "module-section"
+            },
+            [
+                "h2",
+                {},
+                "Common Irregulars"
+            ],
+            [
+                "table",
+                {},
+                [
+                    "thead",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "th",
+                            {},
+                            "Infinitive"
+                        ],
+                        [
+                            "th",
+                            {},
+                            "Past Participle"
+                        ]
+                    ]
+                ],
+                [
+                    "tbody",
+                    {},
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Abrir"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "abierto"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Decir"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "dicho"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Escribir"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "escrito"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Hacer"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "hecho"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Morir"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "muerto"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Poner"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "puesto"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Ver"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "visto"
+                        ]
+                    ],
+                    [
+                        "tr",
+                        {},
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "Volver"
+                        ],
+                        [
+                            "td",
+                            {
+                                "className": "spanish"
+                            },
+                            "vuelto"
+                        ]
+                    ]
+                ]
+            ]
+        ],
+        [
+            "div",
+            {
+                "className": "info-box"
+            },
+            [
+                "h3",
+                {},
+                "Accent Marks"
+            ],
+            [
+                "p",
+                {},
+                "Verbs like leer, oír, and creer require an accent mark on the 'i' to avoid a diphthong: ",
+                [
+                    "strong",
+                    {},
+                    "leído, oído, creído"
+                ],
+                "."
+            ]
+        ]
+    ]
+]
