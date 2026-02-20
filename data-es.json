@@ -1239,6 +1239,185 @@
           "→"
         ]
       ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 8: Future, Conditional, and Subjunctive"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/future-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "71. Future Tense: Regular"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/future-irregular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "72. Future Tense: Irregular"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/conditional-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "73. Conditional Tense"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "74. Relative Pronouns III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-4",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "75. Relative Pronouns IV"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-intro",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "76. Subjunctive Intro"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-present-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "77. Subjunctive: Present"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-irregular-yo",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "78. Subjunctive: Irregular Yo"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-spelling-change",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "79. Subjunctive: Spelling Changes"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-stem-change",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "80. Subjunctive: Stem-Changers"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
     ]
   ],
   "/curriculum": [
@@ -2474,6 +2653,185 @@
           "span",
           {},
           "70. Possessive Pronouns"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ]
+    ],
+    [
+      "section",
+      {},
+      [
+        "h2",
+        {},
+        "Unit 8: Future, Conditional, and Subjunctive"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/future-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "71. Future Tense: Regular"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/future-irregular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "72. Future Tense: Irregular"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/conditional-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "73. Conditional Tense"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-3",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "74. Relative Pronouns III"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-4",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "75. Relative Pronouns IV"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-intro",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "76. Subjunctive Intro"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-present-regular",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "77. Subjunctive: Present"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-irregular-yo",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "78. Subjunctive: Irregular Yo"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-spelling-change",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "79. Subjunctive: Spelling Changes"
+        ],
+        [
+          "span",
+          {},
+          "→"
+        ]
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-stem-change",
+          "className": "curriculum-link"
+        },
+        [
+          "span",
+          {},
+          "80. Subjunctive: Stem-Changers"
         ],
         [
           "span",
@@ -16763,6 +17121,1769 @@
           "href": "#/lessons/definite-article-2"
         },
         "← Definite Article II"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/future-regular"
+        },
+        "Future Tense: Regular →"
+      ]
+    ]
+  ],
+  "/lessons/future-regular": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 71"
+      ],
+      [
+        "h1",
+        {},
+        "Future Tense: Regular"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The future tense in Spanish is used to describe what ",
+        [
+          "strong",
+          {},
+          "will"
+        ],
+        " happen. Unlike most other tenses, the endings are added directly to the ",
+        [
+          "strong",
+          {},
+          "entire infinitive"
+        ],
+        "."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "One Set of Endings"
+        ],
+        [
+          "p",
+          {},
+          "All regular -ar, -er, and -ir verbs use the same set of endings in the future tense."
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-é"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ás"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-á"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-emos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-án"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Hablaré"
+            ],
+            " (I will speak)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Comerás"
+            ],
+            " (You will eat)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Viviremos"
+            ],
+            " (We will live)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Accent Alert!"
+        ],
+        [
+          "p",
+          {},
+          "Notice that all endings EXCEPT the 'nosotros' form have an accent mark."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/possessive-pronouns"
+        },
+        "← Possessive Pronouns"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/future-irregular"
+        },
+        "Future Tense: Irregular →"
+      ]
+    ]
+  ],
+  "/lessons/future-irregular": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 72"
+      ],
+      [
+        "h1",
+        {},
+        "Future Tense: Irregular"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Even irregular future verbs use the standard endings. The only thing that changes is the ",
+        [
+          "strong",
+          {},
+          "stem"
+        ],
+        " of the verb."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Common Irregular Stems"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "Tener → ",
+            [
+              "strong",
+              {},
+              "tendr-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Poner → ",
+            [
+              "strong",
+              {},
+              "pondr-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Salir → ",
+            [
+              "strong",
+              {},
+              "saldr-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Venir → ",
+            [
+              "strong",
+              {},
+              "vendr-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Poder → ",
+            [
+              "strong",
+              {},
+              "podr-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Saber → ",
+            [
+              "strong",
+              {},
+              "sabr-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Hacer → ",
+            [
+              "strong",
+              {},
+              "har-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Decir → ",
+            [
+              "strong",
+              {},
+              "dir-"
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Querer → ",
+            [
+              "strong",
+              {},
+              "querr-"
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Example: Tener"
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "tendré, tendrás, tendrá, tendremos, tendrán"
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Note"
+        ],
+        [
+          "p",
+          {},
+          "Irregular verbs in the future will almost always be irregular in the conditional tense as well, using the same stems."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/future-regular"
+        },
+        "← Future Tense: Regular"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/conditional-regular"
+        },
+        "Conditional Tense →"
+      ]
+    ]
+  ],
+  "/lessons/conditional-regular": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 73"
+      ],
+      [
+        "h1",
+        {},
+        "Conditional Tense"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The conditional tense is used to express what ",
+        [
+          "strong",
+          {},
+          "would"
+        ],
+        " happen. Like the future, endings are added to the infinitive."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Endings"
+        ],
+        [
+          "p",
+          {},
+          "Interestingly, the conditional endings are identical to the imperfect endings for -er and -ir verbs."
+        ],
+        [
+          "table",
+          {},
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ía"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ías"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ía"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-íamos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos/ellas"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-ían"
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Comería"
+            ],
+            " (I would eat)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Viajaríamos"
+            ],
+            " (We would travel)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "Tendría"
+            ],
+            " (I would have - using irreg. stem)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/future-irregular"
+        },
+        "← Future Tense: Irregular"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-3"
+        },
+        "Relative Pronouns III →"
+      ]
+    ]
+  ],
+  "/lessons/rel-pronouns-3": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 74"
+      ],
+      [
+        "h1",
+        {},
+        "Relative Pronouns III"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "For more formal writing or for clarity when the antecedent is far away, Spanish uses compound relative pronouns."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "El que / El cual"
+        ],
+        [
+          "p",
+          {},
+          "These pronouns agree in gender and number with the noun they replace."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "el que / la que / los que / las que"
+          ],
+          [
+            "li",
+            {},
+            "el cual / la cual / los cuales / las cuales"
+          ]
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Examples"
+        ],
+        [
+          "p",
+          {},
+          "They are often used after prepositions of two or more syllables (like cerca de, delante de)."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "La casa en la que vivo es pequeña."
+        ],
+        [
+          "p",
+          {
+            "className": "translation"
+          },
+          "The house in which I live is small."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/conditional-regular"
+        },
+        "← Conditional Tense"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-4"
+        },
+        "Relative Pronouns IV →"
+      ]
+    ]
+  ],
+  "/lessons/rel-pronouns-4": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 75"
+      ],
+      [
+        "h1",
+        {},
+        "Relative Pronouns IV"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The relative adjective ",
+        [
+          "strong",
+          {},
+          "cuyo"
+        ],
+        " is used to show possession (whose)."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Using Cuyo"
+        ],
+        [
+          "p",
+          {},
+          "Unlike most pronouns, 'cuyo' must agree in gender and number with the ",
+          [
+            "strong",
+            {},
+            "noun that follows it"
+          ],
+          " (the thing owned), not the owner."
+        ],
+        [
+          "ul",
+          {
+            "className": "phrase-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "El hombre ",
+              [
+                "strong",
+                {},
+                "cuyo"
+              ],
+              " hijo es médico..."
+            ],
+            " (The man whose son is a doctor...)"
+          ],
+          [
+            "li",
+            {},
+            [
+              "span",
+              {
+                "className": "spanish"
+              },
+              "La mujer ",
+              [
+                "strong",
+                {},
+                "cuyas"
+              ],
+              " hijas son profesoras..."
+            ],
+            " (The woman whose daughters are teachers...)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-3"
+        },
+        "← Relative Pronouns III"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-intro"
+        },
+        "Subjunctive Intro →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-intro": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 76"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive Intro"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "The subjunctive is NOT a tense; it's a ",
+        [
+          "strong",
+          {},
+          "mood"
+        ],
+        ". It reflects the speaker's attitude toward an action."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Mood vs Tense"
+        ],
+        [
+          "p",
+          {},
+          "A tense tells us ",
+          [
+            "strong",
+            {},
+            "when"
+          ],
+          " something happens (past, present, future). A mood tells us ",
+          [
+            "strong",
+            {},
+            "how"
+          ],
+          " the speaker feels about it."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Indicative"
+            ],
+            ": Used for facts and reality (I go, he ate)."
+          ],
+          [
+            "li",
+            {},
+            [
+              "strong",
+              {},
+              "Subjunctive"
+            ],
+            ": Used for hope, doubt, emotion, and uncertainty (I hope he goes)."
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "The Trigger Rule"
+        ],
+        [
+          "p",
+          {},
+          "For the subjunctive to be used in a dependent clause, you usually need:"
+        ],
+        [
+          "ol",
+          {},
+          [
+            "li",
+            {},
+            "A main clause with a 'trigger' verb."
+          ],
+          [
+            "li",
+            {},
+            "The connector 'que'."
+          ],
+          [
+            "li",
+            {},
+            "A change of subject."
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/rel-pronouns-4"
+        },
+        "← Relative Pronouns IV"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-present-regular"
+        },
+        "Subjunctive: Present →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-present-regular": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 77"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive: Present"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "To form the present subjunctive, use the same 'opposite ending' logic as formal commands."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The Formula"
+        ],
+        [
+          "p",
+          {},
+          "1. Go to the ",
+          [
+            "strong",
+            {},
+            "yo"
+          ],
+          " form of the present indicative."
+        ],
+        [
+          "p",
+          {},
+          "2. Drop the ",
+          [
+            "strong",
+            {},
+            "-o"
+          ],
+          "."
+        ],
+        [
+          "p",
+          {},
+          "3. Add the 'opposite' endings."
+        ],
+        [
+          "table",
+          {},
+          [
+            "thead",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "th",
+                {},
+                "Person"
+              ],
+              [
+                "th",
+                {},
+                "-ar verbs"
+              ],
+              [
+                "th",
+                {},
+                "-er/-ir verbs"
+              ]
+            ]
+          ],
+          [
+            "tbody",
+            {},
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "yo"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-e"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-a"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "tú"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-es"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-as"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "él/ella"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-e"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-a"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "nosotros"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-emos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-amos"
+              ]
+            ],
+            [
+              "tr",
+              {},
+              [
+                "td",
+                {},
+                "ellos"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-en"
+              ],
+              [
+                "td",
+                {
+                  "className": "spanish"
+                },
+                "-an"
+              ]
+            ]
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-intro"
+        },
+        "← Subjunctive Intro"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-irregular-yo"
+        },
+        "Subjunctive: Irregular Yo →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-irregular-yo": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 78"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive: Irregular Yo"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Because the subjunctive is based on the 'yo' form, verbs with irregular 'yo' forms in the present tense carry that irregularity into all subjunctive forms."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "Verbs with -go, -zco, etc."
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "Tener (yo tengo) → ",
+            [
+              "strong",
+              {},
+              "tenga, tengas, tenga..."
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Hacer (yo hago) → ",
+            [
+              "strong",
+              {},
+              "haga, hagas, haga..."
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Conocer (yo conozco) → ",
+            [
+              "strong",
+              {},
+              "conozca, conozcas..."
+            ]
+          ],
+          [
+            "li",
+            {},
+            "Poner (yo pongo) → ",
+            [
+              "strong",
+              {},
+              "ponga, pongas..."
+            ]
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "info-box"
+        },
+        [
+          "h3",
+          {},
+          "Why is this important?"
+        ],
+        [
+          "p",
+          {},
+          "This rule ensures that the 'hard' or 'soft' sound of the verb is preserved throughout the mood."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-present-regular"
+        },
+        "← Subjunctive: Present"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-spelling-change"
+        },
+        "Subjunctive: Spelling Changes →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-spelling-change": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 79"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive: Spelling Changes"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Just like with preterite and formal commands, certain verbs require a spelling change in the subjunctive to maintain their sound."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "The -car, -gar, -zar rule"
+        ],
+        [
+          "ul",
+          {
+            "className": "rule-list"
+          },
+          [
+            "li",
+            {},
+            "-car → ",
+            [
+              "strong",
+              {},
+              "qu"
+            ],
+            " (sacar → saque)"
+          ],
+          [
+            "li",
+            {},
+            "-gar → ",
+            [
+              "strong",
+              {},
+              "gu"
+            ],
+            " (pagar → pague)"
+          ],
+          [
+            "li",
+            {},
+            "-zar → ",
+            [
+              "strong",
+              {},
+              "c"
+            ],
+            " (almorzar → almuerce)"
+          ]
+        ]
+      ],
+      [
+        "div",
+        {
+          "className": "grammar-info"
+        },
+        [
+          "h3",
+          {},
+          "Note"
+        ],
+        [
+          "p",
+          {},
+          "Unlike the preterite (where the change only happens in the 'yo' form), in the subjunctive, the change happened in ",
+          [
+            "strong",
+            {},
+            "all"
+          ],
+          " forms."
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-irregular-yo"
+        },
+        "← Subjunctive: Irregular Yo"
+      ],
+      [
+        "a",
+        {
+          "href": "#/",
+          "className": "menu-btn"
+        },
+        "MENU"
+      ],
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-stem-change"
+        },
+        "Subjunctive: Stem-Changers →"
+      ]
+    ]
+  ],
+  "/lessons/subjunctive-stem-change": [
+    "div",
+    {
+      "className": "content-wrapper"
+    },
+    [
+      "header",
+      {
+        "className": "lesson-header"
+      },
+      [
+        "p",
+        {
+          "className": "lesson-meta"
+        },
+        "Lesson 80"
+      ],
+      [
+        "h1",
+        {},
+        "Subjunctive: Stem-Changers"
+      ]
+    ],
+    [
+      "article",
+      {},
+      [
+        "p",
+        {
+          "className": "section-intro"
+        },
+        "Stem-changing verbs in the subjunctive follow the same pattern as in the present indicative, with a small exception for -ir verbs."
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "-ar and -er Verbs"
+        ],
+        [
+          "p",
+          {},
+          "These verbs change their stem in all forms EXCEPT nosotros (just like the present tense)."
+        ],
+        [
+          "p",
+          {
+            "className": "spanish"
+          },
+          "piense, pienses, piense, ",
+          [
+            "strong",
+            {},
+            "pensemos"
+          ],
+          ", piensen"
+        ]
+      ],
+      [
+        "section",
+        {
+          "className": "module-section"
+        },
+        [
+          "h2",
+          {},
+          "-ir Verbs"
+        ],
+        [
+          "p",
+          {},
+          "These verbs change their stem in all forms, but in the nosotros form, the change is slightly different."
+        ],
+        [
+          "ul",
+          {},
+          [
+            "li",
+            {},
+            "e → ie (indicative) becomes ",
+            [
+              "strong",
+              {},
+              "e → i"
+            ],
+            " in nosotros."
+          ],
+          [
+            "li",
+            {},
+            "o → ue (indicative) becomes ",
+            [
+              "strong",
+              {},
+              "o → u"
+            ],
+            " in nosotros."
+          ]
+        ],
+        [
+          "div",
+          {
+            "className": "example-box"
+          },
+          [
+            "p",
+            {},
+            "Sintamos (from sentir) | Durmamos (from dormir)"
+          ]
+        ]
+      ]
+    ],
+    [
+      "div",
+      {
+        "className": "lesson-nav"
+      },
+      [
+        "a",
+        {
+          "href": "#/lessons/subjunctive-spelling-change"
+        },
+        "← Subjunctive: Spelling Changes"
       ],
       [
         "a",
