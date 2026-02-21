@@ -11,7 +11,13 @@ In Modern Greek, the accent mark (ο τόνος) is a crucial orthographic featu
 
 ### Examples of Syllabic Stress
 
-πατέρας (pa-TÉ-ras) - fatherμητέρα (mi-TÉ-ra) - motherαυτοκίνητο (af-to-KÍ-ni-to) - carοικογένεια (i-ko-YÉ-ni-a) - family
+πατέρας (pa-TÉ-ras) - father
+
+μητέρα (mi-TÉ-ra) - mother
+
+αυτοκίνητο (af-to-KÍ-ni-to) - car
+
+οικογένεια (i-ko-YÉ-ni-a) - family
 ::: end
 
 ## Why Accents Matter
