@@ -1,0 +1,91 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Subjunctive: Irregular Yo"
+  ],
+  [
+    "p",
+    {},
+    "Because the subjunctive is based on the 'yo' form, verbs with irregular 'yo' forms in the present tense carry that irregularity into all subjunctive forms."
+  ],
+  [
+    "h2",
+    {},
+    "Verbs with -go, -zco, etc."
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "Tener (yo tengo) → ",
+        [
+          "strong",
+          {},
+          "tenga, tengas, tenga..."
+        ]
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "Hacer (yo hago) → ",
+        [
+          "strong",
+          {},
+          "haga, hagas, haga..."
+        ]
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "Conocer (yo conozco) → ",
+        [
+          "strong",
+          {},
+          "conozca, conozcas..."
+        ]
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "Poner (yo pongo) → ",
+        [
+          "strong",
+          {},
+          "ponga, pongas..."
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Why is this important?"
+    ],
+    [
+      "p",
+      {},
+      "This rule ensures that the 'hard' or 'soft' sound of the verb is preserved throughout the mood."
+    ]
+  ]
+]

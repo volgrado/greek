@@ -1,0 +1,119 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Comparisons of Equality"
+  ],
+  [
+    "p",
+    {},
+    "To compare things that are equal (as... as), Spanish uses different formulas depending on whether you are using adjectives or nouns."
+  ],
+  [
+    "h2",
+    {},
+    "With Adjectives"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Formula: ",
+      [
+        "strong",
+        {},
+        "tan"
+      ],
+      " + [adjective] + ",
+      [
+        "strong",
+        {},
+        "como"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    "Ella es tan inteligente como él."
+  ],
+  [
+    "p",
+    {},
+    "She is as intelligent as him."
+  ],
+  [
+    "h2",
+    {},
+    "With Nouns"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Formula: ",
+      [
+        "strong",
+        {},
+        "tanto/a/os/as"
+      ],
+      " + [noun] + ",
+      [
+        "strong",
+        {},
+        "como"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    "Notice that 'tanto' must agree in gender and number with the noun."
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Tengo tantos libros como tú."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "I have as many books as you."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Hay tanta gente como ayer."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "There is as much people (as many people) as yesterday."
+      ]
+    ]
+  ]
+]

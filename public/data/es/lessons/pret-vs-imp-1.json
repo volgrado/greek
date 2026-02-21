@@ -1,0 +1,118 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Preterite vs Imperfect I"
+  ],
+  [
+    "p",
+    {},
+    "Deciding between preterite and imperfect is one of the biggest challenges in Spanish. It depends on how you view the action."
+  ],
+  [
+    "h2",
+    {},
+    "The Preterite (The 'Box')"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Use the preterite for actions that are ",
+      [
+        "strong",
+        {},
+        "complete"
+      ],
+      " or have a clear beginning and end."
+    ]
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      "Specific events"
+    ],
+    [
+      "li",
+      {},
+      "List of sequential actions"
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "The Imperfect (The 'Line')"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Use the imperfect for actions that were ",
+      [
+        "strong",
+        {},
+        "ongoing"
+      ],
+      ", habitual, or descriptive."
+    ]
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      "Characteristics/Descriptions"
+    ],
+    [
+      "li",
+      {},
+      "Time, Age, Weather"
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Habitual actions"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "Used to"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "example-box"
+    },
+    [
+      "p",
+      {},
+      "Preterite: Comí a las dos. (I ate at 2:00)."
+    ],
+    [
+      "p",
+      {},
+      "Imperfect: Comía mucho de niño. (I used to eat a lot as a child)."
+    ]
+  ]
+]

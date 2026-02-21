@@ -1,0 +1,313 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Articles"
+  ],
+  [
+    "p",
+    {},
+    [
+      "In Greek, almost every noun is preceded by an ",
+      [
+        "strong",
+        {},
+        "article"
+      ],
+      ". The article tells us the gender, number, and case of the noun. There are two types: ",
+      [
+        "strong",
+        {},
+        "Definite"
+      ],
+      " (\"the\") and ",
+      [
+        "strong",
+        {},
+        "Indefinite"
+      ],
+      " (\"a/an\")."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "1. The Definite Article (Το Οριστικό Άρθρο)"
+  ],
+  [
+    "p",
+    {},
+    "This is used when referring to a specific item. In English, we only have \"the\", but in Greek, it changes based on gender."
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Gender"
+          ],
+          [
+            "th",
+            {},
+            "Singular (The)"
+          ],
+          [
+            "th",
+            {},
+            "Plural (The)"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Masculine"
+          ],
+          [
+            "td",
+            {},
+            "ο"
+          ],
+          [
+            "td",
+            {},
+            "οι"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Feminine"
+          ],
+          [
+            "td",
+            {},
+            "η"
+          ],
+          [
+            "td",
+            {},
+            "οι"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Neuter"
+          ],
+          [
+            "td",
+            {},
+            "το"
+          ],
+          [
+            "td",
+            {},
+            "τα"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-8"
+    },
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Note:"
+        ],
+        " In the plural, Masculine and Feminine share the same article (οι), but Neuter uses τα."
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "2. The Indefinite Article (Το Αόριστο Άρθρο)"
+  ],
+  [
+    "p",
+    {},
+    "This is used for non-specific items. There is no plural form for the indefinite article in Greek (similar to English—we don't say \"a cars\")."
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Gender"
+          ],
+          [
+            "th",
+            {},
+            "Singular (A / An)"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Masculine"
+          ],
+          [
+            "td",
+            {},
+            "ένας"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Feminine"
+          ],
+          [
+            "td",
+            {},
+            "μία"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Neuter"
+          ],
+          [
+            "td",
+            {},
+            "ένα"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "example-box mt-12"
+    },
+    [
+      "h3",
+      {},
+      "Usage Examples"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "ο πατέρας"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "the father) vs ένας πατέρας (a father"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "η μητέρα"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "the mother) vs μία μητέρα (a mother"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "το παιδί"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "the child) vs ένα παιδί (a child"
+        ]
+      ]
+    ]
+  ]
+]

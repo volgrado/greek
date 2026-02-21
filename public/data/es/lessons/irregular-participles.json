@@ -1,0 +1,142 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Irregular Present Participles"
+  ],
+  [
+    "p",
+    {},
+    "Some verbs have irregular present participles, often due to spelling changes or stem-shifts."
+  ],
+  [
+    "h2",
+    {},
+    "The '-yendo' Group"
+  ],
+  [
+    "p",
+    {},
+    [
+      "When the stem of an -er or -ir verb ends in a vowel, use ",
+      [
+        "strong",
+        {},
+        "-yendo"
+      ],
+      " instead of -iendo."
+    ]
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "Leer → ",
+        [
+          "strong",
+          {},
+          "leyendo"
+        ]
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "Oír → ",
+        [
+          "strong",
+          {},
+          "oyendo"
+        ]
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "Traer → ",
+        [
+          "strong",
+          {},
+          "trayendo"
+        ]
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Stem-Changing Verbs"
+  ],
+  [
+    "p",
+    {},
+    "Only -ir stem-changing verbs keep their change in the participle."
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "e → i: ",
+          [
+            "strong",
+            {},
+            "Diciendo"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "from decir"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "o → u: ",
+          [
+            "strong",
+            {},
+            "Durmiendo"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "from dormir"
+      ]
+    ]
+  ]
+]

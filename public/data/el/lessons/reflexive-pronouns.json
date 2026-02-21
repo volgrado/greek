@@ -1,0 +1,198 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Reflexive Pronouns"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Reflexive pronouns are used when the subject and the object of a verb are the same person. In Greek, we use the phrase ",
+      [
+        "strong",
+        {},
+        "ο εαυτός μου"
+      ],
+      " (my self)."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "reflexive-showcase mt-8"
+    }
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "1st Person"
+    ],
+    [
+      "p",
+      {},
+      "ο εαυτός μου myself"
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "2nd Person"
+    ],
+    [
+      "p",
+      {},
+      "ο εαυτός σου yourself"
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "3rd Person"
+    ],
+    [
+      "p",
+      {},
+      "ο εαυτός του / της himself / herself"
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Plural Reflexives"
+  ],
+  [
+    "p",
+    {},
+    "In the plural, the word \"self\" (εαυτός) can either stay singular or become plural (εαυτοί)."
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Person"
+          ],
+          [
+            "th",
+            {},
+            "Singular (Self)"
+          ],
+          [
+            "th",
+            {},
+            "Plural (Selves)"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "1st (Ourselves)"
+          ],
+          [
+            "td",
+            {},
+            "τον εαυτό μας"
+          ],
+          [
+            "td",
+            {},
+            "τους εαυτούς μας"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "2nd (Yourselves)"
+          ],
+          [
+            "td",
+            {},
+            "τον εαυτό σας"
+          ],
+          [
+            "td",
+            {},
+            "τους εαυτούς σας"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "3rd (Themselves)"
+          ],
+          [
+            "td",
+            {},
+            "τον εαυτό τους"
+          ],
+          [
+            "td",
+            {},
+            "τους εαυτούς τους"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12 mb-12"
+    },
+    [
+      "h3",
+      {},
+      "Common Usage"
+    ],
+    [
+      "p",
+      {},
+      "Reflexive pronouns are usually used as objects. Example: Σκέφτομαι τον εαυτό μου. (I am thinking of myself)."
+    ]
+  ]
+]

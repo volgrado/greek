@@ -1,0 +1,256 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Adverbs"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Adverbs (Επιρρήματα) are indeclinable words that provide more information about verbs, adjectives, or other adverbs. They tell us ",
+      [
+        "strong",
+        {},
+        "when"
+      ],
+      ", ",
+      [
+        "strong",
+        {},
+        "where"
+      ],
+      ", ",
+      [
+        "strong",
+        {},
+        "how"
+      ],
+      ", or ",
+      [
+        "strong",
+        {},
+        "how much"
+      ],
+      " something happened."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-grid mt-8"
+    }
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "Time (Χρονικά)"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "σήμερα today"
+      ],
+      [
+        "li",
+        {},
+        "αύριο tomorrow"
+      ],
+      [
+        "li",
+        {},
+        "χτες yesterday"
+      ],
+      [
+        "li",
+        {},
+        "τώρα now"
+      ],
+      [
+        "li",
+        {},
+        "πάντα always"
+      ],
+      [
+        "li",
+        {},
+        "ποτέ never"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "Place (Τοπικά)"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "εδώ here"
+      ],
+      [
+        "li",
+        {},
+        "εκεί there"
+      ],
+      [
+        "li",
+        {},
+        "πάνω up / on top"
+      ],
+      [
+        "li",
+        {},
+        "κάτω down / below"
+      ],
+      [
+        "li",
+        {},
+        "μέσα inside"
+      ],
+      [
+        "li",
+        {},
+        "έξω outside"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "Manner (Τροπικά)"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "σιγά slowly / quietly"
+      ],
+      [
+        "li",
+        {},
+        "γρήγορα quickly"
+      ],
+      [
+        "li",
+        {},
+        "μαζί together"
+      ],
+      [
+        "li",
+        {},
+        "έτσι like this"
+      ],
+      [
+        "li",
+        {},
+        "ευτυχώς fortunately"
+      ],
+      [
+        "li",
+        {},
+        "δυστυχώς unfortunately"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "Quantity (Ποσοτικά)"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "πολύ very / much"
+      ],
+      [
+        "li",
+        {},
+        "λίγο a little"
+      ],
+      [
+        "li",
+        {},
+        "αρκετά enough / quite"
+      ],
+      [
+        "li",
+        {},
+        "καθόλου not at all"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12"
+    },
+    [
+      "h3",
+      {},
+      "Spelling Alert: πότε vs ποτέ"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Be careful with the accent! ",
+        [
+          "strong",
+          {},
+          "πότε"
+        ],
+        " (accent on the first syllable) means \"when?\" ",
+        [
+          "strong",
+          {},
+          "ποτέ"
+        ],
+        " (accent on the last syllable) means \"never\"."
+      ]
+    ]
+  ]
+]

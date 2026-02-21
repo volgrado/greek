@@ -1,0 +1,171 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Indirect Object Pronouns I"
+  ],
+  [
+    "p",
+    {},
+    [
+      "An indirect object tells us ",
+      [
+        "strong",
+        {},
+        "to whom"
+      ],
+      " or ",
+      [
+        "strong",
+        {},
+        "for whom"
+      ],
+      " an action is performed. Indirect object pronouns replace these nouns."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "The Forms"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Person"
+          ],
+          [
+            "th",
+            {},
+            "Singular"
+          ],
+          [
+            "th",
+            {},
+            "Plural"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "1st"
+          ],
+          [
+            "td",
+            {},
+            "me (to/for me)"
+          ],
+          [
+            "td",
+            {},
+            "nos (to/for us)"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "2nd"
+          ],
+          [
+            "td",
+            {},
+            "te (to/for you)"
+          ],
+          [
+            "td",
+            {},
+            "os (to/for you all)"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "3rd"
+          ],
+          [
+            "td",
+            {},
+            "le (to/for him/her/you)"
+          ],
+          [
+            "td",
+            {},
+            "les (to/for them/you all)"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Placement"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Similar to direct object pronouns, indirect ones usually come immediately ",
+        [
+          "strong",
+          {},
+          "before"
+        ],
+        " the conjugated verb."
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Juan ",
+        [
+          "strong",
+          {},
+          "me"
+        ],
+        " da el libro."
+      ]
+    ],
+    [
+      "p",
+      {},
+      "Juan gives the book to me."
+    ]
+  ]
+]

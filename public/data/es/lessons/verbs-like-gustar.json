@@ -1,0 +1,170 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Verbs like Gustar"
+  ],
+  [
+    "p",
+    {},
+    "Many other verbs in Spanish follow the same 'backwards' structure as gustar."
+  ],
+  [
+    "h2",
+    {},
+    "Common Verbs"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Verb"
+          ],
+          [
+            "th",
+            {},
+            "Meaning"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Fascinar"
+          ],
+          [
+            "td",
+            {},
+            "To fascinate"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Encantar"
+          ],
+          [
+            "td",
+            {},
+            "To love/delight"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Importar"
+          ],
+          [
+            "td",
+            {},
+            "To matter/be important"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Molestar"
+          ],
+          [
+            "td",
+            {},
+            "To bother/annoy"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Quedar"
+          ],
+          [
+            "td",
+            {},
+            "To remain/to be left"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Examples"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Me encanta el chocolate."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "I love chocolate."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "¿Te molesta el ruido?"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "Does the noise bother you?"
+      ]
+    ]
+  ]
+]

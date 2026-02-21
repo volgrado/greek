@@ -1,0 +1,366 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Cases"
+  ],
+  [
+    "p",
+    {},
+    [
+      "The role of a noun in a sentence is determined by its ",
+      [
+        "strong",
+        {},
+        "case"
+      ],
+      ". Modern Greek uses four primary cases."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-grid"
+    }
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "p",
+      {},
+      "Ονομαστική"
+    ],
+    [
+      "h3",
+      {},
+      "Nominative"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Role: ",
+        [
+          "strong",
+          {},
+          "The Subject"
+        ]
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Question: ",
+        [
+          "strong",
+          {},
+          "Who? / What?"
+        ]
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Ο Νίκος"
+        ],
+        " διαβάζει. ",
+        [
+          "strong",
+          {},
+          "Nick"
+        ],
+        " is reading."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "p",
+      {},
+      "Γενική"
+    ],
+    [
+      "h3",
+      {},
+      "Genitive"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Role: ",
+        [
+          "strong",
+          {},
+          "Possession"
+        ]
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Question: ",
+        [
+          "strong",
+          {},
+          "Whose?"
+        ]
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Το χέρι ",
+        [
+          "strong",
+          {},
+          "του Νίκου"
+        ],
+        ". The hand ",
+        [
+          "strong",
+          {},
+          "of Nick"
+        ],
+        "."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card highlight"
+    },
+    [
+      "p",
+      {},
+      "Αιτιατική"
+    ],
+    [
+      "h3",
+      {},
+      "Accusative"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Role: ",
+        [
+          "strong",
+          {},
+          "The Direct Object"
+        ]
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Question: ",
+        [
+          "strong",
+          {},
+          "Whom? / What?"
+        ]
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Βλέπω ",
+        [
+          "strong",
+          {},
+          "το(ν) Νίκο"
+        ],
+        ". I see ",
+        [
+          "strong",
+          {},
+          "Nick"
+        ],
+        "."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "p",
+      {},
+      "Κλητική"
+    ],
+    [
+      "h3",
+      {},
+      "Vocative"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Role: ",
+        [
+          "strong",
+          {},
+          "Addressing"
+        ]
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Question: ",
+        [
+          "strong",
+          {},
+          "Hey! Who?"
+        ]
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Νίκο"
+        ],
+        ", πού είσαι; ",
+        [
+          "strong",
+          {},
+          "Nick"
+        ],
+        ", where are you?"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12"
+    },
+    [
+      "h3",
+      {},
+      "Summary of Word Changes"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Notice how the name ",
+        [
+          "strong",
+          {},
+          "Νίκος"
+        ],
+        " changed in each sentence:"
+      ]
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "ο Νίκος"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "Nom"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "του Νίκου"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "Gen"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "τον Νίκο"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "Acc"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "Νίκο!"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "Voc"
+        ]
+      ]
+    ]
+  ]
+]

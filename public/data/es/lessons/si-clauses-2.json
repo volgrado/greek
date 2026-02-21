@@ -1,0 +1,87 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Si Clauses II"
+  ],
+  [
+    "p",
+    {},
+    "Hypothetical or contrary-to-fact conditions require a specific combination of tenses."
+  ],
+  [
+    "h2",
+    {},
+    "Type 2: Improbable / Unlikely Conditions"
+  ],
+  [
+    "p",
+    {},
+    "If you are talking about something that is not currently true (If I were rich...), use the subjunctive."
+  ],
+  [
+    "p",
+    {},
+    [
+      "Pattern: ",
+      [
+        "strong",
+        {},
+        "Si + Imperfect Subjunctive → Conditional"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "example-box"
+    },
+    [
+      "p",
+      {},
+      [
+        "Si ",
+        [
+          "strong",
+          {},
+          "fuera"
+        ],
+        " rico, ",
+        [
+          "strong",
+          {},
+          "compraría"
+        ],
+        " un coche. (If I were rich, I would buy a car.)"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "The Magic Mnemonic"
+    ],
+    [
+      "p",
+      {},
+      [
+        "A common way to remember this is: ",
+        [
+          "strong",
+          {},
+          "Subjunctive-Si, Conditional-Other"
+        ],
+        "."
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,263 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Groups of Verbs"
+  ],
+  [
+    "p",
+    {},
+    "In Greek, verbs are categorized into \"Conjugations\" (Συζυγίες) based on their ending in the Present Tense. Knowing which group a verb belongs to is essential for conjugating it correctly."
+  ],
+  [
+    "div",
+    {
+      "className": "content-grid mt-8"
+    }
+  ],
+  [
+    "div",
+    {
+      "className": "content-card first"
+    },
+    [
+      "h3",
+      {},
+      "First Conjugation"
+    ],
+    [
+      "p",
+      {},
+      [
+        "-ω (unaccented)Verbs ending in ",
+        [
+          "strong",
+          {},
+          "-ω"
+        ],
+        " where the accent is on the stem."
+      ]
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "τρέχω"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "I run"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "παίζω"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "I play"
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card second"
+    },
+    [
+      "h3",
+      {},
+      "Second Conjugation"
+    ],
+    [
+      "p",
+      {},
+      [
+        "-ώ (accented)Verbs ending in ",
+        [
+          "strong",
+          {},
+          "-ώ"
+        ],
+        " where the accent is on the last syllable."
+      ]
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "αγαπώ"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "I love"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "νικώ"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "I win"
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card passive"
+    },
+    [
+      "h3",
+      {},
+      "Middle/Passive"
+    ],
+    [
+      "p",
+      {},
+      [
+        "-όμαι / -άμαιVerbs ending in ",
+        [
+          "strong",
+          {},
+          "-μαι"
+        ],
+        ". These often have a reflexive or passive meaning."
+      ]
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "κάθομαι"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "I sit"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "κοιμάμαι"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "I sleep"
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12"
+    },
+    [
+      "h3",
+      {},
+      "Why the Accent Matters"
+    ],
+    [
+      "p",
+      {},
+      [
+        "The accent mark on the final ",
+        [
+          "strong",
+          {},
+          "-ώ"
+        ],
+        " tells you that the verb follows a different set of endings (often adding an extra -α- in the conjugation)."
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Example: 1st Group ",
+        [
+          "strong",
+          {},
+          "τρέχ-εις"
+        ],
+        " vs 2nd Group ",
+        [
+          "strong",
+          {},
+          "αγαπ-άς"
+        ],
+        "."
+      ]
+    ]
+  ]
+]

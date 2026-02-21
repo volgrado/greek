@@ -1,0 +1,183 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Essential Phrases"
+  ],
+  [
+    "p",
+    {},
+    "Mastering these core phrases will help you navigate your first interactions in Greek. Practice saying them out loud to improve your pronunciation!"
+  ],
+  [
+    "div",
+    {
+      "className": "content-grid mt-8"
+    }
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "Greetings"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "Γειά σου! Hello / Hi"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "informal"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "Γειά σας! Hello"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "formal/plural"
+        ]
+      ],
+      [
+        "li",
+        {},
+        "Καλημέρα! Good morning!"
+      ],
+      [
+        "li",
+        {},
+        "Καλησπέρα! Good evening!"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "Basic Interaction"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "Τι κάνεις; How are you?"
+      ],
+      [
+        "li",
+        {},
+        "Καλά είμαι. I am well."
+      ],
+      [
+        "li",
+        {},
+        "Πώς σε λένε; What is your name?"
+      ],
+      [
+        "li",
+        {},
+        "Με λένε... My name is..."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "Courtesy"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "Ευχαριστώ. Thank you."
+      ],
+      [
+        "li",
+        {},
+        "Παρακαλώ. Please / You're welcome."
+      ],
+      [
+        "li",
+        {},
+        "Συγγνώμη. I'm sorry / Excuse me."
+      ],
+      [
+        "li",
+        {},
+        "Ναι / Όχι Yes / No"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12 mb-12"
+    },
+    [
+      "h3",
+      {},
+      "Did you know?"
+    ],
+    [
+      "p",
+      {},
+      [
+        "The word ",
+        [
+          "strong",
+          {},
+          "Παρακαλώ"
+        ],
+        " is extremely versatile. It means \"please\", but also \"you're welcome\", and sometimes \"I'm sorry?\" or \"Yes, can I help you?\"."
+      ]
+    ]
+  ]
+]

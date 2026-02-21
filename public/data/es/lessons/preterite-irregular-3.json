@@ -1,0 +1,160 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Preterite: Irregular Verbs III"
+  ],
+  [
+    "p",
+    {},
+    "Continuing with the irregular stems that share the same endings (-e, -iste, -o, -imos, -ieron)."
+  ],
+  [
+    "h2",
+    {},
+    "Verbs: Poder, Poner, Saber"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "Poder → ",
+          [
+            "strong",
+            {},
+            "pud-"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "to be able to"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "Poner → ",
+          [
+            "strong",
+            {},
+            "pus-"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "to put"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "Saber → ",
+          [
+            "strong",
+            {},
+            "sup-"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "to know facts"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Example Conjugations"
+  ],
+  [
+    "div",
+    {
+      "className": "example-box"
+    },
+    [
+      "p",
+      {},
+      "Poder: pude, pudiste, pudo, pudimos, pudieron"
+    ],
+    [
+      "p",
+      {},
+      "Poner: puse, pusiste, puso, pusimos, pusieron"
+    ],
+    [
+      "p",
+      {},
+      "Saber: supe, supiste, supo, supimos, supieron"
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Meaning Changes"
+    ],
+    [
+      "p",
+      {},
+      "In the preterite, some of these verbs take on slightly different meanings:"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "Saber (preterite) = to find out"
+      ],
+      [
+        "li",
+        {},
+        "Poder (preterite) = to manage to/succeed"
+      ]
+    ]
+  ]
+]

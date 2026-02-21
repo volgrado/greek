@@ -1,0 +1,314 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Prepositions"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Prepositions (Προθέσεις) are small, indeclinable words that usually come before a noun or pronoun to show relationship in space, time, or manner. In Modern Greek, nouns following a preposition are almost always in the ",
+      [
+        "strong",
+        {},
+        "Accusative"
+      ],
+      " case."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-grid mt-8"
+    }
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "με with"
+      ],
+      [
+        "li",
+        {},
+        "σε in / to / at"
+      ],
+      [
+        "li",
+        {},
+        "για for / about"
+      ],
+      [
+        "li",
+        {},
+        "από from / by / than"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "χωρίς / δίχως without"
+      ],
+      [
+        "li",
+        {},
+        "μετά after"
+      ],
+      [
+        "li",
+        {},
+        "προς towards"
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "αντί"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "για) instead (of"
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "example-box p-8 mt-12"
+    },
+    [
+      "h3",
+      {},
+      "Examples in Action"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            "Ήρθα ",
+            [
+              "strong",
+              {},
+              "από"
+            ],
+            " τη δουλειά."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            "I came ",
+            [
+              "strong",
+              {},
+              "from"
+            ],
+            " work."
+          ]
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            "Πήγα στο θέατρο ",
+            [
+              "strong",
+              {},
+              "με"
+            ],
+            " την Μαρία."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            "I went to the theater ",
+            [
+              "strong",
+              {},
+              "with"
+            ],
+            " Maria."
+          ]
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            "Έφυγα ",
+            [
+              "strong",
+              {},
+              "χωρίς"
+            ],
+            " λεφτά."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            "I left ",
+            [
+              "strong",
+              {},
+              "without"
+            ],
+            " money."
+          ]
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            [
+              "strong",
+              {},
+              "Για"
+            ],
+            " σένα."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            [
+              "strong",
+              {},
+              "For"
+            ],
+            " you."
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12"
+    },
+    [
+      "h3",
+      {},
+      "Grammar Note: σε + το = στο"
+    ],
+    [
+      "p",
+      {},
+      [
+        "The preposition ",
+        [
+          "strong",
+          {},
+          "σε"
+        ],
+        " (to/in) almost always merges with the definite article that follows it: ",
+        [
+          "em",
+          {},
+          "σε + τον = "
+        ],
+        [
+          "em",
+          {},
+          "στον"
+        ],
+        [
+          "strong",
+          {},
+          " *σε + την = "
+        ],
+        "στην",
+        [
+          "strong",
+          {},
+          "* *σε + το = "
+        ],
+        "στο",
+        [
+          "strong",
+          {},
+          ""
+        ],
+        [
+          "em",
+          {},
+          ""
+        ]
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,121 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Relative Pronouns I: Que"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Relative pronouns are used to connect two sentences that share a common noun. ",
+      [
+        "strong",
+        {},
+        "Que"
+      ],
+      " is the most common relative pronoun in Spanish."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Using 'Que'"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Unlike in English, where you can often omit 'that' (the book [that] I read), in Spanish you ",
+      [
+        "strong",
+        {},
+        "must"
+      ],
+      " always use 'que'."
+    ]
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      "'Que' can refer to people or things."
+    ],
+    [
+      "li",
+      {},
+      "It translates to: that, which, who, whom."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Examples"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "El libro ",
+          [
+            "strong",
+            {},
+            "que"
+          ],
+          " compré es bueno."
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "The book (that) I bought is good."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "La mujer ",
+          [
+            "strong",
+            {},
+            "que"
+          ],
+          " habla es mi tía."
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "The woman who is speaking is my aunt."
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,96 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Combined Object Pronouns"
+  ],
+  [
+    "p",
+    {},
+    "When a sentence has both a direct and an indirect object pronoun, follow these two critical rules."
+  ],
+  [
+    "h2",
+    {},
+    "Rule 1: Order"
+  ],
+  [
+    "p",
+    {},
+    [
+      "The indirect object pronoun always comes ",
+      [
+        "strong",
+        {},
+        "before"
+      ],
+      " the direct object pronoun."
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "Mnemonic: ",
+      [
+        "strong",
+        {},
+        "RID"
+      ],
+      " (Reflexive, Indirect, Direct)."
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "Él ",
+      [
+        "strong",
+        {},
+        "me lo"
+      ],
+      " da."
+    ]
+  ],
+  [
+    "p",
+    {},
+    "He gives it to me. (me = indirect, lo = direct)"
+  ],
+  [
+    "h2",
+    {},
+    "Rule 2: The 'Se' Rule"
+  ],
+  [
+    "p",
+    {},
+    [
+      "If both pronouns start with an 'l' (le/les + lo/la/los/las), the indirect pronoun changes to ",
+      [
+        "strong",
+        {},
+        "se"
+      ],
+      " to avoid an awkward sound."
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      "Incorrect: Le lo doy. → Correct: ",
+      [
+        "strong",
+        {},
+        "Se lo"
+      ],
+      " doy."
+    ]
+  ]
+]

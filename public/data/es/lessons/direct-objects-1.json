@@ -1,0 +1,152 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Direct Object Pronouns I"
+  ],
+  [
+    "p",
+    {},
+    "Direct object pronouns replace nouns that receive the action of a verb, helping to avoid repetition."
+  ],
+  [
+    "h2",
+    {},
+    "The Forms"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Person"
+          ],
+          [
+            "th",
+            {},
+            "Singular"
+          ],
+          [
+            "th",
+            {},
+            "Plural"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "1st"
+          ],
+          [
+            "td",
+            {},
+            "me (me)"
+          ],
+          [
+            "td",
+            {},
+            "nos (us)"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "2nd"
+          ],
+          [
+            "td",
+            {},
+            "te (you)"
+          ],
+          [
+            "td",
+            {},
+            "os (you all)"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "3rd"
+          ],
+          [
+            "td",
+            {},
+            "lo / la (it/him/her)"
+          ],
+          [
+            "td",
+            {},
+            "los / las (them)"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Placement Rule"
+    ],
+    [
+      "p",
+      {},
+      [
+        "In a simple sentence with one conjugated verb, the direct object pronoun must come ",
+        [
+          "strong",
+          {},
+          "before"
+        ],
+        " the verb."
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Yo tengo el libro → Yo ",
+        [
+          "strong",
+          {},
+          "lo"
+        ],
+        " tengo."
+      ]
+    ]
+  ]
+]

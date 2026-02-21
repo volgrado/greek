@@ -1,0 +1,26 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Coming Soon"
+  ],
+  [
+    "h1",
+    {},
+    "Coming Soon"
+  ],
+  [
+    "p",
+    {},
+    "This lesson is currently being written. The curriculum is released in stages to ensure quality."
+  ],
+  [
+    "p",
+    {},
+    "← Back to Curriculum"
+  ]
+]

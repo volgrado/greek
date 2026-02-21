@@ -1,0 +1,132 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Adverbs"
+  ],
+  [
+    "p",
+    {},
+    "Adverbs describe how, when, or where an action occurs. Many Spanish adverbs are formed from adjectives."
+  ],
+  [
+    "h2",
+    {},
+    "The -mente Ending"
+  ],
+  [
+    "p",
+    {},
+    [
+      "To form an adverb from an adjective, use the feminine singular form and add ",
+      [
+        "strong",
+        {},
+        "-mente"
+      ],
+      " (equivalent to -ly in English)."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Adjective"
+          ],
+          [
+            "th",
+            {},
+            "Adverb"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Rápido (Fast)"
+          ],
+          [
+            "td",
+            {},
+            "Rápidamente"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Lento (Slow)"
+          ],
+          [
+            "td",
+            {},
+            "Lentamente"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Fácil (Easy)"
+          ],
+          [
+            "td",
+            {},
+            "Fácilmente"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "h3",
+    {},
+    "Placement"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Adverbs that modify verbs usually come ",
+      [
+        "strong",
+        {},
+        "after"
+      ],
+      " the verb. Adverbs that modify adjectives or other adverbs come ",
+      [
+        "strong",
+        {},
+        "before"
+      ],
+      " the word they modify."
+    ]
+  ]
+]

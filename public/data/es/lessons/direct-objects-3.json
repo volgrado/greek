@@ -1,0 +1,71 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Direct Object Pronouns III"
+  ],
+  [
+    "p",
+    {},
+    "Just like with infinitives, direct object pronouns can also be attached to present particles (-ando, -iendo)."
+  ],
+  [
+    "h2",
+    {},
+    "Placement with Particles"
+  ],
+  [
+    "p",
+    {},
+    "Option 1: Before the conjugated verb (estar)."
+  ],
+  [
+    "p",
+    {},
+    [
+      [
+        "strong",
+        {},
+        "Lo"
+      ],
+      " estoy leyendo."
+    ]
+  ],
+  [
+    "p",
+    {},
+    "Option 2: Attached to the end of the participle."
+  ],
+  [
+    "p",
+    {},
+    [
+      "Estoy leyéndo",
+      [
+        "strong",
+        {},
+        "lo"
+      ],
+      "."
+    ]
+  ],
+  [
+    "h3",
+    {},
+    "Accent Alert!"
+  ],
+  [
+    "p",
+    {},
+    "Notice that when you attach a pronoun to a present participle, you must add an accent mark to the original stressed vowel of the participle to maintain the correct stress."
+  ],
+  [
+    "p",
+    {},
+    "leyendo → leyéndolo"
+  ]
+]

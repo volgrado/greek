@@ -1,0 +1,175 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Stem-Changers: e -> i"
+  ],
+  [
+    "p",
+    {},
+    "A smaller group of -ir verbs change the 'e' in the stem to a simple 'i'."
+  ],
+  [
+    "h2",
+    {},
+    "Example: Pedir (to ask for/order)"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Subject"
+          ],
+          [
+            "th",
+            {},
+            "Conjugation"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Yo"
+          ],
+          [
+            "td",
+            {},
+            [
+              "p",
+              [
+                "strong",
+                {},
+                "i"
+              ],
+              "do"
+            ]
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Él / Ella"
+          ],
+          [
+            "td",
+            {},
+            [
+              "p",
+              [
+                "strong",
+                {},
+                "i"
+              ],
+              "de"
+            ]
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Nosotros"
+          ],
+          [
+            "td",
+            {},
+            "pedimos"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Ellos"
+          ],
+          [
+            "td",
+            {},
+            [
+              "p",
+              [
+                "strong",
+                {},
+                "i"
+              ],
+              "den"
+            ]
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Repetir → Repito"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "(I repeat)"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Servir → Sirvo"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "(I serve)"
+      ]
+    ]
+  ]
+]

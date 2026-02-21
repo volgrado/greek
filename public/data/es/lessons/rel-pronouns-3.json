@@ -1,0 +1,62 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Relative Pronouns III"
+  ],
+  [
+    "p",
+    {},
+    "For more formal writing or for clarity when the antecedent is far away, Spanish uses compound relative pronouns."
+  ],
+  [
+    "h2",
+    {},
+    "El que / El cual"
+  ],
+  [
+    "p",
+    {},
+    "These pronouns agree in gender and number with the noun they replace."
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      "el que / la que / los que / las que"
+    ],
+    [
+      "li",
+      {},
+      "el cual / la cual / los cuales / las cuales"
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Examples"
+  ],
+  [
+    "p",
+    {},
+    "They are often used after prepositions of two or more syllables (like cerca de, delante de)."
+  ],
+  [
+    "p",
+    {},
+    "La casa en la que vivo es pequeña."
+  ],
+  [
+    "p",
+    {},
+    "The house in which I live is small."
+  ]
+]

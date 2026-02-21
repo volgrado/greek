@@ -1,0 +1,269 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Adjectives"
+  ],
+  [
+    "p",
+    {},
+    [
+      "In Greek, adjectives must agree with the noun they modify in ",
+      [
+        "strong",
+        {},
+        "gender"
+      ],
+      ", ",
+      [
+        "strong",
+        {},
+        "number"
+      ],
+      ", and ",
+      [
+        "strong",
+        {},
+        "case"
+      ],
+      ". This means that a single adjective like \"good\" can have many different forms."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Gender Agreement"
+  ],
+  [
+    "p",
+    {},
+    "Every adjective has three genders to match whatever noun it describes."
+  ],
+  [
+    "div",
+    {
+      "className": "adjective-showcase mt-8"
+    },
+    [
+      "p",
+      {},
+      [
+        "Ο καλ ",
+        [
+          "strong",
+          {},
+          "ός"
+        ],
+        " πατέρας The good father (Masc)Η καλ ",
+        [
+          "strong",
+          {},
+          "ή"
+        ],
+        " μητέρα The good mother (Fem)Το καλ ",
+        [
+          "strong",
+          {},
+          "ό"
+        ],
+        " παιδί The good child (Neut)"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Common Adjective Patterns"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Most adjectives follow the ",
+      [
+        "strong",
+        {},
+        "-ος, -η, -ο"
+      ],
+      " pattern or the ",
+      [
+        "strong",
+        {},
+        "-ος, -α, -ο"
+      ],
+      " pattern."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Root"
+          ],
+          [
+            "th",
+            {},
+            "Masculine"
+          ],
+          [
+            "th",
+            {},
+            "Feminine"
+          ],
+          [
+            "th",
+            {},
+            "Neuter"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Good"
+          ],
+          [
+            "td",
+            {},
+            "καλός"
+          ],
+          [
+            "td",
+            {},
+            "καλή"
+          ],
+          [
+            "td",
+            {},
+            "καλό"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Tall"
+          ],
+          [
+            "td",
+            {},
+            "ψηλός"
+          ],
+          [
+            "td",
+            {},
+            "ψηλή"
+          ],
+          [
+            "td",
+            {},
+            "ψηλό"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Small"
+          ],
+          [
+            "td",
+            {},
+            "μικρός"
+          ],
+          [
+            "td",
+            {},
+            "μικρή"
+          ],
+          [
+            "td",
+            {},
+            "μικρό"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Beautiful"
+          ],
+          [
+            "td",
+            {},
+            "ωραίος"
+          ],
+          [
+            "td",
+            {},
+            "ωραία"
+          ],
+          [
+            "td",
+            {},
+            "ωραίο"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12"
+    },
+    [
+      "h3",
+      {},
+      "Declension Rule"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Adjectives are declined exactly like the nouns of the same gender. A masculine adjective in ",
+        [
+          "em",
+          {},
+          "-ος"
+        ],
+        " declines exactly like a masculine noun in ",
+        [
+          "em",
+          {},
+          "-ος"
+        ],
+        "."
+      ]
+    ]
+  ]
+]

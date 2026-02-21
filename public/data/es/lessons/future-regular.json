@@ -1,0 +1,209 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Future Tense: Regular"
+  ],
+  [
+    "p",
+    {},
+    [
+      "The future tense in Spanish is used to describe what ",
+      [
+        "strong",
+        {},
+        "will"
+      ],
+      " happen. Unlike most other tenses, the endings are added directly to the ",
+      [
+        "strong",
+        {},
+        "entire infinitive"
+      ],
+      "."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "One Set of Endings"
+  ],
+  [
+    "p",
+    {},
+    "All regular -ar, -er, and -ir verbs use the same set of endings in the future tense."
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "yo"
+          ],
+          [
+            "th",
+            {},
+            "-é"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "tú"
+          ],
+          [
+            "td",
+            {},
+            "-ás"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "él/ella"
+          ],
+          [
+            "td",
+            {},
+            "-á"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "nosotros"
+          ],
+          [
+            "td",
+            {},
+            "-emos"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "ellos/ellas"
+          ],
+          [
+            "td",
+            {},
+            "-án"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Examples"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Hablaré"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "I will speak"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Comerás"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "You will eat"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Viviremos"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "We will live"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Accent Alert!"
+    ],
+    [
+      "p",
+      {},
+      "Notice that all endings EXCEPT the 'nosotros' form have an accent mark."
+    ]
+  ]
+]

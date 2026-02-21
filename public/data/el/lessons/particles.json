@@ -1,0 +1,177 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Particles"
+  ],
+  [
+    "p",
+    {},
+    "Particles (Μόρια) are small, indeclinable words that don't fit easily into other categories but play a vital role in Greek syntax, specifically in forming future tenses, subjunctive moods, and expressing emphasis."
+  ],
+  [
+    "div",
+    {
+      "className": "content-grid mt-8"
+    },
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "θαFuture marker"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "will"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "ναSubjunctive marker"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "to / let"
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          "αςExhortative marker"
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          "let / let it be"
+        ]
+      ],
+      [
+        "li",
+        {},
+        "μαEmphatic \"but\" or \"though\""
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "example-box mt-12"
+    },
+    [
+      "h3",
+      {},
+      "Usage Examples"
+    ],
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Θα"
+        ],
+        " πάω. (I ",
+        [
+          "strong",
+          {},
+          "will"
+        ],
+        " go.)"
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        "Θέλω ",
+        [
+          "strong",
+          {},
+          "να"
+        ],
+        " πάω. (I want ",
+        [
+          "strong",
+          {},
+          "to"
+        ],
+        " go.)"
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Ας"
+        ],
+        " πάμε! (",
+        [
+          "strong",
+          {},
+          "Let's"
+        ],
+        " go!)"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12 mb-12"
+    },
+    [
+      "h3",
+      {},
+      "Congratulations!"
+    ],
+    [
+      "p",
+      {},
+      [
+        "You have reached the end of the Formal Grammar section of the Modern Greek curriculum. You now have a solid foundation in phonology, morphology, and basic syntax. Next, dive into the ",
+        [
+          "strong",
+          {},
+          "Practical Phrases and Dialogues"
+        ],
+        " to see all this grammar in action!"
+      ]
+    ]
+  ]
+]
