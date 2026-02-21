@@ -16,7 +16,7 @@ class CustomBlockPreprocessor(Preprocessor):
         new_lines = []
         for line in lines:
             # Look for single-line syntax: ::: class content ::: end
-            inline_m = re.match(r'^[ \t]*:::[ \t]+([a-zA-Z0-9_-]+(?:[ \t]+[a-zA-Z0-9_-]+)*)[ \t]+(.*?)[ \t]*:::[ \t]*end[ \t]*$', line)
+            inline_m = re.match(r'^[ \t]*:::[ \t]+([a-zA-Z0-9_\-/\.:]+(?:[ \t]+[a-zA-Z0-9_\-/\.:]+)*)[ \t]+(.*?)[ \t]*:::[ \t]*end[ \t]*$', line)
             if inline_m:
                 classes = inline_m.group(1)
                 content = inline_m.group(2)
@@ -31,7 +31,7 @@ class CustomBlockPreprocessor(Preprocessor):
                 continue
             
             # Look for ::: class-names
-            m = re.match(r'^[ \t]*:::[ \t]+([a-zA-Z0-9_-]+(?:[ \t]+[a-zA-Z0-9_-]+)*)[ \t]*$', line)
+            m = re.match(r'^[ \t]*:::[ \t]+([a-zA-Z0-9_\-/\.:]+(?:[ \t]+[a-zA-Z0-9_\-/\.:]+)*)[ \t]*$', line)
             if m:
                 classes = m.group(1)
                 # markdown="1" lets markdown parse the content inside the div
