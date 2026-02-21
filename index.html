@@ -292,8 +292,7 @@
         /* --- Content Modules System --- */
 
         /* Grids */
-        .case-grid,
-        .phrase-grid {
+        .content-grid {
             display: grid;
             gap: 1.5rem;
             grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -301,16 +300,14 @@
         }
 
         /* Cards */
-        .phrase-card,
-        .tense-card {
+        .content-card {
             border: 1px solid var(--border);
             padding: 1.5rem;
             border-radius: 8px;
             background: var(--card-bg);
         }
 
-        .phrase-card h3,
-        .tense-card h3 {
+        .content-card h3 {
             margin-top: 0;
             font-size: 1.1rem;
             border-bottom: 1px solid var(--border);
@@ -319,15 +316,13 @@
         }
 
         /* Lists */
-        .phrase-list,
-        .rule-list {
+        .content-list {
             list-style: none;
             padding: 0;
             margin: 0;
         }
 
-        .phrase-list li,
-        .rule-list li {
+        .content-list li {
             display: flex;
             justify-content: space-between;
             align-items: baseline;
@@ -336,8 +331,7 @@
             border-bottom: 1px dashed var(--border);
         }
 
-        .phrase-list li:last-child,
-        .rule-list li:last-child {
+        .content-list li:last-child {
             border-bottom: none;
         }
 
@@ -461,7 +455,8 @@
                 themeToggle: 'Toggle Dark Mode',
                 langToggle: 'Change Language',
                 footer: '&copy; 2026 / MODERN GREEK PROJECT',
-                dataFile: 'data-el.json'
+                dataFile: 'public/data/el/curriculum.json',
+                lessonsPath: 'public/data/el/lessons/'
             },
             es: {
                 label: 'ES',
@@ -469,12 +464,14 @@
                 themeToggle: 'Toggle Dark Mode',
                 langToggle: 'Change Language',
                 footer: '&copy; 2026 / MODERN SPANISH PROJECT',
-                dataFile: 'data-es.json'
+                dataFile: 'public/data/es/curriculum.json',
+                lessonsPath: 'public/data/es/lessons/'
             }
         };
 
         let currentLang = localStorage.getItem('lang') || 'el';
         let db = null;
+        let lessonCache = {};
 
         const updateUIStrings = () => {
             const strings = I18N[currentLang];
@@ -499,6 +496,7 @@
         // Language Management
         const switchLanguage = async (lang) => {
             currentLang = lang;
+            lessonCache = {}; // Clear cache on language switch
             localStorage.setItem('lang', lang);
             updateUIStrings();
             await loadData();
@@ -510,23 +508,40 @@
             switchLanguage(nextLang);
         });
 
-        // El Atractor Recursivo (Zen + Interactive)
-        const render = (node) => {
-            if (!Array.isArray(node)) return document.createTextNode(node);
-            const [tag, props, ...children] = node;
-            const el = document.createElement(tag);
+        // Extractor de Lecciones para Navegación
+        const getFlatLessons = () => {
+            if (!db || !db.structure) return [];
+            const flat = [];
+            for (const section in db.structure) {
+                flat.push(...db.structure[section]);
+            }
+            return flat;
+        };
 
-            if (props) Object.entries(props).forEach(([k, v]) => {
-                const key = (k === 'class' || k === 'className') ? 'className' : k;
-                if (key.startsWith('on') && typeof v === 'string') {
-                    el[key] = new Function(v);
-                } else {
-                    el[key] = v;
-                }
-            });
+        const createNavBlockHTML = (currentId) => {
+            const lessons = getFlatLessons();
+            const currentIndex = lessons.findIndex(l => l.id === currentId);
 
-            children.map(render).forEach(child => el.appendChild(child));
-            return el;
+            if (currentIndex === -1) return '';
+
+            let prevLink = '<span></span>';
+            if (currentIndex > 0) {
+                const prev = lessons[currentIndex - 1];
+                prevLink = `<a href="#/lessons/${prev.id}">← ${prev.title}</a>`;
+            }
+
+            let nextLink = '<span></span>';
+            if (currentIndex < lessons.length - 1) {
+                const next = lessons[currentIndex + 1];
+                nextLink = `<a href="#/lessons/${next.id}">${next.title} →</a>`;
+            }
+
+            return `
+            <div class="lesson-nav">
+                ${prevLink}
+                <a href="#/" class="menu-btn">MENU</a>
+                ${nextLink}
+            </div>`;
         };
 
         // El Navegador de Estados
@@ -535,10 +550,48 @@
             db = await r.json();
         };
 
-        const route = () => {
+        const fetchLessonHTML = async (id) => {
+            if (lessonCache[id]) return lessonCache[id];
+            try {
+                const r = await fetch(`${I18N[currentLang].lessonsPath}${id}.html`);
+                if (!r.ok) throw new Error('Not found');
+                const html = await r.text();
+                lessonCache[id] = html;
+                return html;
+            } catch (e) {
+                return null;
+            }
+        };
+
+        const route = async () => {
             if (!db) return;
-            const state = window.location.hash.slice(1) || '/';
-            app.replaceChildren(render(db[state] || db['404']));
+            const hash = window.location.hash.slice(1) || '/';
+
+            app.innerHTML = '<div style="text-align:center; padding: 2rem; color: var(--muted-text);">Loading...</div>';
+
+            if (hash === '/' || hash === '/curriculum') {
+                app.innerHTML = db.home; // db.home is now raw HTML
+            } else if (hash.startsWith('/lessons/')) {
+                const id = hash.replace('/lessons/', '');
+                const lessonHTML = await fetchLessonHTML(id);
+
+                if (lessonHTML) {
+                    const navHTML = createNavBlockHTML(id);
+                    app.innerHTML = lessonHTML + navHTML;
+                } else {
+                    app.innerHTML = `
+                    <div style="padding: 5rem; text-align: center">
+                        <h1 style="color: #e53e3e">404: Lesson HTML not found</h1>
+                        <a href="#/">Back to Curriculum</a>
+                    </div>`;
+                }
+            } else {
+                app.innerHTML = `
+                <div style="padding: 5rem; text-align: center">
+                    <h1 style="color: #e53e3e">404: Node not found</h1>
+                    <a href="#/">Back to Curriculum</a>
+                </div>`;
+            }
             window.scrollTo(0, 0);
         };
 

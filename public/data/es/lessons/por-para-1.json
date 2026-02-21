@@ -1,0 +1,201 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Por vs Para I"
+  ],
+  [
+    "p",
+    {},
+    "In English, both 'por' and 'para' are often translated as 'for.' However, in Spanish, they have distinct uses that are never interchangeable."
+  ],
+  [
+    "h2",
+    {},
+    "Primary Uses of POR"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Think of ",
+      [
+        "strong",
+        {},
+        "por"
+      ],
+      " as expressing movement through a space, duration of time, or cause/reason."
+    ]
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Motion or general location"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "through, along, by, or in the area of"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Duration of an action"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "for, during, in"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Reason or motive"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "because of, on account of, on behalf of"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Exchange or substitution"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "for, in exchange for"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Examples of Por"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Paseamos por el parque."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "We walked through the park (Motion)."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Estudié por dos horas."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "I studied for two hours (Duration)."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Gracias por el regalo."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "Thank you for the gift (Exchange)."
+      ]
+    ]
+  ]
+]

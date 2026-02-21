@@ -1,0 +1,193 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Verb 'To Be' (Είμαι)"
+  ],
+  [
+    "p",
+    {},
+    "The verb 'to be' is arguably the most important verb in any language. In Greek, it is irregular but follows a consistent pattern of endings."
+  ],
+  [
+    "h2",
+    {},
+    "1. Present Indicative"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Person"
+          ],
+          [
+            "th",
+            {},
+            "Greek"
+          ],
+          [
+            "th",
+            {},
+            "English"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "I am"
+          ],
+          [
+            "td",
+            {},
+            "Εγώ είμαι"
+          ],
+          [
+            "td",
+            {},
+            "I am"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "You are"
+          ],
+          [
+            "td",
+            {},
+            "Εσύ είσαι"
+          ],
+          [
+            "td",
+            {},
+            "You are"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "He/She/It is"
+          ],
+          [
+            "td",
+            {},
+            "Αυτός/ή/ό είναι"
+          ],
+          [
+            "td",
+            {},
+            "He/She/It is"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "We are"
+          ],
+          [
+            "td",
+            {},
+            "Εμείς είμαστε"
+          ],
+          [
+            "td",
+            {},
+            "We are"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "You (pl/formal)"
+          ],
+          [
+            "td",
+            {},
+            "Εσείς είστε"
+          ],
+          [
+            "td",
+            {},
+            "You are"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "They are"
+          ],
+          [
+            "td",
+            {},
+            "Αυτοί/ές/ά είναι"
+          ],
+          [
+            "td",
+            {},
+            "They are"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "2. Interaction: Translation Lab"
+  ],
+  [
+    "p",
+    {},
+    "Click the Greek phrases below to toggle their English meaning. Observe how the verb changes."
+  ],
+  [
+    "div",
+    {
+      "className": "content-grid"
+    },
+    [
+      "p",
+      {},
+      "Είμαι καλάΕίσαι έτοιμος;Είμαστε εδώ"
+    ]
+  ]
+]

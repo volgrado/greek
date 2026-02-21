@@ -1,0 +1,72 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Direct Object Pronouns II"
+  ],
+  [
+    "p",
+    {},
+    "When a sentence contains two verbs (like 'I want to see it'), you have a choice of where to place the pronoun."
+  ],
+  [
+    "h2",
+    {},
+    "Placement with Infinitives"
+  ],
+  [
+    "p",
+    {},
+    "Option 1: Before the conjugated verb."
+  ],
+  [
+    "p",
+    {},
+    [
+      [
+        "strong",
+        {},
+        "Lo"
+      ],
+      " quiero ver."
+    ]
+  ],
+  [
+    "p",
+    {},
+    "Option 2: Attached to the end of the infinitive."
+  ],
+  [
+    "p",
+    {},
+    [
+      "Quiero ver",
+      [
+        "strong",
+        {},
+        "lo"
+      ],
+      "."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Both are correct!"
+    ],
+    [
+      "p",
+      {},
+      "Spanish speakers use both forms, although attaching it to the end is often considered more natural in spoken Spanish for some learners."
+    ]
+  ]
+]

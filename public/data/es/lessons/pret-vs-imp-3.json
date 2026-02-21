@@ -1,0 +1,170 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Preterite vs Imperfect III"
+  ],
+  [
+    "p",
+    {},
+    "Some verbs change their English translation depending on whether you use the preterite or the imperfect."
+  ],
+  [
+    "h2",
+    {},
+    "Meaning Changes"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Verb"
+          ],
+          [
+            "th",
+            {},
+            "Imperfect"
+          ],
+          [
+            "th",
+            {},
+            "Preterite"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Saber"
+          ],
+          [
+            "td",
+            {},
+            "Knew (info)"
+          ],
+          [
+            "td",
+            {},
+            "Found out"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Conocer"
+          ],
+          [
+            "td",
+            {},
+            "Knew (person)"
+          ],
+          [
+            "td",
+            {},
+            "Met (for first time)"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Querer"
+          ],
+          [
+            "td",
+            {},
+            "Wanted"
+          ],
+          [
+            "td",
+            {},
+            "Tried to"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Poder"
+          ],
+          [
+            "td",
+            {},
+            "Was able to"
+          ],
+          [
+            "td",
+            {},
+            "Succeeded/Managed to"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Tip"
+    ],
+    [
+      "p",
+      {},
+      [
+        "The preterite often focuses on the ",
+        [
+          "strong",
+          {},
+          "start"
+        ],
+        " or ",
+        [
+          "strong",
+          {},
+          "finish"
+        ],
+        " of an action, while the imperfect focuses on the ",
+        [
+          "strong",
+          {},
+          "state"
+        ],
+        "."
+      ]
+    ]
+  ]
+]

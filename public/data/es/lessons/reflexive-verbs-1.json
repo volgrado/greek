@@ -1,0 +1,193 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Reflexive Verbs I"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Reflexive verbs indicate that the subject performs an action on ",
+      [
+        "strong",
+        {},
+        "themselves"
+      ],
+      "."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "The Pronouns"
+  ],
+  [
+    "p",
+    {},
+    "Reflexive verbs are always accompanied by these pronouns:"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "yo"
+          ],
+          [
+            "th",
+            {},
+            "me"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "tú"
+          ],
+          [
+            "td",
+            {},
+            "te"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "él/ella"
+          ],
+          [
+            "td",
+            {},
+            "se"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "nosotros"
+          ],
+          [
+            "td",
+            {},
+            "nos"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "ellos/ellas"
+          ],
+          [
+            "td",
+            {},
+            "se"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Example: Lavarse (To wash oneself)"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Me lavo las manos."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "I wash my hands."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Se lava la cara."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "He/She washes their face."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Identifying Reflexives"
+    ],
+    [
+      "p",
+      {},
+      [
+        "In their infinitive form, reflexive verbs always end in ",
+        [
+          "strong",
+          {},
+          "-se"
+        ],
+        " (e.g., lavarse, ducharse, levantarse)."
+      ]
+    ]
+  ]
+]

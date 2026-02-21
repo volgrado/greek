@@ -1,0 +1,207 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Present Perfect"
+  ],
+  [
+    "p",
+    {},
+    "The present perfect is used to talk about actions that have happened in the past and continue to be relevant in the present (I have eaten)."
+  ],
+  [
+    "h2",
+    {},
+    "The Formula"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Formula: ",
+      [
+        "strong",
+        {},
+        "Present tense of HABER + Past Participle"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Person"
+          ],
+          [
+            "th",
+            {},
+            "Haber"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "yo"
+          ],
+          [
+            "td",
+            {},
+            "he"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "tú"
+          ],
+          [
+            "td",
+            {},
+            "has"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "él/ella"
+          ],
+          [
+            "td",
+            {},
+            "ha"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "nosotros"
+          ],
+          [
+            "td",
+            {},
+            "hemos"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "ellos/ellas"
+          ],
+          [
+            "td",
+            {},
+            "han"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Forming Regular Past Participles"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "-ar verbs → ",
+          [
+            "strong",
+            {},
+            "-ado"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "hablar → hablado"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "-er/-ir verbs → ",
+          [
+            "strong",
+            {},
+            "-ido"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "comer → comido / vivir → vivido"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "example-box"
+    },
+    [
+      "p",
+      {},
+      "He hablado con mi padre. (I have spoken with my father.)"
+    ]
+  ]
+]

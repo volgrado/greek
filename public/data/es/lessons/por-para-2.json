@@ -1,0 +1,227 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Por vs Para II"
+  ],
+  [
+    "p",
+    {},
+    [
+      "While 'por' is about the 'through' or the 'why,' ",
+      [
+        "strong",
+        {},
+        "para"
+      ],
+      " is about the 'for' in terms of destination, goal, or deadline."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Primary Uses of PARA"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Think of ",
+      [
+        "strong",
+        {},
+        "para"
+      ],
+      " as expressing a destination, a purpose, or a point in the future."
+    ]
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Destination"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "toward, in the direction of"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Deadline or specific time"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "by, for"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Purpose or goal"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "in order to + infinitive"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Recipient"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "for"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Examples of Para"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Salgo para Madrid."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "I'm leaving for Madrid (Destination)."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Esta tarea es para mañana."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "This homework is for tomorrow (Deadline)."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Estudio para aprender."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "I study in order to learn (Purpose)."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Este regalo es para ti."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "This gift is for you (Recipient)."
+      ]
+    ]
+  ]
+]

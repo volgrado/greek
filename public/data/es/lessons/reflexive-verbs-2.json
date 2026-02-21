@@ -1,0 +1,133 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Reflexive Verbs II"
+  ],
+  [
+    "p",
+    {},
+    "The placement of reflexive pronouns follows the same rules as direct and indirect object pronouns."
+  ],
+  [
+    "h2",
+    {},
+    "Placement Rules"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Before a conjugated verb"
+        ],
+        ": Me levanto temprano."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Attached to an infinitive"
+        ],
+        ": Quiero levantarme temprano."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Attached to a present participle"
+        ],
+        ": Estoy levantándome temprano."
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Emotional Reflexives"
+  ],
+  [
+    "p",
+    {},
+    "Many verbs in Spanish are reflexive even if they don't seem like an action performed on oneself in English."
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Divertirse"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To have fun"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Aburrirse"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To get bored"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Enojarse"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To get angry"
+      ]
+    ]
+  ]
+]

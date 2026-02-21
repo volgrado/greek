@@ -1,0 +1,129 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Affirmative and Negative Words"
+  ],
+  [
+    "p",
+    {},
+    "Spanish uses pairs of words to affirm or deny the existence of people or things."
+  ],
+  [
+    "h2",
+    {},
+    "Pairings"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Affirmative"
+          ],
+          [
+            "th",
+            {},
+            "Negative"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Algo (Something)"
+          ],
+          [
+            "td",
+            {},
+            "Nada (Nothing)"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Alguien (Someone)"
+          ],
+          [
+            "td",
+            {},
+            "Nadie (No one)"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Siempre (Always)"
+          ],
+          [
+            "td",
+            {},
+            "Nunca (Never)"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "También (Also)"
+          ],
+          [
+            "td",
+            {},
+            "Tampoco (Neither)"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "h3",
+    {},
+    "Double Negatives"
+  ],
+  [
+    "p",
+    {},
+    "In English, double negatives are avoided. In Spanish, they are required!"
+  ],
+  [
+    "p",
+    {},
+    "No veo a nadie."
+  ],
+  [
+    "p",
+    {},
+    "I don't see anyone (I don't see no one)."
+  ]
+]

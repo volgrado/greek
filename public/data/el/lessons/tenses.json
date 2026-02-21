@@ -1,0 +1,106 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Verb Tenses"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Greek verb tenses are divided based on ",
+      [
+        "strong",
+        {},
+        "when"
+      ],
+      " the action happens (Past, Present, Future) and ",
+      [
+        "strong",
+        {},
+        "how"
+      ],
+      " it happens (Continuous vs. Simple/Instant)."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "tenses-timeline mt-8"
+    },
+    [
+      "h3",
+      {},
+      "Present (Ενεστώτας)"
+    ],
+    [
+      "p",
+      {},
+      "παίζω I am playing / I play"
+    ],
+    [
+      "h3",
+      {},
+      "Future (Μέλλοντας)"
+    ],
+    [
+      "p",
+      {},
+      "θα παίζω I will be playing (continuous)θα παίξω I will play (once)"
+    ],
+    [
+      "h3",
+      {},
+      "Past (Παρελθόν)"
+    ],
+    [
+      "p",
+      {},
+      "έπαιζα I was playing (Imperfect)έπαιξα I played (Aorist)"
+    ],
+    [
+      "h3",
+      {},
+      "Perfect (Παρακείμενος)"
+    ],
+    [
+      "p",
+      {},
+      "έχω παίξει I have played"
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12 mb-12"
+    },
+    [
+      "h3",
+      {},
+      "The Aspect Rule"
+    ],
+    [
+      "p",
+      {},
+      [
+        "In Greek, the most important distinction is between ",
+        [
+          "strong",
+          {},
+          "Continuous"
+        ],
+        " (actions that happen repeatedly or over time) and ",
+        [
+          "strong",
+          {},
+          "Simple"
+        ],
+        " (actions that happen once). This distinction is reflected in most tenses!"
+      ]
+    ]
+  ]
+]

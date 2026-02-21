@@ -1,0 +1,130 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Pronouns: Object of Prepositions"
+  ],
+  [
+    "p",
+    {},
+    "When a pronoun follows a preposition (like for, with, about), Spanish uses specific forms that are mostly identical to subject pronouns."
+  ],
+  [
+    "h2",
+    {},
+    "The Pronoun Forms"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Subject"
+          ],
+          [
+            "th",
+            {},
+            "Object of Preposition"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Yo"
+          ],
+          [
+            "td",
+            {},
+            "mí"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Tú"
+          ],
+          [
+            "td",
+            {},
+            "ti"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Él / Ella / Ud."
+          ],
+          [
+            "td",
+            {},
+            "él / ella / ud."
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Nosotros"
+          ],
+          [
+            "td",
+            {},
+            "nosotros"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Special Cases with 'Con'"
+    ],
+    [
+      "p",
+      {},
+      "When used with 'con' (with), 'mí' and 'ti' become:"
+    ],
+    [
+      "p",
+      {},
+      "conmigo (with me) | contigo (with you)"
+    ]
+  ]
+]

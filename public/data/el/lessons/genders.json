@@ -1,0 +1,91 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Genders"
+  ],
+  [
+    "p",
+    {},
+    "Every Greek noun belongs to one of three grammatical categories: Masculine, Feminine, or Neuter."
+  ],
+  [
+    "h2",
+    {},
+    "01. Masculine (Ο)"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      "Ends generally in -ος, -as, or -ης."
+    ],
+    [
+      "li",
+      {},
+      "Examples: ο δρόμος (street), ο πατέρας (father)."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "02. Feminine (Η)"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      "Ends generally in -η or -a."
+    ],
+    [
+      "li",
+      {},
+      "Examples: η μητέρα (mother), η καρδιά (heart)."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "03. Neuter (Το)"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      "Ends generally in -o, -ι, or -μα."
+    ],
+    [
+      "li",
+      {},
+      "Examples: το παιδί (child), το σπίτι (house)."
+    ]
+  ],
+  [
+    "p",
+    {},
+    [
+      [
+        "strong",
+        {},
+        "Note on Ambiguity"
+      ],
+      " While most -ος nouns are masculine, some are feminine (η οδός). The article is your only fail-safe guide."
+    ]
+  ]
+]

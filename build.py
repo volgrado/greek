@@ -1,141 +1,128 @@
 import json
-import os
 import sys
+import re
+from pathlib import Path
+import markdown
 
 # --- EL COMPILADOR ZEN (THE WEAVER) ---
 
-def validate_node(node, path):
-    """Valida que el nodo cumpla con el esquema básico [tag, props, ...children]."""
-    if not isinstance(node, list):
-        return
-    if len(node) < 2 or not isinstance(node[1], dict):
-        print(f"❌ Error in {path}: Node must be [tag, {{props}}, ...children]")
+def parse_markdown(md_text):
+    """Compiles Markdown to HTML."""
+    # We use the 'markdown' library with tables and attr_list extensions
+    # attr_list allows adding classes to block elements if needed
+    html = markdown.markdown(md_text, extensions=['tables', 'attr_list', 'sane_lists'])
+    
+    # Process custom content blocks ::: class-name
+    # Since we use markdown library, it doesn't know ::: syntax. 
+    # We'll do a simple pre/post regex replace for those custom div wrappers
+    html = re.sub(r'<p>:::\s+([a-zA-Z0-9_-]+)</p>', r'<div class="\1">', html)
+    html = re.sub(r'<p>:::\s+end</p>', r'</div>', html)
+    
+    # Process specific styling like Spanish/English translation lists 
+    # Current pattern in markdown: - Spanish text (English text)
+    # We need to wrap them in spans
+    def process_li(match):
+        li_content = match.group(1)
+        # Check for phrase-list format "Spanish text (English text)"
+        m = re.match(r'^(.*?)\s*\((.*?)\)$', li_content)
+        if m:
+            es_text, en_text = m.groups()
+            return f'<li><span class="spanish">{es_text}</span> <span class="meaning">({en_text})</span></li>'
+        return f'<li>{li_content}</li>'
+        
+    html = re.sub(r'<li>(.*?)</li>', process_li, html, flags=re.DOTALL)
+    
+    return f'<div class="content-wrapper">\n{html}\n</div>'
 
-def build_lang(lang_code):
+
+def build_lang(lang_code, is_default=False):
     print(f"--- Building language: {lang_code} ---")
-    db = {}
-    lang_dir = os.path.join('data', lang_code)
+    
+    # Directorios fuente
+    lang_dir = Path('data') / lang_code
+    lessons_dir = lang_dir / 'lessons'
+    curriculum_path = lang_dir / 'curriculum.json'
+    
+    # Directorios destino
+    out_dir = Path('public/data') / lang_code
+    out_lessons_dir = out_dir / 'lessons'
+    out_dir.mkdir(parents=True, exist_ok=True)
+    out_lessons_dir.mkdir(parents=True, exist_ok=True)
     
     # 1. Cargar la Ontología (Currículo)
-    curriculum_path = os.path.join(lang_dir, 'curriculum.json')
-    if not os.path.exists(curriculum_path):
+    if not curriculum_path.exists():
         print(f"WRN: {curriculum_path} not found. Skipping.")
         return None
         
-    with open(curriculum_path, 'r', encoding='utf-8') as f:
+    with curriculum_path.open('r', encoding='utf-8') as f:
         structure = json.load(f)
 
-    # Crear lista plana de lecciones para navegación
-    flat_lessons = []
-    for section in structure.values():
-        for l in section:
-            flat_lessons.append(l)
-
     # 2. Reconstruir la HOME (Nodo Raíz '/')
-    home = ["div", {"className": "curriculum-container"}]
+    # Instead of AST, we build raw HTML for the home page
+    home_html = '<div class="curriculum-container">\n'
     
     for section_name, lessons in structure.items():
-        section_node = ["section", {}, ["h2", {}, section_name]]
+        home_html += f'<section>\n  <h2>{section_name}</h2>\n'
         for l in lessons:
             label = f"{l['num']}. {l['title']}" if l.get('num') else l['title']
-            section_node.append([
-                "a", 
-                {"href": f"#/lessons/{l['id']}", "className": "curriculum-link"},
-                ["span", {}, label],
-                ["span", {}, "→"]
-            ])
-        home.append(section_node)
+            home_html += f'''  <a href="#/lessons/{l['id']}" class="curriculum-link">
+    <span>{label}</span>
+    <span>→</span>
+  </a>\n'''
+        home_html += '</section>\n'
+    home_html += '</div>\n'
     
-    db["/"] = home
-    db["/curriculum"] = home
-
-    # 3. Recolectar Fragmentos de Conocimiento (Lessons)
-    lessons_dir = os.path.join(lang_dir, 'lessons')
-    lesson_fragments = {}
-    if os.path.exists(lessons_dir):
-        for filename in os.listdir(lessons_dir):
-            if filename.endswith('.json'):
-                lesson_id = filename[:-5].replace('_', '/')
-                with open(os.path.join(lessons_dir, filename), 'r', encoding='utf-8') as f:
-                    try:
-                        lesson_fragments[lesson_id] = json.load(f)
-                    except Exception as e:
-                        print(f"[ERR] Error loading {filename}: {e}")
-
-    # 4. Procesar Navigación Automática
-    available_lessons = [l for l in flat_lessons if l['id'] in lesson_fragments]
+    curriculum_data = {
+        "structure": structure,
+        "home": home_html
+    }
     
-    for i, l in enumerate(available_lessons):
-        lid = l['id']
-        path = f"/lessons/{lid}"
-        node = lesson_fragments[lid]
-        
-        if isinstance(node, list):
-            node = [child for child in node if not (
-                isinstance(child, list) and 
-                len(child) > 1 and 
-                isinstance(child[1], dict) and 
-                (child[1].get('className') == 'lesson-nav' or child[1].get('class') == 'lesson-nav')
-            )]
+    # Escribir public/data/lang/curriculum.json (still need structure for nav)
+    with (out_dir / 'curriculum.json').open('w', encoding='utf-8') as f:
+        json.dump(curriculum_data, f, ensure_ascii=False, indent=2)
+    print(f"[OK] {out_dir}/curriculum.json generated.")
 
-        nav_block = ["div", {"className": "lesson-nav"}]
-        
-        if i > 0:
-            prev_l = available_lessons[i-1]
-            nav_block.append(["a", {"href": f"#/lessons/{prev_l['id']}"}, f"← {prev_l['title']}"])
-        else:
-            nav_block.append(["span", {}, ""]) 
+    # 3. Procesar y escribir Fragmentos de Conocimiento (Lessons) separadamente
+    if lessons_dir.exists():
+        for file_path in lessons_dir.glob('*.md'):
+            lesson_id = file_path.stem
+            with file_path.open('r', encoding='utf-8') as f:
+                try:
+                    md_text = f.read()
+                    html_content = parse_markdown(md_text)
+                    
+                    # Escribir la lección individual como HTML
+                    out_lesson_path = out_lessons_dir / f"{lesson_id}.html"
+                    with out_lesson_path.open('w', encoding='utf-8') as out_f:
+                        out_f.write(html_content)
+                        
+                except Exception as e:
+                    print(f"[ERR] Error compiling Markdown {file_path.name}: {e}")
 
-        nav_block.append(["a", {"href": "#/", "className": "menu-btn"}, "MENU"])
+    print(f"[OK] Lessons successfully compiled to HTML in {out_lessons_dir}.")
+    return curriculum_data
 
-        if i < len(available_lessons) - 1:
-            next_l = available_lessons[i+1]
-            nav_block.append(["a", {"href": f"#/lessons/{next_l['id']}"}, f"{next_l['title']} →"])
-        else:
-            nav_block.append(["span", {}, ""]) 
-
-        if isinstance(node, list):
-            node.append(nav_block)
-        
-        db[path] = node
-
-    # 5. Estado de Fallo (404)
-    db["404"] = ["div", {"style": "padding: 5rem; text-align: center"},
-        ["h1", {"style": "color: #e53e3e"}, "404: Nodo no encontrado"],
-        ["a", {"href": "#/"}, "Volver al Origen"]
-    ]
-
-    # 6. Consolidación del Grafo
-    output_filename = f'data-{lang_code}.json'
-    with open(output_filename, 'w', encoding='utf-8') as f:
-        json.dump(db, f, ensure_ascii=False, indent=2)
-    
-    # Special case for backward compatibility
-    if lang_code == 'el':
-        with open('data.json', 'w', encoding='utf-8') as f:
-            json.dump(db, f, ensure_ascii=False, indent=2)
-        print(f"[OK] data.json (linked to {lang_code}) updated.")
-
-    print(f"[OK] {output_filename} generated successfully.")
-    return db
-
-def build_all():
-    data_dir = 'data'
-    if not os.path.exists(data_dir):
+def build_all(default_lang='el'):
+    data_dir = Path('data')
+    if not data_dir.exists():
         print(f"[ERR] Error: {data_dir} directory not found.")
         return
 
-    langs = [d for d in os.listdir(data_dir) if os.path.isdir(os.path.join(data_dir, d))]
+    langs = [d.name for d in data_dir.iterdir() if d.is_dir()]
     
     if not langs:
         print("[ERR] Error: No language directories found in data/")
         return
 
     for lang in langs:
-        build_lang(lang)
+        build_lang(lang, is_default=(lang == default_lang))
 
     print("\n--- Build process completed for all languages ---")
 
 if __name__ == "__main__":
-    build_all()
+    default_l = 'el'
+    if len(sys.argv) > 1:
+        default_l = sys.argv[1]
+    build_all(default_l)
+
 

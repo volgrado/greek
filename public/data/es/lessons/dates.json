@@ -1,0 +1,93 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Dates"
+  ],
+  [
+    "p",
+    {},
+    "Talking about dates in Spanish follows a very specific formula."
+  ],
+  [
+    "h2",
+    {},
+    "The Formula"
+  ],
+  [
+    "p",
+    {},
+    [
+      "To state the date: ",
+      [
+        "strong",
+        {},
+        "el + [number] + de + [month]"
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "example-box"
+    },
+    [
+      "p",
+      {},
+      "el cinco de mayo (May 5th)"
+    ],
+    [
+      "p",
+      {},
+      "el doce de octubre (October 12th)"
+    ]
+  ],
+  [
+    "h3",
+    {},
+    "The First Day"
+  ],
+  [
+    "p",
+    {},
+    [
+      "While we use regular numbers for most dates, for the first day of the month, we use ",
+      [
+        "strong",
+        {},
+        "el primero"
+      ],
+      "."
+    ]
+  ],
+  [
+    "p",
+    {},
+    "el primero de enero"
+  ],
+  [
+    "h2",
+    {},
+    "The Months"
+  ],
+  [
+    "p",
+    {},
+    "Months in Spanish are not capitalized unless they start a sentence."
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      "enero, febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre"
+    ]
+  ]
+]

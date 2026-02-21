@@ -1,0 +1,179 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Preterite: Irregular Verbs II"
+  ],
+  [
+    "p",
+    {},
+    "Many irregular preterite verbs follow a pattern: they have a special stem and share the same set of endings (which have no accent marks!)."
+  ],
+  [
+    "h2",
+    {},
+    "Verbs: Estar, Tener, Hacer"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "Estar → ",
+        [
+          "strong",
+          {},
+          "estuv-"
+        ]
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "Tener → ",
+        [
+          "strong",
+          {},
+          "tuv-"
+        ]
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "Hacer → ",
+          [
+            "strong",
+            {},
+            "hic-"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "hizo in 3rd pers. sing."
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "The Shared Endings"
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "yo"
+          ],
+          [
+            "th",
+            {},
+            "-e"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "tú"
+          ],
+          [
+            "td",
+            {},
+            "-iste"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "él/ella"
+          ],
+          [
+            "td",
+            {},
+            "-o"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "nosotros"
+          ],
+          [
+            "td",
+            {},
+            "-imos"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "ellos/ellas"
+          ],
+          [
+            "td",
+            {},
+            "-ieron"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "h3",
+    {},
+    "Example: Tener"
+  ],
+  [
+    "p",
+    {},
+    "tuve, tuviste, tuvo, tuvimos, tuvieron"
+  ]
+]

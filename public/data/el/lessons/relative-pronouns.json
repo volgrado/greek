@@ -1,0 +1,258 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Relative Pronouns"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Relative pronouns are used to connect clauses or refer back to a noun previously mentioned. The most common one is the indeclinable ",
+      [
+        "strong",
+        {},
+        "που"
+      ],
+      "."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card mt-8"
+    },
+    [
+      "p",
+      {},
+      "που"
+    ],
+    [
+      "h3",
+      {},
+      "That / Which / Who"
+    ],
+    [
+      "p",
+      {},
+      "The universal relative pronoun. It never changes its form."
+    ],
+    [
+      "p",
+      {},
+      [
+        "Αγόρασα το βιβλίο ",
+        [
+          "strong",
+          {},
+          "που"
+        ],
+        " είδα. I bought the book ",
+        [
+          "strong",
+          {},
+          "that"
+        ],
+        " I saw.ό,τι"
+      ]
+    ],
+    [
+      "h3",
+      {},
+      "Whatever / What"
+    ],
+    [
+      "p",
+      {},
+      "Used to refer to an unspecified thing or sentence."
+    ],
+    [
+      "p",
+      {},
+      [
+        "Πάρε ",
+        [
+          "strong",
+          {},
+          "ό,τι"
+        ],
+        " θέλεις. Take ",
+        [
+          "strong",
+          {},
+          "whatever"
+        ],
+        " you want.όποιος, -α, -ο"
+      ]
+    ],
+    [
+      "h3",
+      {},
+      "Whoever / Whichever"
+    ],
+    [
+      "p",
+      {},
+      "Declines like an adjective."
+    ],
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Όποιος"
+        ],
+        " κλέβει... ",
+        [
+          "strong",
+          {},
+          "Whoever"
+        ],
+        " steals...όσος, -η, -ο"
+      ]
+    ],
+    [
+      "h3",
+      {},
+      "As much as"
+    ],
+    [
+      "p",
+      {},
+      "Indicates quantity."
+    ],
+    [
+      "p",
+      {},
+      [
+        "Δώσε μου ",
+        [
+          "strong",
+          {},
+          "όσα"
+        ],
+        " λεφτά θέλεις. Give me ",
+        [
+          "strong",
+          {},
+          "as much"
+        ],
+        " money ",
+        [
+          "strong",
+          {},
+          "as"
+        ],
+        " you want."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12 mb-12"
+    },
+    [
+      "h3",
+      {},
+      "Spelling Alert: που vs πού"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Don't confuse the relative pronoun ",
+        [
+          "strong",
+          {},
+          "που"
+        ],
+        " (no accent) with the interrogative ",
+        [
+          "strong",
+          {},
+          "πού"
+        ],
+        " (with accent)."
+      ]
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            "Το σπίτι ",
+            [
+              "strong",
+              {},
+              "που"
+            ],
+            " μένω."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            "The house ",
+            [
+              "strong",
+              {},
+              "that"
+            ],
+            " I live in."
+          ]
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            [
+              "strong",
+              {},
+              "Πού"
+            ],
+            " μένεις;"
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            [
+              "strong",
+              {},
+              "Where"
+            ],
+            " do you live?"
+          ]
+        ]
+      ]
+    ]
+  ]
+]

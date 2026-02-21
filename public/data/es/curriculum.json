@@ -1,0 +1,520 @@
+{
+  "structure": {
+    "Unit 1: Basic Spanish": [
+      {
+        "id": "gender-nouns-1",
+        "title": "Gender of Nouns I",
+        "num": 1
+      },
+      {
+        "id": "gender-nouns-2",
+        "title": "Gender of Nouns II",
+        "num": 2
+      },
+      {
+        "id": "plural-nouns",
+        "title": "Plural Forms of Nouns",
+        "num": 3
+      },
+      {
+        "id": "articles",
+        "title": "Definite and Indefinite Articles",
+        "num": 4
+      },
+      {
+        "id": "subject-pronouns",
+        "title": "Subject Pronouns",
+        "num": 5
+      },
+      {
+        "id": "regular-verbs-1",
+        "title": "Regular Verbs I (-ar)",
+        "num": 6
+      },
+      {
+        "id": "regular-verbs-2",
+        "title": "Regular Verbs II (-er)",
+        "num": 7
+      },
+      {
+        "id": "regular-verbs-3",
+        "title": "Regular Verbs III (-ir)",
+        "num": 8
+      },
+      {
+        "id": "adjectives-1",
+        "title": "Adjectives I",
+        "num": 9
+      },
+      {
+        "id": "adjectives-2",
+        "title": "Adjectives II",
+        "num": 10
+      }
+    ],
+    "Unit 2: More Basics": [
+      {
+        "id": "ser-estar-1",
+        "title": "Ser vs Estar I",
+        "num": 11
+      },
+      {
+        "id": "ser-estar-2",
+        "title": "Ser vs Estar II",
+        "num": 12
+      },
+      {
+        "id": "ser-estar-3",
+        "title": "Ser vs Estar III",
+        "num": 13
+      },
+      {
+        "id": "ser-estar-4",
+        "title": "Ser vs Estar IV",
+        "num": 14
+      },
+      {
+        "id": "negation",
+        "title": "Negation",
+        "num": 15
+      },
+      {
+        "id": "interrogatives",
+        "title": "Interrogatives",
+        "num": 16
+      },
+      {
+        "id": "numbers-1",
+        "title": "Numbers: 1-10",
+        "num": 17
+      },
+      {
+        "id": "numbers-2",
+        "title": "Numbers: 11-100",
+        "num": 18
+      },
+      {
+        "id": "telling-time",
+        "title": "Telling Time",
+        "num": 19
+      },
+      {
+        "id": "dates",
+        "title": "Dates",
+        "num": 20
+      }
+    ],
+    "Unit 3: Even More Basics": [
+      {
+        "id": "possessives-1",
+        "title": "Possessive Adjectives I",
+        "num": 21
+      },
+      {
+        "id": "possessives-2",
+        "title": "Possessive Adjectives II",
+        "num": 22
+      },
+      {
+        "id": "irregular-verbs-yo",
+        "title": "Verbs with Irregular Yo",
+        "num": 23
+      },
+      {
+        "id": "saber-conocer",
+        "title": "Saber vs Conocer",
+        "num": 24
+      },
+      {
+        "id": "personal-a",
+        "title": "The Personal 'a'",
+        "num": 25
+      },
+      {
+        "id": "gustar",
+        "title": "Gustar",
+        "num": 26
+      },
+      {
+        "id": "stem-changers-e-ie",
+        "title": "Stem-Changers: e -> ie",
+        "num": 27
+      },
+      {
+        "id": "stem-changers-o-ue",
+        "title": "Stem-Changers: o -> ue",
+        "num": 28
+      },
+      {
+        "id": "stem-changers-e-i",
+        "title": "Stem-Changers: e -> i",
+        "num": 29
+      },
+      {
+        "id": "affinity-words",
+        "title": "Affirmative and Negative Words",
+        "num": 30
+      }
+    ],
+    "Unit 4: Prepositions and Pronouns": [
+      {
+        "id": "por-para-1",
+        "title": "Por vs Para I",
+        "num": 31
+      },
+      {
+        "id": "por-para-2",
+        "title": "Por vs Para II",
+        "num": 32
+      },
+      {
+        "id": "adverbs",
+        "title": "Adverbs",
+        "num": 33
+      },
+      {
+        "id": "comparisons-inequality",
+        "title": "Comparisons of Inequality",
+        "num": 34
+      },
+      {
+        "id": "comparisons-equality",
+        "title": "Comparisons of Equality",
+        "num": 35
+      },
+      {
+        "id": "superlatives",
+        "title": "Superlatives",
+        "num": 36
+      },
+      {
+        "id": "pronouns-prep-objects",
+        "title": "Pronouns: Object of Prepositions",
+        "num": 37
+      },
+      {
+        "id": "direct-objects-1",
+        "title": "Direct Object Pronouns I",
+        "num": 38
+      },
+      {
+        "id": "direct-objects-3",
+        "title": "Direct Object Pronouns III",
+        "num": 40
+      }
+    ],
+    "Unit 5: Objects and Progressive": [
+      {
+        "id": "indirect-objects-1",
+        "title": "Indirect Object Pronouns I",
+        "num": 41
+      },
+      {
+        "id": "indirect-objects-2",
+        "title": "Indirect Object Pronouns II",
+        "num": 42
+      },
+      {
+        "id": "indirect-objects-3",
+        "title": "Indirect Object Pronouns III",
+        "num": 43
+      },
+      {
+        "id": "pronouns-combined",
+        "title": "Combined Object Pronouns",
+        "num": 44
+      },
+      {
+        "id": "verbs-like-gustar",
+        "title": "Verbs like Gustar",
+        "num": 45
+      },
+      {
+        "id": "present-progressive",
+        "title": "Present Progressive",
+        "num": 46
+      },
+      {
+        "id": "irregular-participles",
+        "title": "Irregular Present Participles",
+        "num": 47
+      },
+      {
+        "id": "intro-preterite",
+        "title": "Intro to the Preterite",
+        "num": 48
+      },
+      {
+        "id": "preterite-regular",
+        "title": "Preterite: Regular Verbs",
+        "num": 49
+      },
+      {
+        "id": "preterite-spelling",
+        "title": "Preterite: Spelling Changes",
+        "num": 50
+      }
+    ],
+    "Unit 6: Past Tense Mastery": [
+      {
+        "id": "preterite-stem-changers",
+        "title": "Preterite: Stem-Changers",
+        "num": 51
+      },
+      {
+        "id": "preterite-irregular-1",
+        "title": "Preterite: Irregular Verbs I",
+        "num": 52
+      },
+      {
+        "id": "preterite-irregular-2",
+        "title": "Preterite: Irregular Verbs II",
+        "num": 53
+      },
+      {
+        "id": "preterite-irregular-3",
+        "title": "Preterite: Irregular Verbs III",
+        "num": 54
+      },
+      {
+        "id": "preterite-irregular-4",
+        "title": "Preterite: Irregular Verbs IV",
+        "num": 55
+      },
+      {
+        "id": "imperfect-regular",
+        "title": "Imperfect: Regular Verbs",
+        "num": 56
+      },
+      {
+        "id": "imperfect-irregular",
+        "title": "Imperfect: Irregular Verbs",
+        "num": 57
+      },
+      {
+        "id": "pret-vs-imp-1",
+        "title": "Preterite vs Imperfect I",
+        "num": 58
+      },
+      {
+        "id": "pret-vs-imp-2",
+        "title": "Preterite vs Imperfect II",
+        "num": 59
+      },
+      {
+        "id": "pret-vs-imp-3",
+        "title": "Preterite vs Imperfect III",
+        "num": 60
+      }
+    ],
+    "Unit 7: Commands and Reflexives": [
+      {
+        "id": "rel-pronouns-1",
+        "title": "Relative Pronouns I",
+        "num": 61
+      },
+      {
+        "id": "rel-pronouns-2",
+        "title": "Relative Pronouns II",
+        "num": 62
+      },
+      {
+        "id": "formal-commands",
+        "title": "Formal Commands",
+        "num": 63
+      },
+      {
+        "id": "informal-commands-tu",
+        "title": "Informal Commands: Tú",
+        "num": 64
+      },
+      {
+        "id": "negative-commands",
+        "title": "Negative Commands",
+        "num": 65
+      },
+      {
+        "id": "commands-pronouns",
+        "title": "Object Pronouns with Commands",
+        "num": 66
+      },
+      {
+        "id": "reflexive-verbs-1",
+        "title": "Reflexive Verbs I",
+        "num": 67
+      },
+      {
+        "id": "reflexive-verbs-2",
+        "title": "Reflexive Verbs II",
+        "num": 68
+      },
+      {
+        "id": "definite-article-2",
+        "title": "Definite Article II",
+        "num": 69
+      },
+      {
+        "id": "possessive-pronouns",
+        "title": "Possessive Pronouns",
+        "num": 70
+      }
+    ],
+    "Unit 8: Future, Conditional, and Subjunctive": [
+      {
+        "id": "future-regular",
+        "title": "Future Tense: Regular",
+        "num": 71
+      },
+      {
+        "id": "future-irregular",
+        "title": "Future Tense: Irregular",
+        "num": 72
+      },
+      {
+        "id": "conditional-regular",
+        "title": "Conditional Tense",
+        "num": 73
+      },
+      {
+        "id": "rel-pronouns-3",
+        "title": "Relative Pronouns III",
+        "num": 74
+      },
+      {
+        "id": "rel-pronouns-4",
+        "title": "Relative Pronouns IV",
+        "num": 75
+      },
+      {
+        "id": "subjunctive-intro",
+        "title": "Subjunctive Intro",
+        "num": 76
+      },
+      {
+        "id": "subjunctive-present-regular",
+        "title": "Subjunctive: Present",
+        "num": 77
+      },
+      {
+        "id": "subjunctive-irregular-yo",
+        "title": "Subjunctive: Irregular Yo",
+        "num": 78
+      },
+      {
+        "id": "subjunctive-spelling-change",
+        "title": "Subjunctive: Spelling Changes",
+        "num": 79
+      },
+      {
+        "id": "subjunctive-stem-change",
+        "title": "Subjunctive: Stem-Changers",
+        "num": 80
+      }
+    ],
+    "Unit 9: Perfect Tenses and Subjunctive Usage": [
+      {
+        "id": "present-perfect",
+        "title": "Present Perfect",
+        "num": 81
+      },
+      {
+        "id": "past-participles-irreg",
+        "title": "Irregular Past Participles",
+        "num": 82
+      },
+      {
+        "id": "past-perfect",
+        "title": "Past Perfect",
+        "num": 83
+      },
+      {
+        "id": "subjunctive-wishes",
+        "title": "Subjunctive: Wishes",
+        "num": 84
+      },
+      {
+        "id": "subjunctive-emotion",
+        "title": "Subjunctive: Emotion",
+        "num": 85
+      },
+      {
+        "id": "subjunctive-impersonal",
+        "title": "Subjunctive: Impersonal",
+        "num": 86
+      },
+      {
+        "id": "subjunctive-requests",
+        "title": "Subjunctive: Requests",
+        "num": 87
+      },
+      {
+        "id": "subjunctive-doubt",
+        "title": "Subjunctive: Doubt",
+        "num": 88
+      },
+      {
+        "id": "subjunctive-ojala",
+        "title": "Subjunctive: Ojalá",
+        "num": 89
+      },
+      {
+        "id": "subjunctive-disish",
+        "title": "Subjunctive: The Six Irregulars",
+        "num": 90
+      }
+    ],
+    "Unit 10: Advanced Subjunctive and Syntax": [
+      {
+        "id": "imperfect-subjunctive-1",
+        "title": "Imperfect Subjunctive I",
+        "num": 91
+      },
+      {
+        "id": "imperfect-subjunctive-2",
+        "title": "Imperfect Subjunctive II",
+        "num": 92
+      },
+      {
+        "id": "imperfect-subjunctive-3",
+        "title": "Imperfect Subjunctive III",
+        "num": 93
+      },
+      {
+        "id": "si-clauses-1",
+        "title": "Si Clauses I",
+        "num": 94
+      },
+      {
+        "id": "si-clauses-2",
+        "title": "Si Clauses II",
+        "num": 95
+      },
+      {
+        "id": "passive-voice",
+        "title": "The Passive Voice",
+        "num": 96
+      },
+      {
+        "id": "se-accidental",
+        "title": "Accidental 'Se'",
+        "num": 97
+      },
+      {
+        "id": "hace-ago",
+        "title": "Hace meaning 'Ago'",
+        "num": 98
+      },
+      {
+        "id": "pero-vs-sino",
+        "title": "Pero vs Sino",
+        "num": 99
+      },
+      {
+        "id": "finale-summary",
+        "title": "Spanish Finale",
+        "num": 100
+      }
+    ]
+  },
+  "home": "<div class=\"curriculum-container\">\n<section>\n  <h2>Unit 1: Basic Spanish</h2>\n  <a href=\"#/lessons/gender-nouns-1\" class=\"curriculum-link\">\n    <span>1. Gender of Nouns I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/gender-nouns-2\" class=\"curriculum-link\">\n    <span>2. Gender of Nouns II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/plural-nouns\" class=\"curriculum-link\">\n    <span>3. Plural Forms of Nouns</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/articles\" class=\"curriculum-link\">\n    <span>4. Definite and Indefinite Articles</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subject-pronouns\" class=\"curriculum-link\">\n    <span>5. Subject Pronouns</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/regular-verbs-1\" class=\"curriculum-link\">\n    <span>6. Regular Verbs I (-ar)</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/regular-verbs-2\" class=\"curriculum-link\">\n    <span>7. Regular Verbs II (-er)</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/regular-verbs-3\" class=\"curriculum-link\">\n    <span>8. Regular Verbs III (-ir)</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/adjectives-1\" class=\"curriculum-link\">\n    <span>9. Adjectives I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/adjectives-2\" class=\"curriculum-link\">\n    <span>10. Adjectives II</span>\n    <span>→</span>\n  </a>\n</section>\n<section>\n  <h2>Unit 2: More Basics</h2>\n  <a href=\"#/lessons/ser-estar-1\" class=\"curriculum-link\">\n    <span>11. Ser vs Estar I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/ser-estar-2\" class=\"curriculum-link\">\n    <span>12. Ser vs Estar II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/ser-estar-3\" class=\"curriculum-link\">\n    <span>13. Ser vs Estar III</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/ser-estar-4\" class=\"curriculum-link\">\n    <span>14. Ser vs Estar IV</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/negation\" class=\"curriculum-link\">\n    <span>15. Negation</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/interrogatives\" class=\"curriculum-link\">\n    <span>16. Interrogatives</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/numbers-1\" class=\"curriculum-link\">\n    <span>17. Numbers: 1-10</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/numbers-2\" class=\"curriculum-link\">\n    <span>18. Numbers: 11-100</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/telling-time\" class=\"curriculum-link\">\n    <span>19. Telling Time</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/dates\" class=\"curriculum-link\">\n    <span>20. Dates</span>\n    <span>→</span>\n  </a>\n</section>\n<section>\n  <h2>Unit 3: Even More Basics</h2>\n  <a href=\"#/lessons/possessives-1\" class=\"curriculum-link\">\n    <span>21. Possessive Adjectives I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/possessives-2\" class=\"curriculum-link\">\n    <span>22. Possessive Adjectives II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/irregular-verbs-yo\" class=\"curriculum-link\">\n    <span>23. Verbs with Irregular Yo</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/saber-conocer\" class=\"curriculum-link\">\n    <span>24. Saber vs Conocer</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/personal-a\" class=\"curriculum-link\">\n    <span>25. The Personal 'a'</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/gustar\" class=\"curriculum-link\">\n    <span>26. Gustar</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/stem-changers-e-ie\" class=\"curriculum-link\">\n    <span>27. Stem-Changers: e -> ie</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/stem-changers-o-ue\" class=\"curriculum-link\">\n    <span>28. Stem-Changers: o -> ue</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/stem-changers-e-i\" class=\"curriculum-link\">\n    <span>29. Stem-Changers: e -> i</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/affinity-words\" class=\"curriculum-link\">\n    <span>30. Affirmative and Negative Words</span>\n    <span>→</span>\n  </a>\n</section>\n<section>\n  <h2>Unit 4: Prepositions and Pronouns</h2>\n  <a href=\"#/lessons/por-para-1\" class=\"curriculum-link\">\n    <span>31. Por vs Para I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/por-para-2\" class=\"curriculum-link\">\n    <span>32. Por vs Para II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/adverbs\" class=\"curriculum-link\">\n    <span>33. Adverbs</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/comparisons-inequality\" class=\"curriculum-link\">\n    <span>34. Comparisons of Inequality</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/comparisons-equality\" class=\"curriculum-link\">\n    <span>35. Comparisons of Equality</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/superlatives\" class=\"curriculum-link\">\n    <span>36. Superlatives</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/pronouns-prep-objects\" class=\"curriculum-link\">\n    <span>37. Pronouns: Object of Prepositions</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/direct-objects-1\" class=\"curriculum-link\">\n    <span>38. Direct Object Pronouns I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/direct-objects-3\" class=\"curriculum-link\">\n    <span>40. Direct Object Pronouns III</span>\n    <span>→</span>\n  </a>\n</section>\n<section>\n  <h2>Unit 5: Objects and Progressive</h2>\n  <a href=\"#/lessons/indirect-objects-1\" class=\"curriculum-link\">\n    <span>41. Indirect Object Pronouns I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/indirect-objects-2\" class=\"curriculum-link\">\n    <span>42. Indirect Object Pronouns II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/indirect-objects-3\" class=\"curriculum-link\">\n    <span>43. Indirect Object Pronouns III</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/pronouns-combined\" class=\"curriculum-link\">\n    <span>44. Combined Object Pronouns</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/verbs-like-gustar\" class=\"curriculum-link\">\n    <span>45. Verbs like Gustar</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/present-progressive\" class=\"curriculum-link\">\n    <span>46. Present Progressive</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/irregular-participles\" class=\"curriculum-link\">\n    <span>47. Irregular Present Participles</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/intro-preterite\" class=\"curriculum-link\">\n    <span>48. Intro to the Preterite</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/preterite-regular\" class=\"curriculum-link\">\n    <span>49. Preterite: Regular Verbs</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/preterite-spelling\" class=\"curriculum-link\">\n    <span>50. Preterite: Spelling Changes</span>\n    <span>→</span>\n  </a>\n</section>\n<section>\n  <h2>Unit 6: Past Tense Mastery</h2>\n  <a href=\"#/lessons/preterite-stem-changers\" class=\"curriculum-link\">\n    <span>51. Preterite: Stem-Changers</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/preterite-irregular-1\" class=\"curriculum-link\">\n    <span>52. Preterite: Irregular Verbs I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/preterite-irregular-2\" class=\"curriculum-link\">\n    <span>53. Preterite: Irregular Verbs II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/preterite-irregular-3\" class=\"curriculum-link\">\n    <span>54. Preterite: Irregular Verbs III</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/preterite-irregular-4\" class=\"curriculum-link\">\n    <span>55. Preterite: Irregular Verbs IV</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/imperfect-regular\" class=\"curriculum-link\">\n    <span>56. Imperfect: Regular Verbs</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/imperfect-irregular\" class=\"curriculum-link\">\n    <span>57. Imperfect: Irregular Verbs</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/pret-vs-imp-1\" class=\"curriculum-link\">\n    <span>58. Preterite vs Imperfect I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/pret-vs-imp-2\" class=\"curriculum-link\">\n    <span>59. Preterite vs Imperfect II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/pret-vs-imp-3\" class=\"curriculum-link\">\n    <span>60. Preterite vs Imperfect III</span>\n    <span>→</span>\n  </a>\n</section>\n<section>\n  <h2>Unit 7: Commands and Reflexives</h2>\n  <a href=\"#/lessons/rel-pronouns-1\" class=\"curriculum-link\">\n    <span>61. Relative Pronouns I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/rel-pronouns-2\" class=\"curriculum-link\">\n    <span>62. Relative Pronouns II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/formal-commands\" class=\"curriculum-link\">\n    <span>63. Formal Commands</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/informal-commands-tu\" class=\"curriculum-link\">\n    <span>64. Informal Commands: Tú</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/negative-commands\" class=\"curriculum-link\">\n    <span>65. Negative Commands</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/commands-pronouns\" class=\"curriculum-link\">\n    <span>66. Object Pronouns with Commands</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/reflexive-verbs-1\" class=\"curriculum-link\">\n    <span>67. Reflexive Verbs I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/reflexive-verbs-2\" class=\"curriculum-link\">\n    <span>68. Reflexive Verbs II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/definite-article-2\" class=\"curriculum-link\">\n    <span>69. Definite Article II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/possessive-pronouns\" class=\"curriculum-link\">\n    <span>70. Possessive Pronouns</span>\n    <span>→</span>\n  </a>\n</section>\n<section>\n  <h2>Unit 8: Future, Conditional, and Subjunctive</h2>\n  <a href=\"#/lessons/future-regular\" class=\"curriculum-link\">\n    <span>71. Future Tense: Regular</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/future-irregular\" class=\"curriculum-link\">\n    <span>72. Future Tense: Irregular</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/conditional-regular\" class=\"curriculum-link\">\n    <span>73. Conditional Tense</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/rel-pronouns-3\" class=\"curriculum-link\">\n    <span>74. Relative Pronouns III</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/rel-pronouns-4\" class=\"curriculum-link\">\n    <span>75. Relative Pronouns IV</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-intro\" class=\"curriculum-link\">\n    <span>76. Subjunctive Intro</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-present-regular\" class=\"curriculum-link\">\n    <span>77. Subjunctive: Present</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-irregular-yo\" class=\"curriculum-link\">\n    <span>78. Subjunctive: Irregular Yo</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-spelling-change\" class=\"curriculum-link\">\n    <span>79. Subjunctive: Spelling Changes</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-stem-change\" class=\"curriculum-link\">\n    <span>80. Subjunctive: Stem-Changers</span>\n    <span>→</span>\n  </a>\n</section>\n<section>\n  <h2>Unit 9: Perfect Tenses and Subjunctive Usage</h2>\n  <a href=\"#/lessons/present-perfect\" class=\"curriculum-link\">\n    <span>81. Present Perfect</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/past-participles-irreg\" class=\"curriculum-link\">\n    <span>82. Irregular Past Participles</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/past-perfect\" class=\"curriculum-link\">\n    <span>83. Past Perfect</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-wishes\" class=\"curriculum-link\">\n    <span>84. Subjunctive: Wishes</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-emotion\" class=\"curriculum-link\">\n    <span>85. Subjunctive: Emotion</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-impersonal\" class=\"curriculum-link\">\n    <span>86. Subjunctive: Impersonal</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-requests\" class=\"curriculum-link\">\n    <span>87. Subjunctive: Requests</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-doubt\" class=\"curriculum-link\">\n    <span>88. Subjunctive: Doubt</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-ojala\" class=\"curriculum-link\">\n    <span>89. Subjunctive: Ojalá</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/subjunctive-disish\" class=\"curriculum-link\">\n    <span>90. Subjunctive: The Six Irregulars</span>\n    <span>→</span>\n  </a>\n</section>\n<section>\n  <h2>Unit 10: Advanced Subjunctive and Syntax</h2>\n  <a href=\"#/lessons/imperfect-subjunctive-1\" class=\"curriculum-link\">\n    <span>91. Imperfect Subjunctive I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/imperfect-subjunctive-2\" class=\"curriculum-link\">\n    <span>92. Imperfect Subjunctive II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/imperfect-subjunctive-3\" class=\"curriculum-link\">\n    <span>93. Imperfect Subjunctive III</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/si-clauses-1\" class=\"curriculum-link\">\n    <span>94. Si Clauses I</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/si-clauses-2\" class=\"curriculum-link\">\n    <span>95. Si Clauses II</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/passive-voice\" class=\"curriculum-link\">\n    <span>96. The Passive Voice</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/se-accidental\" class=\"curriculum-link\">\n    <span>97. Accidental 'Se'</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/hace-ago\" class=\"curriculum-link\">\n    <span>98. Hace meaning 'Ago'</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/pero-vs-sino\" class=\"curriculum-link\">\n    <span>99. Pero vs Sino</span>\n    <span>→</span>\n  </a>\n  <a href=\"#/lessons/finale-summary\" class=\"curriculum-link\">\n    <span>100. Spanish Finale</span>\n    <span>→</span>\n  </a>\n</section>\n</div>\n"
+}

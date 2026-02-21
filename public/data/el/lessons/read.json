@@ -1,0 +1,94 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Learn to Read"
+  ],
+  [
+    "p",
+    {},
+    "Reading Greek is a process of assembling phonetic blocks (syllables). Unlike English, Greek is highly phonetic—once you know the sound of a letter or a \"double letter\", it almost always sounds the same."
+  ],
+  [
+    "h2",
+    {},
+    "Syllabic Assembly"
+  ],
+  [
+    "p",
+    {},
+    "Follow these examples to see how sounds combine to form words."
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "p",
+      {},
+      "μα + μάμαμά mama / mother"
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "p",
+      {},
+      "πα + τέ + ραςπατέρας pateras / father"
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "p",
+      {},
+      "ου + ρα + νόςουρανός ouranos / sky"
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "p",
+      {},
+      "τζά + κιτζάκι tzaki / fireplace"
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12"
+    },
+    [
+      "h3",
+      {},
+      "Key Takeaway"
+    ],
+    [
+      "p",
+      {},
+      [
+        "Treat every word as a series of distinct sounds. Notice how the ",
+        [
+          "strong",
+          {},
+          "accent mark"
+        ],
+        " dictates where the voice rises. Without the accent mark, we wouldn't know which syllable to emphasize!"
+      ]
+    ]
+  ]
+]

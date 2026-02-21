@@ -1,0 +1,107 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Imperfect Subjunctive III"
+  ],
+  [
+    "p",
+    {},
+    "The choice between present and imperfect subjunctive depends on the tense of the main clause."
+  ],
+  [
+    "h2",
+    {},
+    "The Sequence of Tenses"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "If the main verb is in ",
+        [
+          "strong",
+          {},
+          "Present, Future, or Imperative"
+        ],
+        " → Use ",
+        [
+          "strong",
+          {},
+          "Present Subjunctive"
+        ],
+        "."
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "If the main verb is in ",
+        [
+          "strong",
+          {},
+          "Preterite, Imperfect, or Conditional"
+        ],
+        " → Use ",
+        [
+          "strong",
+          {},
+          "Imperfect Subjunctive"
+        ],
+        "."
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Examples"
+  ],
+  [
+    "div",
+    {
+      "className": "example-box"
+    },
+    [
+      "p",
+      {},
+      "Quiero que vengas. (I want you to come - Present)"
+    ],
+    [
+      "p",
+      {},
+      "Quería que vinieras. (I wanted you to come - Past)"
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Polite Requests"
+    ],
+    [
+      "p",
+      {},
+      "The imperfect subjunctive of 'querer' (quisiera) is frequently used to make very polite requests."
+    ],
+    [
+      "p",
+      {},
+      "Quisiera un café, por favor."
+    ]
+  ]
+]

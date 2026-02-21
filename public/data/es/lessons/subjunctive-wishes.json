@@ -1,0 +1,139 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Subjunctive Usage: Wishes"
+  ],
+  [
+    "p",
+    {},
+    "One of the primary uses of the subjunctive is to express wishes, wants, or desires for someone else."
+  ],
+  [
+    "h2",
+    {},
+    "Trigger Verbs"
+  ],
+  [
+    "p",
+    {},
+    "These verbs in the main clause trigger the subjunctive in the dependent clause:"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Querer que"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To want that"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Desear que"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To desire that"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Esperar que"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To hope that"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "The Pattern"
+  ],
+  [
+    "div",
+    {
+      "className": "example-box"
+    },
+    [
+      "p",
+      {},
+      [
+        "Quiero ",
+        [
+          "strong",
+          {},
+          "que"
+        ],
+        " tú ",
+        [
+          "strong",
+          {},
+          "vengas"
+        ],
+        ". (I want you to come.)"
+      ]
+    ]
+  ],
+  [
+    "p",
+    {},
+    "Note: If there is no change of subject, use the infinitive (Quiero venir)."
+  ]
+]

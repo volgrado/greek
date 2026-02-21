@@ -1,0 +1,341 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Personal Pronouns"
+  ],
+  [
+    "p",
+    {},
+    "The personal pronouns in Greek change based on the person (1st, 2nd, 3rd) and their function in the sentence (Subject vs. Object)."
+  ],
+  [
+    "h2",
+    {},
+    "1. Subject Pronouns (Nominative)"
+  ],
+  [
+    "p",
+    {},
+    "These are used to represent the person performing the action."
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Person"
+          ],
+          [
+            "th",
+            {},
+            "Singular"
+          ],
+          [
+            "th",
+            {},
+            "Plural"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "1st (I / We)"
+          ],
+          [
+            "td",
+            {},
+            "εγώ"
+          ],
+          [
+            "td",
+            {},
+            "εμείς"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "2nd (You)"
+          ],
+          [
+            "td",
+            {},
+            "εσύ"
+          ],
+          [
+            "td",
+            {},
+            "εσείς"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "3rd (He/She/It)"
+          ],
+          [
+            "td",
+            {},
+            "αυτός (M) αυτή (F) αυτό (N)"
+          ],
+          [
+            "td",
+            {},
+            "αυτοί (M) αυτές (F) αυτά (N)"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "2. Weak vs. Strong Forms"
+  ],
+  [
+    "p",
+    {},
+    [
+      "Greek has two ways to say things like \"me\" or \"him\". ",
+      [
+        "strong",
+        {},
+        "Strong forms"
+      ],
+      " are for emphasis, while ",
+      [
+        "strong",
+        {},
+        "Weak forms"
+      ],
+      " (clitics) are used in normal speech and usually attached to the verb."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "table-container"
+    },
+    [
+      "table",
+      {},
+      [
+        "thead",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "th",
+            {},
+            "Example"
+          ],
+          [
+            "th",
+            {},
+            "Strong (Emphatic)"
+          ],
+          [
+            "th",
+            {},
+            "Weak (Normal)"
+          ]
+        ]
+      ],
+      [
+        "tbody",
+        {},
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Me"
+          ],
+          [
+            "td",
+            {},
+            "εμένα"
+          ],
+          [
+            "td",
+            {},
+            "με"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "You"
+          ],
+          [
+            "td",
+            {},
+            "εσένα"
+          ],
+          [
+            "td",
+            {},
+            "σε"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Him"
+          ],
+          [
+            "td",
+            {},
+            "αυτόν"
+          ],
+          [
+            "td",
+            {},
+            "τον"
+          ]
+        ],
+        [
+          "tr",
+          {},
+          [
+            "td",
+            {},
+            "Her"
+          ],
+          [
+            "td",
+            {},
+            "αυτή(ν)"
+          ],
+          [
+            "td",
+            {},
+            "τη(ν)"
+          ]
+        ]
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "example-box mt-12 mb-12"
+    },
+    [
+      "h3",
+      {},
+      "Usage in Sentences"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            [
+              "strong",
+              {},
+              "Σε"
+            ],
+            " βλέπω."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            "I see ",
+            [
+              "strong",
+              {},
+              "you"
+            ],
+            " - Normal"
+          ]
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            "Βλέπω ",
+            [
+              "strong",
+              {},
+              "εσένα"
+            ],
+            "."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            "I see ",
+            [
+              "strong",
+              {},
+              "YOU"
+            ],
+            " - Emphasized"
+          ]
+        ]
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,246 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Indefinite Pronouns"
+  ],
+  [
+    "p",
+    {},
+    "Indefinite pronouns refer to people or things in a non-specific way. Greek has a rich set of these pronouns, some of which are declinable and others which are stable (indeclinable)."
+  ],
+  [
+    "div",
+    {
+      "className": "content-grid mt-8"
+    },
+    [
+      "p",
+      {},
+      "κάποιος, -α, -ο"
+    ],
+    [
+      "h3",
+      {},
+      "Somebody / Someone"
+    ],
+    [
+      "p",
+      {},
+      "Refering to an unknown specific person."
+    ],
+    [
+      "p",
+      {},
+      "κάτι"
+    ],
+    [
+      "h3",
+      {},
+      "Something"
+    ],
+    [
+      "p",
+      {},
+      "Indeclinable. Used for unspecified things."
+    ],
+    [
+      "p",
+      {},
+      "κάθε / καθένας"
+    ],
+    [
+      "h3",
+      {},
+      "Each / Every"
+    ],
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "κάθε"
+        ],
+        " is indeclinable; ",
+        [
+          "strong",
+          {},
+          "καθένας"
+        ],
+        " declines like ",
+        [
+          "em",
+          {},
+          "ένας"
+        ],
+        "."
+      ]
+    ],
+    [
+      "p",
+      {},
+      "κανένας / καμία / κανένα"
+    ],
+    [
+      "h3",
+      {},
+      "Nobody / No one"
+    ],
+    [
+      "p",
+      {},
+      "Also means \"anyone\" in questions."
+    ],
+    [
+      "p",
+      {},
+      "τίποτα"
+    ],
+    [
+      "h3",
+      {},
+      "Nothing / Anything"
+    ],
+    [
+      "p",
+      {},
+      "Indeclinable. Used in negative sentences."
+    ],
+    [
+      "p",
+      {},
+      "άλλος, -η, -ο"
+    ],
+    [
+      "h3",
+      {},
+      "Another / Other"
+    ],
+    [
+      "p",
+      {},
+      "Declines like a standard adjective."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "example-box mt-12 mb-12"
+    },
+    [
+      "h3",
+      {},
+      "Usage in Sentences"
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            [
+              "strong",
+              {},
+              "Κάποιος"
+            ],
+            " είναι εκεί."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            [
+              "strong",
+              {},
+              "Someone"
+            ],
+            " is there."
+          ]
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            "Δεν θέλω ",
+            [
+              "strong",
+              {},
+              "τίποτα"
+            ],
+            "."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            "I don't want ",
+            [
+              "strong",
+              {},
+              "anything/nothing"
+            ],
+            "."
+          ]
+        ]
+      ],
+      [
+        "li",
+        {},
+        [
+          "span",
+          {
+            "className": "spanish"
+          },
+          [
+            [
+              "strong",
+              {},
+              "Κάθε"
+            ],
+            " μέρα."
+          ]
+        ],
+        [
+          "span",
+          {
+            "className": "meaning"
+          },
+          [
+            [
+              "strong",
+              {},
+              "Every"
+            ],
+            " day."
+          ]
+        ]
+      ]
+    ]
+  ]
+]

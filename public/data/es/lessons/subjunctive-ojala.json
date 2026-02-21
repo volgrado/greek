@@ -1,0 +1,92 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Subjunctive Usage: Ojalá"
+  ],
+  [
+    "p",
+    {},
+    [
+      "The word ",
+      [
+        "strong",
+        {},
+        "Ojalá"
+      ],
+      " (meaning 'hopefully' or 'I wish to God') always triggers the subjunctive."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Using Ojalá"
+  ],
+  [
+    "p",
+    {},
+    "You can use it with or without 'que'."
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "¡Ojalá llueva!"
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "I hope it rains!"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        "Ojalá que tú ganes."
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "Hopefully you win."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box"
+    },
+    [
+      "h3",
+      {},
+      "Origin"
+    ],
+    [
+      "p",
+      {},
+      "'Ojalá' comes from the Arabic 'Insha'Allah', reflecting the long historical influence of Arabic on the Spanish language."
+    ]
+  ]
+]

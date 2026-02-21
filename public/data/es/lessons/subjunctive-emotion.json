@@ -1,0 +1,148 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Subjunctive Usage: Emotion"
+  ],
+  [
+    "p",
+    {},
+    "When the main clause expresses a feeling or emotion about an action, the subjunctive is used in the second clause."
+  ],
+  [
+    "h2",
+    {},
+    "Emotional Triggers"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Sentir que"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To be sorry that"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Alegrarse de que"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To be glad that"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Temer que"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To fear that"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          [
+            "strong",
+            {},
+            "Tener miedo de que"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "To be afraid that"
+      ]
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "Example"
+  ],
+  [
+    "p",
+    {},
+    "Me alegro de que estés aquí."
+  ],
+  [
+    "p",
+    {},
+    "I am glad that you are here."
+  ],
+  [
+    "h3",
+    {},
+    "Note"
+  ],
+  [
+    "p",
+    {},
+    "Just like with wishes, if there is no change of subject, use the infinitive: Me alegro de estar aquí."
+  ]
+]

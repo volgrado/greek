@@ -1,0 +1,126 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "The Declension"
+  ],
+  [
+    "p",
+    {},
+    [
+      "In English, words like \"friend\" usually stay the same whether they are the subject or the object of a sentence. In Greek, nouns are ",
+      [
+        "strong",
+        {},
+        "inflected"
+      ],
+      ". This means they change their ending based on their grammatical role. This process is called ",
+      [
+        "strong",
+        {},
+        "Declension"
+      ],
+      "."
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-8"
+    },
+    [
+      "h2",
+      {},
+      "The \"Flexing\" Language"
+    ],
+    [
+      "p",
+      {},
+      "Think of Greek as a \"flexing\" language. Just as you flex a muscle, words \"flex\" their endings to signal their function. If a word is the \"doer\" (subject), it has one ending; if it's the \"receiver\" (object), it has another."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "What gets declined?"
+  ],
+  [
+    "p",
+    {},
+    "In most Greek sentences, the following elements must agree and decline together:"
+  ],
+  [
+    "div",
+    {
+      "className": "content-list"
+    },
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Articles"
+        ],
+        "ο, η, το..."
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Nouns"
+        ],
+        "πατέρας, μητέρα..."
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Adjectives"
+        ],
+        "καλός, μεγάλη..."
+      ]
+    ],
+    [
+      "p",
+      {},
+      [
+        [
+          "strong",
+          {},
+          "Pronouns"
+        ],
+        "αυτός, εγώ..."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "info-box mt-12 mb-12"
+    },
+    [
+      "h3",
+      {},
+      "Standard vs. Irregular"
+    ],
+    [
+      "p",
+      {},
+      "Most nouns follow predictable patterns (Regular Nouns). However, some nouns are \"indeclinable\" (don't change) or follow their own unique rules. We will focus on the regular patterns first."
+    ]
+  ]
+]

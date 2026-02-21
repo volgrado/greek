@@ -1,0 +1,101 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Saber vs Conocer"
+  ],
+  [
+    "p",
+    {},
+    "Both verbs mean 'to know,' but they are used in completely different contexts."
+  ],
+  [
+    "div",
+    {
+      "className": "content-grid"
+    }
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "Saber"
+    ],
+    [
+      "p",
+      {},
+      "Used for facts, information, and skills (how to do something)."
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "Yo sé la verdad."
+      ],
+      [
+        "li",
+        {},
+        "Sé nadar."
+      ]
+    ]
+  ],
+  [
+    "div",
+    {
+      "className": "content-card"
+    },
+    [
+      "h3",
+      {},
+      "Conocer"
+    ],
+    [
+      "p",
+      {},
+      "Used for people, places, and things (being familiar with)."
+    ],
+    [
+      "ul",
+      {
+        "className": "phrase-list"
+      },
+      [
+        "li",
+        {},
+        "Conozco a María."
+      ],
+      [
+        "li",
+        {},
+        "Conozco Madrid."
+      ]
+    ]
+  ],
+  [
+    "h3",
+    {},
+    "Conjugation Check"
+  ],
+  [
+    "p",
+    {},
+    "Both are irregular in the yo form:"
+  ],
+  [
+    "p",
+    {},
+    "saber → sé | conocer → conozco"
+  ]
+]

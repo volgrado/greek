@@ -1,0 +1,120 @@
+[
+  "div",
+  {
+    "className": "content-wrapper"
+  },
+  [
+    "h1",
+    {},
+    "Preterite: Spelling Changes"
+  ],
+  [
+    "p",
+    {},
+    [
+      "To preserve the original pronunciation of the infinitive, some verbs require a spelling change in the ",
+      [
+        "strong",
+        {},
+        "yo"
+      ],
+      " form only."
+    ]
+  ],
+  [
+    "h2",
+    {},
+    "The -car, -gar, -zar Rule"
+  ],
+  [
+    "ul",
+    {
+      "className": "phrase-list"
+    },
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "-car → ",
+          [
+            "strong",
+            {},
+            "-qué"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "buscar → busqué"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "-gar → ",
+          [
+            "strong",
+            {},
+            "-gué"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "pagar → pagué"
+      ]
+    ],
+    [
+      "li",
+      {},
+      [
+        "span",
+        {
+          "className": "spanish"
+        },
+        [
+          "-zar → ",
+          [
+            "strong",
+            {},
+            "-cé"
+          ]
+        ]
+      ],
+      [
+        "span",
+        {
+          "className": "meaning"
+        },
+        "empezar → empecé"
+      ]
+    ]
+  ],
+  [
+    "h3",
+    {},
+    "Note"
+  ],
+  [
+    "p",
+    {},
+    "These changes only happen in the first-person singular. All other forms follow the regular -ar pattern."
+  ]
+]
