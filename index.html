@@ -102,13 +102,22 @@
         }
 
         h2 {
-            margin-top: 2.5rem;
-            font-size: 0.85rem;
+            margin-top: 2rem;
+            font-size: 0.75rem;
             text-transform: uppercase;
-            letter-spacing: 0.2em;
+            letter-spacing: 0.3em;
             color: var(--muted-text);
             border-top: 1px solid var(--border);
-            padding-top: 1.25rem;
+            padding-top: 1rem;
+        }
+
+        /* First section title should not have a top border */
+        h2:first-child,
+        #app>h2:first-of-type,
+        .curriculum-container section:first-child h2 {
+            border-top: none !important;
+            margin-top: 0 !important;
+            padding-top: 0 !important;
         }
 
         h3 {
@@ -180,11 +189,12 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 1.5rem 1.25rem;
+            padding: 0.4rem 0.75rem;
             border: 1px solid var(--border);
-            margin-bottom: 1rem;
+            margin-bottom: 0.4rem;
             font-family: var(--font-ui);
             font-weight: 600;
+            font-size: 0.8rem;
             transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
         }
 
@@ -207,12 +217,14 @@
 
         .lesson-meta {
             font-family: var(--font-ui);
-            font-size: 0.8rem;
+            font-size: 0.75rem;
             text-transform: uppercase;
-            letter-spacing: 0.3em;
+            letter-spacing: 0.25em;
             color: var(--muted-text);
-            margin-bottom: 1rem;
+            margin-bottom: 0.75rem;
             display: block;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 0.5rem;
         }
 
         .lesson-header h1 {
@@ -227,20 +239,22 @@
             border-collapse: collapse;
             width: 100%;
             margin: 3rem 0;
-            font-family: var(--font-ui);
-            font-size: 0.9rem;
+            font-size: 0.95rem;
         }
 
         th {
+            font-family: var(--font-ui);
             text-align: left;
             padding: 1rem;
             border-bottom: 2px solid var(--border);
             text-transform: uppercase;
             letter-spacing: 0.1em;
             color: var(--muted-text);
+            font-size: 0.8rem;
         }
 
         td {
+            font-family: var(--font-editorial);
             padding: 1rem;
             border-bottom: 1px solid var(--border);
         }
@@ -312,8 +326,8 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-top: 4rem;
-            padding: 2rem 0;
+            margin-top: 2rem !important;
+            padding: 1rem 0;
             border-top: 1px solid var(--border);
             font-family: var(--font-ui);
             font-size: 0.7rem;
@@ -372,12 +386,12 @@
         }
 
         footer {
-            margin-top: 6rem;
+            margin-top: 1rem !important;
             text-align: center;
             color: var(--muted-text);
-            font-size: 0.65rem;
+            font-size: 0.6rem;
             border-top: 1px solid var(--border);
-            padding: 2rem 0;
+            padding: 1rem 0;
             text-transform: uppercase;
             letter-spacing: 0.3em;
             font-family: var(--font-ui);
@@ -428,7 +442,7 @@
                 title: 'GREEK',
                 themeToggle: 'Toggle Dark Mode',
                 langToggle: 'Change Language',
-                footer: '&copy; 2026 / MODERN GREEK PROJECT',
+                footer: '&copy; 2026 / GREEK PROJECT',
                 dataFile: 'public/data/el/curriculum.json',
                 lessonsPath: 'public/data/el/lessons/'
             },
@@ -437,7 +451,7 @@
                 title: 'SPANISH',
                 themeToggle: 'Toggle Dark Mode',
                 langToggle: 'Change Language',
-                footer: '&copy; 2026 / MODERN SPANISH PROJECT',
+                footer: '&copy; 2026 / SPANISH PROJECT',
                 dataFile: 'public/data/es/curriculum.json',
                 lessonsPath: 'public/data/es/lessons/'
             }
@@ -474,6 +488,9 @@
             localStorage.setItem('lang', lang);
             updateUIStrings();
             await loadData();
+
+            // Return to home menu to avoid 404s (lessons are not shared between langs)
+            window.location.hash = '#/';
             route();
         };
 
@@ -550,8 +567,26 @@
                 const lessonHTML = await fetchLessonHTML(id);
 
                 if (lessonHTML) {
+                    // Find metadata for orientation
+                    let chapterName = '';
+                    let lessonNum = '';
+                    for (const section in db.structure) {
+                        const lesson = db.structure[section].find(l => l.id === id);
+                        if (lesson) {
+                            chapterName = section;
+                            lessonNum = lesson.num;
+                            break;
+                        }
+                    }
+
+                    const metaHTML = chapterName ? `
+                        <div class="lesson-meta">
+                            ${chapterName} ${lessonNum ? `&middot; LESSON ${lessonNum}` : ''}
+                        </div>
+                    ` : '';
+
                     const navHTML = createNavBlockHTML(id);
-                    app.innerHTML = lessonHTML + navHTML;
+                    app.innerHTML = metaHTML + lessonHTML + navHTML;
                 } else {
                     app.innerHTML = `
                     <div style="padding: 5rem; text-align: center">
