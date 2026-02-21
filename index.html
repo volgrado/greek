@@ -597,6 +597,24 @@
 
         window.onhashchange = route;
 
+        // Keyboard Navigation
+        window.addEventListener('keydown', (e) => {
+            const hash = window.location.hash.slice(1);
+            if (!hash.startsWith('/lessons/')) return;
+
+            const currentId = hash.replace('/lessons/', '');
+            const lessons = getFlatLessons();
+            const currentIndex = lessons.findIndex(l => l.id === currentId);
+
+            if (currentIndex === -1) return;
+
+            if (e.key === 'ArrowRight' && currentIndex < lessons.length - 1) {
+                window.location.hash = `#/lessons/${lessons[currentIndex + 1].id}`;
+            } else if (e.key === 'ArrowLeft' && currentIndex > 0) {
+                window.location.hash = `#/lessons/${lessons[currentIndex - 1].id}`;
+            }
+        });
+
         // Initialize
         updateUIStrings();
         loadData().then(route);
