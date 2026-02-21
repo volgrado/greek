@@ -5,14 +5,17 @@ When traveling in Greece, knowing how to ask for directions and handle common tr
 
 ### Asking Where Something Is
 
-Πού είναι η τουαλέτα; Where is the bathroom?Πού είναι η στάση; Where is the bus stop?Πού είναι η έξοδος; Where is the exit?
+Πού είναι η τουαλέτα; (Where is the bathroom?)  
+Πού είναι η στάση; (Where is the bus stop?)  
+Πού είναι η έξοδος; (Where is the exit?)
 ::: end
 
 ::: content-card mt-6
 
 ### Asking How to Get Somewhere
 
-Πώς πάω στην πλατεία; How do I get to the square?Πώς πάω στην Ακρόπολη; How do I get to the Acropolis?
+Πώς πάω στην πλατεία; (How do I get to the square?)  
+Πώς πάω στην Ακρόπολη; (How do I get to the Acropolis?)
 ::: end
 
 ::: content-card mt-6
@@ -20,7 +23,10 @@ When traveling in Greece, knowing how to ask for directions and handle common tr
 ### Direction Vocabulary
 
 ::: content-grid
-Ευθεία StraightΑριστερά LeftΔεξιά RightΕδώ / Εκεί Here / There
+Ευθεία (Straight)  
+Αριστερά (Left)  
+Δεξιά (Right)  
+Εδώ / Εκεί (Here / There)
 ::: end
 
 ::: end

@@ -2,22 +2,23 @@
 Interrogative pronouns are used to ask questions. In Greek, almost all interrogative pronouns carry an accent mark to distinguish them from their non-interrogative counterparts.
 
 ::: content-grid mt-8
-ποιος, ποια, ποιο
-### Who / Which
+### Who / Which (ποιος, ποια, ποιο)
 
 Used to ask about identity. It declines like an adjective.
 
-**Ποιος** είναι στην πόρτα; **Who** is at the door?πόσος, πόση, πόσο
-### How much / many
+- **Ποιος** είναι στην πόρτα; (**Who** is at the door?)
+
+### How much / many (πόσος, πόση, πόσο)
 
 Used to ask about quantity.
 
-**Πόσο** κάνει; **How much** does it cost?τι
-### What
+- **Πόσο** κάνει; (**How much** does it cost?)
+
+### What (τι)
 
 The universal "what". It is indeclinable (stays the same).
 
-**Τι** κάνεις; **What** are you doing?
+- **Τι** κάνεις; (**What** are you doing?)
 ::: end
 
 ::: info-box mt-12 mb-12

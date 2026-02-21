@@ -28,3 +28,15 @@ These combinations change their sound based on the letter that follows them.
 | γκ / γγ | [g] (as in 'go') | άγκυρα | anchor |
 | τσ | [ts] (as in 'its') | τσέπη | pocket |
 | τζ | [dz] (as in 'adds') | τζάκι | fireplace |
+
+### Word Construction Examples
+
+Follow these examples to see how sounds combine to form words.
+
+::: content-card μα + μά = μαμά (mama / mother) ::: end
+
+::: content-card πα + τέ + ρας = πατέρας (pateras / father) ::: end
+
+::: content-card ου + ρα + νός = ουρανός (ouranos / sky) ::: end
+
+::: content-card τζά + κι = τζάκι (tzaki / fireplace) ::: end
