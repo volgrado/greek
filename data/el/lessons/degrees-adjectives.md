@@ -14,20 +14,24 @@ There are two ways to form the comparative in Greek:
 
 ::: content-grid mt-8
 
+::: content-card
 ### Method A: Using "πιο"
 
 Simply place the word **πιο** (more) before the adjective. This works for almost all adjectives.
 
 ::: example-box
-πιο ωραίος more beautiful / handsomer
+πιο ωραίος (more beautiful / handsomer)
+::: end
 ::: end
 
+::: content-card
 ### Method B: Using Suffixes
 
 Add the suffix **-ότερος** to the root of the adjective.
 
 ::: example-box
-ωραι **ότερος** more beautiful
+ωραι **ότερος** (more beautiful)
+::: end
 ::: end
 
 ::: end

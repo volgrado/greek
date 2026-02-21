@@ -3,19 +3,20 @@ Greek verbs have two **Voices** (who performs/receives the action) and several *
 
 ::: content-grid mt-8
 
+::: content-card
 ### Voices (Φωνές)
 
-Ενεργητική (Active)The subject performs the action. *Εγώ πλένω* (I wash).
+- **Ενεργητική (Active):** The subject performs the action. *Εγώ πλένω* (I wash).
+- **Παθητική (Passive):** The subject receives the action or acts on itself. *Εγώ πλένομαι* (I am being washed / I wash myself).
+::: end
 
-Παθητική (Passive)The subject receives the action or acts on itself. *Εγώ πλένομαι* (I am being washed / I wash myself).
-
+::: content-card
 ### Moods (Εγκλίσεις)
 
-Οριστική (Indicative)Facts and reality. *Το παιδί παίζει* (The child plays).
-
-Υποτακτική (Subjunctive)Wishes, possibilities, and "should". Often uses **να**. *Θέλω να παίξω* (I want to play).
-
-Προστακτική (Imperative)Commands and requests. *Διάβασε!* (Read!).
+- **Οριστική (Indicative):** Facts and reality. *Το παιδί παίζει* (The child plays).
+- **Υποτακτική (Subjunctive):** Wishes, possibilities, and "should". Often uses **να**. *Θέλω να παίξω* (I want to play).
+- **Προστακτική (Imperative):** Commands and requests. *Διάβασε!* (Read!).
+::: end
 
 ::: end
 
