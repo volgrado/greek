@@ -2,10 +2,10 @@
 Particles (Μόρια) are small, indeclinable words that don't fit easily into other categories but play a vital role in Greek syntax, specifically in forming future tenses, subjunctive moods, and expressing emphasis.
 
 ::: content-grid mt-8
-- θαFuture marker (will)
-- ναSubjunctive marker (to / let)
-- αςExhortative marker (let / let it be)
-- μαEmphatic "but" or "though"
+- **θα** - Future marker (will)
+- **να** - Subjunctive marker (to / let)
+- **ας** - Exhortative marker (let / let it be)
+- **μα** - Emphatic "but" or "though"
 
 ::: end
 
