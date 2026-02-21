@@ -3,21 +3,64 @@ import sys
 import re
 from pathlib import Path
 import markdown
+from markdown.extensions import Extension
+from markdown.preprocessors import Preprocessor
 
-# --- EL COMPILADOR ZEN (THE WEAVER) ---
+class CustomBlockPreprocessor(Preprocessor):
+    """
+    A preprocessor that converts `::: class-names` into `<div class="...">` 
+    and `::: end` into `</div>` before the Markdown engine processes blocks.
+    This guarantees no <p> tags interfere with our wrappers.
+    """
+    def run(self, lines):
+        new_lines = []
+        for line in lines:
+            # Look for single-line syntax: ::: class content ::: end
+            inline_m = re.match(r'^[ \t]*:::[ \t]+([a-zA-Z0-9_-]+(?:[ \t]+[a-zA-Z0-9_-]+)*)[ \t]+(.*?)[ \t]*:::[ \t]*end[ \t]*$', line)
+            if inline_m:
+                classes = inline_m.group(1)
+                content = inline_m.group(2)
+                # Important: Python markdown requires blank lines around HTML blocks to parse inner content!
+                # Even for inline, we'll follow this pattern to be safe.
+                new_lines.append(f'<div markdown="1" class="{classes}">{content}</div>')
+                continue
+
+            # Look for ::: end
+            if re.match(r'^[ \t]*:::[ \t]*end[ \t]*$', line):
+                new_lines.append('</div>')
+                continue
+            
+            # Look for ::: class-names
+            m = re.match(r'^[ \t]*:::[ \t]+([a-zA-Z0-9_-]+(?:[ \t]+[a-zA-Z0-9_-]+)*)[ \t]*$', line)
+            if m:
+                classes = m.group(1)
+                # markdown="1" lets markdown parse the content inside the div
+                new_lines.append(f'<div markdown="1" class="{classes}">')
+                continue
+            
+            # No match
+            new_lines.append(line)
+        return new_lines
+
+class CustomBlockExtension(Extension):
+    def extendMarkdown(self, md):
+        md.preprocessors.register(CustomBlockPreprocessor(md), 'custom_blocks', 100)
 
 def parse_markdown(md_text):
     """Compiles Markdown to HTML."""
-    # We use the 'markdown' library with tables and attr_list extensions
-    # attr_list allows adding classes to block elements if needed
-    html = markdown.markdown(md_text, extensions=['tables', 'attr_list', 'sane_lists'])
     
-    # Process custom content blocks ::: class-name
-    # Since we use markdown library, it doesn't know ::: syntax. 
-    # We'll do a simple pre/post regex replace for those custom div wrappers
-    # The regex allows spaces so multiple classes like `::: info-box mt-12` work.
-    html = re.sub(r'<p>:::\s+([a-zA-Z0-9_\s-]+)</p>', r'<div class="\1">', html)
-    html = re.sub(r'<p>:::\s+end</p>', r'</div>', html)
+    # We use the 'markdown' library with tables, attr_list, sane_lists, and md_in_html
+    # We also inject our CustomBlockExtension to handle ::: wrappers cleanly.
+    html = markdown.markdown(
+        md_text, 
+        extensions=[
+            'tables', 
+            'attr_list', 
+            'sane_lists', 
+            'md_in_html',
+            CustomBlockExtension()
+        ]
+    )
     
     # Process specific styling like Spanish/English translation lists 
     # Current pattern in markdown: - Spanish text (English text)
