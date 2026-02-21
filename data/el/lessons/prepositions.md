@@ -36,6 +36,10 @@ Prepositions (Προθέσεις) are small, indeclinable words that usually com
 
 ### Grammar Note: σε + το = στο
 
-The preposition **σε** (to/in) almost always merges with the definite article that follows it: *σε + τον = **στον*** *σε + την = **στην*** *σε + το = **στο***
+The preposition **σε** (to/in) almost always merges with the definite article that follows it: 
+
+- σε + τον = **στον**
+- σε + την = **στην**
+- σε + το = **στο**
 
 ::: end
