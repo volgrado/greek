@@ -1,0 +1,399 @@
+:root {
+    --bg: #ffffff;
+    --text: #111111;
+    --muted-text: #757575;
+    --border: #111111;
+    --secondary-bg: #f8f8f8;
+    --card-bg: #ffffff;
+    --accent: #111111;
+
+    --font-ui: 'Inter', system-ui, sans-serif;
+    --font-editorial: 'Lora', serif;
+}
+
+html.dark-mode {
+    --bg: #111111;
+    --text: #f4f4f4;
+    --muted-text: #a0a0a0;
+    --border: #f4f4f4;
+    --secondary-bg: #1a1a1a;
+    --card-bg: #111111;
+    --accent: #f4f4f4;
+}
+
+html.sepia-mode {
+    --bg: #f4ecd8;
+    --text: #433422;
+    --muted-text: #8b7355;
+    --border: #dccdba;
+    --secondary-bg: #eaddc5;
+    --card-bg: #fdf6e3;
+    --accent: #5c4033;
+}
+
+body {
+    color: var(--text);
+    background: var(--bg);
+    max-width: 65ch;
+    margin: 0 auto;
+    padding: 2rem 1.5rem;
+    font-family: var(--font-editorial);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease, fill 0.5s ease;
+}
+
+*,
+*::before,
+*::after {
+    transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease, fill 0.5s ease;
+}
+
+/* Fade-in for content transitions */
+#app {
+    animation: fadeIn 0.6s ease-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(4px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+body.dark-mode img {
+    filter: invert(1) brightness(1.2) contrast(1.2);
+}
+
+body.sepia-mode img {
+    filter: sepia(0.4) contrast(0.9) brightness(0.9);
+}
+
+*+* {
+    margin-top: 1.25rem;
+}
+
+header *,
+footer *,
+.lesson-nav * {
+    margin-top: 0;
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--font-ui);
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    color: var(--text);
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+h2 {
+    margin-top: 2rem;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    color: var(--muted-text);
+    border-top: 1px solid var(--border);
+    padding-top: 1rem;
+}
+
+/* First section title should not have a top border */
+h2:first-child,
+#app>h2:first-of-type,
+.curriculum-container section:first-child h2 {
+    border-top: none !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+h3 {
+    font-size: 1.4rem;
+    letter-spacing: -0.01em;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid var(--border);
+    transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+}
+
+a:hover {
+    opacity: 0.6;
+    border-bottom-width: 2px;
+}
+
+header.root-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.header-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-family: var(--font-ui);
+}
+
+.lang-toggle,
+.theme-toggle,
+.download-toggle {
+    background: none;
+    border: 1px solid var(--border);
+    cursor: pointer;
+    padding: 0.4rem 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease, border-color 0.5s ease, background-color 0.5s ease, color 0.5s ease;
+    color: var(--text);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.lang-toggle:hover,
+.theme-toggle:hover,
+.download-toggle:hover {
+    background: var(--text);
+    color: var(--bg);
+}
+
+.lang-toggle svg,
+.theme-toggle svg,
+.download-toggle svg {
+    width: 1rem;
+    height: 1rem;
+    fill: currentColor;
+    margin-right: 0.4rem;
+}
+
+/* --- Curriculum --- */
+.curriculum-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.4rem 0.75rem;
+    border: 1px solid var(--border);
+    margin-bottom: 0.4rem;
+    font-family: var(--font-ui);
+    font-weight: 600;
+    font-size: 0.8rem;
+    transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+}
+
+.curriculum-link:hover {
+    background: var(--text);
+    color: var(--bg);
+    transform: translateX(4px);
+}
+
+/* --- Lessons --- */
+.lesson-container {
+    margin-top: 3rem;
+}
+
+.lesson-header {
+    margin-bottom: 2.5rem;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 1.5rem;
+}
+
+.lesson-meta {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    color: var(--muted-text);
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.lesson-header h1 {
+    font-family: var(--font-editorial);
+    font-weight: 400;
+    font-size: 3.5rem;
+    letter-spacing: -0.02em;
+}
+
+/* Table Design */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 3rem 0;
+    font-size: 0.95rem;
+}
+
+th {
+    font-family: var(--font-ui);
+    text-align: left;
+    padding: 1rem;
+    border-bottom: 2px solid var(--border);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted-text);
+    font-size: 0.8rem;
+}
+
+td {
+    font-family: var(--font-editorial);
+    padding: 1rem;
+    border-bottom: 1px solid var(--border);
+}
+
+/* Content Blocks */
+.content-card {
+    border: 1px solid var(--border);
+    padding: 2rem;
+    margin-top: 2rem;
+    background: var(--card-bg);
+}
+
+.content-card h3 {
+    margin-top: 0;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.content-grid {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.example-box {
+    border-left: 1px solid var(--border);
+    padding-left: 1.5rem;
+    margin: 2rem 0;
+    font-style: italic;
+    color: var(--muted-text);
+}
+
+.info-box,
+.grammar-info {
+    background: var(--secondary-bg);
+    border: 1px solid var(--border);
+    padding: 2rem;
+    margin: 3rem 0;
+}
+
+.info-box h3,
+.grammar-info h3 {
+    margin-top: 0;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+/* Typography Utilities */
+.greek {
+    font-size: 1.2em;
+    font-weight: 400;
+    color: var(--text);
+}
+
+.spanish {
+    font-weight: 800;
+    font-family: var(--font-ui);
+}
+
+.meaning {
+    font-style: italic;
+    color: var(--muted-text);
+}
+
+/* Navigation Buttons */
+.lesson-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2rem !important;
+    padding: 1rem 0;
+    border-top: 1px solid var(--border);
+    font-family: var(--font-ui);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+.lesson-nav a {
+    border: 1px solid var(--border);
+    padding: 0.8rem 1.2rem;
+    transition: opacity 0.3s ease, background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+}
+
+.lesson-nav a:hover {
+    background: var(--text);
+    color: var(--bg);
+    opacity: 1;
+}
+
+.lesson-nav a.menu-btn {
+    border: none;
+    font-weight: 800;
+}
+
+.lesson-nav span {
+    visibility: hidden;
+}
+
+/* Utils */
+.mt-12 {
+    margin-top: 3rem;
+}
+
+.mb-12 {
+    margin-bottom: 3rem;
+}
+
+.p-6 {
+    padding: 1.5rem;
+}
+
+/* Structural Header & Footer */
+header.root-nav a.logo {
+    font-weight: 800;
+    border: none;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    font-family: var(--font-ui);
+    letter-spacing: -0.05em;
+}
+
+header.root-nav .owl-logo {
+    height: 1.8rem;
+    width: auto;
+    fill: var(--text);
+    transition: fill 0.3s ease;
+}
+
+footer {
+    margin-top: 1rem !important;
+    text-align: center;
+    color: var(--muted-text);
+    font-size: 0.6rem;
+    border-top: 1px solid var(--border);
+    padding: 1rem 0;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    font-family: var(--font-ui);
+}
