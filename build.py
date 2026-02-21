@@ -15,7 +15,8 @@ def parse_markdown(md_text):
     # Process custom content blocks ::: class-name
     # Since we use markdown library, it doesn't know ::: syntax. 
     # We'll do a simple pre/post regex replace for those custom div wrappers
-    html = re.sub(r'<p>:::\s+([a-zA-Z0-9_-]+)</p>', r'<div class="\1">', html)
+    # The regex allows spaces so multiple classes like `::: info-box mt-12` work.
+    html = re.sub(r'<p>:::\s+([a-zA-Z0-9_\s-]+)</p>', r'<div class="\1">', html)
     html = re.sub(r'<p>:::\s+end</p>', r'</div>', html)
     
     # Process specific styling like Spanish/English translation lists 
