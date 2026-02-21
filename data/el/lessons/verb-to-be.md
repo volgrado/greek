@@ -17,5 +17,15 @@ The verb 'to be' is arguably the most important verb in any language. In Greek, 
 Click the Greek phrases below to toggle their English meaning. Observe how the verb changes.
 
 ::: content-grid
-Είμαι καλάΕίσαι έτοιμος;Είμαστε εδώ
+::: content-card
+Είμαι καλά
+::: end
+
+::: content-card
+Είσαι έτοιμος;
+::: end
+
+::: content-card
+Είμαστε εδώ
+::: end
 ::: end
