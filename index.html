@@ -43,6 +43,16 @@
             --accent: #f4f4f4;
         }
 
+        html.sepia-mode {
+            --bg: #f4ecd8;
+            --text: #433422;
+            --muted-text: #8b7355;
+            --border: #dccdba;
+            --secondary-bg: #eaddc5;
+            --card-bg: #fdf6e3;
+            --accent: #5c4033;
+        }
+
         body {
             color: var(--text);
             background: var(--bg);
@@ -74,6 +84,10 @@
 
         body.dark-mode img {
             filter: invert(1) brightness(1.2) contrast(1.2);
+        }
+
+        body.sepia-mode img {
+            filter: sepia(0.4) contrast(0.9) brightness(0.9);
         }
 
         *+* {
@@ -421,10 +435,9 @@
                 </svg>
                 <span id="lang-label" style="text-transform: uppercase;">EN</span>
             </button>
-            <button id="theme-toggle" class="theme-toggle" title="Toggle Dark Mode">
-                <svg viewBox="0 0 24 24">
-                    <path
-                        d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-2.98 0-5.4-2.42-5.4-5.4 0-1.81.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z" />
+            <button id="theme-toggle" class="theme-toggle" title="Change Theme">
+                <svg id="theme-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <!-- Icon updated by Javascript -->
                 </svg>
             </button>
         </div>
@@ -446,7 +459,7 @@
                 label: 'EL',
                 symbol: 'Ω',
                 title: 'GREEK',
-                themeToggle: 'Toggle Dark Mode',
+                themeToggle: 'Change Theme',
                 langToggle: 'Change Language',
                 footer: '&copy; 2026 / GREEK PROJECT',
                 dataFile: 'public/data/el/curriculum.json',
@@ -456,7 +469,7 @@
                 label: 'ES',
                 symbol: 'Ñ',
                 title: 'SPANISH',
-                themeToggle: 'Toggle Dark Mode',
+                themeToggle: 'Change Theme',
                 langToggle: 'Change Language',
                 footer: '&copy; 2026 / SPANISH PROJECT',
                 dataFile: 'public/data/es/curriculum.json',
@@ -480,13 +493,34 @@
         };
 
         // Theme Management
-        if (localStorage.getItem('dark-mode') === 'true') {
-            document.documentElement.classList.add('dark-mode');
+        const themes = ['light', 'dark', 'sepia'];
+        let currentTheme = localStorage.getItem('theme');
+        if (!currentTheme) {
+            currentTheme = localStorage.getItem('dark-mode') === 'true' ? 'dark' : 'light';
         }
 
+        const themeIcons = {
+            light: '<circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>', // Sun
+            dark: '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>', // Moon
+            sepia: '<path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path>' // Book
+        };
+
+        const applyTheme = (theme) => {
+            document.documentElement.classList.remove('dark-mode', 'sepia-mode');
+            if (theme !== 'light') {
+                document.documentElement.classList.add(`${theme}-mode`);
+            }
+            document.getElementById('theme-icon').innerHTML = themeIcons[theme];
+        };
+
+        applyTheme(currentTheme);
+
         themeToggle.addEventListener('click', () => {
-            const isDark = document.documentElement.classList.toggle('dark-mode');
-            localStorage.setItem('dark-mode', isDark);
+            const nextThemeIndex = (themes.indexOf(currentTheme) + 1) % themes.length;
+            currentTheme = themes[nextThemeIndex];
+            localStorage.setItem('theme', currentTheme);
+            localStorage.setItem('dark-mode', currentTheme === 'dark'); // fallback for backwards compatibility
+            applyTheme(currentTheme);
         });
 
         // Language Management
