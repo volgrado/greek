@@ -378,9 +378,11 @@
             letter-spacing: -0.05em;
         }
 
-        header.root-nav img.owl {
-            height: 1.8rem;
+        header.root-nav .owl-logo {
+            height: 2.2rem;
             width: auto;
+            fill: var(--text);
+            transition: fill 0.3s ease;
         }
 
         footer {
@@ -398,30 +400,32 @@
 </head>
 
 <body>
-    <header class="root-nav">
-        <a href="#/" class="logo">
-            <img src="assets/icon.svg" class="owl" alt="logo">
-            <span id="logo-text">GREEK</span>
-        </a>
-        <div class="header-actions">
-            <button id="lang-toggle" class="lang-toggle" title="Change Language">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                    stroke-linejoin="round">
-                    <circle cx="12" cy="12" r="10"></circle>
-                    <line x1="2" y1="12" x2="22" y2="12"></line>
-                    <path
-                        d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z">
-                    </path>
-                </svg>
-                <span id="lang-label" style="text-transform: uppercase;">EN</span>
-            </button>
-            <button id="theme-toggle" class="theme-toggle" title="Toggle Dark Mode">
-                <svg viewBox="0 0 24 24">
-                    <path
-                        d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-2.98 0-5.4-2.42-5.4-5.4 0-1.81.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z" />
-                </svg>
-            </button>
-        </div>
+    <a href="#/" class="logo">
+        <svg class="owl-logo" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+            <rect width="512" height="512" fill="none" rx="64" ry="64" stroke="currentColor" stroke-width="20" />
+            <text id="logo-symbol" x="50%" y="62%" dominant-baseline="middle" text-anchor="middle"
+                font-family="var(--font-editorial)" font-weight="bold" font-size="320">Ω</text>
+        </svg>
+        <span id="logo-text">GREEK</span>
+    </a>
+    <div class="header-actions">
+        <button id="lang-toggle" class="lang-toggle" title="Change Language">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round">
+                <circle cx="12" cy="12" r="10"></circle>
+                <line x1="2" y1="12" x2="22" y2="12"></line>
+                <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z">
+                </path>
+            </svg>
+            <span id="lang-label" style="text-transform: uppercase;">EN</span>
+        </button>
+        <button id="theme-toggle" class="theme-toggle" title="Toggle Dark Mode">
+            <svg viewBox="0 0 24 24">
+                <path
+                    d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-2.98 0-5.4-2.42-5.4-5.4 0-1.81.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z" />
+            </svg>
+        </button>
+    </div>
     </header>
     <main id="app"></main>
     <footer id="footer"></footer>
@@ -432,11 +436,13 @@
         const langLabel = document.getElementById('lang-label');
         const footer = document.getElementById('footer');
         const logoText = document.getElementById('logo-text');
+        const logoSymbol = document.getElementById('logo-symbol');
 
         // i18n Configuration
         const I18N = {
             el: {
                 label: 'EL',
+                symbol: 'Ω',
                 title: 'GREEK',
                 themeToggle: 'Toggle Dark Mode',
                 langToggle: 'Change Language',
@@ -446,6 +452,7 @@
             },
             es: {
                 label: 'ES',
+                symbol: 'Ñ',
                 title: 'SPANISH',
                 themeToggle: 'Toggle Dark Mode',
                 langToggle: 'Change Language',
@@ -467,6 +474,7 @@
             footer.innerHTML = strings.footer;
             document.title = strings.title;
             logoText.textContent = strings.title;
+            logoSymbol.textContent = strings.symbol;
         };
 
         // Theme Management
