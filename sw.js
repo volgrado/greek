@@ -2,6 +2,8 @@ const CACHE_NAME = 'greek-zero-v2';
 const STATIC_ASSETS = [
     './',
     './index.html',
+    './style.css',
+    './app.js',
     './manifest.json',
     './assets/icon.svg',
     './public/data/el/curriculum.json',
@@ -35,9 +37,21 @@ self.addEventListener('fetch', (e) => {
                 if (cachedResponse) {
                     return cachedResponse;
                 }
-                const networkResponse = await fetch(e.request);
-                cache.put(e.request, networkResponse.clone());
-                return networkResponse;
+                try {
+                    const networkResponse = await fetch(e.request);
+                    cache.put(e.request, networkResponse.clone());
+                    return networkResponse;
+                } catch (error) {
+                    return new Response(`
+                        <div style="padding: 5rem; text-align: center; font-family: sans-serif; line-height: 1.5;">
+                            <h1 style="color: #e53e3e; margin-bottom: 1rem;">You are Offline</h1>
+                            <p style="color: #757575;">This lesson hasn't been downloaded for offline use.</p>
+                            <a href="#/" style="color: inherit; text-decoration: underline; margin-top: 2rem; display: inline-block;">Back to Curriculum</a>
+                        </div>
+                    `, {
+                        headers: { 'Content-Type': 'text/html' }
+                    });
+                }
             })
         );
         return;

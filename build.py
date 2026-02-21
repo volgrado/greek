@@ -79,7 +79,7 @@ def parse_markdown(md_text):
     return f'<div class="content-wrapper">\n{html}\n</div>'
 
 
-def build_lang(lang_code, is_default=False):
+def build_lang(lang_code):
     print(f"--- Building language: {lang_code} ---")
     
     # Directorios fuente
@@ -146,7 +146,7 @@ def build_lang(lang_code, is_default=False):
     print(f"[OK] Lessons successfully compiled to HTML in {out_lessons_dir}.")
     return curriculum_data
 
-def build_all(default_lang='el'):
+def build_all():
     data_dir = Path('data')
     if not data_dir.exists():
         print(f"[ERR] Error: {data_dir} directory not found.")
@@ -159,14 +159,11 @@ def build_all(default_lang='el'):
         return
 
     for lang in langs:
-        build_lang(lang, is_default=(lang == default_lang))
+        build_lang(lang)
 
     print("\n--- Build process completed for all languages ---")
 
 if __name__ == "__main__":
-    default_l = 'el'
-    if len(sys.argv) > 1:
-        default_l = sys.argv[1]
-    build_all(default_l)
+    build_all()
 
 
