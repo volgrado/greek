@@ -1,0 +1,32 @@
+:root {
+    --bg: #ffffff;
+    --text: #111111;
+    --muted-text: #757575;
+    --border: #111111;
+    --secondary-bg: #f8f8f8;
+    --card-bg: #ffffff;
+    --accent: #111111;
+
+    --font-ui: 'Inter', system-ui, sans-serif;
+    --font-editorial: 'Lora', serif;
+}
+
+html.dark-mode {
+    --bg: #111111;
+    --text: #f4f4f4;
+    --muted-text: #a0a0a0;
+    --border: #f4f4f4;
+    --secondary-bg: #1a1a1a;
+    --card-bg: #111111;
+    --accent: #f4f4f4;
+}
+
+html.sepia-mode {
+    --bg: #f4ecd8;
+    --text: #433422;
+    --muted-text: #8b7355;
+    --border: #dccdba;
+    --secondary-bg: #eaddc5;
+    --card-bg: #fdf6e3;
+    --accent: #5c4033;
+}
