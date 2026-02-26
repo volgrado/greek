@@ -157,3 +157,14 @@
 .lesson-nav span {
     visibility: hidden;
 }
+
+/* Mobile Tweaks */
+@media screen and (max-width: 480px) {
+    .lesson-header h1 {
+        font-size: 2.2rem;
+    }
+
+    .curriculum-link {
+        padding: 0.25rem 0.5rem;
+    }
+}

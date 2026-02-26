@@ -42,3 +42,23 @@ footer {
     letter-spacing: 0.3em;
     font-family: var(--font-ui);
 }
+
+@media screen and (max-width: 480px) {
+    header.root-nav a.logo {
+        gap: 0.5rem;
+    }
+
+    #logo-text {
+        font-size: 0.8rem;
+    }
+
+    .header-actions {
+        gap: 0.5rem;
+    }
+
+    .lang-toggle,
+    .theme-toggle,
+    .download-toggle {
+        padding: 0.4rem 0.6rem;
+    }
+}
