@@ -1,5 +1,5 @@
 {
-    "Unit 1: Basic Spanish": [
+    "Basic Spanish": [
         {
             "id": "gender-nouns-1",
             "title": "Gender of Nouns I",
@@ -51,7 +51,7 @@
             "num": 10
         }
     ],
-    "Unit 2: More Basics": [
+    "More Basics": [
         {
             "id": "ser-estar-1",
             "title": "Ser vs Estar I",
@@ -103,7 +103,7 @@
             "num": 20
         }
     ],
-    "Unit 3: Even More Basics": [
+    "Even More Basics": [
         {
             "id": "possessives-1",
             "title": "Possessive Adjectives I",
@@ -155,7 +155,7 @@
             "num": 30
         }
     ],
-    "Unit 4: Prepositions and Pronouns": [
+    "Prepositions and Pronouns": [
         {
             "id": "por-para-1",
             "title": "Por vs Para I",
@@ -202,7 +202,7 @@
             "num": 40
         }
     ],
-    "Unit 5: Objects and Progressive": [
+    "Objects and Progressive": [
         {
             "id": "indirect-objects-1",
             "title": "Indirect Object Pronouns I",
@@ -254,7 +254,7 @@
             "num": 50
         }
     ],
-    "Unit 6: Past Tense Mastery": [
+    "Past Tense Mastery": [
         {
             "id": "preterite-stem-changers",
             "title": "Preterite: Stem-Changers",
@@ -306,7 +306,7 @@
             "num": 60
         }
     ],
-    "Unit 7: Commands and Reflexives": [
+    "Commands and Reflexives": [
         {
             "id": "rel-pronouns-1",
             "title": "Relative Pronouns I",
@@ -358,7 +358,7 @@
             "num": 70
         }
     ],
-    "Unit 8: Future, Conditional, and Subjunctive": [
+    "Future, Conditional, and Subjunctive": [
         {
             "id": "future-regular",
             "title": "Future Tense: Regular",
@@ -410,7 +410,7 @@
             "num": 80
         }
     ],
-    "Unit 9: Perfect Tenses and Subjunctive Usage": [
+    "Perfect Tenses and Subjunctive Usage": [
         {
             "id": "present-perfect",
             "title": "Present Perfect",
@@ -462,7 +462,7 @@
             "num": 90
         }
     ],
-    "Unit 10: Advanced Subjunctive and Syntax": [
+    "Advanced Subjunctive and Syntax": [
         {
             "id": "imperfect-subjunctive-1",
             "title": "Imperfect Subjunctive I",

@@ -1,0 +1,619 @@
+{
+  "structure": {
+    "Basic Spanish": [
+      {
+        "id": "gender-nouns-1",
+        "title": "Gender of Nouns I",
+        "num": 1,
+        "hierarchical_num": "1.1"
+      },
+      {
+        "id": "gender-nouns-2",
+        "title": "Gender of Nouns II",
+        "num": 2,
+        "hierarchical_num": "1.2"
+      },
+      {
+        "id": "plural-nouns",
+        "title": "Plural Forms of Nouns",
+        "num": 3,
+        "hierarchical_num": "1.3"
+      },
+      {
+        "id": "articles",
+        "title": "Definite and Indefinite Articles",
+        "num": 4,
+        "hierarchical_num": "1.4"
+      },
+      {
+        "id": "subject-pronouns",
+        "title": "Subject Pronouns",
+        "num": 5,
+        "hierarchical_num": "1.5"
+      },
+      {
+        "id": "regular-verbs-1",
+        "title": "Regular Verbs I (-ar)",
+        "num": 6,
+        "hierarchical_num": "1.6"
+      },
+      {
+        "id": "regular-verbs-2",
+        "title": "Regular Verbs II (-er)",
+        "num": 7,
+        "hierarchical_num": "1.7"
+      },
+      {
+        "id": "regular-verbs-3",
+        "title": "Regular Verbs III (-ir)",
+        "num": 8,
+        "hierarchical_num": "1.8"
+      },
+      {
+        "id": "adjectives-1",
+        "title": "Adjectives I",
+        "num": 9,
+        "hierarchical_num": "1.9"
+      },
+      {
+        "id": "adjectives-2",
+        "title": "Adjectives II",
+        "num": 10,
+        "hierarchical_num": "1.10"
+      }
+    ],
+    "More Basics": [
+      {
+        "id": "ser-estar-1",
+        "title": "Ser vs Estar I",
+        "num": 11,
+        "hierarchical_num": "2.1"
+      },
+      {
+        "id": "ser-estar-2",
+        "title": "Ser vs Estar II",
+        "num": 12,
+        "hierarchical_num": "2.2"
+      },
+      {
+        "id": "ser-estar-3",
+        "title": "Ser vs Estar III",
+        "num": 13,
+        "hierarchical_num": "2.3"
+      },
+      {
+        "id": "ser-estar-4",
+        "title": "Ser vs Estar IV",
+        "num": 14,
+        "hierarchical_num": "2.4"
+      },
+      {
+        "id": "negation",
+        "title": "Negation",
+        "num": 15,
+        "hierarchical_num": "2.5"
+      },
+      {
+        "id": "interrogatives",
+        "title": "Interrogatives",
+        "num": 16,
+        "hierarchical_num": "2.6"
+      },
+      {
+        "id": "numbers-1",
+        "title": "Numbers: 1-10",
+        "num": 17,
+        "hierarchical_num": "2.7"
+      },
+      {
+        "id": "numbers-2",
+        "title": "Numbers: 11-100",
+        "num": 18,
+        "hierarchical_num": "2.8"
+      },
+      {
+        "id": "telling-time",
+        "title": "Telling Time",
+        "num": 19,
+        "hierarchical_num": "2.9"
+      },
+      {
+        "id": "dates",
+        "title": "Dates",
+        "num": 20,
+        "hierarchical_num": "2.10"
+      }
+    ],
+    "Even More Basics": [
+      {
+        "id": "possessives-1",
+        "title": "Possessive Adjectives I",
+        "num": 21,
+        "hierarchical_num": "3.1"
+      },
+      {
+        "id": "possessives-2",
+        "title": "Possessive Adjectives II",
+        "num": 22,
+        "hierarchical_num": "3.2"
+      },
+      {
+        "id": "irregular-verbs-yo",
+        "title": "Verbs with Irregular Yo",
+        "num": 23,
+        "hierarchical_num": "3.3"
+      },
+      {
+        "id": "saber-conocer",
+        "title": "Saber vs Conocer",
+        "num": 24,
+        "hierarchical_num": "3.4"
+      },
+      {
+        "id": "personal-a",
+        "title": "The Personal 'a'",
+        "num": 25,
+        "hierarchical_num": "3.5"
+      },
+      {
+        "id": "gustar",
+        "title": "Gustar",
+        "num": 26,
+        "hierarchical_num": "3.6"
+      },
+      {
+        "id": "stem-changers-e-ie",
+        "title": "Stem-Changers: e -> ie",
+        "num": 27,
+        "hierarchical_num": "3.7"
+      },
+      {
+        "id": "stem-changers-o-ue",
+        "title": "Stem-Changers: o -> ue",
+        "num": 28,
+        "hierarchical_num": "3.8"
+      },
+      {
+        "id": "stem-changers-e-i",
+        "title": "Stem-Changers: e -> i",
+        "num": 29,
+        "hierarchical_num": "3.9"
+      },
+      {
+        "id": "affinity-words",
+        "title": "Affirmative and Negative Words",
+        "num": 30,
+        "hierarchical_num": "3.10"
+      }
+    ],
+    "Prepositions and Pronouns": [
+      {
+        "id": "por-para-1",
+        "title": "Por vs Para I",
+        "num": 31,
+        "hierarchical_num": "4.1"
+      },
+      {
+        "id": "por-para-2",
+        "title": "Por vs Para II",
+        "num": 32,
+        "hierarchical_num": "4.2"
+      },
+      {
+        "id": "adverbs",
+        "title": "Adverbs",
+        "num": 33,
+        "hierarchical_num": "4.3"
+      },
+      {
+        "id": "comparisons-inequality",
+        "title": "Comparisons of Inequality",
+        "num": 34,
+        "hierarchical_num": "4.4"
+      },
+      {
+        "id": "comparisons-equality",
+        "title": "Comparisons of Equality",
+        "num": 35,
+        "hierarchical_num": "4.5"
+      },
+      {
+        "id": "superlatives",
+        "title": "Superlatives",
+        "num": 36,
+        "hierarchical_num": "4.6"
+      },
+      {
+        "id": "pronouns-prep-objects",
+        "title": "Pronouns: Object of Prepositions",
+        "num": 37,
+        "hierarchical_num": "4.7"
+      },
+      {
+        "id": "direct-objects-1",
+        "title": "Direct Object Pronouns I",
+        "num": 38,
+        "hierarchical_num": "4.8"
+      },
+      {
+        "id": "direct-objects-3",
+        "title": "Direct Object Pronouns III",
+        "num": 40,
+        "hierarchical_num": "4.9"
+      }
+    ],
+    "Objects and Progressive": [
+      {
+        "id": "indirect-objects-1",
+        "title": "Indirect Object Pronouns I",
+        "num": 41,
+        "hierarchical_num": "5.1"
+      },
+      {
+        "id": "indirect-objects-2",
+        "title": "Indirect Object Pronouns II",
+        "num": 42,
+        "hierarchical_num": "5.2"
+      },
+      {
+        "id": "indirect-objects-3",
+        "title": "Indirect Object Pronouns III",
+        "num": 43,
+        "hierarchical_num": "5.3"
+      },
+      {
+        "id": "pronouns-combined",
+        "title": "Combined Object Pronouns",
+        "num": 44,
+        "hierarchical_num": "5.4"
+      },
+      {
+        "id": "verbs-like-gustar",
+        "title": "Verbs like Gustar",
+        "num": 45,
+        "hierarchical_num": "5.5"
+      },
+      {
+        "id": "present-progressive",
+        "title": "Present Progressive",
+        "num": 46,
+        "hierarchical_num": "5.6"
+      },
+      {
+        "id": "irregular-participles",
+        "title": "Irregular Present Participles",
+        "num": 47,
+        "hierarchical_num": "5.7"
+      },
+      {
+        "id": "intro-preterite",
+        "title": "Intro to the Preterite",
+        "num": 48,
+        "hierarchical_num": "5.8"
+      },
+      {
+        "id": "preterite-regular",
+        "title": "Preterite: Regular Verbs",
+        "num": 49,
+        "hierarchical_num": "5.9"
+      },
+      {
+        "id": "preterite-spelling",
+        "title": "Preterite: Spelling Changes",
+        "num": 50,
+        "hierarchical_num": "5.10"
+      }
+    ],
+    "Past Tense Mastery": [
+      {
+        "id": "preterite-stem-changers",
+        "title": "Preterite: Stem-Changers",
+        "num": 51,
+        "hierarchical_num": "6.1"
+      },
+      {
+        "id": "preterite-irregular-1",
+        "title": "Preterite: Irregular Verbs I",
+        "num": 52,
+        "hierarchical_num": "6.2"
+      },
+      {
+        "id": "preterite-irregular-2",
+        "title": "Preterite: Irregular Verbs II",
+        "num": 53,
+        "hierarchical_num": "6.3"
+      },
+      {
+        "id": "preterite-irregular-3",
+        "title": "Preterite: Irregular Verbs III",
+        "num": 54,
+        "hierarchical_num": "6.4"
+      },
+      {
+        "id": "preterite-irregular-4",
+        "title": "Preterite: Irregular Verbs IV",
+        "num": 55,
+        "hierarchical_num": "6.5"
+      },
+      {
+        "id": "imperfect-regular",
+        "title": "Imperfect: Regular Verbs",
+        "num": 56,
+        "hierarchical_num": "6.6"
+      },
+      {
+        "id": "imperfect-irregular",
+        "title": "Imperfect: Irregular Verbs",
+        "num": 57,
+        "hierarchical_num": "6.7"
+      },
+      {
+        "id": "pret-vs-imp-1",
+        "title": "Preterite vs Imperfect I",
+        "num": 58,
+        "hierarchical_num": "6.8"
+      },
+      {
+        "id": "pret-vs-imp-2",
+        "title": "Preterite vs Imperfect II",
+        "num": 59,
+        "hierarchical_num": "6.9"
+      },
+      {
+        "id": "pret-vs-imp-3",
+        "title": "Preterite vs Imperfect III",
+        "num": 60,
+        "hierarchical_num": "6.10"
+      }
+    ],
+    "Commands and Reflexives": [
+      {
+        "id": "rel-pronouns-1",
+        "title": "Relative Pronouns I",
+        "num": 61,
+        "hierarchical_num": "7.1"
+      },
+      {
+        "id": "rel-pronouns-2",
+        "title": "Relative Pronouns II",
+        "num": 62,
+        "hierarchical_num": "7.2"
+      },
+      {
+        "id": "formal-commands",
+        "title": "Formal Commands",
+        "num": 63,
+        "hierarchical_num": "7.3"
+      },
+      {
+        "id": "informal-commands-tu",
+        "title": "Informal Commands: Tú",
+        "num": 64,
+        "hierarchical_num": "7.4"
+      },
+      {
+        "id": "negative-commands",
+        "title": "Negative Commands",
+        "num": 65,
+        "hierarchical_num": "7.5"
+      },
+      {
+        "id": "commands-pronouns",
+        "title": "Object Pronouns with Commands",
+        "num": 66,
+        "hierarchical_num": "7.6"
+      },
+      {
+        "id": "reflexive-verbs-1",
+        "title": "Reflexive Verbs I",
+        "num": 67,
+        "hierarchical_num": "7.7"
+      },
+      {
+        "id": "reflexive-verbs-2",
+        "title": "Reflexive Verbs II",
+        "num": 68,
+        "hierarchical_num": "7.8"
+      },
+      {
+        "id": "definite-article-2",
+        "title": "Definite Article II",
+        "num": 69,
+        "hierarchical_num": "7.9"
+      },
+      {
+        "id": "possessive-pronouns",
+        "title": "Possessive Pronouns",
+        "num": 70,
+        "hierarchical_num": "7.10"
+      }
+    ],
+    "Future, Conditional, and Subjunctive": [
+      {
+        "id": "future-regular",
+        "title": "Future Tense: Regular",
+        "num": 71,
+        "hierarchical_num": "8.1"
+      },
+      {
+        "id": "future-irregular",
+        "title": "Future Tense: Irregular",
+        "num": 72,
+        "hierarchical_num": "8.2"
+      },
+      {
+        "id": "conditional-regular",
+        "title": "Conditional Tense",
+        "num": 73,
+        "hierarchical_num": "8.3"
+      },
+      {
+        "id": "rel-pronouns-3",
+        "title": "Relative Pronouns III",
+        "num": 74,
+        "hierarchical_num": "8.4"
+      },
+      {
+        "id": "rel-pronouns-4",
+        "title": "Relative Pronouns IV",
+        "num": 75,
+        "hierarchical_num": "8.5"
+      },
+      {
+        "id": "subjunctive-intro",
+        "title": "Subjunctive Intro",
+        "num": 76,
+        "hierarchical_num": "8.6"
+      },
+      {
+        "id": "subjunctive-present-regular",
+        "title": "Subjunctive: Present",
+        "num": 77,
+        "hierarchical_num": "8.7"
+      },
+      {
+        "id": "subjunctive-irregular-yo",
+        "title": "Subjunctive: Irregular Yo",
+        "num": 78,
+        "hierarchical_num": "8.8"
+      },
+      {
+        "id": "subjunctive-spelling-change",
+        "title": "Subjunctive: Spelling Changes",
+        "num": 79,
+        "hierarchical_num": "8.9"
+      },
+      {
+        "id": "subjunctive-stem-change",
+        "title": "Subjunctive: Stem-Changers",
+        "num": 80,
+        "hierarchical_num": "8.10"
+      }
+    ],
+    "Perfect Tenses and Subjunctive Usage": [
+      {
+        "id": "present-perfect",
+        "title": "Present Perfect",
+        "num": 81,
+        "hierarchical_num": "9.1"
+      },
+      {
+        "id": "past-participles-irreg",
+        "title": "Irregular Past Participles",
+        "num": 82,
+        "hierarchical_num": "9.2"
+      },
+      {
+        "id": "past-perfect",
+        "title": "Past Perfect",
+        "num": 83,
+        "hierarchical_num": "9.3"
+      },
+      {
+        "id": "subjunctive-wishes",
+        "title": "Subjunctive: Wishes",
+        "num": 84,
+        "hierarchical_num": "9.4"
+      },
+      {
+        "id": "subjunctive-emotion",
+        "title": "Subjunctive: Emotion",
+        "num": 85,
+        "hierarchical_num": "9.5"
+      },
+      {
+        "id": "subjunctive-impersonal",
+        "title": "Subjunctive: Impersonal",
+        "num": 86,
+        "hierarchical_num": "9.6"
+      },
+      {
+        "id": "subjunctive-requests",
+        "title": "Subjunctive: Requests",
+        "num": 87,
+        "hierarchical_num": "9.7"
+      },
+      {
+        "id": "subjunctive-doubt",
+        "title": "Subjunctive: Doubt",
+        "num": 88,
+        "hierarchical_num": "9.8"
+      },
+      {
+        "id": "subjunctive-ojala",
+        "title": "Subjunctive: Ojalá",
+        "num": 89,
+        "hierarchical_num": "9.9"
+      },
+      {
+        "id": "subjunctive-disish",
+        "title": "Subjunctive: The Six Irregulars",
+        "num": 90,
+        "hierarchical_num": "9.10"
+      }
+    ],
+    "Advanced Subjunctive and Syntax": [
+      {
+        "id": "imperfect-subjunctive-1",
+        "title": "Imperfect Subjunctive I",
+        "num": 91,
+        "hierarchical_num": "10.1"
+      },
+      {
+        "id": "imperfect-subjunctive-2",
+        "title": "Imperfect Subjunctive II",
+        "num": 92,
+        "hierarchical_num": "10.2"
+      },
+      {
+        "id": "imperfect-subjunctive-3",
+        "title": "Imperfect Subjunctive III",
+        "num": 93,
+        "hierarchical_num": "10.3"
+      },
+      {
+        "id": "si-clauses-1",
+        "title": "Si Clauses I",
+        "num": 94,
+        "hierarchical_num": "10.4"
+      },
+      {
+        "id": "si-clauses-2",
+        "title": "Si Clauses II",
+        "num": 95,
+        "hierarchical_num": "10.5"
+      },
+      {
+        "id": "passive-voice",
+        "title": "The Passive Voice",
+        "num": 96,
+        "hierarchical_num": "10.6"
+      },
+      {
+        "id": "se-accidental",
+        "title": "Accidental 'Se'",
+        "num": 97,
+        "hierarchical_num": "10.7"
+      },
+      {
+        "id": "hace-ago",
+        "title": "Hace meaning 'Ago'",
+        "num": 98,
+        "hierarchical_num": "10.8"
+      },
+      {
+        "id": "pero-vs-sino",
+        "title": "Pero vs Sino",
+        "num": 99,
+        "hierarchical_num": "10.9"
+      },
+      {
+        "id": "finale-summary",
+        "title": "Spanish Finale",
+        "num": 100,
+        "hierarchical_num": "10.10"
+      }
+    ]
+  },
+  "home": "<div class=\"curriculum-container\">\n<section class=\"curriculum-section\" data-section-id=\"1\">\n  <div class=\"section-header\">\n    <h2>1. Basic Spanish</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/gender-nouns-1\" class=\"curriculum-link\">\n      <span>1.1. Gender of Nouns I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/gender-nouns-2\" class=\"curriculum-link\">\n      <span>1.2. Gender of Nouns II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/plural-nouns\" class=\"curriculum-link\">\n      <span>1.3. Plural Forms of Nouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/articles\" class=\"curriculum-link\">\n      <span>1.4. Definite and Indefinite Articles</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subject-pronouns\" class=\"curriculum-link\">\n      <span>1.5. Subject Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/regular-verbs-1\" class=\"curriculum-link\">\n      <span>1.6. Regular Verbs I (-ar)</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/regular-verbs-2\" class=\"curriculum-link\">\n      <span>1.7. Regular Verbs II (-er)</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/regular-verbs-3\" class=\"curriculum-link\">\n      <span>1.8. Regular Verbs III (-ir)</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/adjectives-1\" class=\"curriculum-link\">\n      <span>1.9. Adjectives I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/adjectives-2\" class=\"curriculum-link\">\n      <span>1.10. Adjectives II</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"2\">\n  <div class=\"section-header\">\n    <h2>2. More Basics</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/ser-estar-1\" class=\"curriculum-link\">\n      <span>2.1. Ser vs Estar I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/ser-estar-2\" class=\"curriculum-link\">\n      <span>2.2. Ser vs Estar II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/ser-estar-3\" class=\"curriculum-link\">\n      <span>2.3. Ser vs Estar III</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/ser-estar-4\" class=\"curriculum-link\">\n      <span>2.4. Ser vs Estar IV</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/negation\" class=\"curriculum-link\">\n      <span>2.5. Negation</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/interrogatives\" class=\"curriculum-link\">\n      <span>2.6. Interrogatives</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/numbers-1\" class=\"curriculum-link\">\n      <span>2.7. Numbers: 1-10</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/numbers-2\" class=\"curriculum-link\">\n      <span>2.8. Numbers: 11-100</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/telling-time\" class=\"curriculum-link\">\n      <span>2.9. Telling Time</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/dates\" class=\"curriculum-link\">\n      <span>2.10. Dates</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"3\">\n  <div class=\"section-header\">\n    <h2>3. Even More Basics</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/possessives-1\" class=\"curriculum-link\">\n      <span>3.1. Possessive Adjectives I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/possessives-2\" class=\"curriculum-link\">\n      <span>3.2. Possessive Adjectives II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/irregular-verbs-yo\" class=\"curriculum-link\">\n      <span>3.3. Verbs with Irregular Yo</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/saber-conocer\" class=\"curriculum-link\">\n      <span>3.4. Saber vs Conocer</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/personal-a\" class=\"curriculum-link\">\n      <span>3.5. The Personal 'a'</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/gustar\" class=\"curriculum-link\">\n      <span>3.6. Gustar</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/stem-changers-e-ie\" class=\"curriculum-link\">\n      <span>3.7. Stem-Changers: e -> ie</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/stem-changers-o-ue\" class=\"curriculum-link\">\n      <span>3.8. Stem-Changers: o -> ue</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/stem-changers-e-i\" class=\"curriculum-link\">\n      <span>3.9. Stem-Changers: e -> i</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/affinity-words\" class=\"curriculum-link\">\n      <span>3.10. Affirmative and Negative Words</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"4\">\n  <div class=\"section-header\">\n    <h2>4. Prepositions and Pronouns</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/por-para-1\" class=\"curriculum-link\">\n      <span>4.1. Por vs Para I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/por-para-2\" class=\"curriculum-link\">\n      <span>4.2. Por vs Para II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/adverbs\" class=\"curriculum-link\">\n      <span>4.3. Adverbs</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/comparisons-inequality\" class=\"curriculum-link\">\n      <span>4.4. Comparisons of Inequality</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/comparisons-equality\" class=\"curriculum-link\">\n      <span>4.5. Comparisons of Equality</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/superlatives\" class=\"curriculum-link\">\n      <span>4.6. Superlatives</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/pronouns-prep-objects\" class=\"curriculum-link\">\n      <span>4.7. Pronouns: Object of Prepositions</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/direct-objects-1\" class=\"curriculum-link\">\n      <span>4.8. Direct Object Pronouns I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/direct-objects-3\" class=\"curriculum-link\">\n      <span>4.9. Direct Object Pronouns III</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"5\">\n  <div class=\"section-header\">\n    <h2>5. Objects and Progressive</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/indirect-objects-1\" class=\"curriculum-link\">\n      <span>5.1. Indirect Object Pronouns I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/indirect-objects-2\" class=\"curriculum-link\">\n      <span>5.2. Indirect Object Pronouns II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/indirect-objects-3\" class=\"curriculum-link\">\n      <span>5.3. Indirect Object Pronouns III</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/pronouns-combined\" class=\"curriculum-link\">\n      <span>5.4. Combined Object Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/verbs-like-gustar\" class=\"curriculum-link\">\n      <span>5.5. Verbs like Gustar</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/present-progressive\" class=\"curriculum-link\">\n      <span>5.6. Present Progressive</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/irregular-participles\" class=\"curriculum-link\">\n      <span>5.7. Irregular Present Participles</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/intro-preterite\" class=\"curriculum-link\">\n      <span>5.8. Intro to the Preterite</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/preterite-regular\" class=\"curriculum-link\">\n      <span>5.9. Preterite: Regular Verbs</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/preterite-spelling\" class=\"curriculum-link\">\n      <span>5.10. Preterite: Spelling Changes</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"6\">\n  <div class=\"section-header\">\n    <h2>6. Past Tense Mastery</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/preterite-stem-changers\" class=\"curriculum-link\">\n      <span>6.1. Preterite: Stem-Changers</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/preterite-irregular-1\" class=\"curriculum-link\">\n      <span>6.2. Preterite: Irregular Verbs I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/preterite-irregular-2\" class=\"curriculum-link\">\n      <span>6.3. Preterite: Irregular Verbs II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/preterite-irregular-3\" class=\"curriculum-link\">\n      <span>6.4. Preterite: Irregular Verbs III</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/preterite-irregular-4\" class=\"curriculum-link\">\n      <span>6.5. Preterite: Irregular Verbs IV</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/imperfect-regular\" class=\"curriculum-link\">\n      <span>6.6. Imperfect: Regular Verbs</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/imperfect-irregular\" class=\"curriculum-link\">\n      <span>6.7. Imperfect: Irregular Verbs</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/pret-vs-imp-1\" class=\"curriculum-link\">\n      <span>6.8. Preterite vs Imperfect I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/pret-vs-imp-2\" class=\"curriculum-link\">\n      <span>6.9. Preterite vs Imperfect II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/pret-vs-imp-3\" class=\"curriculum-link\">\n      <span>6.10. Preterite vs Imperfect III</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"7\">\n  <div class=\"section-header\">\n    <h2>7. Commands and Reflexives</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/rel-pronouns-1\" class=\"curriculum-link\">\n      <span>7.1. Relative Pronouns I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/rel-pronouns-2\" class=\"curriculum-link\">\n      <span>7.2. Relative Pronouns II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/formal-commands\" class=\"curriculum-link\">\n      <span>7.3. Formal Commands</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/informal-commands-tu\" class=\"curriculum-link\">\n      <span>7.4. Informal Commands: Tú</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/negative-commands\" class=\"curriculum-link\">\n      <span>7.5. Negative Commands</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/commands-pronouns\" class=\"curriculum-link\">\n      <span>7.6. Object Pronouns with Commands</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/reflexive-verbs-1\" class=\"curriculum-link\">\n      <span>7.7. Reflexive Verbs I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/reflexive-verbs-2\" class=\"curriculum-link\">\n      <span>7.8. Reflexive Verbs II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/definite-article-2\" class=\"curriculum-link\">\n      <span>7.9. Definite Article II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/possessive-pronouns\" class=\"curriculum-link\">\n      <span>7.10. Possessive Pronouns</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"8\">\n  <div class=\"section-header\">\n    <h2>8. Future, Conditional, and Subjunctive</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/future-regular\" class=\"curriculum-link\">\n      <span>8.1. Future Tense: Regular</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/future-irregular\" class=\"curriculum-link\">\n      <span>8.2. Future Tense: Irregular</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/conditional-regular\" class=\"curriculum-link\">\n      <span>8.3. Conditional Tense</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/rel-pronouns-3\" class=\"curriculum-link\">\n      <span>8.4. Relative Pronouns III</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/rel-pronouns-4\" class=\"curriculum-link\">\n      <span>8.5. Relative Pronouns IV</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-intro\" class=\"curriculum-link\">\n      <span>8.6. Subjunctive Intro</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-present-regular\" class=\"curriculum-link\">\n      <span>8.7. Subjunctive: Present</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-irregular-yo\" class=\"curriculum-link\">\n      <span>8.8. Subjunctive: Irregular Yo</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-spelling-change\" class=\"curriculum-link\">\n      <span>8.9. Subjunctive: Spelling Changes</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-stem-change\" class=\"curriculum-link\">\n      <span>8.10. Subjunctive: Stem-Changers</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"9\">\n  <div class=\"section-header\">\n    <h2>9. Perfect Tenses and Subjunctive Usage</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/present-perfect\" class=\"curriculum-link\">\n      <span>9.1. Present Perfect</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/past-participles-irreg\" class=\"curriculum-link\">\n      <span>9.2. Irregular Past Participles</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/past-perfect\" class=\"curriculum-link\">\n      <span>9.3. Past Perfect</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-wishes\" class=\"curriculum-link\">\n      <span>9.4. Subjunctive: Wishes</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-emotion\" class=\"curriculum-link\">\n      <span>9.5. Subjunctive: Emotion</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-impersonal\" class=\"curriculum-link\">\n      <span>9.6. Subjunctive: Impersonal</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-requests\" class=\"curriculum-link\">\n      <span>9.7. Subjunctive: Requests</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-doubt\" class=\"curriculum-link\">\n      <span>9.8. Subjunctive: Doubt</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-ojala\" class=\"curriculum-link\">\n      <span>9.9. Subjunctive: Ojalá</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/subjunctive-disish\" class=\"curriculum-link\">\n      <span>9.10. Subjunctive: The Six Irregulars</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"10\">\n  <div class=\"section-header\">\n    <h2>10. Advanced Subjunctive and Syntax</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/imperfect-subjunctive-1\" class=\"curriculum-link\">\n      <span>10.1. Imperfect Subjunctive I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/imperfect-subjunctive-2\" class=\"curriculum-link\">\n      <span>10.2. Imperfect Subjunctive II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/imperfect-subjunctive-3\" class=\"curriculum-link\">\n      <span>10.3. Imperfect Subjunctive III</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/si-clauses-1\" class=\"curriculum-link\">\n      <span>10.4. Si Clauses I</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/si-clauses-2\" class=\"curriculum-link\">\n      <span>10.5. Si Clauses II</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/passive-voice\" class=\"curriculum-link\">\n      <span>10.6. The Passive Voice</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/se-accidental\" class=\"curriculum-link\">\n      <span>10.7. Accidental 'Se'</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/hace-ago\" class=\"curriculum-link\">\n      <span>10.8. Hace meaning 'Ago'</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/pero-vs-sino\" class=\"curriculum-link\">\n      <span>10.9. Pero vs Sino</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/finale-summary\" class=\"curriculum-link\">\n      <span>10.10. Spanish Finale</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n</div>\n"
+}

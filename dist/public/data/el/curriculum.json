@@ -1,0 +1,279 @@
+{
+  "structure": {
+    "Phonology & Orthography": [
+      {
+        "id": "basics",
+        "title": "The Greek Alphabet",
+        "num": 1,
+        "hierarchical_num": "1.1"
+      },
+      {
+        "id": "double-letters",
+        "title": "Double Letters",
+        "num": 2,
+        "hierarchical_num": "1.2"
+      },
+      {
+        "id": "read",
+        "title": "Learn to Read",
+        "num": 3,
+        "hierarchical_num": "1.3"
+      },
+      {
+        "id": "vowels-consonants",
+        "title": "Vowels and Consonants",
+        "num": 4,
+        "hierarchical_num": "1.4"
+      },
+      {
+        "id": "accents",
+        "title": "Accents (Τονισμός)",
+        "num": 5,
+        "hierarchical_num": "1.5"
+      },
+      {
+        "id": "punctuation",
+        "title": "Punctuation Marks",
+        "num": 6,
+        "hierarchical_num": "1.6"
+      }
+    ],
+    "Nominal Morphology": [
+      {
+        "id": "nouns",
+        "title": "The Nouns",
+        "num": 7,
+        "hierarchical_num": "2.1"
+      },
+      {
+        "id": "genders",
+        "title": "The Genders",
+        "num": 8,
+        "hierarchical_num": "2.2"
+      },
+      {
+        "id": "articles",
+        "title": "The Articles",
+        "num": 9,
+        "hierarchical_num": "2.3"
+      },
+      {
+        "id": "cases",
+        "title": "The Cases",
+        "num": 10,
+        "hierarchical_num": "2.4"
+      },
+      {
+        "id": "declension",
+        "title": "The Declension",
+        "num": 11,
+        "hierarchical_num": "2.5"
+      },
+      {
+        "id": "masculine-declension",
+        "title": "Masculine Declension",
+        "num": 12,
+        "hierarchical_num": "2.6"
+      },
+      {
+        "id": "feminine-declension",
+        "title": "Feminine Declension",
+        "num": 13,
+        "hierarchical_num": "2.7"
+      },
+      {
+        "id": "neuter-declension",
+        "title": "Neuter Declension",
+        "num": 14,
+        "hierarchical_num": "2.8"
+      },
+      {
+        "id": "articles-declension",
+        "title": "Articles Declension",
+        "num": 15,
+        "hierarchical_num": "2.9"
+      }
+    ],
+    "Pronouns": [
+      {
+        "id": "pronouns",
+        "title": "Intro to Pronouns",
+        "num": 16,
+        "hierarchical_num": "3.1"
+      },
+      {
+        "id": "personal-pronouns",
+        "title": "Personal Pronouns",
+        "num": 17,
+        "hierarchical_num": "3.2"
+      },
+      {
+        "id": "possessive-pronouns",
+        "title": "Possessive Pronouns",
+        "num": 18,
+        "hierarchical_num": "3.3"
+      },
+      {
+        "id": "demonstrative-pronouns",
+        "title": "Demonstrative Pronouns",
+        "num": 19,
+        "hierarchical_num": "3.4"
+      },
+      {
+        "id": "relative-pronouns",
+        "title": "Relative Pronouns",
+        "num": 20,
+        "hierarchical_num": "3.5"
+      },
+      {
+        "id": "interrogative-pronouns",
+        "title": "Interrogative Pronouns",
+        "num": 21,
+        "hierarchical_num": "3.6"
+      },
+      {
+        "id": "indefinite-pronouns",
+        "title": "Indefinite Pronouns",
+        "num": 22,
+        "hierarchical_num": "3.7"
+      },
+      {
+        "id": "reflexive-pronouns",
+        "title": "Reflexive Pronouns",
+        "num": 23,
+        "hierarchical_num": "3.8"
+      },
+      {
+        "id": "definite-pronouns",
+        "title": "Definite Pronouns",
+        "num": 24,
+        "hierarchical_num": "3.9"
+      }
+    ],
+    "Adjectives & Adverbs": [
+      {
+        "id": "adjectives",
+        "title": "The Adjectives",
+        "num": 25,
+        "hierarchical_num": "4.1"
+      },
+      {
+        "id": "degrees-adjectives",
+        "title": "Degrees of Adjectives",
+        "num": 26,
+        "hierarchical_num": "4.2"
+      },
+      {
+        "id": "adverbs",
+        "title": "The Adverbs",
+        "num": 27,
+        "hierarchical_num": "4.3"
+      }
+    ],
+    "Verbal System": [
+      {
+        "id": "verbs",
+        "title": "Introduction to Verbs",
+        "num": 28,
+        "hierarchical_num": "5.1"
+      },
+      {
+        "id": "verb-groups",
+        "title": "Groups of Verbs",
+        "num": 29,
+        "hierarchical_num": "5.2"
+      },
+      {
+        "id": "conjugation-present",
+        "title": "Present Conjugation",
+        "num": 30,
+        "hierarchical_num": "5.3"
+      },
+      {
+        "id": "auxiliary-verbs",
+        "title": "Auxiliary Verbs",
+        "num": 31,
+        "hierarchical_num": "5.4"
+      },
+      {
+        "id": "tenses",
+        "title": "Verb Tenses",
+        "num": 32,
+        "hierarchical_num": "5.5"
+      },
+      {
+        "id": "verb-to-be",
+        "title": "The Verb 'To Be' (Είμαι)",
+        "num": 33,
+        "hierarchical_num": "5.6"
+      },
+      {
+        "id": "past-conjugation",
+        "title": "Past Conjugation",
+        "num": 34,
+        "hierarchical_num": "5.7"
+      },
+      {
+        "id": "voices-moods",
+        "title": "Voices and Moods",
+        "num": 35,
+        "hierarchical_num": "5.8"
+      }
+    ],
+    "Particles & Connectors": [
+      {
+        "id": "prepositions",
+        "title": "The Prepositions",
+        "num": 36,
+        "hierarchical_num": "6.1"
+      },
+      {
+        "id": "conjunctions",
+        "title": "The Conjunctions",
+        "num": 37,
+        "hierarchical_num": "6.2"
+      },
+      {
+        "id": "particles",
+        "title": "The Particles",
+        "num": 38,
+        "hierarchical_num": "6.3"
+      },
+      {
+        "id": "interjections",
+        "title": "Interjections",
+        "num": 39,
+        "hierarchical_num": "6.4"
+      }
+    ],
+    "Practical Greek": [
+      {
+        "id": "phrases",
+        "title": "Essential Phrases",
+        "num": 40,
+        "hierarchical_num": "7.1"
+      },
+      {
+        "id": "social-expressions",
+        "title": "Social Expressions",
+        "num": 41,
+        "hierarchical_num": "7.2"
+      },
+      {
+        "id": "dialogues-travel",
+        "title": "Travel Dialogues",
+        "num": 42,
+        "hierarchical_num": "7.3"
+      }
+    ],
+    "Future Units": [
+      {
+        "id": "coming-soon",
+        "title": "Coming Soon",
+        "num": "",
+        "hierarchical_num": "8.1"
+      }
+    ]
+  },
+  "home": "<div class=\"curriculum-container\">\n<section class=\"curriculum-section\" data-section-id=\"1\">\n  <div class=\"section-header\">\n    <h2>1. Phonology & Orthography</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/basics\" class=\"curriculum-link\">\n      <span>1.1. The Greek Alphabet</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/double-letters\" class=\"curriculum-link\">\n      <span>1.2. Double Letters</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/read\" class=\"curriculum-link\">\n      <span>1.3. Learn to Read</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/vowels-consonants\" class=\"curriculum-link\">\n      <span>1.4. Vowels and Consonants</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/accents\" class=\"curriculum-link\">\n      <span>1.5. Accents (Τονισμός)</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/punctuation\" class=\"curriculum-link\">\n      <span>1.6. Punctuation Marks</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"2\">\n  <div class=\"section-header\">\n    <h2>2. Nominal Morphology</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/nouns\" class=\"curriculum-link\">\n      <span>2.1. The Nouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/genders\" class=\"curriculum-link\">\n      <span>2.2. The Genders</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/articles\" class=\"curriculum-link\">\n      <span>2.3. The Articles</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/cases\" class=\"curriculum-link\">\n      <span>2.4. The Cases</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/declension\" class=\"curriculum-link\">\n      <span>2.5. The Declension</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/masculine-declension\" class=\"curriculum-link\">\n      <span>2.6. Masculine Declension</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/feminine-declension\" class=\"curriculum-link\">\n      <span>2.7. Feminine Declension</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/neuter-declension\" class=\"curriculum-link\">\n      <span>2.8. Neuter Declension</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/articles-declension\" class=\"curriculum-link\">\n      <span>2.9. Articles Declension</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"3\">\n  <div class=\"section-header\">\n    <h2>3. Pronouns</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/pronouns\" class=\"curriculum-link\">\n      <span>3.1. Intro to Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/personal-pronouns\" class=\"curriculum-link\">\n      <span>3.2. Personal Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/possessive-pronouns\" class=\"curriculum-link\">\n      <span>3.3. Possessive Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/demonstrative-pronouns\" class=\"curriculum-link\">\n      <span>3.4. Demonstrative Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/relative-pronouns\" class=\"curriculum-link\">\n      <span>3.5. Relative Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/interrogative-pronouns\" class=\"curriculum-link\">\n      <span>3.6. Interrogative Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/indefinite-pronouns\" class=\"curriculum-link\">\n      <span>3.7. Indefinite Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/reflexive-pronouns\" class=\"curriculum-link\">\n      <span>3.8. Reflexive Pronouns</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/definite-pronouns\" class=\"curriculum-link\">\n      <span>3.9. Definite Pronouns</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"4\">\n  <div class=\"section-header\">\n    <h2>4. Adjectives & Adverbs</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/adjectives\" class=\"curriculum-link\">\n      <span>4.1. The Adjectives</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/degrees-adjectives\" class=\"curriculum-link\">\n      <span>4.2. Degrees of Adjectives</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/adverbs\" class=\"curriculum-link\">\n      <span>4.3. The Adverbs</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"5\">\n  <div class=\"section-header\">\n    <h2>5. Verbal System</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/verbs\" class=\"curriculum-link\">\n      <span>5.1. Introduction to Verbs</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/verb-groups\" class=\"curriculum-link\">\n      <span>5.2. Groups of Verbs</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/conjugation-present\" class=\"curriculum-link\">\n      <span>5.3. Present Conjugation</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/auxiliary-verbs\" class=\"curriculum-link\">\n      <span>5.4. Auxiliary Verbs</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/tenses\" class=\"curriculum-link\">\n      <span>5.5. Verb Tenses</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/verb-to-be\" class=\"curriculum-link\">\n      <span>5.6. The Verb 'To Be' (Είμαι)</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/past-conjugation\" class=\"curriculum-link\">\n      <span>5.7. Past Conjugation</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/voices-moods\" class=\"curriculum-link\">\n      <span>5.8. Voices and Moods</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"6\">\n  <div class=\"section-header\">\n    <h2>6. Particles & Connectors</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/prepositions\" class=\"curriculum-link\">\n      <span>6.1. The Prepositions</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/conjunctions\" class=\"curriculum-link\">\n      <span>6.2. The Conjunctions</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/particles\" class=\"curriculum-link\">\n      <span>6.3. The Particles</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/interjections\" class=\"curriculum-link\">\n      <span>6.4. Interjections</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"7\">\n  <div class=\"section-header\">\n    <h2>7. Practical Greek</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/phrases\" class=\"curriculum-link\">\n      <span>7.1. Essential Phrases</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/social-expressions\" class=\"curriculum-link\">\n      <span>7.2. Social Expressions</span>\n      <span>→</span>\n    </a>\n    <a href=\"#/lessons/dialogues-travel\" class=\"curriculum-link\">\n      <span>7.3. Travel Dialogues</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n<section class=\"curriculum-section\" data-section-id=\"8\">\n  <div class=\"section-header\">\n    <h2>8. Future Units</h2>\n    <span class=\"toggle-icon\">\n        <svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><polyline points=\"6 9 12 15 18 9\"></polyline></svg>\n    </span>\n  </div>\n  <div class=\"section-content\">\n    <a href=\"#/lessons/coming-soon\" class=\"curriculum-link\">\n      <span>8.1. Coming Soon</span>\n      <span>→</span>\n    </a>\n  </div>\n</section>\n</div>\n"
+}
