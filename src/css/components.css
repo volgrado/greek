@@ -35,9 +35,16 @@
 /* Cards & Content Blocks */
 .content-card {
     border: 1px solid var(--border);
-    padding: 2rem;
+    padding: 1.5rem;
     margin-top: 2rem;
     background: var(--card-bg);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1.5rem auto;
 }
 
 .content-card h3 {
@@ -49,8 +56,8 @@
 
 .content-grid {
     display: grid;
-    gap: 2rem;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
 }
 
 .example-box {
@@ -65,8 +72,10 @@
 .grammar-info {
     background: var(--secondary-bg);
     border: 1px solid var(--border);
-    padding: 2rem;
-    margin: 3rem 0;
+    padding: 1.5rem;
+    margin: 2rem 0;
+    overflow-x: auto;
+    /* Handle inner tables/long text */
 }
 
 .info-box h3,
@@ -78,11 +87,30 @@
 }
 
 /* Tables */
+.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    margin: 2rem 0;
+    -webkit-overflow-scrolling: touch;
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
-    margin: 3rem 0;
+    min-width: 400px;
+    /* Force scroll on small screens if too many columns */
     font-size: 0.95rem;
+}
+
+@media screen and (max-width: 480px) {
+    table {
+        font-size: 0.85rem;
+    }
+
+    th,
+    td {
+        padding: 0.75rem 0.5rem;
+    }
 }
 
 th {
