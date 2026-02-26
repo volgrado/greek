@@ -1,9 +1,8 @@
 /** @type {string} */
-const CACHE_NAME = 'greek-zero-v4';
+const CACHE_NAME = 'greek-zero-v9';
 /** @type {string[]} */
 const LESSON_CACHES = ['pwa-lessons-el-v2', 'pwa-lessons-es-v2'];
 
-/** @type {string[]} */
 const STATIC_ASSETS = [
     './',
     './index.html',
@@ -14,13 +13,20 @@ const STATIC_ASSETS = [
     './css/layout.css',
     './css/components.css',
     './css/lessons.css',
-    './app.js',
+    './css/errors.css',
+    './js/main.js',
+    './js/config.js',
+    './js/state.js',
+    './js/data.js',
+    './js/theme.js',
+    './js/i18n.js',
+    './js/search.js',
+    './js/router.js',
+    './js/pwa.js',
     './manifest.json',
     './assets/icon.svg',
     './public/data/el/curriculum.json',
-    './public/data/es/curriculum.json',
-    './public/data/el/search.json',
-    './public/data/es/search.json'
+    './public/data/es/curriculum.json'
 ];
 
 /**
@@ -29,6 +35,7 @@ const STATIC_ASSETS = [
  * @param {ExtendableEvent} e 
  */
 self.addEventListener('install', (e) => {
+    self.skipWaiting();
     e.waitUntil(
         caches.open(CACHE_NAME).then((cache) => cache.addAll(STATIC_ASSETS))
     );
@@ -40,6 +47,7 @@ self.addEventListener('install', (e) => {
  * @param {ExtendableEvent} e 
  */
 self.addEventListener('activate', (e) => {
+    e.waitUntil(self.clients.claim());
     const WHITELIST = [CACHE_NAME, 'pwa-fonts-v1', ...LESSON_CACHES];
     e.waitUntil(
         caches.keys().then((keyList) => {
@@ -76,19 +84,17 @@ self.addEventListener('fetch', (e) => {
 
     // Dynamic caching for lesson data (specifically HTML fragments in data folder)
     if (e.request.url.includes('/data/') && e.request.url.includes('/lessons/')) {
-        const cacheName = e.request.url.includes('/el/') ? 'pwa-lessons-el-v2' :
-            e.request.url.includes('/es/') ? 'pwa-lessons-es-v2' : 'pwa-lessons-v2';
+        const lang = e.request.url.includes('/el/') ? 'el' : 'es';
+        const cacheName = `pwa-lessons-${lang}-v2`;
 
-        e.respondWith(
-            caches.open(cacheName).then(async (cache) => {
-                const cachedResponse = await cache.match(e.request);
-                if (cachedResponse) {
-                    return cachedResponse;
-                }
+        e.respondWith((async () => {
+            const cache = await caches.open(cacheName);
+            let response = await cache.match(e.request);
+
+            if (!response) {
                 try {
-                    const networkResponse = await fetch(e.request);
-                    cache.put(e.request, networkResponse.clone());
-                    return networkResponse;
+                    response = await fetch(e.request);
+                    cache.put(e.request, response.clone());
                 } catch (error) {
                     return new Response(`
                         <div style="padding: 5rem; text-align: center; font-family: sans-serif; line-height: 1.5;">
@@ -103,8 +109,84 @@ self.addEventListener('fetch', (e) => {
                         }
                     });
                 }
-            })
-        );
+            }
+
+            // Client-Side Server: The Service Worker constructs the full HTML!
+            const lessonHTML = await response.text();
+
+            const reqUrl = new URL(e.request.url);
+            const pathParts = reqUrl.pathname.split('/');
+            // Paths might be URL-encoded in e.request.url (e.g. spaces as %20)
+            const lessonId = decodeURIComponent(pathParts[pathParts.length - 1].replace('.html', ''));
+
+            let metaHTML = '';
+            let navHTML = '';
+
+            try {
+                // 1. Get Curriculum to build headers/footers
+                const curriculumUrl = e.request.url.split('?')[0].replace(/\/lessons\/.*$/, '/curriculum.json');
+                let curriculumRes = await caches.match(curriculumUrl);
+                if (!curriculumRes) {
+                    curriculumRes = await fetch(curriculumUrl);
+                }
+                const curriculum = await curriculumRes.json();
+
+                // 2. Flatten DB
+                const flatLessons = [];
+                let cIdx = 1;
+                for (const section in curriculum.structure) {
+                    for (const l of curriculum.structure[section]) {
+                        flatLessons.push({ ...l, sectionName: section, cIdx });
+                    }
+                    cIdx++;
+                }
+
+                // 3. Find current lesson context
+                const currentIndex = flatLessons.findIndex(l => l.id === lessonId);
+
+                if (currentIndex !== -1) {
+                    const l = flatLessons[currentIndex];
+                    const chapterName = `${l.cIdx}. ${l.sectionName}`;
+                    const lessonNum = l.hierarchical_num;
+
+                    metaHTML = `
+                        <div class="lesson-meta">
+                            ${chapterName} ${lessonNum ? `&middot; LESSON ${lessonNum}` : ''}
+                        </div>
+                    `;
+
+                    let prevLink = '<span></span>';
+                    if (currentIndex > 0) {
+                        const prev = flatLessons[currentIndex - 1];
+                        prevLink = `<a href="#/lessons/${prev.id}">← ${prev.title}</a>`;
+                    }
+
+                    let nextLink = '<span></span>';
+                    if (currentIndex < flatLessons.length - 1) {
+                        const next = flatLessons[currentIndex + 1];
+                        nextLink = `<a href="#/lessons/${next.id}">${next.title} →</a>`;
+                    }
+
+                    navHTML = `
+                    <div class="lesson-nav">
+                        ${prevLink}
+                        <a href="#/" class="menu-btn">MENU</a>
+                        ${nextLink}
+                    </div>`;
+                }
+            } catch (err) {
+                console.error("[SW] Error building nav strings:", err);
+            }
+
+
+
+            // 4. Stitch it together exactly like a server would
+            const fullHTML = metaHTML + lessonHTML + navHTML;
+
+            return new Response(fullHTML, {
+                headers: { 'Content-Type': 'text/html' }
+            });
+        })());
         return;
     }
 

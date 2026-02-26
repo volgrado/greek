@@ -85,7 +85,26 @@
     </div>
     <main id="app"></main>
     <footer id="footer"></footer>
-    <script src="app.js"></script>
+    <template id="skeleton-template">
+        <div class="skeleton-loader">
+            <div class="skeleton-meta"></div>
+            <div class="skeleton-title"></div>
+            <div class="skeleton-line"></div>
+            <div class="skeleton-line"></div>
+            <div class="skeleton-line" style="width: 60%"></div>
+        </div>
+    </template>
+    <template id="error-template">
+        <div class="error-container">
+            <h1 class="error-title"></h1>
+            <p class="error-message"></p>
+            <div class="error-actions">
+                <button onclick="location.reload()" class="lang-toggle error-retry"></button>
+                <a href="#/" class="lang-toggle error-back"></a>
+            </div>
+        </div>
+    </template>
+    <script type="module" src="js/main.js"></script>
 </body>
 
 </html>
