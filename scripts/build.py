@@ -71,6 +71,10 @@ def parse_markdown(md_text, lang_code):
             CustomBlockExtension()
         ]
     )
+
+    # Wrap tables for responsiveness
+    html = re.sub(r'<table>', '<div class="table-wrapper"><table>', html)
+    html = re.sub(r'</table>', '</table></div>', html)
     
     # Process specific styling like translation lists 
     # Current pattern in markdown: - Target text (English text)
