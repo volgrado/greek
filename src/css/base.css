@@ -1,0 +1,97 @@
+html {
+    scroll-behavior: smooth;
+    /* Standard properties for Firefox/Future */
+    scrollbar-width: thin;
+    scrollbar-color: var(--muted-text) transparent;
+}
+
+/* Chrome, Safari, and Edge */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--muted-text);
+    border-radius: 10px;
+    border: 2px solid var(--bg);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: var(--text);
+}
+
+body {
+    color: var(--text);
+    background: var(--bg);
+    max-width: 65ch;
+    margin: 0 auto;
+    padding: 1rem 1.5rem;
+    font-family: var(--font-editorial);
+    line-height: 1.7;
+    -webkit-font-smoothing: antialiased;
+    transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease, fill 0.5s ease;
+}
+
+body,
+.content-card,
+.info-box,
+.grammar-info,
+header,
+footer,
+.curriculum-link,
+.lang-toggle,
+.theme-toggle,
+.download-toggle,
+.lesson-nav a {
+    transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease, fill 0.5s ease;
+}
+
+/* Tactile feedback for clickable elements */
+a:active,
+button:active,
+.curriculum-link:active {
+    transform: scale(0.97);
+}
+
+/* Fade-in for dynamic content transitions */
+.curriculum-container,
+.content-wrapper,
+.skeleton-loader {
+    animation: fadeIn 0.4s ease-out forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(4px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+body.dark-mode img {
+    filter: invert(1) brightness(1.2) contrast(1.2);
+}
+
+body.sepia-mode img {
+    filter: sepia(0.4) contrast(0.9) brightness(0.9);
+}
+
+*+* {
+    margin-top: 1.25rem;
+}
+
+header *,
+footer *,
+.lesson-nav *,
+.search-panel,
+main {
+    margin-top: 0;
+}

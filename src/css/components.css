@@ -1,0 +1,308 @@
+/* Buttons & Controls */
+.lang-toggle,
+.theme-toggle,
+.download-toggle {
+    background: none;
+    border: 1px solid var(--border);
+    cursor: pointer;
+    padding: 0.4rem 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease, border-color 0.5s ease, background-color 0.5s ease, color 0.5s ease;
+    color: var(--text);
+    font-size: 0.75rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.lang-toggle:hover,
+.theme-toggle:hover,
+.download-toggle:hover {
+    background: var(--text);
+    color: var(--bg);
+}
+
+.lang-toggle svg,
+.theme-toggle svg,
+.download-toggle svg {
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.4rem;
+}
+
+/* Cards & Content Blocks */
+.content-card {
+    border: 1px solid var(--border);
+    padding: 2rem;
+    margin-top: 2rem;
+    background: var(--card-bg);
+}
+
+.content-card h3 {
+    margin-top: 0;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.content-grid {
+    display: grid;
+    gap: 2rem;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.example-box {
+    border-left: 1px solid var(--border);
+    padding-left: 1.5rem;
+    margin: 2rem 0;
+    font-style: italic;
+    color: var(--muted-text);
+}
+
+.info-box,
+.grammar-info {
+    background: var(--secondary-bg);
+    border: 1px solid var(--border);
+    padding: 2rem;
+    margin: 3rem 0;
+}
+
+.info-box h3,
+.grammar-info h3 {
+    margin-top: 0;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 3rem 0;
+    font-size: 0.95rem;
+}
+
+th {
+    font-family: var(--font-ui);
+    text-align: left;
+    padding: 1rem;
+    border-bottom: 2px solid var(--border);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--muted-text);
+    font-size: 0.8rem;
+}
+
+td {
+    font-family: var(--font-editorial);
+    padding: 1rem;
+    border-bottom: 1px solid var(--border);
+}
+
+/* Utilities */
+.mt-12 {
+    margin-top: 3rem;
+}
+
+.mb-12 {
+    margin-bottom: 3rem;
+}
+
+.p-6 {
+    padding: 1.5rem;
+}
+
+/* Skeleton Loader */
+.skeleton-loader {
+    padding: 2rem 0;
+    max-width: 100%;
+}
+
+.skeleton-meta,
+.skeleton-title,
+.skeleton-line {
+    background: var(--secondary-bg);
+    border-radius: 4px;
+    margin-bottom: 1.5rem;
+}
+
+.skeleton-meta,
+.skeleton-title,
+.skeleton-line {
+    background: linear-gradient(90deg,
+            var(--secondary-bg) 25%,
+            var(--card-bg) 50%,
+            var(--secondary-bg) 75%);
+    background-size: 200% 100%;
+    animation: skeleton-loading 1.5s infinite linear;
+}
+
+@keyframes skeleton-loading {
+    0% {
+        background-position: 200% 0;
+    }
+
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+.skeleton-meta {
+    width: 40%;
+    height: 0.8rem;
+}
+
+.skeleton-title {
+    width: 80%;
+    height: 3rem;
+    margin-bottom: 3rem;
+}
+
+/* Skeleton Loader ... (previous styles) */
+
+/* Integrated Search System */
+.search-panel {
+    max-height: 0;
+    overflow: hidden;
+    opacity: 0;
+    transition: max-height 0.6s cubic-bezier(0.16, 1, 0.3, 1),
+        opacity 0.4s ease,
+        padding 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+    background: var(--bg);
+    border-bottom: 0px solid var(--border);
+    padding: 0 1.5rem;
+}
+
+.search-panel.is-open {
+    max-height: 2000px;
+    opacity: 1;
+    padding: 1rem 1.5rem;
+    border-bottom-width: 1px;
+}
+
+.search-drawer-inner {
+    max-width: 65ch;
+    margin: 0 auto;
+}
+
+.search-drawer-header {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    border-bottom: 2px solid var(--text);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.global-search-input {
+    flex: 1;
+    background: none;
+    border: none;
+    font-family: var(--font-editorial);
+    font-size: 2rem;
+    color: var(--text);
+    outline: none;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+}
+
+.global-search-input::placeholder {
+    opacity: 0.15;
+    font-style: italic;
+}
+
+.close-search-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text);
+    opacity: 0.3;
+    transition: opacity 0.2s ease, transform 0.3s ease;
+    padding: 0.5rem;
+}
+
+.close-search-btn:hover {
+    opacity: 1;
+    transform: rotate(90deg);
+}
+
+.close-search-btn svg {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+/* Results styling */
+.global-search-results {
+    animation: fadeIn 0.4s ease-out;
+}
+
+.search-result-item {
+    display: block;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--border);
+    text-decoration: none;
+    color: var(--text);
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+}
+
+.search-result-item:hover {
+    transform: translateX(8px);
+    opacity: 0.7;
+}
+
+.search-result-item .lesson-meta {
+    font-size: 0.7rem;
+    opacity: 0.5;
+    margin-bottom: 0.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: var(--font-ui);
+}
+
+.search-result-item strong {
+    display: block;
+    font-size: 1.4rem;
+    font-family: var(--font-editorial);
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.search-result-item p {
+    font-size: 0.9rem;
+    color: var(--muted-text);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.search-highlight {
+    background: rgba(255, 215, 0, 0.2);
+    color: var(--text);
+    padding: 0 2px;
+    border-bottom: 1px solid var(--text);
+}
+
+[data-theme="dark"] .search-highlight {
+    background: rgba(255, 215, 0, 0.1);
+}
+
+.search-empty {
+    padding: 4rem 0;
+    text-align: center;
+    color: var(--muted-text);
+    font-style: italic;
+    font-size: 1.1rem;
+}
+
+/* Body mode tweaks */
+body.search-mode main#app {
+    display: none;
+}
+
+body.search-mode footer {
+    opacity: 0.5;
+    border-top: 1px dashed var(--border);
+    margin-top: 4rem !important;
+}
