@@ -12,6 +12,14 @@ document.addEventListener('DOMContentLoaded', () => {
     initRouter();
     initPWA();
 
+    if (document.startViewTransition) {
+        console.log("🪄 View Transitions API supported and active.");
+    } else {
+        console.warn("⚠️ View Transitions API NOT supported in this browser.");
+    }
+
+
+
     loadData().then(() => {
         loadSearchIndex();
         route();

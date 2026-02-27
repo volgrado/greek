@@ -20,8 +20,7 @@
 .lang-toggle:hover,
 .theme-toggle:hover,
 .download-toggle:hover {
-    background: var(--text);
-    color: var(--bg);
+    background: var(--hover-overlay);
 }
 
 .lang-toggle svg,
@@ -191,24 +190,43 @@ td {
 
 /* Skeleton Loader ... (previous styles) */
 
-/* Integrated Search System */
+/* Integrated Search System (Native Popover API) */
 .search-panel {
-    max-height: 0;
-    overflow: hidden;
-    opacity: 0;
-    transition: max-height 0.6s cubic-bezier(0.16, 1, 0.3, 1),
-        opacity 0.4s ease,
-        padding 0.6s cubic-bezier(0.16, 1, 0.3, 1);
     background: var(--bg);
+    border: none;
     border-bottom: 0px solid var(--border);
     padding: 0 1.5rem;
+    view-transition-name: search-panel;
+    width: 100vw;
+    margin: 0;
+    max-height: 80vh;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.1);
+    inset: 0 auto auto 0;
+    /* Align to top */
 }
 
-.search-panel.is-open {
-    max-height: 2000px;
-    opacity: 1;
+.search-panel:popover-open {
     padding: 1rem 1.5rem;
-    border-bottom-width: 1px;
+    border-bottom: 1px solid var(--border);
+    animation: slide-down 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes slide-down {
+    from {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.search-panel::backdrop {
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4px);
+    transition: all 0.4s ease;
 }
 
 .search-drawer-inner {
@@ -351,5 +369,40 @@ body.search-mode footer {
 
     .search-panel.is-open {
         padding: 1rem 1rem;
+    }
+}
+
+/* 📜 Genius Upgrade: Hardware-Accelerated Progress Bar */
+.scroll-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: #4a90e2;
+    /* Bright Blue accent */
+    transform-origin: left;
+    transform: scaleX(0);
+    z-index: 2000;
+    /* Above everything */
+    pointer-events: none;
+
+    /* Chrome/Edge 115+ Native Scroll-Driven Animation */
+    animation: grow-progress auto linear;
+    animation-timeline: scroll(root);
+}
+
+/* Fallback for browsers that don't support scroll-timeline 
+   but support @supports. This makes it slightly visible at 50%
+   just to show it works or use a simple gradient. 
+   Actually, better to keep it clean. */
+
+@keyframes grow-progress {
+    from {
+        transform: scaleX(0);
+    }
+
+    to {
+        transform: scaleX(1);
     }
 }

@@ -39,19 +39,12 @@ export const renderCurriculum = (container) => {
             const label = `${hNum}. ${l.title}`;
 
             const link = document.createElement('a');
-            link.href = `#/lessons/${l.id}`;
+            link.href = `/lessons/${l.id}`;
             link.className = 'curriculum-link';
             if (state.viewedLessons.has(l.id)) {
                 link.classList.add('viewed');
             }
             link.innerHTML = `<span>${label}</span><span>→</span>`;
-
-            // Search close logic
-            link.addEventListener('click', () => {
-                const searchDrawer = document.getElementById('search-drawer');
-                if (searchDrawer) searchDrawer.classList.remove('is-open');
-                document.body.classList.remove('search-mode');
-            });
 
             content.appendChild(link);
             lessonIdx++;
@@ -89,141 +82,229 @@ export const renderCurriculum = (container) => {
 
 
 
-export const route = async () => {
+export const route = async (pathOverride = null) => {
     if (!state.db) return;
-    const hash = window.location.hash.slice(1) || '/';
 
-    const skelTemplate = document.getElementById('skeleton-template');
-    if (skelTemplate) {
-        app.innerHTML = '';
-        app.appendChild(skelTemplate.content.cloneNode(true));
+    // Determine path based on Navigation API or Hash fallback
+    let path = '/';
+    if (pathOverride) {
+        path = pathOverride;
+    } else if (window.navigation) {
+        path = new URL(window.navigation.currentEntry.url).pathname;
     } else {
-        app.innerHTML = `
-            <div class="skeleton-loader">
-                <div class="skeleton-meta"></div>
-                <div class="skeleton-title"></div>
-                <div class="skeleton-line"></div>
-                <div class="skeleton-line"></div>
-                <div class="skeleton-line" style="width: 60%"></div>
-            </div>
-        `;
+        path = window.location.hash.slice(1) || '/';
     }
 
-    if (hash === '/' || hash === '/curriculum') {
-        renderCurriculum(app);
-    } else if (hash.startsWith('/lessons/')) {
-        // Ensure that any URL-encoded hashes (spaces, symbols) are correctly mapped against JSON strings
-        const id = decodeURIComponent(hash.replace('/lessons/', ''));
-        const res = await fetchLessonHTML(id);
+    // Normalize Github Pages or nested paths if needed (assuming root is '/')
+    if (path === '' || path === '/index.html') path = '/';
 
-        if (typeof res === 'string') {
-            // Service Worker (or server) streams the fully constructed HTML directly!
-            // Main thread literally does nothing but dump it into the DOM.
-            app.innerHTML = res;
+    // 1. Data Prep: If it's a lesson, fetch it BEFORE starting the transition
+    let preFetchedLesson = null;
+    let lessonId = null;
 
-            // FALLBACK: If the user bypassed the Service Worker (e.g. Shift+F5 or no SW),
-            // the raw HTML from disk won't have the navigation appended. We append it instantly.
-            if (!res.includes('class="lesson-nav"')) {
-                const flatLessons = state.getFlatLessons();
-                const currentIndex = flatLessons.findIndex(l => l.id === id);
+    // 🛣️ Genius Router: Native URLPattern API
+    let isLesson = false;
 
-                if (currentIndex !== -1) {
-                    const l = flatLessons[currentIndex];
-                    const chapterName = `${l.cIdx}. ${l.sectionName}`;
-                    const lessonNum = l.hierarchical_num;
+    // We try to use the modern URLPattern, catching if it's not supported in older browsers
+    if ('URLPattern' in window) {
+        const pattern = new URLPattern({ pathname: '/lessons/:id' });
+        const match = pattern.exec({ pathname: path });
 
-                    const metaHTML = `
-                        <div class="lesson-meta">
-                            ${chapterName} ${lessonNum ? `&middot; LESSON ${lessonNum}` : ''}
-                        </div>
-                    `;
+        if (match) {
+            isLesson = true;
+            lessonId = decodeURIComponent(match.pathname.groups.id);
+            // Just in case there's a trailing slash captured
+            if (lessonId.endsWith('/')) lessonId = lessonId.slice(0, -1);
+            preFetchedLesson = await fetchLessonHTML(lessonId);
+        }
+    } else {
+        // Fallback
+        isLesson = path.includes('/lessons/');
+        if (isLesson) {
+            const parts = path.split('/lessons/');
+            lessonId = decodeURIComponent(parts[parts.length - 1]);
+            if (lessonId.endsWith('/')) lessonId = lessonId.slice(0, -1);
+            preFetchedLesson = await fetchLessonHTML(lessonId);
+        }
+    }
 
-                    let prevLink = '<span></span>';
-                    if (currentIndex > 0) {
-                        const prev = flatLessons[currentIndex - 1];
-                        prevLink = `<a href="#/lessons/${prev.id}">← ${prev.title}</a>`;
+    const updateDOM = async () => {
+        // Ensure search panel is closed during transition if navigating
+        const searchDrawer = document.getElementById('search-drawer');
+        if (searchDrawer && searchDrawer.hidePopover) {
+            try { searchDrawer.hidePopover(); } catch (e) { }
+        }
+        document.body.classList.remove('search-mode');
+
+        if (path === '/' || path === '/curriculum') {
+            app.innerHTML = '';
+            renderCurriculum(app);
+        } else if (isLesson) {
+            const id = lessonId;
+            const res = preFetchedLesson;
+
+            if (typeof res === 'string') {
+                app.innerHTML = res;
+
+                // FALLBACK: If the user bypassed the Service Worker (e.g. Shift+F5 or no SW)
+                if (!res.includes('class="lesson-nav"')) {
+                    const flatLessons = state.getFlatLessons();
+                    const currentIndex = flatLessons.findIndex(l => l.id === id);
+
+                    if (currentIndex !== -1) {
+                        const l = flatLessons[currentIndex];
+                        const chapterName = `${l.cIdx}. ${l.sectionName}`;
+                        const lessonNum = l.hierarchical_num;
+
+                        const metaHTML = `
+                            <div class="lesson-meta">
+                                ${chapterName} ${lessonNum ? `&middot; LESSON ${lessonNum}` : ''}
+                            </div>
+                        `;
+
+                        let prevLink = '<span></span>';
+                        if (currentIndex > 0) {
+                            const prev = flatLessons[currentIndex - 1];
+                            prevLink = `<a href="/lessons/${prev.id}">← ${prev.title}</a>`;
+                        }
+
+                        let nextLink = '<span></span>';
+                        if (currentIndex < flatLessons.length - 1) {
+                            const next = flatLessons[currentIndex + 1];
+                            nextLink = `<a href="/lessons/${next.id}">${next.title} →</a>`;
+                        }
+
+                        const navHTML = `
+                        <div class="lesson-nav">
+                            ${prevLink}
+                            <a href="/" class="menu-btn">MENU</a>
+                            ${nextLink}
+                        </div>`;
+
+                        app.insertAdjacentHTML('afterbegin', metaHTML);
+                        app.insertAdjacentHTML('beforeend', navHTML);
                     }
+                }
 
-                    let nextLink = '<span></span>';
-                    if (currentIndex < flatLessons.length - 1) {
-                        const next = flatLessons[currentIndex + 1];
-                        nextLink = `<a href="#/lessons/${next.id}">${next.title} →</a>`;
-                    }
+                state.markAsViewed(id);
+                prefetchNext(id);
+            } else {
+                const errorType = res ? res.error : 'NOT_FOUND';
+                const strings = I18N[state.currentLang];
+                const isConnError = errorType === 'OFFLINE' || errorType === 'NETWORK';
 
-                    const navHTML = `
-                    <div class="lesson-nav">
-                        ${prevLink}
-                        <a href="#/" class="menu-btn">MENU</a>
-                        ${nextLink}
-                    </div>`;
+                const errorTemplate = document.getElementById('error-template');
+                if (errorTemplate) {
+                    app.innerHTML = '';
+                    const errorClone = errorTemplate.content.cloneNode(true);
+                    errorClone.querySelector('.error-title').textContent = strings.errorTitle;
+                    errorClone.querySelector('.error-message').textContent = isConnError ? strings.errorOffline : strings.errorNotFound;
+                    errorClone.querySelector('.error-retry').textContent = strings.errorRetry;
 
-                    app.insertAdjacentHTML('afterbegin', metaHTML);
-                    app.insertAdjacentHTML('beforeend', navHTML);
+                    const backLink = errorClone.querySelector('.error-back');
+                    backLink.textContent = strings.errorBack;
+                    backLink.href = '/';
+
+                    app.appendChild(errorClone);
+                } else {
+                    const backHref = window.navigation ? '/' : '#/';
+                    app.innerHTML = `<div style="padding: 5rem; text-align: center"><h1 style="color: #e53e3e">${strings.errorTitle}</h1><a href="${backHref}">${strings.errorBack}</a></div>`;
                 }
             }
-
-            state.markAsViewed(id);
-            prefetchNext(id);
         } else {
-            const errorType = res ? res.error : 'NOT_FOUND';
-            const strings = I18N[state.currentLang];
-            const isConnError = errorType === 'OFFLINE' || errorType === 'NETWORK';
-
             const errorTemplate = document.getElementById('error-template');
             if (errorTemplate) {
                 app.innerHTML = '';
                 const errorClone = errorTemplate.content.cloneNode(true);
+                errorClone.querySelector('.error-title').textContent = '404';
+                errorClone.querySelector('.error-message').textContent = 'Node not found';
+                errorClone.querySelector('.error-retry').style.display = 'none';
 
-                errorClone.querySelector('.error-title').textContent = strings.errorTitle;
-                errorClone.querySelector('.error-message').textContent = isConnError ? strings.errorOffline : strings.errorNotFound;
-                errorClone.querySelector('.error-retry').textContent = strings.errorRetry;
-                errorClone.querySelector('.error-back').textContent = strings.errorBack;
+                const backLink = errorClone.querySelector('.error-back');
+                backLink.textContent = 'Back to Curriculum';
+                backLink.href = window.navigation ? '/' : '#/';
 
                 app.appendChild(errorClone);
             } else {
-                app.innerHTML = `<div style="padding: 5rem; text-align: center"><h1 style="color: #e53e3e">${strings.errorTitle}</h1><a href="#/">${strings.errorBack}</a></div>`;
+                const backHref = window.navigation ? '/' : '#/';
+                app.innerHTML = `
+                <div style="padding: 5rem; text-align: center">
+                    <h1 style="color: #e53e3e">404: Node not found</h1>
+                    <a href="${backHref}">Back to Curriculum</a>
+                </div>`;
             }
         }
+        window.scrollTo(0, 0);
+    };
+
+    if (document.startViewTransition) {
+        document.startViewTransition(async () => {
+            await updateDOM();
+        });
     } else {
-        const errorTemplate = document.getElementById('error-template');
-        if (errorTemplate) {
-            app.innerHTML = '';
-            const errorClone = errorTemplate.content.cloneNode(true);
-
-            errorClone.querySelector('.error-title').textContent = '404';
-            errorClone.querySelector('.error-message').textContent = 'Node not found';
-            errorClone.querySelector('.error-retry').style.display = 'none';
-            errorClone.querySelector('.error-back').textContent = 'Back to Curriculum';
-
-            app.appendChild(errorClone);
-        } else {
-            app.innerHTML = `
-            <div style="padding: 5rem; text-align: center">
-                <h1 style="color: #e53e3e">404: Node not found</h1>
-                <a href="#/">Back to Curriculum</a>
-            </div>`;
-        }
+        await updateDOM();
     }
-    window.scrollTo(0, 0);
 };
 
 export const initRouter = () => {
-    window.onhashchange = route;
+    // 🧭 Genius Migration: If we have a hash from the old system, migrate to clean URLs
+    if (window.navigation && window.location.hash.startsWith('#/')) {
+        const cleanPath = window.location.hash.slice(1);
+        try {
+            window.history.replaceState(null, '', cleanPath);
+        } catch (e) {
+            console.warn("Migration failed", e);
+        }
+    }
 
+    // 🧭 Genius Move: Native Navigation API interception
+    if (window.navigation) {
+        window.navigation.addEventListener('navigate', (event) => {
+            // Ignore cross-origin, downloads, or targets outside current window
+            if (!event.canIntercept || event.hashChange || event.downloadRequest || event.info === 'ignore') {
+                return;
+            }
+
+            const url = new URL(event.destination.url);
+
+            // Intercept and handle routing gracefully using View Transitions
+            event.intercept({
+                async handler() {
+                    await route(url.pathname);
+                }
+            });
+        });
+
+        // Log activation for dev awareness
+        console.log("🧭 Native Navigation API active. Clean URLs enabled.");
+    } else {
+        // Fallback for older browsers
+        window.onhashchange = () => route();
+        console.warn("⚠️ Native Navigation API not supported. Falling back to Hash routing.");
+    }
+
+    // Keyboard navigation
     window.addEventListener('keydown', (e) => {
-        if (!window.location.hash.startsWith('#/lessons/')) return;
+        const path = window.navigation ? new URL(window.navigation.currentEntry.url).pathname : window.location.hash;
+        if (!path.includes('/lessons/')) return;
 
         if (e.key === 'ArrowRight') {
-            // Massive optimization: Read the next link straight from the already-rendered UI 
-            // instead of running an array findIndex on the 300+ item database every single keypress
-            const nextLink = document.querySelector('.lesson-nav a:last-child');
-            if (nextLink && !nextLink.classList.contains('menu-btn') && nextLink.href) {
-                window.location.href = nextLink.href;
+            const links = document.querySelectorAll('.lesson-nav a');
+            if (links.length > 0) {
+                const nextLink = links[links.length - 1];
+                if (nextLink && !nextLink.classList.contains('menu-btn') && nextLink.href) {
+                    if (window.navigation) window.navigation.navigate(nextLink.href);
+                    else window.location.href = nextLink.href;
+                }
             }
         } else if (e.key === 'ArrowLeft') {
-            const prevLink = document.querySelector('.lesson-nav a:first-child');
-            if (prevLink && !prevLink.classList.contains('menu-btn') && prevLink.href) {
-                window.location.href = prevLink.href;
+            const links = document.querySelectorAll('.lesson-nav a');
+            if (links.length > 0) {
+                const prevLink = links[0];
+                if (prevLink && !prevLink.classList.contains('menu-btn') && prevLink.href) {
+                    if (window.navigation) window.navigation.navigate(prevLink.href);
+                    else window.location.href = prevLink.href;
+                }
             }
         }
     });

@@ -73,8 +73,7 @@
 }
 
 .curriculum-link:hover {
-    background: var(--text);
-    color: var(--bg);
+    background: var(--hover-overlay);
     transform: translateX(4px);
 }
 
@@ -144,8 +143,7 @@
 }
 
 .lesson-nav a:hover {
-    background: var(--text);
-    color: var(--bg);
+    background: var(--hover-overlay);
     opacity: 1;
 }
 

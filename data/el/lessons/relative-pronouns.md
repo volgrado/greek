@@ -2,27 +2,39 @@
 Relative pronouns are used to connect clauses or refer back to a noun previously mentioned. The most common one is the indeclinable **που**.
 
 ::: content-card mt-8
-που
+## που
 ### That / Which / Who
 
 The universal relative pronoun. It never changes its form.
 
-Αγόρασα το βιβλίο **που** είδα. I bought the book **that** I saw.ό,τι
+- Αγόρασα το βιβλίο **που** είδα. (I bought the book **that** I saw.)
+::: end
+
+::: content-card mt-8
+## ό,τι
 ### Whatever / What
 
 Used to refer to an unspecified thing or sentence.
 
-Πάρε **ό,τι** θέλεις. Take **whatever** you want.όποιος, -α, -ο
+- Πάρε **ό,τι** θέλεις. (Take **whatever** you want.)
+::: end
+
+::: content-card mt-8
+## όποιος, -α, -ο
 ### Whoever / Whichever
 
 Declines like an adjective.
 
-**Όποιος** κλέβει... **Whoever** steals...όσος, -η, -ο
+- **Όποιος** κλέβει... (**Whoever** steals...)
+::: end
+
+::: content-card mt-8
+## όσος, -η, -ο
 ### As much as
 
 Indicates quantity.
 
-Δώσε μου **όσα** λεφτά θέλεις. Give me **as much** money **as** you want.
+- Δώσε μου **όσα** λεφτά θέλεις. (Give me **as much** money **as** you want.)
 ::: end
 
 ::: info-box mt-12 mb-12

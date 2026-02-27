@@ -28,6 +28,15 @@ class Handler(http.server.SimpleHTTPRequestHandler):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, directory=SERVE_DIR, **kwargs)
 
+    def do_GET(self):
+        # 🧭 Genius Move: SPA Routing Support
+        # If the requested path is not a file or directory, redirect to index.html
+        path = self.translate_path(self.path)
+        if not os.path.exists(path) and not path.endswith('/'):
+            self.path = '/index.html'
+        
+        return super().do_GET()
+
 def start_server():
     """Starts the HTTP server."""
     # Ensure we are in the project root
