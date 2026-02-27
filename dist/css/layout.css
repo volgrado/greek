@@ -2,9 +2,21 @@ header.root-nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-bottom: 0.5rem;
-    margin-bottom: 0.5rem;
+    padding: 0.75rem 0;
+    margin-bottom: 2.5rem;
     border-bottom: 1px solid var(--border);
+    view-transition-name: main-header;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    /* 🛡️ Genius Mask: Solid block that hides content but looks like a margin */
+    border-top: 0.75rem solid var(--bg);
+
+    /* Premium touch: subtle transparency and blur if supported */
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    background-color: color-mix(in srgb, var(--bg), transparent 5%);
 }
 
 header.root-nav a.logo {

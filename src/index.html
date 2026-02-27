@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Greek</title>
     <!-- Mobile App Settings -->
-    <link rel="manifest" href="manifest.json">
+    <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#ffffff">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="assets/icon.svg">
+    <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/assets/icon.svg">
     <!-- Fonts: Lora (Editorial), Inter (UI) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,12 +19,26 @@
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Lora:ital,wght@0,400;0,700;1,400&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- Speculation Rules API for instant navigation -->
+    <script type="speculationrules">
+    {
+      "prerender": [
+        {
+          "source": "list",
+          "urls": [],
+          "where": { "href_matches": "*/lessons/*" },
+          "eagerness": "moderate"
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
     <header class="root-nav">
-        <a href="#/" class="logo">
+        <a href="/" class="logo">
             <svg class="owl-logo" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                 <rect width="512" height="512" fill="none" rx="64" ry="64" stroke="currentColor" stroke-width="20" />
                 <text id="logo-symbol" x="50%" y="62%" dominant-baseline="middle" text-anchor="middle"
@@ -33,7 +47,7 @@
             <span id="logo-text">GREEK</span>
         </a>
         <div class="header-actions">
-            <button id="search-btn" class="lang-toggle" title="Search Lessons">
+            <button id="search-btn" popovertarget="search-drawer" class="lang-toggle" title="Search Lessons">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                     stroke-linejoin="round">
                     <circle cx="11" cy="11" r="8"></circle>
@@ -67,7 +81,8 @@
             </button>
         </div>
     </header>
-    <div id="search-drawer" class="search-panel">
+    <div class="scroll-progress"></div>
+    <div id="search-drawer" popover class="search-panel">
         <div class="search-drawer-inner">
             <div class="search-drawer-header">
                 <input type="text" id="global-search-input" class="global-search-input" placeholder="Search lessons..."
@@ -100,11 +115,11 @@
             <p class="error-message"></p>
             <div class="error-actions">
                 <button onclick="location.reload()" class="lang-toggle error-retry"></button>
-                <a href="#/" class="lang-toggle error-back"></a>
+                <a href="/" class="lang-toggle error-back"></a>
             </div>
         </div>
     </template>
-    <script type="module" src="js/main.js"></script>
+    <script type="module" src="/js/main.js?v=999"></script>
 </body>
 
 </html>

@@ -526,7 +526,7 @@
       "title": "Relative Pronouns",
       "chapter": "3. Pronouns",
       "num": "3.5",
-      "content": "Relative Pronouns Relative pronouns are used to connect clauses or refer back to a noun previously mentioned. The most common one is the indeclinable που . που That / Which / Who The universal relative pronoun. It never changes its form. Αγόρασα το βιβλίο που είδα. I bought the book that I saw.ό,τι Whatever / What Used to refer to an unspecified thing or sentence. Πάρε ό,τι θέλεις. Take whatever you want.όποιος, -α, -ο Whoever / Whichever Declines like an adjective. Όποιος κλέβει... Whoever steals...όσος, -η, -ο As much as Indicates quantity. Δώσε μου όσα λεφτά θέλεις. Give me as much money as you want. Spelling Alert: που vs πού Don't confuse the relative pronoun που (no accent) with the interrogative πού (with accent). Το σπίτι που μένω. (The house that I live in.) Πού μένεις; ( Where do you live?)"
+      "content": "Relative Pronouns Relative pronouns are used to connect clauses or refer back to a noun previously mentioned. The most common one is the indeclinable που . που That / Which / Who The universal relative pronoun. It never changes its form. Αγόρασα το βιβλίο που είδα. (I bought the book that I saw.) ό,τι Whatever / What Used to refer to an unspecified thing or sentence. Πάρε ό,τι θέλεις. (Take whatever you want.) όποιος, -α, -ο Whoever / Whichever Declines like an adjective. Όποιος κλέβει... ( Whoever steals...) όσος, -η, -ο As much as Indicates quantity. Δώσε μου όσα λεφτά θέλεις. (Give me as much money as you want.) Spelling Alert: που vs πού Don't confuse the relative pronoun που (no accent) with the interrogative πού (with accent). Το σπίτι που μένω. (The house that I live in.) Πού μένεις; ( Where do you live?)"
     },
     "social-expressions": {
       "id": "social-expressions",
@@ -579,14 +579,39 @@
     }
   },
   "invertedIndex": {
-    "generally": [
+    "last": [
+      "accents",
+      "adverbs",
+      "verb-groups"
+    ],
+    "feature": [
+      "accents"
+    ],
+    "unlike": [
       "accents",
       "feminine-declension",
-      "genders"
+      "read"
     ],
-    "take": [
+    "car": [
       "accents",
-      "relative-pronouns"
+      "possessive-pronouns"
+    ],
+    "which": [
+      "accents",
+      "indefinite-pronouns",
+      "interrogative-pronouns",
+      "pronouns",
+      "read",
+      "relative-pronouns",
+      "verb-groups"
+    ],
+    "pa": [
+      "accents"
+    ],
+    "correct": [
+      "accents",
+      "conjugation-present",
+      "double-letters"
     ],
     "indicates": [
       "accents",
@@ -595,22 +620,84 @@
     "ras": [
       "accents"
     ],
-    "carry": [
+    "οικογενεια": [
       "accents",
-      "interrogative-pronouns"
+      "double-letters"
     ],
-    "position": [
+    "syllabic": [
+      "accents",
+      "read"
+    ],
+    "ra": [
       "accents"
     ],
-    "change": [
+    "meaning": [
       "accents",
+      "verb-groups",
+      "verb-to-be",
+      "verbs"
+    ],
+    "english": [
+      "accents",
+      "articles",
+      "auxiliary-verbs",
+      "declension",
+      "punctuation",
+      "read",
+      "verb-to-be",
+      "voices-moods"
+    ],
+    "of": [
+      "accents",
+      "adjectives",
+      "articles-declension",
+      "articles",
+      "basics",
+      "cases",
       "declension",
       "degrees-adjectives",
+      "dialogues-travel",
       "double-letters",
-      "personal-pronouns",
-      "possessive-pronouns"
+      "genders",
+      "indefinite-pronouns",
+      "interjections",
+      "interrogative-pronouns",
+      "neuter-declension",
+      "particles",
+      "past-conjugation",
+      "possessive-pronouns",
+      "prepositions",
+      "pronouns",
+      "punctuation",
+      "read",
+      "reflexive-pronouns",
+      "verb-groups",
+      "verb-to-be",
+      "verbs",
+      "voices-moods",
+      "vowels-consonants"
     ],
-    "accents": [
+    "district": [
+      "accents"
+    ],
+    "be": [
+      "accents",
+      "adverbs",
+      "articles-declension",
+      "auxiliary-verbs",
+      "conjugation-present",
+      "definite-pronouns",
+      "dialogues-travel",
+      "interrogative-pronouns",
+      "particles",
+      "tenses",
+      "verb-to-be",
+      "vowels-consonants"
+    ],
+    "crucial": [
+      "accents"
+    ],
+    "visible": [
       "accents"
     ],
     "mother": [
@@ -622,35 +709,170 @@
       "genders",
       "read"
     ],
-    "unlike": [
+    "πατερας": [
       "accents",
-      "feminine-declension",
-      "read"
+      "adjectives",
+      "articles",
+      "declension",
+      "double-letters",
+      "genders",
+      "masculine-declension"
     ],
     "ni": [
       "accents"
     ],
-    "few": [
+    "modern": [
       "accents",
-      "interrogative-pronouns"
+      "cases",
+      "conjugation-present",
+      "double-letters",
+      "interrogative-pronouns",
+      "nouns",
+      "particles",
+      "past-conjugation",
+      "prepositions",
+      "pronouns",
+      "verbs",
+      "vowels-consonants"
     ],
-    "matter": [
+    "prefecture": [
       "accents"
     ],
-    "district": [
-      "accents"
-    ],
-    "means": [
+    "fundamental": [
       "accents",
-      "adjectives",
-      "adverbs",
-      "declension",
-      "dialogues-travel",
-      "indefinite-pronouns",
-      "phrases",
-      "verbs"
+      "nouns"
     ],
     "monosyllables": [
+      "accents"
+    ],
+    "on": [
+      "accents",
+      "adverbs",
+      "articles",
+      "declension",
+      "double-letters",
+      "genders",
+      "interjections",
+      "personal-pronouns",
+      "possessive-pronouns",
+      "pronouns",
+      "social-expressions",
+      "tenses",
+      "verb-groups",
+      "voices-moods",
+      "vowels-consonants"
+    ],
+    "ki": [
+      "accents"
+    ],
+    "syllable": [
+      "accents",
+      "adverbs",
+      "interrogative-pronouns",
+      "neuter-declension",
+      "read",
+      "verb-groups"
+    ],
+    "take": [
+      "accents",
+      "relative-pronouns"
+    ],
+    "pronunciation": [
+      "accents",
+      "double-letters",
+      "phrases"
+    ],
+    "in": [
+      "accents",
+      "adjectives",
+      "articles-declension",
+      "articles",
+      "auxiliary-verbs",
+      "cases",
+      "coming-soon",
+      "conjugation-present",
+      "declension",
+      "definite-pronouns",
+      "degrees-adjectives",
+      "dialogues-travel",
+      "double-letters",
+      "feminine-declension",
+      "genders",
+      "indefinite-pronouns",
+      "interjections",
+      "interrogative-pronouns",
+      "masculine-declension",
+      "neuter-declension",
+      "nouns",
+      "particles",
+      "past-conjugation",
+      "personal-pronouns",
+      "phrases",
+      "possessive-pronouns",
+      "prepositions",
+      "pronouns",
+      "punctuation",
+      "reflexive-pronouns",
+      "relative-pronouns",
+      "social-expressions",
+      "tenses",
+      "verb-groups",
+      "verb-to-be",
+      "verbs",
+      "voices-moods",
+      "vowels-consonants"
+    ],
+    "nomos": [
+      "accents"
+    ],
+    "patterns": [
+      "accents",
+      "adjectives",
+      "articles-declension",
+      "conjunctions",
+      "declension",
+      "feminine-declension",
+      "verbs"
+    ],
+    "to": [
+      "accents",
+      "adjectives",
+      "articles-declension",
+      "articles",
+      "auxiliary-verbs",
+      "basics",
+      "coming-soon",
+      "conjugation-present",
+      "conjunctions",
+      "declension",
+      "definite-pronouns",
+      "degrees-adjectives",
+      "demonstrative-pronouns",
+      "dialogues-travel",
+      "double-letters",
+      "genders",
+      "indefinite-pronouns",
+      "interjections",
+      "interrogative-pronouns",
+      "masculine-declension",
+      "neuter-declension",
+      "particles",
+      "past-conjugation",
+      "personal-pronouns",
+      "phrases",
+      "possessive-pronouns",
+      "prepositions",
+      "pronouns",
+      "punctuation",
+      "read",
+      "relative-pronouns",
+      "verb-groups",
+      "verb-to-be",
+      "verbs",
+      "voices-moods",
+      "vowels-consonants"
+    ],
+    "te": [
       "accents"
     ],
     "only": [
@@ -662,21 +884,318 @@
       "pronouns",
       "vowels-consonants"
     ],
-    "ye": [
+    "with": [
+      "accents",
+      "adjectives",
+      "adverbs",
+      "definite-pronouns",
+      "demonstrative-pronouns",
+      "nouns",
+      "prepositions",
+      "relative-pronouns"
+    ],
+    "generally": [
+      "accents",
+      "feminine-declension",
+      "genders"
+    ],
+    "change": [
+      "accents",
+      "declension",
+      "degrees-adjectives",
+      "double-letters",
+      "personal-pronouns",
+      "possessive-pronouns"
+    ],
+    "orthographic": [
+      "accents",
+      "basics"
+    ],
+    "law": [
       "accents"
     ],
-    "ensure": [
-      "accents",
-      "coming-soon"
+    "νομος": [
+      "accents"
     ],
-    "father": [
+    "rules": [
+      "accents",
+      "declension"
+    ],
+    "greek": [
+      "accents",
+      "adjectives",
+      "articles-declension",
+      "articles",
+      "auxiliary-verbs",
+      "basics",
+      "cases",
+      "conjugation-present",
+      "declension",
+      "definite-pronouns",
+      "degrees-adjectives",
+      "double-letters",
+      "feminine-declension",
+      "genders",
+      "indefinite-pronouns",
+      "interjections",
+      "interrogative-pronouns",
+      "masculine-declension",
+      "neuter-declension",
+      "nouns",
+      "particles",
+      "past-conjugation",
+      "personal-pronouns",
+      "phrases",
+      "possessive-pronouns",
+      "prepositions",
+      "pronouns",
+      "punctuation",
+      "read",
+      "reflexive-pronouns",
+      "tenses",
+      "verb-groups",
+      "verb-to-be",
+      "verbs",
+      "voices-moods",
+      "vowels-consonants"
+    ],
+    "family": [
+      "accents",
+      "double-letters"
+    ],
+    "αυτοκινητο": [
+      "accents",
+      "possessive-pronouns"
+    ],
+    "top": [
+      "accents",
+      "adverbs",
+      "basics",
+      "punctuation"
+    ],
+    "one": [
+      "accents",
+      "articles-declension",
+      "declension",
+      "definite-pronouns",
+      "genders",
+      "indefinite-pronouns",
+      "interjections",
+      "interrogative-pronouns",
+      "relative-pronouns",
+      "social-expressions",
+      "vowels-consonants"
+    ],
+    "accent": [
+      "accents",
+      "adverbs",
+      "interrogative-pronouns",
+      "read",
+      "relative-pronouns",
+      "verb-groups",
+      "vowels-consonants"
+    ],
+    "few": [
+      "accents",
+      "interrogative-pronouns"
+    ],
+    "entire": [
+      "accents"
+    ],
+    "τονος": [
+      "accents"
+    ],
+    "do": [
+      "accents",
+      "dialogues-travel",
+      "relative-pronouns"
+    ],
+    "μητερα": [
       "accents",
       "adjectives",
       "articles",
+      "declension",
+      "feminine-declension",
+      "genders"
+    ],
+    "that": [
+      "accents",
+      "adjectives",
+      "adverbs",
+      "conjunctions",
+      "demonstrative-pronouns",
       "double-letters",
+      "interjections",
+      "interrogative-pronouns",
+      "particles",
+      "past-conjugation",
+      "possessive-pronouns",
+      "prepositions",
+      "pronouns",
+      "punctuation",
+      "relative-pronouns",
+      "tenses",
+      "verb-groups",
+      "vowels-consonants"
+    ],
+    "an": [
+      "accents",
+      "articles",
+      "demonstrative-pronouns",
+      "feminine-declension",
+      "indefinite-pronouns",
+      "interrogative-pronouns",
+      "neuter-declension",
+      "possessive-pronouns",
+      "relative-pronouns",
+      "verb-groups",
+      "verbs",
+      "voices-moods"
+    ],
+    "while": [
+      "accents",
+      "conjunctions",
+      "dialogues-travel",
       "genders",
+      "personal-pronouns",
+      "verbs"
+    ],
+    "stress": [
+      "accents",
+      "past-conjugation",
+      "vowels-consonants"
+    ],
+    "mi": [
+      "accents"
+    ],
+    "ko": [
+      "accents"
+    ],
+    "where": [
+      "accents",
+      "adverbs",
+      "cases",
+      "dialogues-travel",
+      "read",
+      "relative-pronouns",
+      "verb-groups"
+    ],
+    "τονισμος": [
+      "accents"
+    ],
+    "grammatical": [
+      "accents",
+      "declension",
+      "demonstrative-pronouns",
+      "genders"
+    ],
+    "position": [
+      "accents"
+    ],
+    "placement": [
+      "accents"
+    ],
+    "vowels": [
+      "accents",
+      "double-letters",
+      "vowels-consonants"
+    ],
+    "ye": [
+      "accents"
+    ],
+    "is": [
+      "accents",
+      "articles-declension",
+      "articles",
+      "auxiliary-verbs",
+      "basics",
+      "cases",
+      "coming-soon",
+      "conjunctions",
+      "declension",
+      "degrees-adjectives",
+      "demonstrative-pronouns",
+      "dialogues-travel",
+      "genders",
+      "indefinite-pronouns",
+      "interjections",
+      "interrogative-pronouns",
+      "neuter-declension",
+      "nouns",
+      "past-conjugation",
+      "phrases",
+      "possessive-pronouns",
+      "pronouns",
+      "punctuation",
+      "read",
+      "relative-pronouns",
+      "social-expressions",
+      "tenses",
+      "verb-groups",
+      "verb-to-be",
+      "verbs",
+      "vowels-consonants"
+    ],
+    "matter": [
+      "accents"
+    ],
+    "can": [
+      "accents",
+      "adjectives",
+      "conjugation-present",
+      "dialogues-travel",
+      "interjections",
+      "interrogative-pronouns",
+      "phrases",
+      "reflexive-pronouns",
+      "vowels-consonants"
+    ],
+    "why": [
+      "accents",
+      "conjunctions",
+      "verb-groups"
+    ],
+    "stressed": [
+      "accents"
+    ],
+    "or": [
+      "accents",
+      "adjectives",
+      "adverbs",
+      "conjunctions",
+      "declension",
+      "definite-pronouns",
+      "demonstrative-pronouns",
+      "double-letters",
+      "feminine-declension",
+      "genders",
+      "indefinite-pronouns",
+      "interjections",
       "masculine-declension",
-      "read"
+      "neuter-declension",
+      "particles",
+      "personal-pronouns",
+      "phrases",
+      "possessive-pronouns",
+      "prepositions",
+      "pronouns",
+      "punctuation",
+      "read",
+      "reflexive-pronouns",
+      "relative-pronouns",
+      "tenses",
+      "verb-groups",
+      "voices-moods"
+    ],
+    "means": [
+      "accents",
+      "adjectives",
+      "adverbs",
+      "declension",
+      "dialogues-travel",
+      "indefinite-pronouns",
+      "phrases",
+      "verbs"
     ],
     "the": [
       "accents",
@@ -722,171 +1241,24 @@
       "voices-moods",
       "vowels-consonants"
     ],
-    "meaning": [
-      "accents",
-      "verb-groups",
-      "verb-to-be",
-      "verbs"
-    ],
-    "be": [
-      "accents",
-      "adverbs",
-      "articles-declension",
-      "auxiliary-verbs",
-      "conjugation-present",
-      "definite-pronouns",
-      "dialogues-travel",
-      "interrogative-pronouns",
-      "particles",
-      "tenses",
-      "verb-to-be",
-      "vowels-consonants"
-    ],
-    "last": [
-      "accents",
-      "adverbs",
-      "verb-groups"
-    ],
-    "or": [
-      "accents",
-      "adjectives",
-      "adverbs",
-      "conjunctions",
-      "declension",
-      "definite-pronouns",
-      "demonstrative-pronouns",
-      "double-letters",
-      "feminine-declension",
-      "genders",
-      "indefinite-pronouns",
-      "interjections",
-      "masculine-declension",
-      "neuter-declension",
-      "particles",
-      "personal-pronouns",
-      "phrases",
-      "possessive-pronouns",
-      "prepositions",
-      "pronouns",
-      "punctuation",
-      "read",
-      "reflexive-pronouns",
-      "relative-pronouns",
-      "tenses",
-      "verb-groups",
-      "voices-moods"
-    ],
-    "mi": [
-      "accents"
-    ],
-    "english": [
+    "uses": [
       "accents",
       "articles",
-      "auxiliary-verbs",
-      "declension",
-      "punctuation",
-      "read",
-      "verb-to-be",
-      "voices-moods"
-    ],
-    "greek": [
-      "accents",
-      "adjectives",
-      "articles-declension",
-      "articles",
-      "auxiliary-verbs",
       "basics",
       "cases",
-      "conjugation-present",
-      "declension",
-      "definite-pronouns",
-      "degrees-adjectives",
-      "double-letters",
-      "feminine-declension",
-      "genders",
-      "indefinite-pronouns",
-      "interjections",
-      "interrogative-pronouns",
-      "masculine-declension",
-      "neuter-declension",
-      "nouns",
-      "particles",
-      "past-conjugation",
-      "personal-pronouns",
-      "phrases",
-      "possessive-pronouns",
-      "prepositions",
-      "pronouns",
-      "punctuation",
-      "read",
-      "reflexive-pronouns",
-      "tenses",
-      "verb-groups",
-      "verb-to-be",
-      "verbs",
-      "voices-moods",
-      "vowels-consonants"
+      "voices-moods"
     ],
-    "word": [
+    "af": [
       "accents",
-      "basics",
-      "cases",
-      "declension",
-      "degrees-adjectives",
-      "double-letters",
-      "phrases",
-      "possessive-pronouns",
-      "read",
-      "reflexive-pronouns"
+      "double-letters"
     ],
-    "in": [
+    "three": [
       "accents",
       "adjectives",
-      "articles-declension",
-      "articles",
-      "auxiliary-verbs",
-      "cases",
-      "coming-soon",
-      "conjugation-present",
-      "declension",
-      "definite-pronouns",
       "degrees-adjectives",
-      "dialogues-travel",
-      "double-letters",
-      "feminine-declension",
       "genders",
-      "indefinite-pronouns",
-      "interjections",
-      "interrogative-pronouns",
-      "masculine-declension",
-      "neuter-declension",
       "nouns",
-      "particles",
-      "past-conjugation",
-      "personal-pronouns",
-      "phrases",
-      "possessive-pronouns",
-      "prepositions",
-      "pronouns",
-      "punctuation",
-      "reflexive-pronouns",
-      "relative-pronouns",
-      "social-expressions",
-      "tenses",
-      "verb-groups",
-      "verb-to-be",
-      "verbs",
-      "voices-moods",
-      "vowels-consonants"
-    ],
-    "which": [
-      "accents",
-      "indefinite-pronouns",
-      "interrogative-pronouns",
-      "pronouns",
-      "read",
-      "relative-pronouns",
-      "verb-groups"
+      "past-conjugation"
     ],
     "examples": [
       "accents",
@@ -898,134 +1270,27 @@
       "prepositions",
       "read"
     ],
-    "accent": [
+    "target": [
+      "accents"
+    ],
+    "mark": [
       "accents",
-      "adverbs",
+      "basics",
       "interrogative-pronouns",
+      "punctuation",
       "read",
-      "relative-pronouns",
       "verb-groups",
       "vowels-consonants"
-    ],
-    "stressed": [
-      "accents"
-    ],
-    "patterns": [
-      "accents",
-      "adjectives",
-      "articles-declension",
-      "conjunctions",
-      "declension",
-      "feminine-declension",
-      "verbs"
-    ],
-    "ki": [
-      "accents"
-    ],
-    "feature": [
-      "accents"
-    ],
-    "do": [
-      "accents",
-      "dialogues-travel",
-      "relative-pronouns"
     ],
     "goes": [
       "accents"
     ],
-    "is": [
-      "accents",
-      "articles-declension",
-      "articles",
-      "auxiliary-verbs",
-      "basics",
-      "cases",
-      "coming-soon",
-      "conjunctions",
-      "declension",
-      "degrees-adjectives",
-      "demonstrative-pronouns",
-      "dialogues-travel",
-      "genders",
-      "indefinite-pronouns",
-      "interjections",
-      "interrogative-pronouns",
-      "neuter-declension",
-      "nouns",
-      "past-conjugation",
-      "phrases",
-      "possessive-pronouns",
-      "pronouns",
-      "punctuation",
-      "read",
-      "relative-pronouns",
-      "social-expressions",
-      "tenses",
-      "verb-groups",
-      "verb-to-be",
-      "verbs",
-      "vowels-consonants"
-    ],
-    "can": [
-      "accents",
-      "adjectives",
-      "conjugation-present",
-      "dialogues-travel",
-      "interjections",
-      "interrogative-pronouns",
-      "phrases",
-      "reflexive-pronouns",
-      "vowels-consonants"
-    ],
-    "syllable": [
-      "accents",
-      "adverbs",
-      "interrogative-pronouns",
-      "neuter-declension",
-      "read",
-      "verb-groups"
-    ],
-    "syllables": [
-      "accents",
-      "past-conjugation",
-      "read"
-    ],
-    "vowels": [
-      "accents",
-      "double-letters",
-      "vowels-consonants"
-    ],
-    "law": [
+    "accents": [
       "accents"
     ],
-    "entire": [
-      "accents"
-    ],
-    "an": [
+    "ensure": [
       "accents",
-      "articles",
-      "demonstrative-pronouns",
-      "feminine-declension",
-      "indefinite-pronouns",
-      "interrogative-pronouns",
-      "neuter-declension",
-      "possessive-pronouns",
-      "relative-pronouns",
-      "verb-groups",
-      "verbs",
-      "voices-moods"
-    ],
-    "rules": [
-      "accents",
-      "declension"
-    ],
-    "target": [
-      "accents"
-    ],
-    "correct": [
-      "accents",
-      "conjugation-present",
-      "double-letters"
+      "coming-soon"
     ],
     "example": [
       "accents",
@@ -1041,81 +1306,9 @@
       "reflexive-pronouns",
       "verb-groups"
     ],
-    "to": [
+    "carry": [
       "accents",
-      "adjectives",
-      "articles-declension",
-      "articles",
-      "auxiliary-verbs",
-      "basics",
-      "coming-soon",
-      "conjugation-present",
-      "conjunctions",
-      "declension",
-      "definite-pronouns",
-      "degrees-adjectives",
-      "demonstrative-pronouns",
-      "dialogues-travel",
-      "double-letters",
-      "genders",
-      "indefinite-pronouns",
-      "interjections",
-      "interrogative-pronouns",
-      "masculine-declension",
-      "neuter-declension",
-      "particles",
-      "past-conjugation",
-      "personal-pronouns",
-      "phrases",
-      "possessive-pronouns",
-      "prepositions",
-      "pronouns",
-      "punctuation",
-      "read",
-      "relative-pronouns",
-      "verb-groups",
-      "verb-to-be",
-      "verbs",
-      "voices-moods",
-      "vowels-consonants"
-    ],
-    "of": [
-      "accents",
-      "adjectives",
-      "articles-declension",
-      "articles",
-      "basics",
-      "cases",
-      "declension",
-      "degrees-adjectives",
-      "dialogues-travel",
-      "double-letters",
-      "genders",
-      "indefinite-pronouns",
-      "interjections",
-      "interrogative-pronouns",
-      "neuter-declension",
-      "particles",
-      "past-conjugation",
-      "possessive-pronouns",
-      "prepositions",
-      "pronouns",
-      "punctuation",
-      "read",
-      "reflexive-pronouns",
-      "verb-groups",
-      "verb-to-be",
-      "verbs",
-      "voices-moods",
-      "vowels-consonants"
-    ],
-    "car": [
-      "accents",
-      "possessive-pronouns"
-    ],
-    "fundamental": [
-      "accents",
-      "nouns"
+      "interrogative-pronouns"
     ],
     "words": [
       "accents",
@@ -1131,146 +1324,34 @@
       "pronouns",
       "read"
     ],
-    "not": [
-      "accents",
-      "adverbs",
-      "definite-pronouns",
-      "demonstrative-pronouns"
-    ],
-    "family": [
-      "accents",
-      "double-letters"
-    ],
-    "pronunciation": [
-      "accents",
-      "double-letters",
-      "phrases"
-    ],
-    "ra": [
-      "accents"
-    ],
-    "that": [
-      "accents",
-      "adjectives",
-      "adverbs",
-      "conjunctions",
-      "demonstrative-pronouns",
-      "double-letters",
-      "interjections",
-      "interrogative-pronouns",
-      "particles",
-      "past-conjugation",
-      "possessive-pronouns",
-      "prepositions",
-      "pronouns",
-      "punctuation",
-      "relative-pronouns",
-      "tenses",
-      "verb-groups",
-      "vowels-consonants"
-    ],
-    "visible": [
-      "accents"
-    ],
-    "three": [
-      "accents",
-      "adjectives",
-      "degrees-adjectives",
-      "genders",
-      "nouns",
-      "past-conjugation"
-    ],
-    "placement": [
-      "accents"
-    ],
-    "crucial": [
-      "accents"
-    ],
-    "orthographic": [
-      "accents",
-      "basics"
-    ],
-    "ko": [
-      "accents"
-    ],
-    "nomos": [
-      "accents"
-    ],
-    "with": [
-      "accents",
-      "adjectives",
-      "adverbs",
-      "definite-pronouns",
-      "demonstrative-pronouns",
-      "nouns",
-      "prepositions",
-      "relative-pronouns"
-    ],
-    "ambiguous": [
-      "accents"
-    ],
-    "te": [
-      "accents"
-    ],
-    "af": [
-      "accents",
-      "double-letters"
-    ],
-    "uses": [
-      "accents",
-      "articles",
-      "basics",
-      "cases",
-      "voices-moods"
-    ],
-    "on": [
-      "accents",
-      "adverbs",
-      "articles",
-      "declension",
-      "double-letters",
-      "genders",
-      "interjections",
-      "personal-pronouns",
-      "possessive-pronouns",
-      "pronouns",
-      "social-expressions",
-      "tenses",
-      "verb-groups",
-      "voices-moods",
-      "vowels-consonants"
-    ],
-    "top": [
-      "accents",
-      "adverbs",
-      "basics",
-      "punctuation"
-    ],
-    "stress": [
+    "syllables": [
       "accents",
       "past-conjugation",
-      "vowels-consonants"
-    ],
-    "syllabic": [
-      "accents",
       "read"
     ],
-    "why": [
-      "accents",
-      "conjunctions",
-      "verb-groups"
-    ],
-    "where": [
-      "accents",
-      "adverbs",
-      "cases",
-      "dialogues-travel",
-      "read",
-      "relative-pronouns",
-      "verb-groups"
-    ],
-    "pa": [
+    "exceptions": [
       "accents"
+    ],
+    "father": [
+      "accents",
+      "adjectives",
+      "articles",
+      "double-letters",
+      "genders",
+      "masculine-declension",
+      "read"
+    ],
+    "word": [
+      "accents",
+      "basics",
+      "cases",
+      "declension",
+      "degrees-adjectives",
+      "double-letters",
+      "phrases",
+      "possessive-pronouns",
+      "read",
+      "reflexive-pronouns"
     ],
     "for": [
       "accents",
@@ -1292,64 +1373,156 @@
       "verb-groups",
       "vowels-consonants"
     ],
-    "grammatical": [
-      "accents",
-      "declension",
-      "demonstrative-pronouns",
-      "genders"
-    ],
-    "exceptions": [
+    "ambiguous": [
       "accents"
     ],
-    "modern": [
+    "not": [
       "accents",
-      "cases",
-      "conjugation-present",
-      "double-letters",
-      "interrogative-pronouns",
-      "nouns",
-      "particles",
-      "past-conjugation",
-      "prepositions",
-      "pronouns",
-      "verbs",
-      "vowels-consonants"
-    ],
-    "mark": [
-      "accents",
-      "basics",
-      "interrogative-pronouns",
-      "punctuation",
-      "read",
-      "verb-groups",
-      "vowels-consonants"
-    ],
-    "prefecture": [
-      "accents"
-    ],
-    "one": [
-      "accents",
-      "articles-declension",
-      "declension",
+      "adverbs",
       "definite-pronouns",
+      "demonstrative-pronouns"
+    ],
+    "whatever": [
+      "adjectives",
+      "relative-pronouns"
+    ],
+    "most": [
+      "adjectives",
+      "articles-declension",
+      "auxiliary-verbs",
+      "declension",
+      "degrees-adjectives",
       "genders",
-      "indefinite-pronouns",
       "interjections",
-      "interrogative-pronouns",
+      "masculine-declension",
+      "pronouns",
       "relative-pronouns",
       "social-expressions",
-      "vowels-consonants"
-    ],
-    "while": [
-      "accents",
-      "conjunctions",
-      "dialogues-travel",
-      "genders",
-      "personal-pronouns",
+      "tenses",
+      "verb-to-be",
       "verbs"
     ],
-    "agreement": [
+    "modify": [
       "adjectives"
+    ],
+    "case": [
+      "adjectives",
+      "articles-declension",
+      "articles",
+      "basics",
+      "cases",
+      "feminine-declension",
+      "masculine-declension",
+      "neuter-declension",
+      "nouns",
+      "possessive-pronouns",
+      "prepositions",
+      "pronouns"
+    ],
+    "has": [
+      "adjectives",
+      "declension",
+      "indefinite-pronouns",
+      "past-conjugation",
+      "personal-pronouns",
+      "pronouns",
+      "voices-moods",
+      "vowels-consonants"
+    ],
+    "match": [
+      "adjectives",
+      "articles-declension",
+      "conjugation-present",
+      "possessive-pronouns"
+    ],
+    "καλος": [
+      "adjectives",
+      "declension",
+      "degrees-adjectives"
+    ],
+    "declension": [
+      "adjectives",
+      "articles-declension",
+      "declension",
+      "feminine-declension",
+      "masculine-declension",
+      "neuter-declension"
+    ],
+    "many": [
+      "adjectives",
+      "conjugation-present",
+      "demonstrative-pronouns",
+      "interrogative-pronouns"
+    ],
+    "ος": [
+      "adjectives",
+      "genders",
+      "masculine-declension"
+    ],
+    "number": [
+      "adjectives",
+      "articles",
+      "nouns",
+      "possessive-pronouns",
+      "pronouns"
+    ],
+    "παιδι": [
+      "adjectives",
+      "articles",
+      "genders",
+      "neuter-declension",
+      "nouns",
+      "voices-moods"
+    ],
+    "same": [
+      "adjectives",
+      "articles-declension",
+      "articles",
+      "declension",
+      "definite-pronouns",
+      "interrogative-pronouns",
+      "neuter-declension",
+      "read",
+      "reflexive-pronouns",
+      "vowels-consonants"
+    ],
+    "root": [
+      "adjectives",
+      "degrees-adjectives"
+    ],
+    "noun": [
+      "adjectives",
+      "articles-declension",
+      "articles",
+      "cases",
+      "demonstrative-pronouns",
+      "genders",
+      "nouns",
+      "possessive-pronouns",
+      "prepositions",
+      "relative-pronouns"
+    ],
+    "tall": [
+      "adjectives",
+      "degrees-adjectives"
+    ],
+    "ψηλος": [
+      "adjectives"
+    ],
+    "ωραιος": [
+      "adjectives",
+      "degrees-adjectives"
+    ],
+    "ψηλη": [
+      "adjectives"
+    ],
+    "child": [
+      "adjectives",
+      "articles",
+      "genders",
+      "neuter-declension",
+      "nouns",
+      "voices-moods"
     ],
     "feminine": [
       "adjectives",
@@ -1358,47 +1531,6 @@
       "feminine-declension",
       "genders",
       "nouns"
-    ],
-    "whatever": [
-      "adjectives",
-      "relative-pronouns"
-    ],
-    "describes": [
-      "adjectives",
-      "articles-declension"
-    ],
-    "many": [
-      "adjectives",
-      "conjugation-present",
-      "demonstrative-pronouns",
-      "interrogative-pronouns"
-    ],
-    "it": [
-      "adjectives",
-      "articles-declension",
-      "articles",
-      "basics",
-      "conjunctions",
-      "declension",
-      "definite-pronouns",
-      "interjections",
-      "interrogative-pronouns",
-      "nouns",
-      "particles",
-      "past-conjugation",
-      "personal-pronouns",
-      "phrases",
-      "possessive-pronouns",
-      "prepositions",
-      "pronouns",
-      "punctuation",
-      "read",
-      "relative-pronouns",
-      "social-expressions",
-      "tenses",
-      "verb-groups",
-      "verb-to-be",
-      "verbs"
     ],
     "gender": [
       "adjectives",
@@ -1409,51 +1541,64 @@
       "possessive-pronouns",
       "pronouns"
     ],
-    "match": [
-      "adjectives",
-      "articles-declension",
-      "conjugation-present",
-      "possessive-pronouns"
-    ],
-    "they": [
-      "adjectives",
-      "adverbs",
-      "conjunctions",
-      "declension",
-      "double-letters",
-      "feminine-declension",
-      "interjections",
-      "interrogative-pronouns",
-      "neuter-declension",
-      "past-conjugation",
-      "possessive-pronouns",
-      "pronouns",
-      "verb-to-be",
-      "vowels-consonants"
-    ],
-    "must": [
-      "adjectives",
-      "articles-declension",
-      "declension",
-      "demonstrative-pronouns",
-      "possessive-pronouns"
-    ],
-    "every": [
+    "neuter": [
       "adjectives",
       "articles-declension",
       "articles",
       "genders",
-      "indefinite-pronouns",
-      "read",
-      "social-expressions"
+      "neuter-declension",
+      "nouns"
     ],
-    "fem": [
+    "like": [
+      "adjectives",
+      "adverbs",
+      "articles-declension",
+      "auxiliary-verbs",
+      "basics",
+      "declension",
+      "double-letters",
+      "indefinite-pronouns",
+      "interrogative-pronouns",
+      "past-conjugation",
+      "personal-pronouns",
+      "possessive-pronouns",
+      "pronouns",
+      "punctuation",
+      "relative-pronouns",
+      "voices-moods"
+    ],
+    "adjective": [
+      "adjectives",
+      "definite-pronouns",
+      "degrees-adjectives",
+      "indefinite-pronouns",
+      "interrogative-pronouns",
+      "possessive-pronouns",
+      "relative-pronouns"
+    ],
+    "ψηλο": [
       "adjectives"
     ],
-    "small": [
+    "agreement": [
+      "adjectives"
+    ],
+    "το": [
       "adjectives",
-      "particles",
-      "prepositions"
+      "articles-declension",
+      "articles",
+      "cases",
+      "declension",
+      "definite-pronouns",
+      "demonstrative-pronouns",
+      "genders",
+      "masculine-declension",
+      "neuter-declension",
+      "nouns",
+      "past-conjugation",
+      "possessive-pronouns",
+      "prepositions",
+      "relative-pronouns",
+      "voices-moods"
     ],
     "this": [
       "adjectives",
@@ -1475,62 +1620,64 @@
       "tenses",
       "vowels-consonants"
     ],
+    "μικρη": [
+      "adjectives"
+    ],
+    "καλο": [
+      "adjectives",
+      "conjunctions"
+    ],
+    "neut": [
+      "adjectives"
+    ],
+    "single": [
+      "adjectives",
+      "articles-declension",
+      "double-letters",
+      "interrogative-pronouns"
+    ],
     "exactly": [
       "adjectives",
       "auxiliary-verbs",
       "punctuation"
     ],
-    "has": [
+    "they": [
       "adjectives",
+      "adverbs",
+      "conjunctions",
       "declension",
-      "indefinite-pronouns",
+      "double-letters",
+      "feminine-declension",
+      "interjections",
+      "interrogative-pronouns",
+      "neuter-declension",
       "past-conjugation",
-      "personal-pronouns",
+      "possessive-pronouns",
       "pronouns",
-      "voices-moods",
+      "verb-to-be",
       "vowels-consonants"
     ],
-    "most": [
+    "have": [
       "adjectives",
-      "articles-declension",
+      "articles",
       "auxiliary-verbs",
-      "declension",
-      "degrees-adjectives",
-      "genders",
-      "interjections",
-      "masculine-declension",
-      "pronouns",
-      "relative-pronouns",
-      "social-expressions",
-      "tenses",
-      "verb-to-be",
-      "verbs"
-    ],
-    "declines": [
-      "adjectives",
-      "indefinite-pronouns",
-      "interrogative-pronouns",
-      "relative-pronouns"
-    ],
-    "common": [
-      "adjectives",
       "conjugation-present",
+      "definite-pronouns",
+      "degrees-adjectives",
+      "demonstrative-pronouns",
+      "particles",
+      "possessive-pronouns",
+      "tenses",
+      "verb-groups",
+      "verbs",
+      "voices-moods"
+    ],
+    "good": [
+      "adjectives",
       "conjunctions",
       "degrees-adjectives",
-      "dialogues-travel",
-      "interjections",
-      "masculine-declension",
-      "reflexive-pronouns",
-      "relative-pronouns",
+      "phrases",
       "social-expressions"
-    ],
-    "tall": [
-      "adjectives",
-      "degrees-adjectives"
-    ],
-    "agree": [
-      "adjectives",
-      "declension"
     ],
     "different": [
       "adjectives",
@@ -1538,42 +1685,41 @@
       "past-conjugation",
       "verb-groups"
     ],
-    "are": [
+    "every": [
       "adjectives",
-      "adverbs",
+      "articles-declension",
       "articles",
-      "auxiliary-verbs",
-      "basics",
-      "cases",
-      "conjugation-present",
-      "conjunctions",
-      "declension",
-      "definite-pronouns",
-      "degrees-adjectives",
-      "demonstrative-pronouns",
-      "double-letters",
-      "feminine-declension",
       "genders",
       "indefinite-pronouns",
-      "interjections",
-      "interrogative-pronouns",
-      "masculine-declension",
+      "read",
+      "social-expressions"
+    ],
+    "forms": [
+      "adjectives",
+      "degrees-adjectives",
       "neuter-declension",
-      "nouns",
-      "particles",
       "past-conjugation",
       "personal-pronouns",
-      "phrases",
-      "prepositions",
-      "pronouns",
-      "punctuation",
-      "reflexive-pronouns",
-      "relative-pronouns",
-      "tenses",
-      "verb-groups",
-      "verb-to-be",
-      "verbs",
+      "possessive-pronouns",
+      "voices-moods",
       "vowels-consonants"
+    ],
+    "καλ": [
+      "adjectives"
+    ],
+    "masc": [
+      "adjectives"
+    ],
+    "beautiful": [
+      "adjectives",
+      "degrees-adjectives"
+    ],
+    "καλη": [
+      "adjectives",
+      "social-expressions"
+    ],
+    "ωραια": [
+      "adjectives"
     ],
     "masculine": [
       "adjectives",
@@ -1583,9 +1729,6 @@
       "genders",
       "masculine-declension",
       "nouns"
-    ],
-    "modify": [
-      "adjectives"
     ],
     "and": [
       "adjectives",
@@ -1627,29 +1770,75 @@
       "read",
       "verbs"
     ],
-    "neuter": [
+    "small": [
       "adjectives",
-      "articles-declension",
-      "articles",
+      "particles",
+      "prepositions"
+    ],
+    "genders": [
+      "adjectives",
       "genders",
-      "neuter-declension",
       "nouns"
     ],
-    "good": [
+    "agree": [
       "adjectives",
+      "declension"
+    ],
+    "rule": [
+      "adjectives",
+      "masculine-declension",
+      "neuter-declension",
+      "nouns",
+      "pronouns",
+      "tenses"
+    ],
+    "are": [
+      "adjectives",
+      "adverbs",
+      "articles",
+      "auxiliary-verbs",
+      "basics",
+      "cases",
+      "conjugation-present",
       "conjunctions",
+      "declension",
+      "definite-pronouns",
       "degrees-adjectives",
+      "demonstrative-pronouns",
+      "double-letters",
+      "feminine-declension",
+      "genders",
+      "indefinite-pronouns",
+      "interjections",
+      "interrogative-pronouns",
+      "masculine-declension",
+      "neuter-declension",
+      "nouns",
+      "particles",
+      "past-conjugation",
+      "personal-pronouns",
       "phrases",
-      "social-expressions"
+      "prepositions",
+      "pronouns",
+      "punctuation",
+      "reflexive-pronouns",
+      "relative-pronouns",
+      "tenses",
+      "verb-groups",
+      "verb-to-be",
+      "verbs",
+      "vowels-consonants"
     ],
-    "root": [
+    "describes": [
       "adjectives",
-      "degrees-adjectives"
+      "articles-declension"
     ],
-    "declined": [
+    "must": [
       "adjectives",
       "articles-declension",
-      "declension"
+      "declension",
+      "demonstrative-pronouns",
+      "possessive-pronouns"
     ],
     "nouns": [
       "adjectives",
@@ -1664,113 +1853,64 @@
       "prepositions",
       "pronouns"
     ],
-    "masc": [
-      "adjectives"
-    ],
-    "adjective": [
+    "common": [
       "adjectives",
-      "definite-pronouns",
-      "degrees-adjectives",
-      "indefinite-pronouns",
-      "interrogative-pronouns",
-      "possessive-pronouns",
-      "relative-pronouns"
-    ],
-    "neut": [
-      "adjectives"
-    ],
-    "child": [
-      "adjectives",
-      "articles",
-      "genders",
-      "neuter-declension",
-      "nouns",
-      "voices-moods"
-    ],
-    "like": [
-      "adjectives",
-      "adverbs",
-      "articles-declension",
-      "auxiliary-verbs",
-      "basics",
-      "declension",
-      "double-letters",
-      "indefinite-pronouns",
-      "interrogative-pronouns",
-      "past-conjugation",
-      "personal-pronouns",
-      "possessive-pronouns",
-      "pronouns",
-      "punctuation",
-      "relative-pronouns",
-      "voices-moods"
-    ],
-    "have": [
-      "adjectives",
-      "articles",
-      "auxiliary-verbs",
       "conjugation-present",
-      "definite-pronouns",
+      "conjunctions",
       "degrees-adjectives",
-      "demonstrative-pronouns",
-      "particles",
-      "possessive-pronouns",
-      "tenses",
-      "verb-groups",
-      "verbs",
-      "voices-moods"
-    ],
-    "forms": [
-      "adjectives",
-      "degrees-adjectives",
-      "neuter-declension",
-      "past-conjugation",
-      "personal-pronouns",
-      "possessive-pronouns",
-      "voices-moods",
-      "vowels-consonants"
-    ],
-    "same": [
-      "adjectives",
-      "articles-declension",
-      "articles",
-      "declension",
-      "definite-pronouns",
-      "interrogative-pronouns",
-      "neuter-declension",
-      "read",
+      "dialogues-travel",
+      "interjections",
+      "masculine-declension",
       "reflexive-pronouns",
-      "vowels-consonants"
+      "relative-pronouns",
+      "social-expressions"
     ],
-    "case": [
+    "μικρο": [
+      "adjectives"
+    ],
+    "μικρος": [
+      "adjectives"
+    ],
+    "it": [
       "adjectives",
       "articles-declension",
       "articles",
       "basics",
-      "cases",
-      "feminine-declension",
-      "masculine-declension",
-      "neuter-declension",
+      "conjunctions",
+      "declension",
+      "definite-pronouns",
+      "interjections",
+      "interrogative-pronouns",
       "nouns",
+      "particles",
+      "past-conjugation",
+      "personal-pronouns",
+      "phrases",
       "possessive-pronouns",
       "prepositions",
-      "pronouns"
+      "pronouns",
+      "punctuation",
+      "read",
+      "relative-pronouns",
+      "social-expressions",
+      "tenses",
+      "verb-groups",
+      "verb-to-be",
+      "verbs"
     ],
-    "beautiful": [
+    "declines": [
       "adjectives",
-      "degrees-adjectives"
+      "indefinite-pronouns",
+      "interrogative-pronouns",
+      "relative-pronouns"
     ],
-    "pattern": [
-      "adjectives",
-      "feminine-declension",
-      "verb-to-be"
+    "ωραιο": [
+      "adjectives"
     ],
-    "number": [
+    "declined": [
       "adjectives",
-      "articles",
-      "nouns",
-      "possessive-pronouns",
-      "pronouns"
+      "articles-declension",
+      "declension"
     ],
     "adjectives": [
       "adjectives",
@@ -1778,168 +1918,65 @@
       "declension",
       "degrees-adjectives"
     ],
-    "rule": [
+    "pattern": [
       "adjectives",
-      "masculine-declension",
-      "neuter-declension",
-      "nouns",
-      "pronouns",
-      "tenses"
-    ],
-    "declension": [
-      "adjectives",
-      "articles-declension",
-      "declension",
       "feminine-declension",
-      "masculine-declension",
-      "neuter-declension"
+      "verb-to-be"
     ],
-    "noun": [
-      "adjectives",
-      "articles-declension",
-      "articles",
-      "cases",
-      "demonstrative-pronouns",
-      "genders",
-      "nouns",
-      "possessive-pronouns",
-      "prepositions",
-      "relative-pronouns"
+    "fem": [
+      "adjectives"
     ],
-    "genders": [
-      "adjectives",
-      "genders",
-      "nouns"
-    ],
-    "single": [
-      "adjectives",
-      "articles-declension",
-      "double-letters",
-      "interrogative-pronouns"
-    ],
-    "manner": [
-      "adverbs",
-      "prepositions"
-    ],
-    "more": [
-      "adverbs",
-      "degrees-adjectives",
-      "pronouns"
-    ],
-    "inside": [
+    "αρκετα": [
       "adverbs"
-    ],
-    "tell": [
-      "adverbs",
-      "interjections"
-    ],
-    "first": [
-      "adverbs",
-      "basics",
-      "declension",
-      "dialogues-travel",
-      "phrases",
-      "verb-groups"
-    ],
-    "when": [
-      "adverbs",
-      "articles",
-      "conjunctions",
-      "demonstrative-pronouns",
-      "dialogues-travel",
-      "interrogative-pronouns",
-      "past-conjugation",
-      "possessive-pronouns",
-      "punctuation",
-      "reflexive-pronouns",
-      "tenses"
-    ],
-    "information": [
-      "adverbs"
-    ],
-    "yesterday": [
-      "adverbs"
-    ],
-    "together": [
-      "adverbs",
-      "declension"
-    ],
-    "quietly": [
-      "adverbs"
-    ],
-    "about": [
-      "adverbs",
-      "interrogative-pronouns",
-      "prepositions"
-    ],
-    "below": [
-      "adverbs",
-      "verb-to-be",
-      "verbs"
     ],
     "up": [
       "adverbs",
       "interjections"
     ],
-    "quantity": [
-      "adverbs",
-      "demonstrative-pronouns",
-      "interrogative-pronouns",
-      "relative-pronouns"
+    "slowly": [
+      "adverbs"
     ],
-    "never": [
-      "adverbs",
-      "nouns",
-      "possessive-pronouns",
-      "relative-pronouns"
+    "μαζι": [
+      "adverbs"
     ],
-    "time": [
+    "now": [
       "adverbs",
-      "conjunctions",
-      "prepositions",
-      "tenses"
-    ],
-    "indeclinable": [
-      "adverbs",
-      "declension",
-      "indefinite-pronouns",
-      "interrogative-pronouns",
       "particles",
-      "prepositions",
-      "relative-pronouns"
+      "vowels-consonants"
     ],
-    "verbs": [
-      "adverbs",
-      "auxiliary-verbs",
-      "conjugation-present",
-      "verb-groups",
-      "verbs",
-      "voices-moods"
+    "δυστυχως": [
+      "adverbs"
     ],
-    "there": [
+    "careful": [
       "adverbs",
-      "articles",
-      "degrees-adjectives",
+      "definite-pronouns"
+    ],
+    "εκει": [
+      "adverbs",
       "dialogues-travel",
-      "indefinite-pronouns",
+      "indefinite-pronouns"
+    ],
+    "happened": [
+      "adverbs",
+      "past-conjugation"
+    ],
+    "enough": [
+      "adverbs"
+    ],
+    "τοπικα": [
+      "adverbs"
+    ],
+    "at": [
+      "adverbs",
+      "basics",
+      "dialogues-travel",
+      "interrogative-pronouns",
       "past-conjugation",
+      "prepositions",
       "punctuation"
     ],
-    "fortunately": [
+    "αυριο": [
       "adverbs"
-    ],
-    "outside": [
-      "adverbs"
-    ],
-    "quite": [
-      "adverbs"
-    ],
-    "much": [
-      "adverbs",
-      "demonstrative-pronouns",
-      "interrogative-pronouns",
-      "masculine-declension",
-      "relative-pronouns"
     ],
     "always": [
       "adverbs",
@@ -1952,8 +1989,122 @@
       "prepositions",
       "read"
     ],
+    "quietly": [
+      "adverbs"
+    ],
+    "πολυ": [
+      "adverbs"
+    ],
+    "ποτε": [
+      "adverbs"
+    ],
+    "indeclinable": [
+      "adverbs",
+      "declension",
+      "indefinite-pronouns",
+      "interrogative-pronouns",
+      "particles",
+      "prepositions",
+      "relative-pronouns"
+    ],
+    "inside": [
+      "adverbs"
+    ],
+    "unfortunately": [
+      "adverbs",
+      "interjections"
+    ],
+    "time": [
+      "adverbs",
+      "conjunctions",
+      "prepositions",
+      "tenses"
+    ],
+    "there": [
+      "adverbs",
+      "articles",
+      "degrees-adjectives",
+      "dialogues-travel",
+      "indefinite-pronouns",
+      "past-conjugation",
+      "punctuation"
+    ],
+    "vs": [
+      "adverbs",
+      "articles",
+      "declension",
+      "definite-pronouns",
+      "personal-pronouns",
+      "pronouns",
+      "relative-pronouns",
+      "tenses",
+      "verb-groups",
+      "vowels-consonants"
+    ],
+    "καθολου": [
+      "adverbs"
+    ],
+    "more": [
+      "adverbs",
+      "degrees-adjectives",
+      "pronouns"
+    ],
+    "μεσα": [
+      "adverbs"
+    ],
+    "today": [
+      "adverbs"
+    ],
+    "quite": [
+      "adverbs"
+    ],
+    "all": [
+      "adverbs",
+      "degrees-adjectives",
+      "interrogative-pronouns",
+      "particles",
+      "vowels-consonants"
+    ],
+    "παντα": [
+      "adverbs"
+    ],
+    "τωρα": [
+      "adverbs"
+    ],
+    "information": [
+      "adverbs"
+    ],
+    "σημερα": [
+      "adverbs"
+    ],
+    "little": [
+      "adverbs"
+    ],
     "down": [
       "adverbs"
+    ],
+    "manner": [
+      "adverbs",
+      "prepositions"
+    ],
+    "other": [
+      "adverbs",
+      "indefinite-pronouns",
+      "particles"
+    ],
+    "γρηγορα": [
+      "adverbs"
+    ],
+    "ετσι": [
+      "adverbs"
+    ],
+    "first": [
+      "adverbs",
+      "basics",
+      "declension",
+      "dialogues-travel",
+      "phrases",
+      "verb-groups"
     ],
     "how": [
       "adverbs",
@@ -1969,35 +2120,11 @@
       "verb-to-be",
       "vowels-consonants"
     ],
-    "slowly": [
+    "ποσοτικα": [
       "adverbs"
     ],
-    "little": [
+    "ευτυχως": [
       "adverbs"
-    ],
-    "very": [
-      "adverbs",
-      "degrees-adjectives",
-      "feminine-declension",
-      "punctuation"
-    ],
-    "quickly": [
-      "adverbs"
-    ],
-    "tomorrow": [
-      "adverbs"
-    ],
-    "spelling": [
-      "adverbs",
-      "double-letters",
-      "relative-pronouns"
-    ],
-    "today": [
-      "adverbs"
-    ],
-    "careful": [
-      "adverbs",
-      "definite-pronouns"
     ],
     "us": [
       "adverbs",
@@ -2005,82 +2132,255 @@
       "pronouns",
       "verbs"
     ],
+    "σιγα": [
+      "adverbs"
+    ],
+    "outside": [
+      "adverbs"
+    ],
+    "much": [
+      "adverbs",
+      "demonstrative-pronouns",
+      "interrogative-pronouns",
+      "masculine-declension",
+      "relative-pronouns"
+    ],
     "adverbs": [
       "adverbs"
     ],
-    "enough": [
-      "adverbs"
-    ],
-    "all": [
+    "quantity": [
       "adverbs",
-      "degrees-adjectives",
+      "demonstrative-pronouns",
       "interrogative-pronouns",
-      "particles",
-      "vowels-consonants"
-    ],
-    "alert": [
-      "adverbs",
       "relative-pronouns"
-    ],
-    "other": [
-      "adverbs",
-      "indefinite-pronouns",
-      "particles"
-    ],
-    "happened": [
-      "adverbs",
-      "past-conjugation"
-    ],
-    "unfortunately": [
-      "adverbs",
-      "interjections"
-    ],
-    "now": [
-      "adverbs",
-      "particles",
-      "vowels-consonants"
-    ],
-    "place": [
-      "adverbs",
-      "degrees-adjectives",
-      "pronouns"
-    ],
-    "provide": [
-      "adverbs"
-    ],
-    "vs": [
-      "adverbs",
-      "articles",
-      "declension",
-      "definite-pronouns",
-      "personal-pronouns",
-      "pronouns",
-      "relative-pronouns",
-      "tenses",
-      "verb-groups",
-      "vowels-consonants"
     ],
     "something": [
       "adverbs",
       "dialogues-travel",
       "indefinite-pronouns"
     ],
+    "place": [
+      "adverbs",
+      "degrees-adjectives",
+      "pronouns"
+    ],
+    "fortunately": [
+      "adverbs"
+    ],
+    "below": [
+      "adverbs",
+      "verb-to-be",
+      "verbs"
+    ],
+    "επιρρηματα": [
+      "adverbs"
+    ],
+    "when": [
+      "adverbs",
+      "articles",
+      "conjunctions",
+      "demonstrative-pronouns",
+      "dialogues-travel",
+      "interrogative-pronouns",
+      "past-conjugation",
+      "possessive-pronouns",
+      "punctuation",
+      "reflexive-pronouns",
+      "tenses"
+    ],
+    "λιγο": [
+      "adverbs"
+    ],
+    "alert": [
+      "adverbs",
+      "relative-pronouns"
+    ],
+    "κατω": [
+      "adverbs"
+    ],
+    "quickly": [
+      "adverbs"
+    ],
+    "about": [
+      "adverbs",
+      "interrogative-pronouns",
+      "prepositions"
+    ],
+    "tell": [
+      "adverbs",
+      "interjections"
+    ],
+    "provide": [
+      "adverbs"
+    ],
+    "verbs": [
+      "adverbs",
+      "auxiliary-verbs",
+      "conjugation-present",
+      "verb-groups",
+      "verbs",
+      "voices-moods"
+    ],
+    "εδω": [
+      "adverbs",
+      "dialogues-travel",
+      "verb-to-be"
+    ],
+    "εξω": [
+      "adverbs"
+    ],
+    "tomorrow": [
+      "adverbs"
+    ],
+    "yesterday": [
+      "adverbs"
+    ],
+    "τροπικα": [
+      "adverbs"
+    ],
+    "never": [
+      "adverbs",
+      "nouns",
+      "possessive-pronouns",
+      "relative-pronouns"
+    ],
     "here": [
       "adverbs",
       "dialogues-travel",
       "interjections"
     ],
-    "at": [
+    "χτες": [
+      "adverbs"
+    ],
+    "together": [
       "adverbs",
-      "basics",
-      "dialogues-travel",
-      "interrogative-pronouns",
-      "past-conjugation",
-      "prepositions",
+      "declension"
+    ],
+    "very": [
+      "adverbs",
+      "degrees-adjectives",
+      "feminine-declension",
       "punctuation"
+    ],
+    "πανω": [
+      "adverbs"
+    ],
+    "spelling": [
+      "adverbs",
+      "double-letters",
+      "relative-pronouns"
+    ],
+    "χρονικα": [
+      "adverbs"
+    ],
+    "plural": [
+      "articles-declension",
+      "articles",
+      "feminine-declension",
+      "masculine-declension",
+      "neuter-declension",
+      "past-conjugation",
+      "personal-pronouns",
+      "phrases",
+      "possessive-pronouns",
+      "reflexive-pronouns"
+    ],
+    "τις": [
+      "articles-declension",
+      "feminine-declension"
+    ],
+    "της": [
+      "articles-declension",
+      "feminine-declension",
+      "possessive-pronouns",
+      "reflexive-pronouns"
+    ],
+    "acc": [
+      "articles-declension",
+      "cases",
+      "feminine-declension",
+      "masculine-declension",
+      "neuter-declension"
     ],
     "shared": [
       "articles-declension"
+    ],
+    "provides": [
+      "articles-declension"
+    ],
+    "τα": [
+      "articles-declension",
+      "articles",
+      "definite-pronouns",
+      "neuter-declension",
+      "nouns"
+    ],
+    "watch": [
+      "articles-declension"
+    ],
+    "universal": [
+      "articles-declension",
+      "interrogative-pronouns",
+      "relative-pronouns"
+    ],
+    "gen": [
+      "articles-declension",
+      "cases",
+      "feminine-declension",
+      "masculine-declension",
+      "neuter-declension"
+    ],
+    "often": [
+      "articles-declension",
+      "definite-pronouns",
+      "dialogues-travel",
+      "feminine-declension",
+      "interjections",
+      "possessive-pronouns",
+      "pronouns",
+      "punctuation",
+      "verb-groups",
+      "voices-moods"
+    ],
+    "τη": [
+      "articles-declension",
+      "feminine-declension",
+      "personal-pronouns",
+      "prepositions"
+    ],
+    "share": [
+      "articles-declension",
+      "articles"
+    ],
+    "clearest": [
+      "articles-declension"
+    ],
+    "definite": [
+      "articles-declension",
+      "articles",
+      "definite-pronouns",
+      "nouns",
+      "prepositions"
+    ],
+    "πληθυντικος": [
+      "articles-declension"
+    ],
+    "τους": [
+      "articles-declension",
+      "masculine-declension",
+      "possessive-pronouns",
+      "reflexive-pronouns"
+    ],
+    "singular": [
+      "articles-declension",
+      "articles",
+      "feminine-declension",
+      "masculine-declension",
+      "neuter-declension",
+      "personal-pronouns",
+      "possessive-pronouns",
+      "reflexive-pronouns",
+      "verbs"
     ],
     "as": [
       "articles-declension",
@@ -2096,58 +2396,21 @@
       "reflexive-pronouns",
       "relative-pronouns"
     ],
-    "singular": [
+    "των": [
       "articles-declension",
-      "articles",
-      "feminine-declension",
-      "masculine-declension",
-      "neuter-declension",
-      "personal-pronouns",
-      "possessive-pronouns",
-      "reflexive-pronouns",
-      "verbs"
-    ],
-    "acc": [
-      "articles-declension",
-      "cases",
       "feminine-declension",
       "masculine-declension",
       "neuter-declension"
     ],
-    "share": [
-      "articles-declension",
-      "articles"
-    ],
-    "watch": [
-      "articles-declension"
-    ],
-    "clue": [
-      "articles-declension"
-    ],
-    "definite": [
-      "articles-declension",
-      "articles",
-      "definite-pronouns",
-      "nouns",
-      "prepositions"
-    ],
-    "gen": [
+    "genitive": [
       "articles-declension",
       "cases",
-      "feminine-declension",
-      "masculine-declension",
-      "neuter-declension"
+      "masculine-declension"
     ],
     "articles": [
       "articles-declension",
       "articles",
       "declension"
-    ],
-    "important": [
-      "articles-declension",
-      "auxiliary-verbs",
-      "tenses",
-      "verb-to-be"
     ],
     "nominative": [
       "articles-declension",
@@ -2155,22 +2418,13 @@
       "neuter-declension",
       "personal-pronouns"
     ],
-    "often": [
-      "articles-declension",
-      "definite-pronouns",
-      "dialogues-travel",
-      "feminine-declension",
-      "interjections",
-      "possessive-pronouns",
-      "pronouns",
-      "punctuation",
-      "verb-groups",
-      "voices-moods"
+    "clue": [
+      "articles-declension"
     ],
-    "universal": [
+    "language": [
       "articles-declension",
-      "interrogative-pronouns",
-      "relative-pronouns"
+      "declension",
+      "verb-to-be"
     ],
     "article": [
       "articles-declension",
@@ -2184,42 +2438,11 @@
       "possessive-pronouns",
       "prepositions"
     ],
-    "language": [
+    "important": [
       "articles-declension",
-      "declension",
+      "auxiliary-verbs",
+      "tenses",
       "verb-to-be"
-    ],
-    "just": [
-      "articles-declension",
-      "declension",
-      "pronouns"
-    ],
-    "memorize": [
-      "articles-declension",
-      "masculine-declension"
-    ],
-    "provides": [
-      "articles-declension"
-    ],
-    "plural": [
-      "articles-declension",
-      "articles",
-      "feminine-declension",
-      "masculine-declension",
-      "neuter-declension",
-      "past-conjugation",
-      "personal-pronouns",
-      "phrases",
-      "possessive-pronouns",
-      "reflexive-pronouns"
-    ],
-    "genitive": [
-      "articles-declension",
-      "cases",
-      "masculine-declension"
-    ],
-    "clearest": [
-      "articles-declension"
     ],
     "nom": [
       "articles-declension",
@@ -2228,28 +2451,80 @@
       "masculine-declension",
       "neuter-declension"
     ],
-    "referring": [
+    "του": [
+      "articles-declension",
+      "cases",
+      "masculine-declension",
+      "neuter-declension",
+      "possessive-pronouns",
+      "reflexive-pronouns"
+    ],
+    "memorize": [
+      "articles-declension",
+      "masculine-declension"
+    ],
+    "οι": [
+      "articles-declension",
+      "articles",
+      "double-letters",
+      "feminine-declension",
+      "masculine-declension"
+    ],
+    "ενικος": [
+      "articles-declension"
+    ],
+    "just": [
+      "articles-declension",
+      "declension",
+      "pronouns"
+    ],
+    "note": [
+      "articles",
+      "definite-pronouns",
+      "demonstrative-pronouns",
+      "genders",
+      "interrogative-pronouns",
+      "prepositions",
+      "social-expressions"
+    ],
+    "μια": [
       "articles"
     ],
-    "form": [
+    "οριστικο": [
+      "articles"
+    ],
+    "ενα": [
+      "articles",
+      "definite-pronouns",
+      "social-expressions"
+    ],
+    "cars": [
+      "articles"
+    ],
+    "tells": [
+      "articles",
+      "interrogative-pronouns",
+      "pronouns",
+      "verb-groups",
+      "verbs"
+    ],
+    "two": [
       "articles",
       "auxiliary-verbs",
       "degrees-adjectives",
       "double-letters",
-      "possessive-pronouns",
-      "read",
-      "relative-pronouns",
+      "past-conjugation",
+      "personal-pronouns",
+      "punctuation",
       "voices-moods"
     ],
-    "changes": [
+    "by": [
       "articles",
       "cases",
-      "masculine-declension",
-      "relative-pronouns",
-      "verb-to-be"
-    ],
-    "cars": [
-      "articles"
+      "definite-pronouns",
+      "demonstrative-pronouns",
+      "nouns",
+      "prepositions"
     ],
     "used": [
       "articles",
@@ -2269,112 +2544,22 @@
       "social-expressions",
       "voices-moods"
     ],
-    "but": [
-      "articles",
-      "basics",
-      "conjunctions",
-      "interrogative-pronouns",
-      "particles",
-      "phrases",
-      "punctuation",
-      "verb-to-be",
-      "vowels-consonants"
-    ],
-    "non": [
-      "articles",
-      "indefinite-pronouns",
-      "interrogative-pronouns"
-    ],
-    "item": [
+    "αοριστο": [
       "articles"
     ],
-    "two": [
+    "indefinite": [
       "articles",
-      "auxiliary-verbs",
-      "degrees-adjectives",
-      "double-letters",
-      "past-conjugation",
-      "personal-pronouns",
-      "punctuation",
-      "voices-moods"
-    ],
-    "we": [
-      "articles",
-      "declension",
-      "definite-pronouns",
-      "demonstrative-pronouns",
-      "personal-pronouns",
-      "possessive-pronouns",
-      "pronouns",
-      "read",
-      "reflexive-pronouns",
-      "verb-to-be"
-    ],
-    "by": [
-      "articles",
-      "cases",
-      "definite-pronouns",
-      "demonstrative-pronouns",
-      "nouns",
-      "prepositions"
-    ],
-    "tells": [
-      "articles",
-      "interrogative-pronouns",
-      "pronouns",
-      "verb-groups",
-      "verbs"
-    ],
-    "almost": [
-      "articles",
-      "degrees-adjectives",
-      "interrogative-pronouns",
-      "prepositions",
-      "read",
-      "social-expressions"
-    ],
-    "don": [
-      "articles",
-      "declension",
-      "indefinite-pronouns",
-      "interjections",
-      "particles",
-      "relative-pronouns"
+      "indefinite-pronouns"
     ],
     "say": [
       "articles",
       "personal-pronouns",
       "possessive-pronouns"
     ],
-    "preceded": [
-      "articles"
-    ],
-    "note": [
-      "articles",
-      "definite-pronouns",
-      "demonstrative-pronouns",
-      "genders",
-      "interrogative-pronouns",
-      "prepositions",
-      "social-expressions"
-    ],
-    "usage": [
+    "non": [
       "articles",
       "indefinite-pronouns",
-      "particles",
-      "personal-pronouns",
-      "reflexive-pronouns"
-    ],
-    "similar": [
-      "articles",
-      "punctuation"
-    ],
-    "items": [
-      "articles"
-    ],
-    "indefinite": [
-      "articles",
-      "indefinite-pronouns"
+      "interrogative-pronouns"
     ],
     "based": [
       "articles",
@@ -2395,13 +2580,153 @@
       "phrases",
       "relative-pronouns"
     ],
-    "types": [
+    "almost": [
+      "articles",
+      "degrees-adjectives",
+      "interrogative-pronouns",
+      "prepositions",
+      "read",
+      "social-expressions"
+    ],
+    "αρθρο": [
       "articles"
+    ],
+    "changes": [
+      "articles",
+      "cases",
+      "masculine-declension",
+      "relative-pronouns",
+      "verb-to-be"
+    ],
+    "we": [
+      "articles",
+      "declension",
+      "definite-pronouns",
+      "demonstrative-pronouns",
+      "personal-pronouns",
+      "possessive-pronouns",
+      "pronouns",
+      "read",
+      "reflexive-pronouns",
+      "verb-to-be"
+    ],
+    "referring": [
+      "articles"
+    ],
+    "similar": [
+      "articles",
+      "punctuation"
+    ],
+    "usage": [
+      "articles",
+      "indefinite-pronouns",
+      "particles",
+      "personal-pronouns",
+      "reflexive-pronouns"
+    ],
+    "don": [
+      "articles",
+      "declension",
+      "indefinite-pronouns",
+      "interjections",
+      "particles",
+      "relative-pronouns"
     ],
     "specific": [
       "articles",
       "demonstrative-pronouns",
       "indefinite-pronouns"
+    ],
+    "but": [
+      "articles",
+      "basics",
+      "conjunctions",
+      "interrogative-pronouns",
+      "particles",
+      "phrases",
+      "punctuation",
+      "verb-to-be",
+      "vowels-consonants"
+    ],
+    "item": [
+      "articles"
+    ],
+    "ενας": [
+      "articles",
+      "indefinite-pronouns"
+    ],
+    "items": [
+      "articles"
+    ],
+    "preceded": [
+      "articles"
+    ],
+    "types": [
+      "articles"
+    ],
+    "form": [
+      "articles",
+      "auxiliary-verbs",
+      "degrees-adjectives",
+      "double-letters",
+      "possessive-pronouns",
+      "read",
+      "relative-pronouns",
+      "voices-moods"
+    ],
+    "ειναι": [
+      "auxiliary-verbs",
+      "conjunctions",
+      "demonstrative-pronouns",
+      "dialogues-travel",
+      "indefinite-pronouns",
+      "interrogative-pronouns",
+      "social-expressions",
+      "verb-to-be"
+    ],
+    "ησασταν": [
+      "auxiliary-verbs"
+    ],
+    "εχεις": [
+      "auxiliary-verbs"
+    ],
+    "αυτοι": [
+      "auxiliary-verbs",
+      "conjugation-present",
+      "past-conjugation",
+      "personal-pronouns",
+      "verb-to-be"
+    ],
+    "ειχε": [
+      "auxiliary-verbs"
+    ],
+    "ειχαν": [
+      "auxiliary-verbs"
+    ],
+    "αυτος": [
+      "auxiliary-verbs",
+      "conjugation-present",
+      "declension",
+      "demonstrative-pronouns",
+      "past-conjugation",
+      "personal-pronouns",
+      "verb-to-be"
+    ],
+    "ες": [
+      "auxiliary-verbs",
+      "conjugation-present",
+      "feminine-declension",
+      "masculine-declension",
+      "past-conjugation",
+      "verb-to-be"
+    ],
+    "ημασταν": [
+      "auxiliary-verbs"
+    ],
+    "complex": [
+      "auxiliary-verbs",
+      "conjunctions",
+      "nouns"
     ],
     "present": [
       "auxiliary-verbs",
@@ -2411,8 +2736,135 @@
       "verb-to-be",
       "verbs"
     ],
-    "auxiliary": [
+    "εγω": [
+      "auxiliary-verbs",
+      "conjugation-present",
+      "declension",
+      "past-conjugation",
+      "personal-pronouns",
+      "pronouns",
+      "verb-to-be",
+      "voices-moods"
+    ],
+    "tenses": [
+      "auxiliary-verbs",
+      "particles",
+      "past-conjugation",
+      "tenses",
+      "voices-moods"
+    ],
+    "ειμαστε": [
+      "auxiliary-verbs",
+      "verb-to-be"
+    ],
+    "εχω": [
+      "auxiliary-verbs",
+      "possessive-pronouns",
+      "tenses"
+    ],
+    "ειχα": [
       "auxiliary-verbs"
+    ],
+    "εμεις": [
+      "auxiliary-verbs",
+      "conjugation-present",
+      "past-conjugation",
+      "personal-pronouns",
+      "verb-to-be"
+    ],
+    "εισαι": [
+      "auxiliary-verbs",
+      "cases",
+      "verb-to-be"
+    ],
+    "ηταν": [
+      "auxiliary-verbs"
+    ],
+    "past": [
+      "auxiliary-verbs",
+      "past-conjugation",
+      "tenses"
+    ],
+    "helper": [
+      "auxiliary-verbs"
+    ],
+    "was": [
+      "auxiliary-verbs",
+      "definite-pronouns",
+      "past-conjugation",
+      "tenses"
+    ],
+    "ησουν": [
+      "auxiliary-verbs"
+    ],
+    "ειστε": [
+      "auxiliary-verbs",
+      "verb-to-be"
+    ],
+    "εσεις": [
+      "auxiliary-verbs",
+      "conjugation-present",
+      "past-conjugation",
+      "personal-pronouns",
+      "verb-to-be"
+    ],
+    "εχουμε": [
+      "auxiliary-verbs",
+      "definite-pronouns"
+    ],
+    "εσυ": [
+      "auxiliary-verbs",
+      "conjugation-present",
+      "past-conjugation",
+      "personal-pronouns",
+      "verb-to-be"
+    ],
+    "read": [
+      "auxiliary-verbs",
+      "pronouns",
+      "read",
+      "voices-moods"
+    ],
+    "ημουν": [
+      "auxiliary-verbs",
+      "definite-pronouns"
+    ],
+    "am": [
+      "auxiliary-verbs",
+      "double-letters",
+      "phrases",
+      "reflexive-pronouns",
+      "tenses",
+      "verb-to-be",
+      "voices-moods"
+    ],
+    "person": [
+      "auxiliary-verbs",
+      "conjugation-present",
+      "indefinite-pronouns",
+      "personal-pronouns",
+      "possessive-pronouns",
+      "reflexive-pronouns",
+      "verb-to-be",
+      "verbs"
+    ],
+    "ειχατε": [
+      "auxiliary-verbs"
+    ],
+    "ειχαμε": [
+      "auxiliary-verbs"
+    ],
+    "εχετε": [
+      "auxiliary-verbs"
+    ],
+    "ειχες": [
+      "auxiliary-verbs"
+    ],
+    "did": [
+      "auxiliary-verbs",
+      "past-conjugation",
+      "phrases",
+      "vowels-consonants"
     ],
     "you": [
       "auxiliary-verbs",
@@ -2434,60 +2886,23 @@
       "verbs",
       "vowels-consonants"
     ],
-    "perfect": [
-      "auxiliary-verbs",
-      "tenses",
-      "voices-moods"
-    ],
-    "complex": [
-      "auxiliary-verbs",
-      "conjunctions",
-      "nouns"
-    ],
-    "did": [
-      "auxiliary-verbs",
-      "past-conjugation",
-      "phrases",
-      "vowels-consonants"
-    ],
-    "helper": [
+    "εχει": [
       "auxiliary-verbs"
     ],
-    "read": [
-      "auxiliary-verbs",
-      "pronouns",
-      "read",
-      "voices-moods"
+    "had": [
+      "auxiliary-verbs"
     ],
-    "tenses": [
-      "auxiliary-verbs",
-      "particles",
-      "past-conjugation",
-      "tenses",
-      "voices-moods"
+    "auxiliary": [
+      "auxiliary-verbs"
+    ],
+    "εχουν": [
+      "auxiliary-verbs"
     ],
     "know": [
       "auxiliary-verbs",
       "phrases",
       "read",
       "vowels-consonants"
-    ],
-    "had": [
-      "auxiliary-verbs"
-    ],
-    "past": [
-      "auxiliary-verbs",
-      "past-conjugation",
-      "tenses"
-    ],
-    "am": [
-      "auxiliary-verbs",
-      "double-letters",
-      "phrases",
-      "reflexive-pronouns",
-      "tenses",
-      "verb-to-be",
-      "voices-moods"
     ],
     "verb": [
       "auxiliary-verbs",
@@ -2501,23 +2916,171 @@
       "verb-to-be",
       "verbs"
     ],
-    "person": [
+    "perfect": [
       "auxiliary-verbs",
-      "conjugation-present",
-      "indefinite-pronouns",
-      "personal-pronouns",
+      "tenses",
+      "voices-moods"
+    ],
+    "ειμαι": [
+      "auxiliary-verbs",
+      "double-letters",
+      "phrases",
+      "verb-to-be"
+    ],
+    "διαβασει": [
+      "auxiliary-verbs"
+    ],
+    "rho": [
+      "basics"
+    ],
+    "alpha": [
+      "basics"
+    ],
+    "literacy": [
+      "basics"
+    ],
+    "sigma": [
+      "basics"
+    ],
+    "ps": [
+      "basics"
+    ],
+    "consists": [
+      "basics"
+    ],
+    "than": [
+      "basics",
+      "masculine-declension",
+      "prepositions"
+    ],
+    "chi": [
+      "basics"
+    ],
+    "vous": [
+      "basics"
+    ],
+    "xi": [
+      "basics"
+    ],
+    "book": [
+      "basics",
+      "neuter-declension",
+      "nouns",
       "possessive-pronouns",
-      "reflexive-pronouns",
-      "verb-to-be",
+      "relative-pronouns"
+    ],
+    "kappa": [
+      "basics"
+    ],
+    "delta": [
+      "basics"
+    ],
+    "tau": [
+      "basics"
+    ],
+    "sentence": [
+      "basics",
+      "cases",
+      "declension",
+      "personal-pronouns",
+      "punctuation",
+      "relative-pronouns",
       "verbs"
     ],
-    "was": [
-      "auxiliary-verbs",
-      "definite-pronouns",
-      "past-conjugation",
-      "tenses"
+    "mastery": [
+      "basics"
+    ],
+    "sensitivity": [
+      "basics"
+    ],
+    "lambda": [
+      "basics"
+    ],
+    "starters": [
+      "basics"
+    ],
+    "rendez": [
+      "basics"
+    ],
+    "make": [
+      "basics",
+      "pronouns",
+      "vowels-consonants"
+    ],
+    "graphemes": [
+      "basics"
+    ],
+    "semicolon": [
+      "basics",
+      "punctuation"
+    ],
+    "vase": [
+      "basics"
+    ],
+    "foundation": [
+      "basics",
+      "particles"
+    ],
+    "ks": [
+      "basics"
+    ],
+    "psi": [
+      "basics"
+    ],
+    "noise": [
+      "basics"
+    ],
+    "upsilon": [
+      "basics"
+    ],
+    "question": [
+      "basics",
+      "cases",
+      "interrogative-pronouns",
+      "punctuation"
+    ],
+    "hat": [
+      "basics"
+    ],
+    "tip": [
+      "basics",
+      "dialogues-travel",
+      "masculine-declension",
+      "possessive-pronouns",
+      "punctuation"
+    ],
+    "normally": [
+      "basics"
+    ],
+    "western": [
+      "basics"
+    ],
+    "omega": [
+      "basics"
+    ],
+    "step": [
+      "basics",
+      "vowels-consonants"
     ],
     "notes": [
+      "basics"
+    ],
+    "stops": [
+      "basics"
+    ],
+    "iota": [
+      "basics"
+    ],
+    "alphabet": [
+      "basics"
+    ],
+    "theta": [
+      "basics"
+    ],
+    "24": [
+      "basics"
+    ],
+    "ox": [
       "basics"
     ],
     "use": [
@@ -2528,50 +3091,47 @@
       "pronouns",
       "reflexive-pronouns"
     ],
-    "make": [
-      "basics",
-      "pronouns",
-      "vowels-consonants"
-    ],
     "letter": [
       "basics",
       "double-letters",
       "read"
     ],
-    "zeta": [
+    "capitalized": [
       "basics"
     ],
-    "name": [
+    "see": [
       "basics",
       "cases",
-      "phrases",
-      "social-expressions"
+      "double-letters",
+      "particles",
+      "personal-pronouns",
+      "read"
     ],
-    "vase": [
+    "beta": [
       "basics"
     ],
-    "alphabet": [
+    "sound": [
+      "basics",
+      "double-letters",
+      "read",
+      "vowels-consonants"
+    ],
+    "stop": [
+      "basics",
+      "dialogues-travel",
+      "punctuation"
+    ],
+    "gamma": [
       "basics"
     ],
-    "stops": [
+    "distinct": [
+      "basics",
+      "read"
+    ],
+    "thin": [
       "basics"
     ],
-    "theta": [
-      "basics"
-    ],
-    "mu": [
-      "basics"
-    ],
-    "spot": [
-      "basics"
-    ],
-    "vous": [
-      "basics"
-    ],
-    "noise": [
-      "basics"
-    ],
-    "rho": [
+    "writing": [
       "basics"
     ],
     "these": [
@@ -2587,24 +3147,22 @@
       "verb-groups",
       "vowels-consonants"
     ],
-    "omega": [
+    "epsilon": [
       "basics"
     ],
-    "sigma": [
-      "basics"
-    ],
-    "tau": [
-      "basics"
-    ],
-    "stop": [
+    "name": [
       "basics",
-      "dialogues-travel",
-      "punctuation"
+      "cases",
+      "phrases",
+      "social-expressions"
     ],
-    "ks": [
+    "eta": [
       "basics"
     ],
-    "omicron": [
+    "roberto": [
+      "basics"
+    ],
+    "zoo": [
       "basics"
     ],
     "end": [
@@ -2615,191 +3173,63 @@
       "particles",
       "punctuation"
     ],
-    "lambda": [
+    "pi": [
       "basics"
     ],
-    "than": [
-      "basics",
-      "masculine-declension",
-      "prepositions"
-    ],
-    "book": [
-      "basics",
-      "neuter-declension",
-      "nouns",
-      "possessive-pronouns",
-      "relative-pronouns"
-    ],
-    "thin": [
-      "basics"
-    ],
-    "rendez": [
-      "basics"
-    ],
-    "loch": [
-      "basics"
-    ],
-    "foundation": [
-      "basics",
-      "particles"
-    ],
-    "writing": [
-      "basics"
-    ],
-    "epsilon": [
-      "basics"
-    ],
-    "ps": [
-      "basics"
-    ],
-    "capitalized": [
-      "basics"
-    ],
-    "kappa": [
-      "basics"
-    ],
-    "upsilon": [
-      "basics"
-    ],
-    "eta": [
-      "basics"
-    ],
-    "iota": [
-      "basics"
-    ],
-    "fish": [
-      "basics"
-    ],
-    "sensitivity": [
-      "basics"
-    ],
-    "step": [
-      "basics",
-      "vowels-consonants"
-    ],
-    "semicolon": [
-      "basics",
-      "punctuation"
-    ],
-    "western": [
-      "basics"
-    ],
-    "see": [
-      "basics",
-      "cases",
-      "double-letters",
-      "particles",
-      "personal-pronouns",
-      "read"
-    ],
-    "gamma": [
-      "basics"
-    ],
-    "literacy": [
-      "basics"
-    ],
-    "alpha": [
-      "basics"
-    ],
-    "beta": [
-      "basics"
-    ],
-    "consists": [
-      "basics"
-    ],
-    "roberto": [
-      "basics"
-    ],
-    "phi": [
-      "basics"
-    ],
-    "sentence": [
-      "basics",
-      "cases",
-      "declension",
-      "personal-pronouns",
-      "punctuation",
-      "relative-pronouns",
-      "verbs"
-    ],
-    "zoo": [
-      "basics"
-    ],
-    "sound": [
-      "basics",
-      "double-letters",
-      "read",
-      "vowels-consonants"
-    ],
-    "chi": [
-      "basics"
-    ],
-    "hat": [
+    "mu": [
       "basics"
     ],
     "symbols": [
       "basics"
     ],
-    "delta": [
+    "loch": [
       "basics"
     ],
-    "24": [
+    "zeta": [
       "basics"
-    ],
-    "ox": [
-      "basics"
-    ],
-    "normally": [
-      "basics"
-    ],
-    "psi": [
-      "basics"
-    ],
-    "distinct": [
-      "basics",
-      "read"
     ],
     "pen": [
       "basics"
     ],
-    "mastery": [
+    "phi": [
       "basics"
     ],
-    "question": [
-      "basics",
-      "cases",
-      "interrogative-pronouns",
-      "punctuation"
+    "fish": [
+      "basics"
+    ],
+    "spot": [
+      "basics"
+    ],
+    "omicron": [
+      "basics"
     ],
     "nu": [
-      "basics"
-    ],
-    "xi": [
-      "basics"
-    ],
-    "starters": [
-      "basics"
-    ],
-    "tip": [
-      "basics",
-      "dialogues-travel",
-      "masculine-declension",
-      "possessive-pronouns",
-      "punctuation"
-    ],
-    "graphemes": [
-      "basics"
-    ],
-    "pi": [
       "basics"
     ],
     "proper": [
       "basics"
     ],
-    "hey": [
+    "διαβαζει": [
       "cases"
     ],
-    "whom": [
+    "object": [
+      "cases",
+      "declension",
+      "personal-pronouns",
+      "possessive-pronouns",
+      "reflexive-pronouns"
+    ],
+    "its": [
+      "cases",
+      "double-letters",
+      "nouns",
+      "possessive-pronouns",
+      "relative-pronouns"
+    ],
+    "changed": [
+      "cases"
+    ],
+    "primary": [
       "cases"
     ],
     "who": [
@@ -2811,80 +3241,7 @@
       "verbs",
       "voices-moods"
     ],
-    "possession": [
-      "cases",
-      "possessive-pronouns"
-    ],
-    "primary": [
-      "cases"
-    ],
-    "changed": [
-      "cases"
-    ],
-    "addressing": [
-      "cases"
-    ],
-    "what": [
-      "cases",
-      "declension",
-      "interrogative-pronouns",
-      "phrases",
-      "relative-pronouns"
-    ],
-    "each": [
-      "cases",
-      "indefinite-pronouns"
-    ],
-    "vocative": [
-      "cases"
-    ],
-    "whose": [
-      "cases"
-    ],
-    "direct": [
-      "cases"
-    ],
-    "reading": [
-      "cases",
-      "read"
-    ],
-    "four": [
-      "cases",
-      "conjugation-present"
-    ],
-    "accusative": [
-      "cases",
-      "masculine-declension",
-      "neuter-declension",
-      "prepositions"
-    ],
-    "voc": [
-      "cases"
-    ],
-    "summary": [
-      "cases",
-      "punctuation"
-    ],
-    "its": [
-      "cases",
-      "double-letters",
-      "nouns",
-      "possessive-pronouns",
-      "relative-pronouns"
-    ],
-    "notice": [
-      "cases",
-      "masculine-declension",
-      "past-conjugation",
-      "read"
-    ],
-    "nick": [
-      "cases"
-    ],
-    "hand": [
-      "cases"
-    ],
-    "determined": [
+    "αιτιατικη": [
       "cases"
     ],
     "role": [
@@ -2892,18 +3249,73 @@
       "declension",
       "particles"
     ],
-    "cases": [
+    "each": [
       "cases",
-      "double-letters",
-      "masculine-declension",
-      "neuter-declension"
+      "indefinite-pronouns"
     ],
-    "object": [
+    "nick": [
+      "cases"
+    ],
+    "addressing": [
+      "cases"
+    ],
+    "reading": [
       "cases",
-      "declension",
-      "personal-pronouns",
-      "possessive-pronouns",
-      "reflexive-pronouns"
+      "read"
+    ],
+    "whose": [
+      "cases"
+    ],
+    "four": [
+      "cases",
+      "conjugation-present"
+    ],
+    "νικος": [
+      "cases"
+    ],
+    "summary": [
+      "cases",
+      "punctuation"
+    ],
+    "vocative": [
+      "cases"
+    ],
+    "whom": [
+      "cases"
+    ],
+    "βλεπω": [
+      "cases",
+      "personal-pronouns"
+    ],
+    "determined": [
+      "cases"
+    ],
+    "direct": [
+      "cases"
+    ],
+    "voc": [
+      "cases"
+    ],
+    "νικο": [
+      "cases"
+    ],
+    "notice": [
+      "cases",
+      "masculine-declension",
+      "past-conjugation",
+      "read"
+    ],
+    "accusative": [
+      "cases",
+      "masculine-declension",
+      "neuter-declension",
+      "prepositions"
+    ],
+    "hand": [
+      "cases"
+    ],
+    "χερι": [
+      "cases"
     ],
     "subject": [
       "cases",
@@ -2913,13 +3325,69 @@
       "reflexive-pronouns",
       "voices-moods"
     ],
+    "γενικη": [
+      "cases"
+    ],
+    "νικου": [
+      "cases"
+    ],
+    "ονομαστικη": [
+      "cases"
+    ],
+    "cases": [
+      "cases",
+      "double-letters",
+      "masculine-declension",
+      "neuter-declension"
+    ],
+    "κλητικη": [
+      "cases"
+    ],
+    "hey": [
+      "cases"
+    ],
+    "που": [
+      "cases",
+      "dialogues-travel",
+      "interrogative-pronouns",
+      "relative-pronouns"
+    ],
+    "τον": [
+      "cases",
+      "nouns",
+      "personal-pronouns",
+      "prepositions",
+      "reflexive-pronouns"
+    ],
+    "what": [
+      "cases",
+      "declension",
+      "interrogative-pronouns",
+      "phrases",
+      "relative-pronouns"
+    ],
+    "possession": [
+      "cases",
+      "possessive-pronouns"
+    ],
+    "stages": [
+      "coming-soon"
+    ],
+    "written": [
+      "coming-soon"
+    ],
+    "quality": [
+      "coming-soon",
+      "demonstrative-pronouns"
+    ],
     "being": [
       "coming-soon",
       "possessive-pronouns",
       "voices-moods"
     ],
-    "coming": [
-      "coming-soon"
+    "curriculum": [
+      "coming-soon",
+      "particles"
     ],
     "back": [
       "coming-soon",
@@ -2932,20 +3400,7 @@
       "social-expressions",
       "vowels-consonants"
     ],
-    "curriculum": [
-      "coming-soon",
-      "particles"
-    ],
-    "soon": [
-      "coming-soon",
-      "conjunctions",
-      "social-expressions"
-    ],
-    "quality": [
-      "coming-soon",
-      "demonstrative-pronouns"
-    ],
-    "stages": [
+    "coming": [
       "coming-soon"
     ],
     "released": [
@@ -2954,8 +3409,72 @@
     "currently": [
       "coming-soon"
     ],
-    "written": [
-      "coming-soon"
+    "soon": [
+      "coming-soon",
+      "conjunctions",
+      "social-expressions"
+    ],
+    "κλιση": [
+      "conjugation-present"
+    ],
+    "middle": [
+      "conjugation-present",
+      "verb-groups"
+    ],
+    "ει": [
+      "conjugation-present",
+      "double-letters",
+      "verbs"
+    ],
+    "both": [
+      "conjugation-present",
+      "neuter-declension"
+    ],
+    "εις": [
+      "conjugation-present",
+      "verb-groups",
+      "verbs"
+    ],
+    "ουνται": [
+      "conjugation-present"
+    ],
+    "καθ": [
+      "conjugation-present"
+    ],
+    "αγαπω": [
+      "conjugation-present",
+      "verb-groups"
+    ],
+    "ας": [
+      "conjugation-present",
+      "feminine-declension",
+      "masculine-declension",
+      "particles",
+      "verb-groups"
+    ],
+    "accented": [
+      "conjugation-present",
+      "feminine-declension",
+      "verb-groups"
+    ],
+    "ονται": [
+      "conjugation-present"
+    ],
+    "αται": [
+      "conjugation-present"
+    ],
+    "speech": [
+      "conjugation-present",
+      "personal-pronouns",
+      "pronouns"
+    ],
+    "τρεχ": [
+      "conjugation-present",
+      "verb-groups"
+    ],
+    "κοιμαμαι": [
+      "conjugation-present",
+      "verb-groups"
     ],
     "ending": [
       "conjugation-present",
@@ -2966,20 +3485,33 @@
       "verbs",
       "voices-moods"
     ],
-    "into": [
+    "main": [
       "conjugation-present",
-      "particles",
-      "verb-groups",
-      "vowels-consonants"
+      "past-conjugation"
     ],
-    "speech": [
+    "ατε": [
       "conjugation-present",
-      "personal-pronouns",
-      "pronouns"
+      "past-conjugation"
     ],
-    "both": [
+    "ομαι": [
       "conjugation-present",
-      "neuter-declension"
+      "verb-groups"
+    ],
+    "αγαπ": [
+      "conjugation-present",
+      "verb-groups"
+    ],
+    "κοιμ": [
+      "conjugation-present"
+    ],
+    "αμαι": [
+      "conjugation-present"
+    ],
+    "changing": [
+      "conjugation-present"
+    ],
+    "involves": [
+      "conjugation-present"
     ],
     "endings": [
       "conjugation-present",
@@ -2988,21 +3520,57 @@
       "verb-groups",
       "verb-to-be"
     ],
+    "ουνε": [
+      "conjugation-present"
+    ],
+    "paradigms": [
+      "conjugation-present"
+    ],
+    "εστε": [
+      "conjugation-present"
+    ],
+    "ομαστε": [
+      "conjugation-present"
+    ],
+    "into": [
+      "conjugation-present",
+      "particles",
+      "verb-groups",
+      "vowels-consonants"
+    ],
+    "group": [
+      "conjugation-present",
+      "masculine-declension",
+      "verb-groups"
+    ],
+    "καθομαι": [
+      "conjugation-present",
+      "verb-groups"
+    ],
+    "ετε": [
+      "conjugation-present"
+    ],
+    "ουμε": [
+      "conjugation-present"
+    ],
+    "αστε": [
+      "conjugation-present"
+    ],
     "regular": [
       "conjugation-present",
       "declension",
       "verbs"
     ],
+    "εται": [
+      "conjugation-present"
+    ],
+    "ουν": [
+      "conjugation-present"
+    ],
     "conjugation": [
       "conjugation-present",
       "past-conjugation",
       "verb-groups"
-    ],
-    "involves": [
-      "conjugation-present"
-    ],
-    "alternative": [
-      "conjugation-present"
     ],
     "also": [
       "conjugation-present",
@@ -3011,113 +3579,25 @@
       "phrases",
       "voices-moods"
     ],
-    "main": [
-      "conjugation-present",
-      "past-conjugation"
-    ],
-    "middle": [
-      "conjugation-present",
-      "verb-groups"
+    "ασαι": [
+      "conjugation-present"
     ],
     "grouped": [
       "conjugation-present"
     ],
-    "group": [
-      "conjugation-present",
-      "masculine-declension",
-      "verb-groups"
-    ],
-    "accented": [
-      "conjugation-present",
-      "feminine-declension",
-      "verb-groups"
-    ],
-    "paradigms": [
+    "εσαι": [
       "conjugation-present"
     ],
-    "changing": [
+    "τρεχω": [
+      "conjugation-present",
+      "verb-groups"
+    ],
+    "αμε": [
+      "conjugation-present",
+      "past-conjugation"
+    ],
+    "alternative": [
       "conjugation-present"
-    ],
-    "phrases": [
-      "conjunctions",
-      "particles",
-      "phrases",
-      "verb-to-be"
-    ],
-    "purpose": [
-      "conjunctions"
-    ],
-    "yet": [
-      "conjunctions"
-    ],
-    "formal": [
-      "conjunctions",
-      "particles",
-      "phrases",
-      "verb-to-be"
-    ],
-    "because": [
-      "conjunctions",
-      "neuter-declension",
-      "pronouns"
-    ],
-    "therefore": [
-      "conjunctions"
-    ],
-    "well": [
-      "conjunctions",
-      "interjections",
-      "phrases",
-      "social-expressions"
-    ],
-    "causal": [
-      "conjunctions"
-    ],
-    "lest": [
-      "conjunctions"
-    ],
-    "cannot": [
-      "conjunctions"
-    ],
-    "cheap": [
-      "conjunctions"
-    ],
-    "building": [
-      "conjunctions"
-    ],
-    "condition": [
-      "conjunctions"
-    ],
-    "nor": [
-      "conjunctions"
-    ],
-    "if": [
-      "conjunctions",
-      "declension"
-    ],
-    "contrasting": [
-      "conjunctions"
-    ],
-    "maybe": [
-      "conjunctions"
-    ],
-    "sentences": [
-      "conjunctions",
-      "declension",
-      "indefinite-pronouns",
-      "personal-pronouns"
-    ],
-    "connect": [
-      "conjunctions",
-      "relative-pronouns"
-    ],
-    "before": [
-      "conjunctions",
-      "degrees-adjectives",
-      "double-letters",
-      "possessive-pronouns",
-      "prepositions",
-      "vowels-consonants"
     ],
     "essential": [
       "conjunctions",
@@ -3126,12 +3606,57 @@
       "phrases",
       "verb-groups"
     ],
+    "αρα": [
+      "conjunctions"
+    ],
+    "building": [
+      "conjunctions"
+    ],
+    "αλλα": [
+      "conjunctions"
+    ],
+    "ενω": [
+      "conjunctions"
+    ],
+    "causal": [
+      "conjunctions"
+    ],
+    "condition": [
+      "conjunctions"
+    ],
+    "nor": [
+      "conjunctions"
+    ],
+    "however": [
+      "conjunctions",
+      "declension"
+    ],
     "flowing": [
       "conjunctions"
     ],
-    "after": [
+    "go": [
       "conjunctions",
-      "prepositions"
+      "double-letters",
+      "interjections",
+      "particles"
+    ],
+    "και": [
+      "conjunctions"
+    ],
+    "neither": [
+      "conjunctions"
+    ],
+    "φθηνο": [
+      "conjunctions"
+    ],
+    "purpose": [
+      "conjunctions"
+    ],
+    "χρονικοι": [
+      "conjunctions"
+    ],
+    "γιατι": [
+      "conjunctions"
     ],
     "want": [
       "conjunctions",
@@ -3143,80 +3668,257 @@
     "result": [
       "conjunctions"
     ],
-    "although": [
-      "conjunctions",
-      "vowels-consonants"
+    "εαν": [
+      "conjunctions"
     ],
-    "however": [
-      "conjunctions",
-      "declension"
+    "since": [
+      "conjunctions"
     ],
-    "conjunctions": [
+    "μα": [
+      "conjunctions",
+      "double-letters",
+      "genders",
+      "neuter-declension",
+      "particles",
+      "read"
+    ],
+    "lest": [
+      "conjunctions"
+    ],
+    "μητε": [
+      "conjunctions"
+    ],
+    "οταν": [
+      "conjunctions"
+    ],
+    "cheap": [
+      "conjunctions"
+    ],
+    "διοτι": [
+      "conjunctions"
+    ],
+    "συμπλεκτικοι": [
+      "conjunctions"
+    ],
+    "ουτε": [
+      "conjunctions"
+    ],
+    "μπορω": [
       "conjunctions"
     ],
     "connecting": [
       "conjunctions"
     ],
-    "thoughts": [
+    "yet": [
+      "conjunctions"
+    ],
+    "κι": [
+      "conjunctions",
+      "double-letters"
+    ],
+    "μολις": [
       "conjunctions"
     ],
     "individual": [
       "conjunctions"
     ],
-    "since": [
+    "αν": [
+      "conjunctions",
+      "past-conjugation"
+    ],
+    "if": [
+      "conjunctions",
+      "declension"
+    ],
+    "so": [
+      "conjunctions",
+      "demonstrative-pronouns"
+    ],
+    "conjunctions": [
+      "conjunctions"
+    ],
+    "connect": [
+      "conjunctions",
+      "relative-pronouns"
+    ],
+    "θελω": [
+      "conjunctions",
+      "indefinite-pronouns",
+      "particles",
+      "voices-moods"
+    ],
+    "phrases": [
+      "conjunctions",
+      "particles",
+      "phrases",
+      "verb-to-be"
+    ],
+    "επομενως": [
+      "conjunctions"
+    ],
+    "συνδεσμοι": [
+      "conjunctions"
+    ],
+    "συμπερασματικοι": [
+      "conjunctions"
+    ],
+    "contrasting": [
+      "conjunctions"
+    ],
+    "αφου": [
+      "conjunctions"
+    ],
+    "ωστε": [
+      "conjunctions"
+    ],
+    "δεν": [
+      "conjunctions",
+      "demonstrative-pronouns",
+      "indefinite-pronouns"
+    ],
+    "ομως": [
+      "conjunctions"
+    ],
+    "maybe": [
+      "conjunctions"
+    ],
+    "αντιθετικοι": [
+      "conjunctions"
+    ],
+    "να": [
+      "conjunctions",
+      "particles",
+      "voices-moods"
+    ],
+    "although": [
+      "conjunctions",
+      "vowels-consonants"
+    ],
+    "before": [
+      "conjunctions",
+      "degrees-adjectives",
+      "double-letters",
+      "possessive-pronouns",
+      "prepositions",
+      "vowels-consonants"
+    ],
+    "επειδη": [
+      "conjunctions"
+    ],
+    "πριν": [
+      "conjunctions"
+    ],
+    "για": [
+      "conjunctions",
+      "prepositions"
+    ],
+    "λοιπον": [
+      "conjunctions"
+    ],
+    "thoughts": [
+      "conjunctions"
+    ],
+    "because": [
+      "conjunctions",
+      "neuter-declension",
+      "pronouns"
+    ],
+    "sentences": [
+      "conjunctions",
+      "declension",
+      "indefinite-pronouns",
+      "personal-pronouns"
+    ],
+    "ωστοσο": [
       "conjunctions"
     ],
     "either": [
       "conjunctions",
       "reflexive-pronouns"
     ],
-    "go": [
-      "conjunctions",
-      "double-letters",
-      "interjections",
-      "particles"
+    "therefore": [
+      "conjunctions"
     ],
-    "so": [
+    "cannot": [
+      "conjunctions"
+    ],
+    "formal": [
       "conjunctions",
-      "demonstrative-pronouns"
+      "particles",
+      "phrases",
+      "verb-to-be"
+    ],
+    "μηπως": [
+      "conjunctions"
+    ],
+    "αιτιολογικοι": [
+      "conjunctions"
+    ],
+    "παω": [
+      "conjunctions",
+      "dialogues-travel",
+      "particles"
     ],
     "conversation": [
       "conjunctions",
       "interjections"
     ],
-    "neither": [
-      "conjunctions"
+    "after": [
+      "conjunctions",
+      "prepositions"
+    ],
+    "well": [
+      "conjunctions",
+      "interjections",
+      "phrases",
+      "social-expressions"
     ],
     "own": [
       "declension",
       "possessive-pronouns"
     ],
+    "will": [
+      "declension",
+      "particles",
+      "phrases",
+      "tenses",
+      "vowels-consonants"
+    ],
+    "receiver": [
+      "declension"
+    ],
+    "whether": [
+      "declension"
+    ],
+    "process": [
+      "declension",
+      "read"
+    ],
+    "doer": [
+      "declension"
+    ],
     "flexing": [
-      "declension"
-    ],
-    "focus": [
-      "declension"
-    ],
-    "elements": [
       "declension"
     ],
     "standard": [
       "declension",
       "indefinite-pronouns"
     ],
+    "flex": [
+      "declension"
+    ],
+    "function": [
+      "declension",
+      "personal-pronouns",
+      "punctuation"
+    ],
     "friend": [
       "declension",
       "masculine-declension"
     ],
-    "called": [
+    "following": [
       "declension",
-      "double-letters",
-      "past-conjugation",
-      "vowels-consonants"
-    ],
-    "another": [
-      "declension",
-      "indefinite-pronouns"
+      "prepositions"
     ],
     "pronouns": [
       "declension",
@@ -3230,19 +3932,6 @@
       "reflexive-pronouns",
       "relative-pronouns"
     ],
-    "following": [
-      "declension",
-      "prepositions"
-    ],
-    "inflected": [
-      "declension"
-    ],
-    "doer": [
-      "declension"
-    ],
-    "flex": [
-      "declension"
-    ],
     "usually": [
       "declension",
       "interrogative-pronouns",
@@ -3253,35 +3942,28 @@
       "punctuation",
       "reflexive-pronouns"
     ],
-    "signal": [
-      "declension"
-    ],
-    "irregular": [
+    "predictable": [
       "declension",
-      "verb-to-be"
-    ],
-    "decline": [
-      "declension",
-      "pronouns"
+      "verbs"
     ],
     "muscle": [
       "declension"
     ],
-    "will": [
-      "declension",
-      "particles",
-      "phrases",
-      "tenses",
-      "vowels-consonants"
-    ],
-    "stay": [
-      "declension",
-      "reflexive-pronouns"
+    "elements": [
+      "declension"
     ],
     "unique": [
       "declension",
       "degrees-adjectives",
       "neuter-declension"
+    ],
+    "think": [
+      "declension",
+      "possessive-pronouns"
+    ],
+    "another": [
+      "declension",
+      "indefinite-pronouns"
     ],
     "their": [
       "declension",
@@ -3296,28 +3978,38 @@
       "verb-to-be",
       "vowels-consonants"
     ],
-    "predictable": [
+    "signal": [
+      "declension"
+    ],
+    "inflected": [
+      "declension"
+    ],
+    "μεγαλη": [
+      "declension"
+    ],
+    "called": [
       "declension",
-      "verbs"
+      "double-letters",
+      "past-conjugation",
+      "vowels-consonants"
+    ],
+    "decline": [
+      "declension",
+      "pronouns"
+    ],
+    "focus": [
+      "declension"
     ],
     "gets": [
       "declension"
     ],
-    "process": [
+    "stay": [
       "declension",
-      "read"
+      "reflexive-pronouns"
     ],
-    "function": [
+    "irregular": [
       "declension",
-      "personal-pronouns",
-      "punctuation"
-    ],
-    "receiver": [
-      "declension"
-    ],
-    "think": [
-      "declension",
-      "possessive-pronouns"
+      "verb-to-be"
     ],
     "some": [
       "declension",
@@ -3328,8 +4020,62 @@
       "past-conjugation",
       "vowels-consonants"
     ],
-    "whether": [
-      "declension"
+    "express": [
+      "definite-pronouns",
+      "interjections",
+      "possessive-pronouns"
+    ],
+    "alone": [
+      "definite-pronouns"
+    ],
+    "ιδια": [
+      "definite-pronouns"
+    ],
+    "finished": [
+      "definite-pronouns"
+    ],
+    "mean": [
+      "definite-pronouns",
+      "interjections"
+    ],
+    "confuse": [
+      "definite-pronouns",
+      "punctuation",
+      "relative-pronouns"
+    ],
+    "μου": [
+      "definite-pronouns",
+      "demonstrative-pronouns",
+      "possessive-pronouns",
+      "reflexive-pronouns",
+      "relative-pronouns"
+    ],
+    "τελειωσα": [
+      "definite-pronouns"
+    ],
+    "γιατρο": [
+      "definite-pronouns"
+    ],
+    "σου": [
+      "definite-pronouns",
+      "phrases",
+      "possessive-pronouns",
+      "reflexive-pronouns"
+    ],
+    "vocabulary": [
+      "definite-pronouns",
+      "dialogues-travel"
+    ],
+    "μονο": [
+      "definite-pronouns"
+    ],
+    "weak": [
+      "definite-pronouns",
+      "personal-pronouns",
+      "possessive-pronouns"
+    ],
+    "ρουχα": [
+      "definite-pronouns"
     ],
     "pronoun": [
       "definite-pronouns",
@@ -3338,37 +4084,10 @@
       "prepositions",
       "relative-pronouns"
     ],
-    "clothes": [
-      "definite-pronouns"
-    ],
-    "doctor": [
-      "definite-pronouns"
-    ],
-    "oneself": [
-      "definite-pronouns"
-    ],
-    "accompanied": [
-      "definite-pronouns"
-    ],
-    "confuse": [
-      "definite-pronouns",
-      "punctuation",
-      "relative-pronouns"
-    ],
-    "express": [
-      "definite-pronouns",
-      "interjections",
-      "possessive-pronouns"
-    ],
-    "possessive": [
-      "definite-pronouns",
-      "possessive-pronouns",
-      "pronouns"
-    ],
     "ate": [
       "definite-pronouns"
     ],
-    "finished": [
+    "εφαγα": [
       "definite-pronouns"
     ],
     "myself": [
@@ -3376,62 +4095,117 @@
       "reflexive-pronouns",
       "voices-moods"
     ],
-    "weak": [
-      "definite-pronouns",
-      "personal-pronouns",
-      "possessive-pronouns"
+    "exclusivity": [
+      "definite-pronouns"
+    ],
+    "oneself": [
+      "definite-pronouns"
     ],
     "went": [
       "definite-pronouns",
       "demonstrative-pronouns",
       "prepositions"
     ],
-    "alone": [
+    "ιδιος": [
       "definite-pronouns"
     ],
-    "vocabulary": [
+    "πηγα": [
       "definite-pronouns",
-      "dialogues-travel"
+      "prepositions"
+    ],
+    "μονος": [
+      "definite-pronouns"
+    ],
+    "στον": [
+      "definite-pronouns",
+      "prepositions"
     ],
     "adverb": [
       "definite-pronouns"
     ],
-    "mean": [
-      "definite-pronouns",
-      "interjections"
+    "clothes": [
+      "definite-pronouns"
     ],
     "identity": [
       "definite-pronouns",
       "interrogative-pronouns"
     ],
-    "exclusivity": [
+    "doctor": [
       "definite-pronouns"
     ],
-    "suffix": [
-      "degrees-adjectives"
+    "possessive": [
+      "definite-pronouns",
+      "possessive-pronouns",
+      "pronouns"
+    ],
+    "μονη": [
+      "definite-pronouns"
+    ],
+    "accompanied": [
+      "definite-pronouns"
+    ],
+    "ιδιο": [
+      "definite-pronouns"
     ],
     "method": [
       "degrees-adjectives"
     ],
-    "works": [
+    "bigger": [
       "degrees-adjectives"
     ],
-    "learned": [
+    "πιο": [
+      "degrees-adjectives"
+    ],
+    "tallest": [
+      "degrees-adjectives"
+    ],
+    "degrees": [
+      "degrees-adjectives"
+    ],
+    "indicate": [
+      "degrees-adjectives",
+      "demonstrative-pronouns"
+    ],
+    "οτερος": [
+      "degrees-adjectives"
+    ],
+    "θετικος": [
+      "degrees-adjectives"
+    ],
+    "suffixes": [
+      "degrees-adjectives"
+    ],
+    "συγκριτικος": [
+      "degrees-adjectives"
+    ],
+    "previous": [
+      "degrees-adjectives"
+    ],
+    "irregulars": [
+      "degrees-adjectives"
+    ],
+    "superlative": [
+      "degrees-adjectives"
+    ],
+    "comparative": [
+      "degrees-adjectives"
+    ],
+    "μεγαλος": [
+      "degrees-adjectives"
+    ],
+    "base": [
       "degrees-adjectives"
     ],
     "handsomer": [
       "degrees-adjectives"
     ],
-    "relative": [
-      "degrees-adjectives",
-      "demonstrative-pronouns",
-      "pronouns",
-      "relative-pronouns"
-    ],
-    "irregulars": [
+    "suffix": [
       "degrees-adjectives"
     ],
-    "indicate": [
+    "οτατος": [
+      "degrees-adjectives"
+    ],
+    "type": [
       "degrees-adjectives",
       "demonstrative-pronouns"
     ],
@@ -3439,76 +4213,126 @@
       "degrees-adjectives",
       "personal-pronouns"
     ],
-    "positive": [
-      "degrees-adjectives"
-    ],
-    "superlative": [
-      "degrees-adjectives"
-    ],
-    "degree": [
-      "degrees-adjectives",
-      "demonstrative-pronouns"
-    ],
-    "add": [
-      "degrees-adjectives",
-      "interjections",
-      "neuter-declension"
-    ],
-    "type": [
-      "degrees-adjectives",
-      "demonstrative-pronouns"
-    ],
-    "better": [
-      "degrees-adjectives"
-    ],
-    "bigger": [
-      "degrees-adjectives"
-    ],
-    "tallest": [
-      "degrees-adjectives"
-    ],
-    "absolute": [
-      "degrees-adjectives"
-    ],
-    "intensity": [
+    "adj": [
       "degrees-adjectives"
     ],
     "simply": [
       "degrees-adjectives",
       "masculine-declension"
     ],
-    "suffixes": [
+    "καλυτερος": [
       "degrees-adjectives"
     ],
-    "comparative": [
+    "intensity": [
       "degrees-adjectives"
     ],
-    "previous": [
-      "degrees-adjectives"
+    "add": [
+      "degrees-adjectives",
+      "interjections",
+      "neuter-declension"
     ],
-    "adj": [
+    "positive": [
       "degrees-adjectives"
     ],
     "taller": [
       "degrees-adjectives"
     ],
-    "base": [
+    "absolute": [
       "degrees-adjectives"
     ],
-    "formation": [
+    "μεγαλυτερος": [
       "degrees-adjectives"
     ],
-    "degrees": [
+    "learned": [
+      "degrees-adjectives"
+    ],
+    "better": [
       "degrees-adjectives"
     ],
     "using": [
       "degrees-adjectives",
       "possessive-pronouns"
     ],
-    "near": [
+    "relative": [
+      "degrees-adjectives",
+      "demonstrative-pronouns",
+      "pronouns",
+      "relative-pronouns"
+    ],
+    "degree": [
+      "degrees-adjectives",
+      "demonstrative-pronouns"
+    ],
+    "ωραι": [
+      "degrees-adjectives"
+    ],
+    "works": [
+      "degrees-adjectives"
+    ],
+    "υπεθετικος": [
+      "degrees-adjectives"
+    ],
+    "formation": [
+      "degrees-adjectives"
+    ],
+    "μακρια": [
+      "demonstrative-pronouns"
+    ],
+    "away": [
+      "demonstrative-pronouns"
+    ],
+    "πηγαμε": [
+      "demonstrative-pronouns"
+    ],
+    "τοσος": [
+      "demonstrative-pronouns"
+    ],
+    "indicating": [
+      "demonstrative-pronouns"
+    ],
+    "dog": [
+      "demonstrative-pronouns",
+      "possessive-pronouns"
+    ],
+    "τετοια": [
+      "demonstrative-pronouns"
+    ],
+    "people": [
+      "demonstrative-pronouns",
+      "indefinite-pronouns"
+    ],
+    "such": [
+      "demonstrative-pronouns"
+    ],
+    "close": [
       "demonstrative-pronouns"
     ],
     "distant": [
+      "demonstrative-pronouns"
+    ],
+    "τοση": [
+      "demonstrative-pronouns"
+    ],
+    "far": [
+      "demonstrative-pronouns"
+    ],
+    "ανθρωπος": [
+      "demonstrative-pronouns"
+    ],
+    "distance": [
+      "demonstrative-pronouns"
+    ],
+    "coffee": [
+      "demonstrative-pronouns"
+    ],
+    "speaker": [
+      "demonstrative-pronouns",
+      "voices-moods"
+    ],
+    "εκεινο": [
+      "demonstrative-pronouns"
+    ],
+    "καφες": [
       "demonstrative-pronouns"
     ],
     "my": [
@@ -3518,7 +4342,33 @@
       "pronouns",
       "reflexive-pronouns"
     ],
-    "coffee": [
+    "τετοιος": [
+      "demonstrative-pronouns"
+    ],
+    "αυτο": [
+      "demonstrative-pronouns",
+      "personal-pronouns"
+    ],
+    "τοσο": [
+      "demonstrative-pronouns"
+    ],
+    "εκεινη": [
+      "demonstrative-pronouns"
+    ],
+    "demonstrative": [
+      "demonstrative-pronouns",
+      "pronouns"
+    ],
+    "objects": [
+      "demonstrative-pronouns",
+      "neuter-declension",
+      "reflexive-pronouns"
+    ],
+    "man": [
+      "demonstrative-pronouns",
+      "nouns"
+    ],
+    "σκυλος": [
       "demonstrative-pronouns"
     ],
     "from": [
@@ -3526,7 +4376,20 @@
       "interrogative-pronouns",
       "prepositions"
     ],
-    "indicating": [
+    "point": [
+      "demonstrative-pronouns",
+      "punctuation"
+    ],
+    "house": [
+      "demonstrative-pronouns",
+      "genders",
+      "relative-pronouns"
+    ],
+    "αυτη": [
+      "demonstrative-pronouns",
+      "personal-pronouns"
+    ],
+    "near": [
       "demonstrative-pronouns"
     ],
     "things": [
@@ -3534,29 +4397,7 @@
       "indefinite-pronouns",
       "personal-pronouns"
     ],
-    "speaker": [
-      "demonstrative-pronouns",
-      "voices-moods"
-    ],
-    "such": [
-      "demonstrative-pronouns"
-    ],
-    "house": [
-      "demonstrative-pronouns",
-      "genders",
-      "relative-pronouns"
-    ],
-    "distance": [
-      "demonstrative-pronouns"
-    ],
-    "man": [
-      "demonstrative-pronouns",
-      "nouns"
-    ],
-    "far": [
-      "demonstrative-pronouns"
-    ],
-    "away": [
+    "τετοιο": [
       "demonstrative-pronouns"
     ],
     "he": [
@@ -3566,38 +4407,61 @@
       "verb-to-be",
       "verbs"
     ],
-    "close": [
+    "εκεινος": [
       "demonstrative-pronouns"
     ],
-    "objects": [
+    "σπιτι": [
       "demonstrative-pronouns",
-      "neuter-declension",
-      "reflexive-pronouns"
+      "genders",
+      "relative-pronouns"
     ],
-    "dog": [
-      "demonstrative-pronouns",
-      "possessive-pronouns"
-    ],
-    "demonstrative": [
-      "demonstrative-pronouns",
-      "pronouns"
-    ],
-    "people": [
-      "demonstrative-pronouns",
-      "indefinite-pronouns"
-    ],
-    "point": [
-      "demonstrative-pronouns",
-      "punctuation"
-    ],
-    "somewhere": [
+    "asking": [
       "dialogues-travel"
     ],
-    "left": [
-      "dialogues-travel",
-      "prepositions"
+    "ευθεια": [
+      "dialogues-travel"
     ],
-    "traveling": [
+    "εξοδος": [
+      "dialogues-travel"
+    ],
+    "οχι": [
+      "dialogues-travel",
+      "phrases"
+    ],
+    "direction": [
+      "dialogues-travel"
+    ],
+    "upward": [
+      "dialogues-travel"
+    ],
+    "directions": [
+      "dialogues-travel"
+    ],
+    "straight": [
+      "dialogues-travel"
+    ],
+    "downward": [
+      "dialogues-travel"
+    ],
+    "ναι": [
+      "dialogues-travel",
+      "phrases",
+      "social-expressions"
+    ],
+    "situations": [
+      "dialogues-travel"
+    ],
+    "πλατεια": [
+      "dialogues-travel"
+    ],
+    "right": [
+      "dialogues-travel",
+      "punctuation"
+    ],
+    "bus": [
+      "dialogues-travel"
+    ],
+    "acropolis": [
       "dialogues-travel"
     ],
     "yes": [
@@ -3605,28 +4469,69 @@
       "phrases",
       "social-expressions"
     ],
-    "direction": [
-      "dialogues-travel"
-    ],
-    "visitors": [
-      "dialogues-travel"
-    ],
-    "straight": [
-      "dialogues-travel"
-    ],
     "handle": [
       "dialogues-travel"
     ],
-    "downward": [
+    "knowing": [
+      "dialogues-travel",
+      "verb-groups"
+    ],
+    "πως": [
+      "dialogues-travel",
+      "interrogative-pronouns",
+      "phrases"
+    ],
+    "nod": [
       "dialogues-travel"
     ],
-    "asking": [
+    "greece": [
+      "dialogues-travel",
+      "interjections",
+      "social-expressions"
+    ],
+    "travel": [
       "dialogues-travel"
     ],
     "exit": [
       "dialogues-travel"
     ],
-    "acropolis": [
+    "ask": [
+      "dialogues-travel",
+      "interrogative-pronouns"
+    ],
+    "τουαλετα": [
+      "dialogues-travel"
+    ],
+    "head": [
+      "dialogues-travel"
+    ],
+    "δεξια": [
+      "dialogues-travel"
+    ],
+    "σταση": [
+      "dialogues-travel"
+    ],
+    "left": [
+      "dialogues-travel",
+      "prepositions"
+    ],
+    "dialogues": [
+      "dialogues-travel",
+      "particles"
+    ],
+    "somewhere": [
+      "dialogues-travel"
+    ],
+    "visitors": [
+      "dialogues-travel"
+    ],
+    "ακροπολη": [
+      "dialogues-travel"
+    ],
+    "bathroom": [
+      "dialogues-travel"
+    ],
+    "traveling": [
       "dialogues-travel"
     ],
     "get": [
@@ -3634,122 +4539,26 @@
       "interjections",
       "social-expressions"
     ],
+    "αριστερα": [
+      "dialogues-travel"
+    ],
     "confusing": [
       "dialogues-travel"
     ],
-    "dialogues": [
+    "στην": [
       "dialogues-travel",
-      "particles"
-    ],
-    "greece": [
-      "dialogues-travel",
-      "interjections",
+      "interrogative-pronouns",
+      "prepositions",
       "social-expressions"
-    ],
-    "head": [
-      "dialogues-travel"
-    ],
-    "travel": [
-      "dialogues-travel"
-    ],
-    "knowing": [
-      "dialogues-travel",
-      "verb-groups"
-    ],
-    "directions": [
-      "dialogues-travel"
     ],
     "square": [
       "dialogues-travel"
     ],
-    "ask": [
-      "dialogues-travel",
-      "interrogative-pronouns"
-    ],
-    "situations": [
-      "dialogues-travel"
-    ],
-    "bathroom": [
-      "dialogues-travel"
-    ],
-    "bus": [
-      "dialogues-travel"
-    ],
-    "upward": [
-      "dialogues-travel"
-    ],
-    "right": [
-      "dialogues-travel",
-      "punctuation"
-    ],
-    "nod": [
-      "dialogues-travel"
-    ],
-    "pateras": [
+    "πα": [
       "double-letters",
       "read"
     ],
-    "adds": [
-      "double-letters"
-    ],
-    "ts": [
-      "double-letters"
-    ],
-    "sky": [
-      "double-letters",
-      "read"
-    ],
-    "special": [
-      "double-letters",
-      "feminine-declension",
-      "voices-moods"
-    ],
-    "combine": [
-      "double-letters",
-      "read"
-    ],
-    "double": [
-      "double-letters",
-      "read"
-    ],
-    "tzaki": [
-      "double-letters",
-      "read"
-    ],
-    "consonants": [
-      "double-letters",
-      "vowels-consonants"
-    ],
-    "combination": [
-      "double-letters"
-    ],
-    "letters": [
-      "double-letters",
-      "vowels-consonants"
-    ],
-    "amp": [
-      "double-letters",
-      "social-expressions"
-    ],
-    "sounds": [
-      "double-letters",
-      "read"
-    ],
-    "blood": [
-      "double-letters"
-    ],
-    "ev": [
-      "double-letters"
-    ],
-    "ouranos": [
-      "double-letters",
-      "read"
-    ],
-    "voiceless": [
-      "double-letters",
-      "vowels-consonants"
-    ],
-    "combinations": [
+    "dad": [
       "double-letters"
     ],
     "let": [
@@ -3760,37 +4569,45 @@
     "boot": [
       "double-letters"
     ],
-    "seen": [
-      "double-letters"
-    ],
-    "translation": [
+    "special": [
       "double-letters",
-      "verb-to-be"
+      "feminine-declension",
+      "voices-moods"
     ],
-    "voiced": [
+    "consonants": [
       "double-letters",
       "vowels-consonants"
     ],
-    "dz": [
+    "γγ": [
+      "double-letters"
+    ],
+    "them": [
+      "double-letters",
+      "interrogative-pronouns",
+      "masculine-declension",
+      "phrases",
+      "pronouns"
+    ],
+    "ντ": [
+      "double-letters"
+    ],
+    "νος": [
+      "double-letters"
+    ],
+    "ευ": [
+      "double-letters"
+    ],
+    "adds": [
+      "double-letters"
+    ],
+    "beginning": [
+      "double-letters",
+      "past-conjugation"
+    ],
+    "combination": [
       "double-letters"
     ],
     "anchor": [
-      "double-letters"
-    ],
-    "diphthongs": [
-      "double-letters"
-    ],
-    "fireplace": [
-      "double-letters",
-      "read"
-    ],
-    "construction": [
-      "double-letters"
-    ],
-    "dad": [
-      "double-letters"
-    ],
-    "dress": [
       "double-letters"
     ],
     "mama": [
@@ -3798,11 +4615,20 @@
       "feminine-declension",
       "read"
     ],
-    "beginning": [
+    "tzaki": [
       "double-letters",
-      "past-conjugation"
+      "read"
     ],
-    "av": [
+    "certain": [
+      "double-letters"
+    ],
+    "τζακι": [
+      "double-letters"
+    ],
+    "ts": [
+      "double-letters"
+    ],
+    "αγκυρα": [
       "double-letters"
     ],
     "represent": [
@@ -3810,10 +4636,33 @@
       "personal-pronouns",
       "vowels-consonants"
     ],
-    "pocket": [
+    "fireplace": [
+      "double-letters",
+      "read"
+    ],
+    "amp": [
+      "double-letters",
+      "social-expressions"
+    ],
+    "τζ": [
       "double-letters"
     ],
-    "ef": [
+    "dress": [
+      "double-letters"
+    ],
+    "dz": [
+      "double-letters"
+    ],
+    "blood": [
+      "double-letters"
+    ],
+    "αι": [
+      "double-letters"
+    ],
+    "diphthongs": [
+      "double-letters"
+    ],
+    "τσεπη": [
       "double-letters"
     ],
     "follows": [
@@ -3823,79 +4672,171 @@
       "verb-groups",
       "verb-to-be"
     ],
-    "them": [
+    "sounds": [
       "double-letters",
-      "interrogative-pronouns",
+      "read"
+    ],
+    "combine": [
+      "double-letters",
+      "read"
+    ],
+    "αυ": [
+      "double-letters"
+    ],
+    "τε": [
+      "double-letters",
+      "read"
+    ],
+    "ου": [
+      "double-letters",
       "masculine-declension",
-      "phrases",
-      "pronouns"
+      "neuter-declension",
+      "read"
+    ],
+    "ev": [
+      "double-letters"
+    ],
+    "sky": [
+      "double-letters",
+      "read"
+    ],
+    "ef": [
+      "double-letters"
+    ],
+    "seen": [
+      "double-letters"
+    ],
+    "ouranos": [
+      "double-letters",
+      "read"
+    ],
+    "pocket": [
+      "double-letters"
+    ],
+    "αιμα": [
+      "double-letters"
+    ],
+    "voiced": [
+      "double-letters",
+      "vowels-consonants"
+    ],
+    "double": [
+      "double-letters",
+      "read"
+    ],
+    "letters": [
+      "double-letters",
+      "vowels-consonants"
+    ],
+    "τζα": [
+      "double-letters",
+      "read"
     ],
     "digraphs": [
       "double-letters"
     ],
-    "certain": [
+    "μπ": [
       "double-letters"
     ],
-    "consistent": [
-      "feminine-declension",
+    "μαμα": [
+      "double-letters",
+      "feminine-declension"
+    ],
+    "pateras": [
+      "double-letters",
+      "read"
+    ],
+    "μπαμπας": [
+      "double-letters"
+    ],
+    "τσ": [
+      "double-letters"
+    ],
+    "av": [
+      "double-letters"
+    ],
+    "υι": [
+      "double-letters"
+    ],
+    "voiceless": [
+      "double-letters",
+      "vowels-consonants"
+    ],
+    "γκ": [
+      "double-letters"
+    ],
+    "construction": [
+      "double-letters"
+    ],
+    "ρα": [
+      "double-letters",
+      "read"
+    ],
+    "translation": [
+      "double-letters",
       "verb-to-be"
     ],
-    "typically": [
-      "feminine-declension",
-      "neuter-declension"
+    "ρας": [
+      "double-letters"
     ],
-    "life": [
-      "feminine-declension"
+    "combinations": [
+      "double-letters"
+    ],
+    "ουρανος": [
+      "double-letters"
+    ],
+    "ντυνω": [
+      "double-letters"
+    ],
+    "ης": [
+      "feminine-declension",
+      "genders",
+      "masculine-declension"
     ],
     "terms": [
       "feminine-declension"
     ],
-    "kinship": [
+    "γιαγια": [
       "feminine-declension"
     ],
-    "slightly": [
+    "μητερ": [
       "feminine-declension"
     ],
     "loanwords": [
       "feminine-declension"
     ],
-    "street": [
-      "genders",
-      "nouns"
+    "ζωη": [
+      "feminine-declension"
     ],
-    "03": [
-      "genders"
+    "life": [
+      "feminine-declension"
     ],
-    "belongs": [
-      "genders",
-      "verb-groups"
+    "consistent": [
+      "feminine-declension",
+      "verb-to-be"
     ],
-    "ambiguity": [
-      "genders"
+    "ζω": [
+      "feminine-declension"
+    ],
+    "typically": [
+      "feminine-declension",
+      "neuter-declension"
+    ],
+    "ων": [
+      "feminine-declension",
+      "masculine-declension",
+      "neuter-declension"
+    ],
+    "kinship": [
+      "feminine-declension"
+    ],
+    "δες": [
+      "feminine-declension"
+    ],
+    "slightly": [
+      "feminine-declension"
     ],
     "01": [
-      "genders"
-    ],
-    "ends": [
-      "genders",
-      "punctuation"
-    ],
-    "safe": [
-      "genders"
-    ],
-    "heart": [
-      "genders"
-    ],
-    "your": [
-      "genders",
-      "phrases",
-      "possessive-pronouns",
-      "pronouns"
-    ],
-    "fail": [
-      "genders"
-    ],
-    "02": [
       "genders"
     ],
     "categories": [
@@ -3904,31 +4845,81 @@
       "pronouns",
       "vowels-consonants"
     ],
+    "ambiguity": [
+      "genders"
+    ],
+    "your": [
+      "genders",
+      "phrases",
+      "possessive-pronouns",
+      "pronouns"
+    ],
+    "ends": [
+      "genders",
+      "punctuation"
+    ],
     "guide": [
       "genders"
+    ],
+    "οδος": [
+      "genders"
+    ],
+    "03": [
+      "genders"
+    ],
+    "fail": [
+      "genders"
+    ],
+    "belongs": [
+      "genders",
+      "verb-groups"
+    ],
+    "καρδια": [
+      "genders"
+    ],
+    "02": [
+      "genders"
+    ],
+    "safe": [
+      "genders"
+    ],
+    "heart": [
+      "genders"
+    ],
+    "street": [
+      "genders",
+      "nouns"
+    ],
+    "δρομος": [
+      "genders",
+      "nouns"
+    ],
+    "καθενας": [
+      "indefinite-pronouns"
+    ],
+    "αλλος": [
+      "indefinite-pronouns"
+    ],
+    "declinable": [
+      "indefinite-pronouns"
+    ],
+    "others": [
+      "indefinite-pronouns"
+    ],
+    "κατι": [
+      "indefinite-pronouns"
     ],
     "set": [
       "indefinite-pronouns",
       "verb-groups"
     ],
-    "declinable": [
+    "negative": [
       "indefinite-pronouns"
-    ],
-    "unspecified": [
-      "indefinite-pronouns",
-      "relative-pronouns"
     ],
     "nothing": [
       "indefinite-pronouns"
     ],
-    "questions": [
-      "indefinite-pronouns",
-      "interrogative-pronouns"
-    ],
-    "negative": [
-      "indefinite-pronouns"
-    ],
-    "others": [
+    "day": [
       "indefinite-pronouns"
     ],
     "nobody": [
@@ -3937,99 +4928,78 @@
     "stable": [
       "indefinite-pronouns"
     ],
-    "anything": [
+    "καποιος": [
       "indefinite-pronouns"
     ],
-    "somebody": [
-      "indefinite-pronouns"
-    ],
-    "someone": [
-      "indefinite-pronouns"
-    ],
-    "rich": [
+    "κανενα": [
       "indefinite-pronouns"
     ],
     "refer": [
       "indefinite-pronouns",
       "relative-pronouns"
     ],
-    "refering": [
+    "somebody": [
+      "indefinite-pronouns"
+    ],
+    "καθε": [
       "indefinite-pronouns"
     ],
     "unknown": [
       "indefinite-pronouns"
     ],
-    "anyone": [
+    "refering": [
+      "indefinite-pronouns"
+    ],
+    "someone": [
       "indefinite-pronouns"
     ],
     "way": [
       "indefinite-pronouns",
       "interjections"
     ],
-    "day": [
+    "μερα": [
       "indefinite-pronouns"
     ],
-    "oh": [
-      "interjections"
+    "τιποτα": [
+      "indefinite-pronouns"
+    ],
+    "anyone": [
+      "indefinite-pronouns"
+    ],
+    "κανενας": [
+      "indefinite-pronouns"
+    ],
+    "questions": [
+      "indefinite-pronouns",
+      "interrogative-pronouns"
+    ],
+    "καμια": [
+      "indefinite-pronouns"
+    ],
+    "anything": [
+      "indefinite-pronouns"
+    ],
+    "rich": [
+      "indefinite-pronouns"
+    ],
+    "unspecified": [
+      "indefinite-pronouns",
+      "relative-pronouns"
     ],
     "sudden": [
       "interjections"
     ],
-    "color": [
-      "interjections"
-    ],
-    "done": [
-      "interjections"
-    ],
-    "highlight": [
-      "interjections"
-    ],
-    "even": [
+    "out": [
       "interjections",
-      "interrogative-pronouns"
-    ],
-    "feeling": [
-      "interjections"
-    ],
-    "hopefully": [
-      "interjections"
-    ],
-    "emotions": [
-      "interjections"
-    ],
-    "sigh": [
-      "interjections"
-    ],
-    "spoken": [
-      "interjections"
-    ],
-    "disbelief": [
-      "interjections"
+      "phrases"
     ],
     "depending": [
       "interjections"
     ],
-    "hurry": [
+    "μακαρι": [
       "interjections"
     ],
-    "reactions": [
-      "interjections"
-    ],
-    "come": [
-      "interjections",
-      "prepositions"
-    ],
-    "alas": [
-      "interjections"
-    ],
-    "cultural": [
-      "interjections",
-      "social-expressions"
-    ],
-    "excellent": [
-      "interjections"
-    ],
-    "bravo": [
+    "μπραβο": [
       "interjections"
     ],
     "me": [
@@ -4038,70 +5008,192 @@
       "phrases",
       "relative-pronouns"
     ],
-    "tone": [
-      "interjections"
-    ],
-    "out": [
-      "interjections",
-      "phrases"
-    ],
-    "interjections": [
-      "interjections"
-    ],
-    "ah": [
-      "interjections"
-    ],
-    "pain": [
+    "reactions": [
       "interjections"
     ],
     "wish": [
       "interjections",
       "social-expressions"
     ],
-    "exception": [
+    "hurry": [
+      "interjections"
+    ],
+    "disbelief": [
+      "interjections"
+    ],
+    "color": [
+      "interjections"
+    ],
+    "αντε": [
+      "interjections"
+    ],
+    "ευγε": [
+      "interjections"
+    ],
+    "even": [
+      "interjections",
       "interrogative-pronouns"
     ],
-    "reader": [
-      "interrogative-pronouns"
+    "emotions": [
+      "interjections"
     ],
-    "cost": [
-      "interrogative-pronouns"
+    "αλιμονο": [
+      "interjections"
     ],
-    "context": [
+    "sigh": [
+      "interjections"
+    ],
+    "spoken": [
+      "interjections"
+    ],
+    "tone": [
+      "interjections"
+    ],
+    "ah": [
+      "interjections"
+    ],
+    "excellent": [
+      "interjections"
+    ],
+    "pain": [
+      "interjections"
+    ],
+    "αχ": [
+      "interjections"
+    ],
+    "oh": [
+      "interjections"
+    ],
+    "highlight": [
+      "interjections"
+    ],
+    "alas": [
+      "interjections"
+    ],
+    "bravo": [
+      "interjections"
+    ],
+    "hopefully": [
+      "interjections"
+    ],
+    "μπα": [
+      "interjections"
+    ],
+    "αιντε": [
+      "interjections"
+    ],
+    "interjections": [
+      "interjections"
+    ],
+    "done": [
+      "interjections"
+    ],
+    "επιφωνηματα": [
+      "interjections"
+    ],
+    "come": [
+      "interjections",
+      "prepositions"
+    ],
+    "cultural": [
+      "interjections",
+      "social-expressions"
+    ],
+    "feeling": [
+      "interjections"
+    ],
+    "does": [
       "interrogative-pronouns"
     ],
     "distinguish": [
       "interrogative-pronouns"
     ],
-    "accentuation": [
+    "ποσος": [
       "interrogative-pronouns"
     ],
-    "keeps": [
+    "ποια": [
       "interrogative-pronouns"
     ],
-    "counterparts": [
+    "τι": [
+      "interrogative-pronouns",
+      "phrases",
+      "punctuation",
+      "relative-pronouns"
+    ],
+    "keep": [
       "interrogative-pronouns"
     ],
     "door": [
       "interrogative-pronouns"
     ],
-    "stays": [
+    "cost": [
       "interrogative-pronouns"
     ],
-    "doing": [
+    "exception": [
+      "interrogative-pronouns"
+    ],
+    "πορτα": [
+      "interrogative-pronouns"
+    ],
+    "keeps": [
+      "interrogative-pronouns"
+    ],
+    "accentuation": [
       "interrogative-pronouns"
     ],
     "interrogative": [
       "interrogative-pronouns",
       "relative-pronouns"
     ],
-    "does": [
+    "κανει": [
       "interrogative-pronouns"
     ],
-    "keep": [
+    "counterparts": [
       "interrogative-pronouns"
+    ],
+    "ποιο": [
+      "interrogative-pronouns"
+    ],
+    "stays": [
+      "interrogative-pronouns"
+    ],
+    "context": [
+      "interrogative-pronouns"
+    ],
+    "reader": [
+      "interrogative-pronouns"
+    ],
+    "κανεις": [
+      "interrogative-pronouns",
+      "phrases",
+      "punctuation"
+    ],
+    "doing": [
+      "interrogative-pronouns"
+    ],
+    "ποσο": [
+      "interrogative-pronouns"
+    ],
+    "ποιος": [
+      "interrogative-pronouns",
+      "social-expressions"
+    ],
+    "ποση": [
+      "interrogative-pronouns"
+    ],
+    "φιλος": [
+      "masculine-declension"
+    ],
+    "student": [
+      "masculine-declension"
     ],
     "easier": [
+      "masculine-declension"
+    ],
+    "drop": [
+      "masculine-declension"
+    ],
+    "ους": [
       "masculine-declension"
     ],
     "pro": [
@@ -4109,16 +5201,13 @@
       "possessive-pronouns",
       "punctuation"
     ],
-    "drop": [
+    "μαθητης": [
       "masculine-declension"
     ],
     "clear": [
       "masculine-declension"
     ],
-    "exhibit": [
-      "masculine-declension"
-    ],
-    "student": [
+    "μαθητ": [
       "masculine-declension"
     ],
     "inflectional": [
@@ -4128,10 +5217,52 @@
       "masculine-declension",
       "neuter-declension"
     ],
+    "φιλ": [
+      "masculine-declension"
+    ],
+    "πατερ": [
+      "masculine-declension"
+    ],
+    "exhibit": [
+      "masculine-declension"
+    ],
     "easiest": [
       "neuter-declension"
     ],
+    "βιβλιο": [
+      "neuter-declension",
+      "nouns",
+      "possessive-pronouns",
+      "relative-pronouns"
+    ],
+    "ματων": [
+      "neuter-declension"
+    ],
+    "ιου": [
+      "neuter-declension"
+    ],
+    "βιβλι": [
+      "neuter-declension"
+    ],
+    "ιων": [
+      "neuter-declension"
+    ],
+    "παιδ": [
+      "neuter-declension"
+    ],
+    "thumb": [
+      "neuter-declension"
+    ],
+    "μαθη": [
+      "neuter-declension"
+    ],
+    "ια": [
+      "neuter-declension"
+    ],
     "identical": [
+      "neuter-declension"
+    ],
+    "ματα": [
       "neuter-declension"
     ],
     "extra": [
@@ -4139,44 +5270,95 @@
       "past-conjugation",
       "verb-groups"
     ],
-    "thumb": [
+    "ματος": [
       "neuter-declension"
     ],
-    "governed": [
+    "μαθημα": [
+      "neuter-declension"
+    ],
+    "γιαννης": [
       "nouns"
     ],
-    "golden": [
+    "πετρος": [
       "nouns"
     ],
-    "study": [
+    "πραγμα": [
       "nouns"
     ],
     "alongside": [
       "nouns"
     ],
-    "isolation": [
+    "john": [
       "nouns"
     ],
-    "belt": [
+    "ζωνη": [
+      "nouns"
+    ],
+    "map": [
+      "nouns"
+    ],
+    "πετρο": [
+      "nouns"
+    ],
+    "γυναικα": [
+      "nouns"
+    ],
+    "αντρας": [
+      "nouns"
+    ],
+    "hour": [
+      "nouns"
+    ],
+    "ουσιαστικα": [
+      "nouns"
+    ],
+    "woman": [
+      "nouns"
+    ],
+    "με": [
+      "nouns",
+      "personal-pronouns",
+      "phrases",
+      "prepositions"
+    ],
+    "golden": [
+      "nouns"
+    ],
+    "entities": [
+      "nouns"
+    ],
+    "governed": [
+      "nouns"
+    ],
+    "property": [
       "nouns"
     ],
     "peter": [
       "nouns"
     ],
-    "john": [
+    "belt": [
       "nouns"
     ],
-    "map": [
+    "μενει": [
       "nouns"
     ],
     "thing": [
       "nouns",
       "relative-pronouns"
     ],
-    "woman": [
+    "lives": [
       "nouns"
     ],
-    "entities": [
+    "study": [
+      "nouns"
+    ],
+    "γιαννη": [
+      "nouns"
+    ],
+    "isolation": [
+      "nouns"
+    ],
+    "χαρτης": [
       "nouns"
     ],
     "learn": [
@@ -4184,63 +5366,8 @@
       "read",
       "vowels-consonants"
     ],
-    "lives": [
+    "ωρα": [
       "nouns"
-    ],
-    "hour": [
-      "nouns"
-    ],
-    "property": [
-      "nouns"
-    ],
-    "exhortative": [
-      "particles"
-    ],
-    "emphasis": [
-      "particles",
-      "personal-pronouns",
-      "possessive-pronouns",
-      "pronouns"
-    ],
-    "solid": [
-      "particles"
-    ],
-    "reached": [
-      "particles"
-    ],
-    "morphology": [
-      "particles"
-    ],
-    "next": [
-      "particles"
-    ],
-    "practical": [
-      "particles"
-    ],
-    "grammar": [
-      "particles",
-      "prepositions"
-    ],
-    "dive": [
-      "particles"
-    ],
-    "forming": [
-      "particles"
-    ],
-    "particles": [
-      "particles"
-    ],
-    "phonology": [
-      "particles"
-    ],
-    "fit": [
-      "particles"
-    ],
-    "though": [
-      "particles"
-    ],
-    "specifically": [
-      "particles"
     ],
     "play": [
       "particles",
@@ -4248,15 +5375,8 @@
       "verb-groups",
       "voices-moods"
     ],
-    "marker": [
+    "specifically": [
       "particles"
-    ],
-    "expressing": [
-      "particles"
-    ],
-    "basic": [
-      "particles",
-      "phrases"
     ],
     "action": [
       "particles",
@@ -4267,83 +5387,149 @@
       "verbs",
       "voices-moods"
     ],
+    "grammar": [
+      "particles",
+      "prepositions"
+    ],
+    "congratulations": [
+      "particles",
+      "social-expressions"
+    ],
+    "syntax": [
+      "particles"
+    ],
     "vital": [
       "particles"
     ],
     "easily": [
       "particles"
     ],
+    "παμε": [
+      "particles"
+    ],
+    "basic": [
+      "particles",
+      "phrases"
+    ],
+    "expressing": [
+      "particles"
+    ],
+    "morphology": [
+      "particles"
+    ],
+    "phonology": [
+      "particles"
+    ],
+    "marker": [
+      "particles"
+    ],
+    "moods": [
+      "particles",
+      "voices-moods"
+    ],
+    "fit": [
+      "particles"
+    ],
+    "exhortative": [
+      "particles"
+    ],
     "subjunctive": [
       "particles",
       "voices-moods"
     ],
-    "emphatic": [
-      "particles",
-      "personal-pronouns",
-      "possessive-pronouns"
+    "forming": [
+      "particles"
     ],
-    "congratulations": [
-      "particles",
-      "social-expressions"
-    ],
-    "section": [
+    "μορια": [
       "particles"
     ],
     "future": [
       "particles",
       "tenses"
     ],
-    "moods": [
-      "particles",
-      "voices-moods"
-    ],
-    "syntax": [
+    "solid": [
       "particles"
     ],
-    "playing": [
+    "emphatic": [
+      "particles",
+      "personal-pronouns",
+      "possessive-pronouns"
+    ],
+    "section": [
+      "particles"
+    ],
+    "practical": [
+      "particles"
+    ],
+    "particles": [
+      "particles"
+    ],
+    "dive": [
+      "particles"
+    ],
+    "emphasis": [
+      "particles",
+      "personal-pronouns",
+      "possessive-pronouns",
+      "pronouns"
+    ],
+    "θα": [
+      "particles",
+      "tenses"
+    ],
+    "next": [
+      "particles"
+    ],
+    "reached": [
+      "particles"
+    ],
+    "though": [
+      "particles"
+    ],
+    "stems": [
+      "past-conjugation"
+    ],
+    "moves": [
+      "past-conjugation"
+    ],
+    "imperfect": [
       "past-conjugation",
       "tenses"
+    ],
+    "επαιζ": [
+      "past-conjugation"
     ],
     "tense": [
       "past-conjugation",
       "verb-groups"
     ],
-    "augment": [
-      "past-conjugation"
-    ],
-    "added": [
-      "past-conjugation"
-    ],
-    "stems": [
-      "past-conjugation"
-    ],
     "disappears": [
       "past-conjugation"
     ],
-    "once": [
+    "προσφυμα": [
+      "past-conjugation"
+    ],
+    "playing": [
       "past-conjugation",
-      "read",
       "tenses"
     ],
-    "making": [
+    "παιζ": [
+      "past-conjugation"
+    ],
+    "παρατατικος": [
       "past-conjugation"
     ],
     "aorist": [
       "past-conjugation",
       "tenses"
     ],
-    "actions": [
-      "past-conjugation",
-      "tenses"
-    ],
-    "imperfect": [
-      "past-conjugation",
-      "tenses"
-    ],
-    "were": [
+    "παιξ": [
       "past-conjugation"
     ],
-    "moves": [
+    "αοριστος": [
+      "past-conjugation"
+    ],
+    "augment": [
       "past-conjugation"
     ],
     "happening": [
@@ -4353,20 +5539,46 @@
       "past-conjugation",
       "tenses"
     ],
+    "once": [
+      "past-conjugation",
+      "read",
+      "tenses"
+    ],
+    "παιζαμε": [
+      "past-conjugation"
+    ],
+    "επαιξ": [
+      "past-conjugation"
+    ],
+    "making": [
+      "past-conjugation"
+    ],
+    "actions": [
+      "past-conjugation",
+      "tenses"
+    ],
+    "were": [
+      "past-conjugation"
+    ],
+    "added": [
+      "past-conjugation"
+    ],
+    "3rd": [
+      "personal-pronouns",
+      "reflexive-pronouns",
+      "verbs"
+    ],
+    "1st": [
+      "personal-pronouns",
+      "reflexive-pronouns",
+      "verb-groups",
+      "verbs"
+    ],
     "him": [
       "personal-pronouns"
     ],
-    "attached": [
+    "αυτον": [
       "personal-pronouns"
-    ],
-    "performing": [
-      "personal-pronouns",
-      "pronouns",
-      "verbs"
-    ],
-    "emphasized": [
-      "personal-pronouns",
-      "pronouns"
     ],
     "2nd": [
       "personal-pronouns",
@@ -4374,12 +5586,39 @@
       "verb-groups",
       "verbs"
     ],
-    "personal": [
-      "personal-pronouns",
-      "possessive-pronouns",
-      "pronouns"
+    "εσενα": [
+      "personal-pronouns"
     ],
-    "strong": [
+    "normal": [
+      "personal-pronouns"
+    ],
+    "εμενα": [
+      "personal-pronouns"
+    ],
+    "αυτες": [
+      "personal-pronouns"
+    ],
+    "αυτα": [
+      "personal-pronouns"
+    ],
+    "performing": [
+      "personal-pronouns",
+      "pronouns",
+      "verbs"
+    ],
+    "attached": [
+      "personal-pronouns"
+    ],
+    "her": [
+      "personal-pronouns",
+      "possessive-pronouns"
+    ],
+    "σε": [
+      "personal-pronouns",
+      "phrases",
+      "prepositions"
+    ],
+    "clitics": [
       "personal-pronouns"
     ],
     "she": [
@@ -4388,110 +5627,160 @@
       "verb-to-be",
       "verbs"
     ],
-    "clitics": [
+    "strong": [
       "personal-pronouns"
     ],
-    "her": [
+    "personal": [
       "personal-pronouns",
-      "possessive-pronouns"
+      "possessive-pronouns",
+      "pronouns"
     ],
-    "1st": [
+    "emphasized": [
       "personal-pronouns",
-      "reflexive-pronouns",
-      "verb-groups",
-      "verbs"
-    ],
-    "normal": [
-      "personal-pronouns"
-    ],
-    "3rd": [
-      "personal-pronouns",
-      "reflexive-pronouns",
-      "verbs"
-    ],
-    "interaction": [
-      "phrases",
-      "verb-to-be"
-    ],
-    "re": [
-      "phrases"
-    ],
-    "practice": [
-      "phrases"
-    ],
-    "welcome": [
-      "phrases"
-    ],
-    "sorry": [
-      "phrases"
-    ],
-    "thank": [
-      "phrases"
-    ],
-    "greetings": [
-      "phrases"
-    ],
-    "interactions": [
-      "phrases"
-    ],
-    "saying": [
-      "phrases",
-      "possessive-pronouns"
-    ],
-    "navigate": [
-      "phrases"
+      "pronouns"
     ],
     "improve": [
       "phrases"
     ],
-    "courtesy": [
-      "phrases"
-    ],
-    "excuse": [
-      "phrases"
-    ],
-    "please": [
+    "navigate": [
       "phrases"
     ],
     "help": [
       "phrases"
     ],
-    "morning": [
+    "hi": [
+      "phrases"
+    ],
+    "sometimes": [
+      "phrases"
+    ],
+    "welcome": [
+      "phrases"
+    ],
+    "excuse": [
+      "phrases"
+    ],
+    "interactions": [
+      "phrases"
+    ],
+    "ευχαριστω": [
       "phrases"
     ],
     "evening": [
       "phrases"
     ],
-    "versatile": [
+    "γεια": [
+      "phrases",
+      "social-expressions"
+    ],
+    "re": [
       "phrases"
     ],
-    "informal": [
+    "morning": [
       "phrases"
     ],
-    "loud": [
+    "extremely": [
+      "phrases"
+    ],
+    "καλησπερα": [
+      "phrases"
+    ],
+    "παρακαλω": [
       "phrases"
     ],
     "hello": [
       "phrases",
       "social-expressions"
     ],
-    "hi": [
+    "interaction": [
+      "phrases",
+      "verb-to-be"
+    ],
+    "καλημερα": [
+      "phrases"
+    ],
+    "καλα": [
+      "phrases",
+      "verb-to-be"
+    ],
+    "συγγνωμη": [
+      "phrases"
+    ],
+    "informal": [
+      "phrases"
+    ],
+    "saying": [
+      "phrases",
+      "possessive-pronouns"
+    ],
+    "sorry": [
+      "phrases"
+    ],
+    "please": [
+      "phrases"
+    ],
+    "courtesy": [
+      "phrases"
+    ],
+    "loud": [
+      "phrases"
+    ],
+    "greetings": [
+      "phrases"
+    ],
+    "thank": [
       "phrases"
     ],
     "mastering": [
       "phrases",
       "vowels-consonants"
     ],
-    "sometimes": [
+    "practice": [
       "phrases"
     ],
     "core": [
       "phrases"
     ],
-    "extremely": [
+    "σας": [
+      "phrases",
+      "possessive-pronouns",
+      "reflexive-pronouns"
+    ],
+    "λενε": [
       "phrases"
     ],
-    "stronger": [
+    "versatile": [
+      "phrases"
+    ],
+    "μολυβι": [
+      "possessive-pronouns"
+    ],
+    "δικη": [
+      "possessive-pronouns"
+    ],
+    "acts": [
+      "possessive-pronouns",
+      "voices-moods"
+    ],
+    "short": [
+      "possessive-pronouns"
+    ],
+    "σκυλι": [
+      "possessive-pronouns"
+    ],
+    "possessed": [
+      "possessive-pronouns"
+    ],
+    "pl": [
+      "possessive-pronouns",
+      "verb-to-be"
+    ],
+    "μας": [
+      "possessive-pronouns",
+      "reflexive-pronouns",
+      "social-expressions"
+    ],
+    "δικος": [
       "possessive-pronouns"
     ],
     "our": [
@@ -4500,64 +5789,98 @@
     "need": [
       "possessive-pronouns"
     ],
-    "mine": [
-      "possessive-pronouns"
-    ],
-    "yours": [
-      "possessive-pronouns"
-    ],
     "his": [
       "possessive-pronouns",
       "pronouns"
     ],
-    "pl": [
-      "possessive-pronouns",
-      "verb-to-be"
-    ],
-    "owner": [
+    "stronger": [
       "possessive-pronouns"
     ],
-    "short": [
+    "owner": [
       "possessive-pronouns"
     ],
     "expressed": [
       "possessive-pronouns"
     ],
-    "possessed": [
+    "mine": [
+      "possessive-pronouns"
+    ],
+    "δικο": [
+      "possessive-pronouns"
+    ],
+    "mineτο": [
       "possessive-pronouns"
     ],
     "pencil": [
       "possessive-pronouns"
     ],
-    "acts": [
-      "possessive-pronouns",
-      "voices-moods"
+    "yoursτο": [
+      "possessive-pronouns"
     ],
-    "towards": [
-      "prepositions",
-      "voices-moods"
-    ],
-    "space": [
-      "prepositions"
-    ],
-    "without": [
-      "prepositions",
-      "read"
-    ],
-    "theater": [
-      "prepositions"
-    ],
-    "merges": [
+    "σενα": [
       "prepositions"
     ],
     "preposition": [
       "prepositions"
     ],
-    "came": [
+    "χωρις": [
+      "prepositions"
+    ],
+    "διχως": [
+      "prepositions"
+    ],
+    "μετα": [
+      "prepositions"
+    ],
+    "prepositions": [
+      "prepositions"
+    ],
+    "ηρθα": [
+      "prepositions"
+    ],
+    "μαρια": [
+      "prepositions"
+    ],
+    "towards": [
+      "prepositions",
+      "voices-moods"
+    ],
+    "προς": [
       "prepositions"
     ],
     "show": [
       "prepositions"
+    ],
+    "θεατρο": [
+      "prepositions"
+    ],
+    "relationship": [
+      "prepositions"
+    ],
+    "την": [
+      "prepositions"
+    ],
+    "merges": [
+      "prepositions"
+    ],
+    "απο": [
+      "prepositions"
+    ],
+    "space": [
+      "prepositions"
+    ],
+    "αντι": [
+      "prepositions"
+    ],
+    "προθεσεις": [
+      "prepositions"
+    ],
+    "instead": [
+      "prepositions"
+    ],
+    "λεφτα": [
+      "prepositions",
+      "relative-pronouns"
     ],
     "work": [
       "prepositions"
@@ -4566,53 +5889,59 @@
       "prepositions",
       "relative-pronouns"
     ],
-    "relationship": [
+    "δουλεια": [
       "prepositions"
     ],
-    "instead": [
+    "came": [
+      "prepositions"
+    ],
+    "στο": [
       "prepositions"
     ],
     "maria": [
       "prepositions"
     ],
-    "prepositions": [
+    "theater": [
       "prepositions"
+    ],
+    "without": [
+      "prepositions",
+      "read"
+    ],
+    "εφυγα": [
+      "prepositions"
+    ],
+    "replace": [
+      "pronouns"
+    ],
+    "repetition": [
+      "pronouns"
+    ],
+    "διαβαζω": [
+      "pronouns"
+    ],
+    "intro": [
+      "pronouns"
+    ],
+    "hers": [
+      "pronouns"
+    ],
+    "omitted": [
+      "pronouns"
+    ],
+    "fluid": [
+      "pronouns"
     ],
     "key": [
       "pronouns",
       "punctuation",
       "read"
     ],
-    "repetition": [
-      "pronouns"
-    ],
-    "fluid": [
-      "pronouns"
-    ],
-    "omitted": [
-      "pronouns"
-    ],
-    "omission": [
-      "pronouns"
-    ],
-    "hers": [
-      "pronouns"
-    ],
-    "intro": [
+    "those": [
       "pronouns"
     ],
     "already": [
       "pronouns"
-    ],
-    "those": [
-      "pronouns"
-    ],
-    "replace": [
-      "pronouns"
-    ],
-    "several": [
-      "pronouns",
-      "voices-moods"
     ],
     "avoid": [
       "pronouns"
@@ -4620,23 +5949,83 @@
     "clarity": [
       "pronouns"
     ],
-    "differences": [
+    "several": [
+      "pronouns",
+      "voices-moods"
+    ],
+    "omission": [
+      "pronouns"
+    ],
+    "marks": [
       "punctuation"
     ],
-    "upper": [
+    "ano": [
+      "punctuation"
+    ],
+    "κομμα": [
+      "punctuation"
+    ],
+    "typing": [
+      "punctuation"
+    ],
+    "placed": [
+      "punctuation",
+      "vowels-consonants"
+    ],
+    "dot": [
+      "punctuation"
+    ],
+    "τελεια": [
+      "punctuation"
+    ],
+    "ερωτηματικο": [
+      "punctuation"
+    ],
+    "list": [
       "punctuation"
     ],
     "line": [
       "punctuation"
     ],
-    "colon": [
-      "punctuation"
-    ],
-    "pause": [
+    "full": [
       "punctuation"
     ],
     "critical": [
       "punctuation"
+    ],
+    "differences": [
+      "punctuation"
+    ],
+    "functions": [
+      "punctuation"
+    ],
+    "upper": [
+      "punctuation"
+    ],
+    "colon": [
+      "punctuation"
+    ],
+    "separates": [
+      "punctuation"
+    ],
+    "comparison": [
+      "punctuation"
+    ],
+    "character": [
+      "punctuation"
+    ],
+    "teleia": [
+      "punctuation"
+    ],
+    "beginners": [
+      "punctuation"
+    ],
+    "produces": [
+      "punctuation"
+    ],
+    "clauses": [
+      "punctuation",
+      "relative-pronouns"
     ],
     "punctuation": [
       "punctuation"
@@ -4644,107 +6033,89 @@
     "comma": [
       "punctuation"
     ],
-    "character": [
+    "pause": [
       "punctuation"
     ],
-    "dot": [
+    "ανω": [
       "punctuation"
-    ],
-    "placed": [
-      "punctuation",
-      "vowels-consonants"
-    ],
-    "marks": [
-      "punctuation"
-    ],
-    "full": [
-      "punctuation"
-    ],
-    "teleia": [
-      "punctuation"
-    ],
-    "list": [
-      "punctuation"
-    ],
-    "typing": [
-      "punctuation"
-    ],
-    "functions": [
-      "punctuation"
-    ],
-    "ano": [
-      "punctuation"
-    ],
-    "separates": [
-      "punctuation"
-    ],
-    "clauses": [
-      "punctuation",
-      "relative-pronouns"
-    ],
-    "produces": [
-      "punctuation"
-    ],
-    "beginners": [
-      "punctuation"
-    ],
-    "comparison": [
-      "punctuation"
-    ],
-    "takeaway": [
-      "read"
-    ],
-    "emphasize": [
-      "read"
-    ],
-    "assembling": [
-      "read"
     ],
     "phonetic": [
       "read",
       "vowels-consonants"
     ],
-    "series": [
-      "read"
-    ],
-    "treat": [
-      "read"
-    ],
-    "highly": [
-      "read"
-    ],
-    "assembly": [
-      "read"
-    ],
-    "dictates": [
-      "read"
-    ],
     "blocks": [
+      "read"
+    ],
+    "ραςπατερας": [
       "read"
     ],
     "voice": [
       "read"
     ],
+    "treat": [
+      "read"
+    ],
+    "νοςουρανος": [
+      "read"
+    ],
+    "κιτζακι": [
+      "read"
+    ],
+    "assembly": [
+      "read"
+    ],
+    "emphasize": [
+      "read"
+    ],
     "wouldn": [
+      "read"
+    ],
+    "μαμαμα": [
+      "read"
+    ],
+    "assembling": [
+      "read"
+    ],
+    "highly": [
+      "read"
+    ],
+    "dictates": [
       "read"
     ],
     "rises": [
       "read"
     ],
-    "thinking": [
+    "takeaway": [
+      "read"
+    ],
+    "series": [
+      "read"
+    ],
+    "εαυτους": [
       "reflexive-pronouns"
     ],
-    "reflexive": [
-      "reflexive-pronouns",
-      "verb-groups"
+    "reflexives": [
+      "reflexive-pronouns"
+    ],
+    "σκεφτομαι": [
+      "reflexive-pronouns"
+    ],
+    "yourselves": [
+      "reflexive-pronouns"
     ],
     "selves": [
       "reflexive-pronouns"
     ],
-    "himself": [
+    "ourselves": [
       "reflexive-pronouns"
     ],
-    "self": [
+    "εαυτος": [
+      "reflexive-pronouns"
+    ],
+    "themselves": [
+      "reflexive-pronouns"
+    ],
+    "εαυτοι": [
       "reflexive-pronouns"
     ],
     "become": [
@@ -4753,192 +6124,261 @@
     "phrase": [
       "reflexive-pronouns"
     ],
-    "reflexives": [
+    "reflexive": [
+      "reflexive-pronouns",
+      "verb-groups"
+    ],
+    "εαυτο": [
       "reflexive-pronouns"
     ],
-    "themselves": [
+    "self": [
       "reflexive-pronouns"
     ],
     "herself": [
       "reflexive-pronouns"
     ],
+    "thinking": [
+      "reflexive-pronouns"
+    ],
+    "himself": [
+      "reflexive-pronouns"
+    ],
     "yourself": [
       "reflexive-pronouns"
     ],
-    "yourselves": [
-      "reflexive-pronouns"
-    ],
-    "ourselves": [
-      "reflexive-pronouns"
-    ],
-    "previously": [
+    "δωσε": [
       "relative-pronouns"
     ],
-    "bought": [
+    "οσα": [
       "relative-pronouns"
     ],
-    "saw": [
-      "relative-pronouns"
-    ],
-    "whoever": [
-      "relative-pronouns"
-    ],
-    "whichever": [
-      "relative-pronouns"
-    ],
-    "steals": [
-      "relative-pronouns"
-    ],
-    "give": [
+    "οσος": [
       "relative-pronouns"
     ],
     "mentioned": [
       "relative-pronouns"
     ],
+    "μενω": [
+      "relative-pronouns"
+    ],
+    "θελεις": [
+      "relative-pronouns"
+    ],
+    "whichever": [
+      "relative-pronouns"
+    ],
+    "παρε": [
+      "relative-pronouns"
+    ],
+    "saw": [
+      "relative-pronouns"
+    ],
+    "bought": [
+      "relative-pronouns"
+    ],
+    "previously": [
+      "relative-pronouns"
+    ],
+    "μενεις": [
+      "relative-pronouns"
+    ],
+    "αγορασα": [
+      "relative-pronouns"
+    ],
+    "give": [
+      "relative-pronouns"
+    ],
+    "κλεβει": [
+      "relative-pronouns"
+    ],
+    "οποιος": [
+      "relative-pronouns"
+    ],
     "live": [
       "relative-pronouns"
     ],
-    "birthdays": [
+    "steals": [
+      "relative-pronouns"
+    ],
+    "ειδα": [
+      "relative-pronouns"
+    ],
+    "whoever": [
+      "relative-pronouns"
+    ],
+    "easter": [
       "social-expressions"
     ],
-    "weddings": [
+    "days": [
       "social-expressions"
     ],
-    "including": [
+    "social": [
       "social-expressions"
     ],
-    "phone": [
+    "happy": [
       "social-expressions"
     ],
-    "christmas": [
+    "birthday": [
       "social-expressions"
     ],
-    "answering": [
+    "λεπτο": [
       "social-expressions"
     ],
-    "covers": [
+    "settings": [
+      "social-expressions"
+    ],
+    "drinks": [
+      "social-expressions"
+    ],
+    "food": [
+      "social-expressions"
+    ],
+    "επιτυχια": [
+      "social-expressions"
+    ],
+    "περαστικα": [
+      "social-expressions"
+    ],
+    "events": [
       "social-expressions"
     ],
     "wishes": [
       "social-expressions",
       "voices-moods"
     ],
-    "drinks": [
-      "social-expressions"
-    ],
-    "minute": [
-      "social-expressions"
-    ],
-    "national": [
-      "social-expressions"
-    ],
-    "expressions": [
-      "social-expressions"
-    ],
-    "anniversary": [
-      "social-expressions"
-    ],
-    "settings": [
-      "social-expressions"
-    ],
-    "bon": [
-      "social-expressions"
-    ],
-    "events": [
-      "social-expressions"
-    ],
-    "food": [
-      "social-expressions"
-    ],
     "luck": [
-      "social-expressions"
-    ],
-    "happy": [
-      "social-expressions"
-    ],
-    "appetit": [
-      "social-expressions"
-    ],
-    "easter": [
-      "social-expressions"
-    ],
-    "birthday": [
-      "social-expressions"
-    ],
-    "social": [
       "social-expressions"
     ],
     "cheers": [
       "social-expressions"
     ],
+    "expressions": [
+      "social-expressions"
+    ],
+    "answering": [
+      "social-expressions"
+    ],
+    "birthdays": [
+      "social-expressions"
+    ],
+    "phone": [
+      "social-expressions"
+    ],
+    "including": [
+      "social-expressions"
+    ],
+    "υγεια": [
+      "social-expressions"
+    ],
+    "christmas": [
+      "social-expressions"
+    ],
     "holiday": [
       "social-expressions"
     ],
-    "days": [
+    "covers": [
       "social-expressions"
     ],
-    "over": [
+    "χρονια": [
+      "social-expressions"
+    ],
+    "anniversary": [
+      "social-expressions"
+    ],
+    "national": [
+      "social-expressions"
+    ],
+    "συγχαρητηρια": [
+      "social-expressions"
+    ],
+    "ορεξη": [
+      "social-expressions"
+    ],
+    "appetit": [
+      "social-expressions"
+    ],
+    "πολλα": [
+      "social-expressions"
+    ],
+    "weddings": [
+      "social-expressions"
+    ],
+    "bon": [
+      "social-expressions"
+    ],
+    "minute": [
+      "social-expressions"
+    ],
+    "εμπρος": [
+      "social-expressions"
+    ],
+    "επαιξα": [
+      "tenses"
+    ],
+    "επαιζα": [
+      "tenses"
+    ],
+    "continuous": [
       "tenses"
     ],
     "happen": [
       "tenses"
     ],
-    "instant": [
+    "repeatedly": [
+      "tenses"
+    ],
+    "over": [
+      "tenses"
+    ],
+    "ενεστωτας": [
       "tenses"
     ],
     "simple": [
-      "tenses"
-    ],
-    "reflected": [
       "tenses"
     ],
     "divided": [
       "tenses",
       "vowels-consonants"
     ],
-    "repeatedly": [
+    "παιζω": [
+      "tenses",
+      "verb-groups"
+    ],
+    "παιξει": [
       "tenses"
     ],
-    "continuous": [
+    "instant": [
       "tenses"
     ],
-    "happens": [
+    "παιξω": [
+      "tenses",
+      "voices-moods"
+    ],
+    "παρελθον": [
+      "tenses"
+    ],
+    "reflected": [
+      "tenses"
+    ],
+    "παρακειμενος": [
       "tenses"
     ],
     "aspect": [
       "tenses"
     ],
-    "distinction": [
+    "happens": [
+      "tenses"
+    ],
+    "μελλοντας": [
       "tenses"
     ],
     "between": [
       "tenses"
     ],
-    "unaccented": [
-      "verb-groups"
+    "distinction": [
+      "tenses"
     ],
-    "run": [
-      "verb-groups"
-    ],
-    "conjugating": [
-      "verb-groups"
-    ],
-    "second": [
-      "verb-groups"
-    ],
-    "win": [
-      "verb-groups"
-    ],
-    "categorized": [
-      "verb-groups"
-    ],
-    "correctly": [
-      "verb-groups"
-    ],
-    "love": [
-      "verb-groups"
-    ],
-    "matters": [
+    "conjugations": [
       "verb-groups"
     ],
     "stem": [
@@ -4949,146 +6389,227 @@
       "verb-groups",
       "voices-moods"
     ],
-    "sleep": [
-      "verb-groups"
-    ],
-    "conjugations": [
+    "sit": [
       "verb-groups"
     ],
     "adding": [
+      "verb-groups"
+    ],
+    "win": [
+      "verb-groups"
+    ],
+    "μαι": [
+      "verb-groups"
+    ],
+    "matters": [
+      "verb-groups"
+    ],
+    "conjugating": [
+      "verb-groups"
+    ],
+    "love": [
+      "verb-groups"
+    ],
+    "sleep": [
       "verb-groups"
     ],
     "final": [
       "verb-groups",
       "vowels-consonants"
     ],
-    "sit": [
+    "unaccented": [
+      "verb-groups"
+    ],
+    "αμαιverbs": [
+      "verb-groups"
+    ],
+    "συζυγιες": [
       "verb-groups"
     ],
     "groups": [
       "verb-groups"
     ],
-    "click": [
-      "verb-to-be"
+    "categorized": [
+      "verb-groups"
     ],
-    "any": [
-      "verb-to-be"
+    "run": [
+      "verb-groups"
     ],
-    "lab": [
-      "verb-to-be"
+    "correctly": [
+      "verb-groups"
     ],
-    "toggle": [
-      "verb-to-be"
+    "νικω": [
+      "verb-groups"
     ],
-    "observe": [
-      "verb-to-be"
-    ],
-    "arguably": [
-      "verb-to-be"
+    "second": [
+      "verb-groups"
     ],
     "indicative": [
       "verb-to-be",
       "verbs",
       "voices-moods"
     ],
-    "active": [
-      "verbs",
-      "voices-moods"
+    "ετοιμος": [
+      "verb-to-be"
     ],
-    "ancient": [
-      "verbs"
+    "observe": [
+      "verb-to-be"
     ],
-    "heartbeat": [
-      "verbs"
+    "toggle": [
+      "verb-to-be"
     ],
-    "carries": [
-      "verbs"
+    "lab": [
+      "verb-to-be"
+    ],
+    "any": [
+      "verb-to-be"
+    ],
+    "click": [
+      "verb-to-be"
+    ],
+    "arguably": [
+      "verb-to-be"
     ],
     "loose": [
-      "verbs"
-    ],
-    "anatomy": [
-      "verbs"
-    ],
-    "introduction": [
       "verbs"
     ],
     "explore": [
       "verbs"
     ],
-    "itself": [
+    "active": [
+      "verbs",
       "voices-moods"
     ],
-    "imperative": [
+    "λυ": [
+      "verbs"
+    ],
+    "anatomy": [
+      "verbs"
+    ],
+    "heartbeat": [
+      "verbs"
+    ],
+    "ancient": [
+      "verbs"
+    ],
+    "carries": [
+      "verbs"
+    ],
+    "introduction": [
+      "verbs"
+    ],
+    "commands": [
       "voices-moods"
     ],
-    "requests": [
+    "οντας": [
       "voices-moods"
     ],
-    "infinitive": [
+    "πλενω": [
       "voices-moods"
     ],
     "possibilities": [
       "voices-moods"
     ],
-    "washed": [
-      "voices-moods"
-    ],
-    "receives": [
-      "voices-moods"
-    ],
-    "voices": [
-      "voices-moods"
-    ],
-    "facts": [
-      "voices-moods"
-    ],
-    "commands": [
-      "voices-moods"
-    ],
-    "plays": [
-      "voices-moods"
-    ],
-    "should": [
-      "voices-moods"
-    ],
-    "ing": [
-      "voices-moods"
-    ],
-    "attitude": [
-      "voices-moods"
-    ],
-    "participles": [
-      "voices-moods"
-    ],
-    "reality": [
+    "wash": [
       "voices-moods"
     ],
     "performs": [
       "voices-moods"
     ],
-    "wash": [
+    "παιζει": [
       "voices-moods"
     ],
-    "system": [
-      "vowels-consonants"
+    "reality": [
+      "voices-moods"
     ],
-    "understanding": [
+    "ing": [
+      "voices-moods"
+    ],
+    "μετοχη": [
+      "voices-moods"
+    ],
+    "infinitive": [
+      "voices-moods"
+    ],
+    "voices": [
+      "voices-moods"
+    ],
+    "πλενομαι": [
+      "voices-moods"
+    ],
+    "παθητικη": [
+      "voices-moods"
+    ],
+    "facts": [
+      "voices-moods"
+    ],
+    "attitude": [
+      "voices-moods"
+    ],
+    "plays": [
+      "voices-moods"
+    ],
+    "imperative": [
+      "voices-moods"
+    ],
+    "φωνες": [
+      "voices-moods"
+    ],
+    "ενεργητικη": [
+      "voices-moods"
+    ],
+    "requests": [
+      "voices-moods"
+    ],
+    "itself": [
+      "voices-moods"
+    ],
+    "εγκλισεις": [
+      "voices-moods"
+    ],
+    "participles": [
+      "voices-moods"
+    ],
+    "υποτακτικη": [
+      "voices-moods"
+    ],
+    "διαβασε": [
+      "voices-moods"
+    ],
+    "receives": [
+      "voices-moods"
+    ],
+    "should": [
+      "voices-moods"
+    ],
+    "προστακτικη": [
+      "voices-moods"
+    ],
+    "οριστικη": [
+      "voices-moods"
+    ],
+    "washed": [
+      "voices-moods"
+    ],
+    "17": [
       "vowels-consonants"
     ],
     "seven": [
       "vowels-consonants"
     ],
+    "produced": [
+      "vowels-consonants"
+    ],
+    "evolution": [
+      "vowels-consonants"
+    ],
     "ee": [
       "vowels-consonants"
     ],
-    "remember": [
+    "above": [
       "vowels-consonants"
     ],
-    "importance": [
-      "vowels-consonants"
-    ],
-    "historical": [
+    "exact": [
       "vowels-consonants"
     ],
     "iotacism": [
@@ -5097,25 +6618,31 @@
     "carriers": [
       "vowels-consonants"
     ],
-    "17": [
-      "vowels-consonants"
-    ],
-    "evolution": [
-      "vowels-consonants"
-    ],
-    "exact": [
-      "vowels-consonants"
-    ],
-    "above": [
-      "vowels-consonants"
-    ],
-    "classification": [
+    "system": [
       "vowels-consonants"
     ],
     "due": [
       "vowels-consonants"
     ],
-    "produced": [
+    "συμφωνα": [
+      "vowels-consonants"
+    ],
+    "classification": [
+      "vowels-consonants"
+    ],
+    "importance": [
+      "vowels-consonants"
+    ],
+    "remember": [
+      "vowels-consonants"
+    ],
+    "historical": [
+      "vowels-consonants"
+    ],
+    "φωνηεντα": [
+      "vowels-consonants"
+    ],
+    "understanding": [
       "vowels-consonants"
     ]
   }

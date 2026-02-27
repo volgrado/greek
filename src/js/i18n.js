@@ -51,12 +51,11 @@ export const resetProgress = (linkElement) => {
         return;
     }
 
-    state.viewedLessons.clear();
-    localStorage.removeItem('viewed');
+    state.clearViewed();
     linkElement.textContent = 'Done!';
 
-    if (window.location.hash === '#/' || window.location.hash === '' || window.location.hash === '#/curriculum') {
-        window.dispatchEvent(new Event('hashchange'));
+    if (window.location.pathname === '/' || window.location.pathname === '/index.html' || window.location.pathname === '/curriculum') {
+        if (state.db) routeFn();
     }
 
     setTimeout(() => {
@@ -70,7 +69,10 @@ export const initI18n = (routeFn) => {
         localStorage.setItem('lang', lang);
         updateUIStrings();
         await loadData();
-        window.location.hash = '#/';
+
+        if (window.navigation) window.navigation.navigate('/');
+        else window.location.href = '/';
+
         if (routeFn) routeFn();
     });
 

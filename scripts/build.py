@@ -178,7 +178,8 @@ def build_lang(lang_code, dist_root):
                     
                     # Añadir al Inverted Index
                     # Tokenize words using basic alphanumeric matching
-                    raw_words = re.findall(r'[a-z0-9]+', normalize_text_py(title + " " + clean_text))
+                    # Range \u0370-\u03FF covers the Greek and Coptic block
+                    raw_words = re.findall(r'[a-z0-9\u0370-\u03ff]+', normalize_text_py(title + " " + clean_text))
                     unique_words = set(raw_words)
                     
                     for w in unique_words:
@@ -259,7 +260,7 @@ def build_all():
                 for l in lessons:
                     h_num = l.get('hierarchical_num', f"{chapter_idx}.{lesson_idx}")
                     label = f"{h_num}. {l['title']}"
-                    shell_html += f'''    <a href="#/lessons/{l['id']}" class="curriculum-link">
+                    shell_html += f'''    <a href="/lessons/{l['id']}" class="curriculum-link">
                         <span>{label}</span>
                         <span>→</span>
                     </a>\n'''

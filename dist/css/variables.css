@@ -1,11 +1,15 @@
 :root {
     --bg: #ffffff;
     --text: #111111;
-    --muted-text: #757575;
-    --border: #111111;
-    --secondary-bg: #f8f8f8;
-    --card-bg: #ffffff;
-    --accent: #111111;
+    --accent: #4a90e2;
+    /* Modern Blue accent */
+
+    /* 🧬 Genius Derived Colors via color-mix() */
+    --border: color-mix(in srgb, var(--text) 15%, transparent);
+    --muted-text: color-mix(in srgb, var(--text) 60%, transparent);
+    --secondary-bg: color-mix(in srgb, var(--text) 4%, transparent);
+    --card-bg: var(--bg);
+    --hover-overlay: color-mix(in srgb, var(--text) 8%, transparent);
 
     --font-ui: 'Inter', system-ui, sans-serif;
     --font-editorial: 'Lora', serif;
@@ -14,19 +18,11 @@
 html.dark-mode {
     --bg: #111111;
     --text: #f4f4f4;
-    --muted-text: #a0a0a0;
-    --border: #f4f4f4;
-    --secondary-bg: #1a1a1a;
-    --card-bg: #111111;
-    --accent: #f4f4f4;
+    /* Derived colors automatically update because they depend on --text */
 }
 
 html.sepia-mode {
     --bg: #f4ecd8;
     --text: #433422;
-    --muted-text: #8b7355;
-    --border: #dccdba;
-    --secondary-bg: #eaddc5;
-    --card-bg: #fdf6e3;
-    --accent: #5c4033;
+    /* Derived colors automatically update because they depend on --text */
 }

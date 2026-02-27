@@ -1,0 +1,74 @@
+/* 
+   View Transitions Masterclass 
+   Customizing how different parts of the UI morph.
+*/
+
+/* 1. Global Page Morph: Slide & Fade */
+::view-transition-group(main-content) {
+    animation-duration: 0.5s;
+    animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+::view-transition-old(main-content) {
+    animation: 0.4s cubic-bezier(0.16, 1, 0.3, 1) both slide-out;
+}
+
+::view-transition-new(main-content) {
+    animation: 0.5s cubic-bezier(0.16, 1, 0.3, 1) both slide-in;
+}
+
+/* 2. Search Panel: Vertical Blur-In */
+::view-transition-old(search-panel) {
+    animation: 0.3s ease-in both fade-out;
+}
+
+::view-transition-new(search-panel) {
+    animation: 0.4s cubic-bezier(0.16, 1, 0.3, 1) both reveal-down;
+}
+
+/* Keyframes */
+@keyframes slide-out {
+    from {
+        opacity: 1;
+        transform: scale(1);
+        filter: blur(0);
+    }
+
+    to {
+        opacity: 0;
+        transform: scale(0.98) translateY(-10px);
+        filter: blur(15px);
+    }
+}
+
+@keyframes slide-in {
+    from {
+        opacity: 0;
+        transform: scale(1.02) translateY(10px);
+        filter: blur(15px);
+    }
+
+    to {
+        opacity: 1;
+        transform: scale(1) translateY(0);
+        filter: blur(0);
+    }
+}
+
+@keyframes fade-out {
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes reveal-down {
+    from {
+        clip-path: inset(0 0 100% 0);
+        transform: translateY(-10px);
+    }
+
+    to {
+        clip-path: inset(0 0 0 0);
+        transform: translateY(0);
+    }
+}

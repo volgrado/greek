@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Greek</title>
     <!-- Mobile App Settings -->
-    <link rel="manifest" href="manifest.json">
+    <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#ffffff">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="assets/icon.svg">
+    <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/assets/icon.svg">
     <!-- Fonts: Lora (Editorial), Inter (UI) -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,12 +19,26 @@
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Lora:ital,wght@0,400;0,700;1,400&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- Speculation Rules API for instant navigation -->
+    <script type="speculationrules">
+    {
+      "prerender": [
+        {
+          "source": "list",
+          "urls": [],
+          "where": { "href_matches": "*/lessons/*" },
+          "eagerness": "moderate"
+        }
+      ]
+    }
+    </script>
 </head>
 
 <body>
     <header class="root-nav">
-        <a href="#/" class="logo">
+        <a href="/" class="logo">
             <svg class="owl-logo" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
                 <rect width="512" height="512" fill="none" rx="64" ry="64" stroke="currentColor" stroke-width="20" />
                 <text id="logo-symbol" x="50%" y="62%" dominant-baseline="middle" text-anchor="middle"
@@ -33,7 +47,7 @@
             <span id="logo-text">GREEK</span>
         </a>
         <div class="header-actions">
-            <button id="search-btn" class="lang-toggle" title="Search Lessons">
+            <button id="search-btn" popovertarget="search-drawer" class="lang-toggle" title="Search Lessons">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                     stroke-linejoin="round">
                     <circle cx="11" cy="11" r="8"></circle>
@@ -67,7 +81,8 @@
             </button>
         </div>
     </header>
-    <div id="search-drawer" class="search-panel">
+    <div class="scroll-progress"></div>
+    <div id="search-drawer" popover class="search-panel">
         <div class="search-drawer-inner">
             <div class="search-drawer-header">
                 <input type="text" id="global-search-input" class="global-search-input" placeholder="Search lessons..."
@@ -93,27 +108,27 @@
                     </span>
                 </div>
                 <div class="section-content">
-                    <a href="#/lessons/basics" class="curriculum-link">
+                    <a href="/lessons/basics" class="curriculum-link">
                         <span>1.1. The Greek Alphabet</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/double-letters" class="curriculum-link">
+    <a href="/lessons/double-letters" class="curriculum-link">
                         <span>1.2. Double Letters</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/read" class="curriculum-link">
+    <a href="/lessons/read" class="curriculum-link">
                         <span>1.3. Learn to Read</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/vowels-consonants" class="curriculum-link">
+    <a href="/lessons/vowels-consonants" class="curriculum-link">
                         <span>1.4. Vowels and Consonants</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/accents" class="curriculum-link">
+    <a href="/lessons/accents" class="curriculum-link">
                         <span>1.5. Accents (Τονισμός)</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/punctuation" class="curriculum-link">
+    <a href="/lessons/punctuation" class="curriculum-link">
                         <span>1.6. Punctuation Marks</span>
                         <span>→</span>
                     </a>
@@ -127,39 +142,39 @@
                     </span>
                 </div>
                 <div class="section-content">
-                    <a href="#/lessons/nouns" class="curriculum-link">
+                    <a href="/lessons/nouns" class="curriculum-link">
                         <span>2.1. The Nouns</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/genders" class="curriculum-link">
+    <a href="/lessons/genders" class="curriculum-link">
                         <span>2.2. The Genders</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/articles" class="curriculum-link">
+    <a href="/lessons/articles" class="curriculum-link">
                         <span>2.3. The Articles</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/cases" class="curriculum-link">
+    <a href="/lessons/cases" class="curriculum-link">
                         <span>2.4. The Cases</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/declension" class="curriculum-link">
+    <a href="/lessons/declension" class="curriculum-link">
                         <span>2.5. The Declension</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/masculine-declension" class="curriculum-link">
+    <a href="/lessons/masculine-declension" class="curriculum-link">
                         <span>2.6. Masculine Declension</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/feminine-declension" class="curriculum-link">
+    <a href="/lessons/feminine-declension" class="curriculum-link">
                         <span>2.7. Feminine Declension</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/neuter-declension" class="curriculum-link">
+    <a href="/lessons/neuter-declension" class="curriculum-link">
                         <span>2.8. Neuter Declension</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/articles-declension" class="curriculum-link">
+    <a href="/lessons/articles-declension" class="curriculum-link">
                         <span>2.9. Articles Declension</span>
                         <span>→</span>
                     </a>
@@ -173,39 +188,39 @@
                     </span>
                 </div>
                 <div class="section-content">
-                    <a href="#/lessons/pronouns" class="curriculum-link">
+                    <a href="/lessons/pronouns" class="curriculum-link">
                         <span>3.1. Intro to Pronouns</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/personal-pronouns" class="curriculum-link">
+    <a href="/lessons/personal-pronouns" class="curriculum-link">
                         <span>3.2. Personal Pronouns</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/possessive-pronouns" class="curriculum-link">
+    <a href="/lessons/possessive-pronouns" class="curriculum-link">
                         <span>3.3. Possessive Pronouns</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/demonstrative-pronouns" class="curriculum-link">
+    <a href="/lessons/demonstrative-pronouns" class="curriculum-link">
                         <span>3.4. Demonstrative Pronouns</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/relative-pronouns" class="curriculum-link">
+    <a href="/lessons/relative-pronouns" class="curriculum-link">
                         <span>3.5. Relative Pronouns</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/interrogative-pronouns" class="curriculum-link">
+    <a href="/lessons/interrogative-pronouns" class="curriculum-link">
                         <span>3.6. Interrogative Pronouns</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/indefinite-pronouns" class="curriculum-link">
+    <a href="/lessons/indefinite-pronouns" class="curriculum-link">
                         <span>3.7. Indefinite Pronouns</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/reflexive-pronouns" class="curriculum-link">
+    <a href="/lessons/reflexive-pronouns" class="curriculum-link">
                         <span>3.8. Reflexive Pronouns</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/definite-pronouns" class="curriculum-link">
+    <a href="/lessons/definite-pronouns" class="curriculum-link">
                         <span>3.9. Definite Pronouns</span>
                         <span>→</span>
                     </a>
@@ -219,15 +234,15 @@
                     </span>
                 </div>
                 <div class="section-content">
-                    <a href="#/lessons/adjectives" class="curriculum-link">
+                    <a href="/lessons/adjectives" class="curriculum-link">
                         <span>4.1. The Adjectives</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/degrees-adjectives" class="curriculum-link">
+    <a href="/lessons/degrees-adjectives" class="curriculum-link">
                         <span>4.2. Degrees of Adjectives</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/adverbs" class="curriculum-link">
+    <a href="/lessons/adverbs" class="curriculum-link">
                         <span>4.3. The Adverbs</span>
                         <span>→</span>
                     </a>
@@ -241,35 +256,35 @@
                     </span>
                 </div>
                 <div class="section-content">
-                    <a href="#/lessons/verbs" class="curriculum-link">
+                    <a href="/lessons/verbs" class="curriculum-link">
                         <span>5.1. Introduction to Verbs</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/verb-groups" class="curriculum-link">
+    <a href="/lessons/verb-groups" class="curriculum-link">
                         <span>5.2. Groups of Verbs</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/conjugation-present" class="curriculum-link">
+    <a href="/lessons/conjugation-present" class="curriculum-link">
                         <span>5.3. Present Conjugation</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/auxiliary-verbs" class="curriculum-link">
+    <a href="/lessons/auxiliary-verbs" class="curriculum-link">
                         <span>5.4. Auxiliary Verbs</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/tenses" class="curriculum-link">
+    <a href="/lessons/tenses" class="curriculum-link">
                         <span>5.5. Verb Tenses</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/verb-to-be" class="curriculum-link">
+    <a href="/lessons/verb-to-be" class="curriculum-link">
                         <span>5.6. The Verb 'To Be' (Είμαι)</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/past-conjugation" class="curriculum-link">
+    <a href="/lessons/past-conjugation" class="curriculum-link">
                         <span>5.7. Past Conjugation</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/voices-moods" class="curriculum-link">
+    <a href="/lessons/voices-moods" class="curriculum-link">
                         <span>5.8. Voices and Moods</span>
                         <span>→</span>
                     </a>
@@ -283,19 +298,19 @@
                     </span>
                 </div>
                 <div class="section-content">
-                    <a href="#/lessons/prepositions" class="curriculum-link">
+                    <a href="/lessons/prepositions" class="curriculum-link">
                         <span>6.1. The Prepositions</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/conjunctions" class="curriculum-link">
+    <a href="/lessons/conjunctions" class="curriculum-link">
                         <span>6.2. The Conjunctions</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/particles" class="curriculum-link">
+    <a href="/lessons/particles" class="curriculum-link">
                         <span>6.3. The Particles</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/interjections" class="curriculum-link">
+    <a href="/lessons/interjections" class="curriculum-link">
                         <span>6.4. Interjections</span>
                         <span>→</span>
                     </a>
@@ -309,15 +324,15 @@
                     </span>
                 </div>
                 <div class="section-content">
-                    <a href="#/lessons/phrases" class="curriculum-link">
+                    <a href="/lessons/phrases" class="curriculum-link">
                         <span>7.1. Essential Phrases</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/social-expressions" class="curriculum-link">
+    <a href="/lessons/social-expressions" class="curriculum-link">
                         <span>7.2. Social Expressions</span>
                         <span>→</span>
                     </a>
-    <a href="#/lessons/dialogues-travel" class="curriculum-link">
+    <a href="/lessons/dialogues-travel" class="curriculum-link">
                         <span>7.3. Travel Dialogues</span>
                         <span>→</span>
                     </a>
@@ -331,7 +346,7 @@
                     </span>
                 </div>
                 <div class="section-content">
-                    <a href="#/lessons/coming-soon" class="curriculum-link">
+                    <a href="/lessons/coming-soon" class="curriculum-link">
                         <span>8.1. Coming Soon</span>
                         <span>→</span>
                     </a>
@@ -356,11 +371,11 @@
             <p class="error-message"></p>
             <div class="error-actions">
                 <button onclick="location.reload()" class="lang-toggle error-retry"></button>
-                <a href="#/" class="lang-toggle error-back"></a>
+                <a href="/" class="lang-toggle error-back"></a>
             </div>
         </div>
     </template>
-    <script type="module" src="js/main.js"></script>
+    <script type="module" src="/js/main.js?v=999"></script>
 </body>
 
 </html>

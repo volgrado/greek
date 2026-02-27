@@ -64,23 +64,10 @@ button:active,
     transform: scale(0.97);
 }
 
-/* Fade-in for dynamic content transitions */
-.curriculum-container,
-.content-wrapper,
-.skeleton-loader {
-    animation: fadeIn 0.4s ease-out forwards;
-}
 
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translateY(4px);
-    }
 
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
+main#app {
+    view-transition-name: main-content;
 }
 
 body.dark-mode img {

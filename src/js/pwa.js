@@ -34,7 +34,7 @@ export const initPWA = () => {
     }
 
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('sw.js').then(reg => {
+        navigator.serviceWorker.register('/sw.js').then(reg => {
             // Force browser to check for sw.js updates every time the SPA boots
             reg.update();
 
@@ -51,14 +51,10 @@ export const initPWA = () => {
             });
         });
 
-        // Whenever the Service Worker changes (e.g. skipWaiting triggers), 
-        // silently reload the page so the new interceptor logic is applied instantly.
-        let refreshing = false;
+        // We removed the auto-reload on controllerchange to avoid infinite HMR loops (especially on Hard Refreshes).
+        // The new Service Worker will quietly take over all subsequent fetches.
         navigator.serviceWorker.addEventListener('controllerchange', () => {
-            if (!refreshing) {
-                refreshing = true;
-                window.location.reload();
-            }
+            console.log("[PWA] Service Worker took over. Next navigation will use newest code.");
         });
     }
 };

@@ -1,32 +1,33 @@
 /** @type {string} */
-const CACHE_NAME = 'greek-zero-v9';
+const CACHE_NAME = 'greek-zero-v11';
 /** @type {string[]} */
 const LESSON_CACHES = ['pwa-lessons-el-v2', 'pwa-lessons-es-v2'];
 
 const STATIC_ASSETS = [
-    './',
-    './index.html',
-    './style.css',
-    './css/variables.css',
-    './css/base.css',
-    './css/typography.css',
-    './css/layout.css',
-    './css/components.css',
-    './css/lessons.css',
-    './css/errors.css',
-    './js/main.js',
-    './js/config.js',
-    './js/state.js',
-    './js/data.js',
-    './js/theme.js',
-    './js/i18n.js',
-    './js/search.js',
-    './js/router.js',
-    './js/pwa.js',
-    './manifest.json',
-    './assets/icon.svg',
-    './public/data/el/curriculum.json',
-    './public/data/es/curriculum.json'
+    '/',
+    '/index.html',
+    '/style.css',
+    '/css/variables.css',
+    '/css/base.css',
+    '/css/typography.css',
+    '/css/layout.css',
+    '/css/components.css',
+    '/css/lessons.css',
+    '/css/errors.css',
+    '/css/transitions.css',
+    '/js/main.js',
+    '/js/config.js',
+    '/js/state.js',
+    '/js/data.js',
+    '/js/theme.js',
+    '/js/i18n.js',
+    '/js/search.js',
+    '/js/router.js',
+    '/js/pwa.js',
+    '/manifest.json',
+    '/assets/icon.svg',
+    '/public/data/el/curriculum.json',
+    '/public/data/es/curriculum.json'
 ];
 
 /**
@@ -100,7 +101,7 @@ self.addEventListener('fetch', (e) => {
                         <div style="padding: 5rem; text-align: center; font-family: sans-serif; line-height: 1.5;">
                             <h1 style="color: #e53e3e; margin-bottom: 1rem;">You are Offline</h1>
                             <p style="color: #757575;">This lesson hasn't been downloaded for offline use.</p>
-                            <a href="#/" style="color: inherit; text-decoration: underline; margin-top: 2rem; display: inline-block;">Back to Curriculum</a>
+                            <a href="/" style="color: inherit; text-decoration: underline; margin-top: 2rem; display: inline-block;">Back to Curriculum</a>
                         </div>
                     `, {
                         headers: {
@@ -114,10 +115,20 @@ self.addEventListener('fetch', (e) => {
             // Client-Side Server: The Service Worker constructs the full HTML!
             const lessonHTML = await response.text();
 
-            const reqUrl = new URL(e.request.url);
-            const pathParts = reqUrl.pathname.split('/');
-            // Paths might be URL-encoded in e.request.url (e.g. spaces as %20)
-            const lessonId = decodeURIComponent(pathParts[pathParts.length - 1].replace('.html', ''));
+            // 🛣️ Genius Router: Extract lesson securely using URLPattern where available
+            let lessonId = '';
+            if ('URLPattern' in self) {
+                const pattern = new URLPattern({ pathname: '/lessons/:id.html' });
+                const match = pattern.exec(e.request.url);
+                if (match) lessonId = decodeURIComponent(match.pathname.groups.id);
+            }
+
+            // Fallback
+            if (!lessonId) {
+                const reqUrl = new URL(e.request.url);
+                const pathParts = reqUrl.pathname.split('/');
+                lessonId = decodeURIComponent(pathParts[pathParts.length - 1].replace('.html', ''));
+            }
 
             let metaHTML = '';
             let navHTML = '';
@@ -134,8 +145,10 @@ self.addEventListener('fetch', (e) => {
                 // 2. Flatten DB
                 const flatLessons = [];
                 let cIdx = 1;
-                for (const section in curriculum.structure) {
-                    for (const l of curriculum.structure[section]) {
+                const structure = curriculum.structure || curriculum;
+                for (const section in structure) {
+                    if (!Array.isArray(structure[section])) continue;
+                    for (const l of structure[section]) {
                         flatLessons.push({ ...l, sectionName: section, cIdx });
                     }
                     cIdx++;
@@ -158,19 +171,19 @@ self.addEventListener('fetch', (e) => {
                     let prevLink = '<span></span>';
                     if (currentIndex > 0) {
                         const prev = flatLessons[currentIndex - 1];
-                        prevLink = `<a href="#/lessons/${prev.id}">← ${prev.title}</a>`;
+                        prevLink = `<a href="/lessons/${prev.id}">← ${prev.title}</a>`;
                     }
 
                     let nextLink = '<span></span>';
                     if (currentIndex < flatLessons.length - 1) {
                         const next = flatLessons[currentIndex + 1];
-                        nextLink = `<a href="#/lessons/${next.id}">${next.title} →</a>`;
+                        nextLink = `<a href="/lessons/${next.id}">${next.title} →</a>`;
                     }
 
                     navHTML = `
                     <div class="lesson-nav">
                         ${prevLink}
-                        <a href="#/" class="menu-btn">MENU</a>
+                        <a href="/" class="menu-btn">MENU</a>
                         ${nextLink}
                     </div>`;
                 }
