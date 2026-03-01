@@ -1,229 +1,226 @@
 {
-    "Phonology & Orthography": [
+    "Module 1: First Steps (The Essentials)": [
         {
             "id": "basics",
-            "title": "The Greek Alphabet",
+            "title": "Week 1: Foundations – The Alphabet & Reading",
             "num": 1
         },
         {
             "id": "double-letters",
-            "title": "Double Letters",
+            "title": "Week 1: Sounds – Double Letters",
             "num": 2
         },
         {
-            "id": "read",
-            "title": "Learn to Read",
+            "id": "vowels-consonants",
+            "title": "Week 1: Vowels and Consonants",
             "num": 3
         },
         {
-            "id": "vowels-consonants",
-            "title": "Vowels and Consonants",
+            "id": "phrases",
+            "title": "Week 2: Greetings – Survival Scenario: Ordering a Coffee",
             "num": 4
+        },
+        {
+            "id": "verb-to-be",
+            "title": "Week 2: Existence – The Verb 'To Be' (Είμαι)",
+            "num": 5
+        },
+        {
+            "id": "social-expressions",
+            "title": "Week 3: Connections – Social Expressions",
+            "num": 6
+        },
+        {
+            "id": "nouns",
+            "title": "Week 3: Naming Things – The Nouns & Genders",
+            "num": 7
+        },
+        {
+            "id": "articles",
+            "title": "Week 4: The Definite & Indefinite Articles",
+            "num": 8
+        },
+        {
+            "id": "cases",
+            "title": "Week 4: The Case System – Survival Scenario: Supermarket",
+            "num": 9
+        },
+        {
+            "id": "milestone-1",
+            "title": "MILESTONE 1: I can order coffee, introduce myself, and shop for essentials.",
+            "num": ""
+        }
+    ],
+    "Module 2: Expanding Your World (Intermediate)": [
+        {
+            "id": "verbs",
+            "title": "Week 5: Action – Introduction to Verbs & Groups",
+            "num": 10
+        },
+        {
+            "id": "conjugation-present",
+            "title": "Week 5: Present Tense – Daily Routines",
+            "num": 11
+        },
+        {
+            "id": "pronouns",
+            "title": "Week 6: People & Ownership – Personal & Possessive Pronouns",
+            "num": 12
+        },
+        {
+            "id": "declension",
+            "title": "Week 6: Mastery – The Declension (Intro)",
+            "num": 13
+        },
+        {
+            "id": "masculine-declension",
+            "title": "Week 7: Gender Focus – Masculine Declension",
+            "num": 14
+        },
+        {
+            "id": "feminine-declension",
+            "title": "Week 7: Gender Focus – Feminine Declension",
+            "num": 15
+        },
+        {
+            "id": "neuter-declension",
+            "title": "Week 7: Gender Focus – Neuter Declension",
+            "num": 16
+        },
+        {
+            "id": "adjectives",
+            "title": "Week 8: Descriptions – The Adjectives",
+            "num": 17
+        },
+        {
+            "id": "adverbs",
+            "title": "Week 8: Manner – The Adverbs",
+            "num": 18
+        },
+        {
+            "id": "milestone-2",
+            "title": "MILESTONE 2: I can describe my day, talk about my family, and describe objects.",
+            "num": ""
+        }
+    ],
+    "Module 3: Advanced Communication (Fluency)": [
+        {
+            "id": "tenses",
+            "title": "Week 9: Time – Verb Tenses Overview",
+            "num": 19
+        },
+        {
+            "id": "past-conjugation",
+            "title": "Week 9: Memory – Past Conjugation & Travel Stories",
+            "num": 20
+        },
+        {
+            "id": "prepositions",
+            "title": "Week 10: Space – The Prepositions & Giving Directions",
+            "num": 21
+        },
+        {
+            "id": "conjunctions",
+            "title": "Week 10: Complex Sentences – The Conjunctions",
+            "num": 22
+        },
+        {
+            "id": "demonstrative-pronouns",
+            "title": "Week 11: Specifics – Demonstrative & Interrogative Pronouns",
+            "num": 23
+        },
+        {
+            "id": "relative-pronouns",
+            "title": "Week 11: Elaborating – Relative Pronouns",
+            "num": 24
+        },
+        {
+            "id": "dialogues-travel",
+            "title": "Week 12: Real World – Survival Scenario: The Airport & Hotel",
+            "num": 25
+        },
+        {
+            "id": "voices-moods",
+            "title": "Week 12: Nuance – Voices and Moods",
+            "num": 26
+        },
+        {
+            "id": "milestone-3",
+            "title": "MILESTONE 3: I can travel through Greece, tell stories, and have basic debates.",
+            "num": ""
+        }
+    ],
+    "Bonus & Reference (The Toolbox)": [
+        {
+            "id": "read",
+            "title": "Learn to Read (Intensive Practice)",
+            "num": 27
         },
         {
             "id": "accents",
             "title": "Accents (Τονισμός)",
-            "num": 5
+            "num": 28
         },
         {
             "id": "punctuation",
             "title": "Punctuation Marks",
-            "num": 6
-        }
-    ],
-    "Nominal Morphology": [
-        {
-            "id": "nouns",
-            "title": "The Nouns",
-            "num": 7
+            "num": 29
         },
         {
             "id": "genders",
-            "title": "The Genders",
-            "num": 8
-        },
-        {
-            "id": "articles",
-            "title": "The Articles",
-            "num": 9
-        },
-        {
-            "id": "cases",
-            "title": "The Cases",
-            "num": 10
-        },
-        {
-            "id": "declension",
-            "title": "The Declension",
-            "num": 11
-        },
-        {
-            "id": "masculine-declension",
-            "title": "Masculine Declension",
-            "num": 12
-        },
-        {
-            "id": "feminine-declension",
-            "title": "Feminine Declension",
-            "num": 13
-        },
-        {
-            "id": "neuter-declension",
-            "title": "Neuter Declension",
-            "num": 14
+            "title": "The Genders (Deep Dive)",
+            "num": 30
         },
         {
             "id": "articles-declension",
-            "title": "Articles Declension",
-            "num": 15
-        }
-    ],
-    "Pronouns": [
-        {
-            "id": "pronouns",
-            "title": "Intro to Pronouns",
-            "num": 16
-        },
-        {
-            "id": "personal-pronouns",
-            "title": "Personal Pronouns",
-            "num": 17
-        },
-        {
-            "id": "possessive-pronouns",
-            "title": "Possessive Pronouns",
-            "num": 18
-        },
-        {
-            "id": "demonstrative-pronouns",
-            "title": "Demonstrative Pronouns",
-            "num": 19
-        },
-        {
-            "id": "relative-pronouns",
-            "title": "Relative Pronouns",
-            "num": 20
+            "title": "Articles Declension (Reference)",
+            "num": 31
         },
         {
             "id": "interrogative-pronouns",
             "title": "Interrogative Pronouns",
-            "num": 21
+            "num": 32
         },
         {
             "id": "indefinite-pronouns",
             "title": "Indefinite Pronouns",
-            "num": 22
+            "num": 33
         },
         {
             "id": "reflexive-pronouns",
             "title": "Reflexive Pronouns",
-            "num": 23
+            "num": 34
         },
         {
             "id": "definite-pronouns",
             "title": "Definite Pronouns",
-            "num": 24
-        }
-    ],
-    "Adjectives & Adverbs": [
-        {
-            "id": "adjectives",
-            "title": "The Adjectives",
-            "num": 25
+            "num": 35
         },
         {
             "id": "degrees-adjectives",
             "title": "Degrees of Adjectives",
-            "num": 26
-        },
-        {
-            "id": "adverbs",
-            "title": "The Adverbs",
-            "num": 27
-        }
-    ],
-    "Verbal System": [
-        {
-            "id": "verbs",
-            "title": "Introduction to Verbs",
-            "num": 28
+            "num": 36
         },
         {
             "id": "verb-groups",
-            "title": "Groups of Verbs",
-            "num": 29
-        },
-        {
-            "id": "conjugation-present",
-            "title": "Present Conjugation",
-            "num": 30
+            "title": "Groups of Verbs (Deep Dive)",
+            "num": 37
         },
         {
             "id": "auxiliary-verbs",
             "title": "Auxiliary Verbs",
-            "num": 31
-        },
-        {
-            "id": "tenses",
-            "title": "Verb Tenses",
-            "num": 32
-        },
-        {
-            "id": "verb-to-be",
-            "title": "The Verb 'To Be' (Είμαι)",
-            "num": 33
-        },
-        {
-            "id": "past-conjugation",
-            "title": "Past Conjugation",
-            "num": 34
-        },
-        {
-            "id": "voices-moods",
-            "title": "Voices and Moods",
-            "num": 35
-        }
-    ],
-    "Particles & Connectors": [
-        {
-            "id": "prepositions",
-            "title": "The Prepositions",
-            "num": 36
-        },
-        {
-            "id": "conjunctions",
-            "title": "The Conjunctions",
-            "num": 37
+            "num": 38
         },
         {
             "id": "particles",
             "title": "The Particles",
-            "num": 38
+            "num": 39
         },
         {
             "id": "interjections",
             "title": "Interjections",
-            "num": 39
-        }
-    ],
-    "Practical Greek": [
-        {
-            "id": "phrases",
-            "title": "Essential Phrases",
             "num": 40
         },
-        {
-            "id": "social-expressions",
-            "title": "Social Expressions",
-            "num": 41
-        },
-        {
-            "id": "dialogues-travel",
-            "title": "Travel Dialogues",
-            "num": 42
-        }
-    ],
-    "Future Units": [
         {
             "id": "coming-soon",
             "title": "Coming Soon",

@@ -1,6 +1,17 @@
 # Essential Phrases
 Mastering these core phrases will help you navigate your first interactions in Greek. Practice saying them out loud to improve your pronunciation!
 
+::: info-box
+### Survival Scenario: Ordering a Coffee (Παραγγέλνοντας καφέ)
+In Greece, coffee is a social ritual. Use these phrases to get your fix!
+
+- **Έναν καφέ, παρακαλώ.** (One coffee, please.)
+- **Ένα φρέντο εσπρέσο μέτριο.** (One Freddo Espresso, medium sweetness.)
+- **Πόσο κάνει;** (How much is it?)
+- **Ορίστε.** (Here you go.)
+
+::: end
+
 ::: content-grid mt-8
 
 ::: content-card

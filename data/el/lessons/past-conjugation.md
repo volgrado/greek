@@ -1,6 +1,17 @@
 # Past Tense Conjugation
 In Modern Greek, there are two main past tenses: the **Imperfect** (actions that were happening) and the **Aorist** (actions that happened once). They use different stems and endings.
 
+::: info-box
+### Survival Scenario: Travel Stories (Ιστορίες Ταξιδιού)
+Use the Aorist to tell what happened during your trip!
+
+- **Πήγα στην Ελλάδα.** (I went to Greece.)
+- **Έφαγα σουβλάκι.** (I ate souvlaki.)
+- **Ήταν υπέροχα!** (It was wonderful!)
+- **Είδα την Ακρόπολη.** (I saw the Acropolis.)
+
+::: end
+
 ::: content-grid mt-8
 
 ::: content-card

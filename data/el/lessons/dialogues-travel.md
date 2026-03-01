@@ -1,6 +1,17 @@
 # Travel Dialogues
 When traveling in Greece, knowing how to ask for directions and handle common travel situations is essential.
 
+::: info-box
+### Survival Scenario: The Airport & Hotel (Το Αεροδρόμιο και το Ξενοδοχείο)
+Handle your arrival in Greece like a native!
+
+- **Έχω μια κράτηση.** (I have a reservation.)
+- **Πού είναι οι αποσκευές;** (Where is the luggage?)
+- **Πού είναι η πύλη;** (Where is the gate?)
+- **Έχετε κλιματισμό;** (Do you have air conditioning?)
+
+::: end
+
 ::: content-card
 
 ### Asking Where Something Is

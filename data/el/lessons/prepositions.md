@@ -1,6 +1,17 @@
 # The Prepositions
 Prepositions (Προθέσεις) are small, indeclinable words that usually come before a noun or pronoun to show relationship in space, time, or manner. In Modern Greek, nouns following a preposition are almost always in the **Accusative** case.
 
+::: info-box
+### Survival Scenario: Giving Directions (Δίνοντας Οδηγίες)
+Use prepositions to find your way around a Greek city!
+
+- **Πάω στο κέντρο.** (I am going to the center.)
+- **Πήγαινε προς την πλατεία.** (Go towards the square.)
+- **Το ξενοδοχείο είναι δίπλα στην εκκλησία.** (The hotel is next to the church.)
+- **Είμαι από την Αθήνα.** (I am from Athens.)
+
+::: end
+
 ::: content-grid mt-8
 
 ::: content-card
