@@ -1,87 +1,56 @@
-# Plural Nouns & Adjectives (Ο Πληθυντικός)
+# Unit 8: Plural Nouns & Adjectives
 
-Welcome to the A2 Stage! You have mastered the singular forms of nouns, adjectives, and verbs. Now it is time to multiply EVERYTHING.
-
-In Unit 2, we peeked at the plural articles:
-- **οι** (The - for Masc & Fem subjects)
-- **τους** (The - for Masc objects)
-- **τις** (The - for Fem objects)
-- **τα** (The - for Neuter everything)
-
-Now let's see what happens to the actual nouns and adjectives.
+Welcome to the **A2 Expansion Stage**! You’ve mastered the singular. Now, it’s time to multiply everything. In Greek, when a noun becomes plural, its **Article**, its **Ending**, and its **Adjective** must all change to match.
 
 ---
 
-## 1. Masculine Plurals (Οι, Τους)
+## 1. Masculine Plurals (Οι / Τους)
+Masculine nouns are the most "active" during pluralization. The ending depends on the singular form.
 
-Masculine words are the most dramatic. They change their ending completely.
-
-**Singular Root:** -ος, -ας, -ης
-**Plural Root:** **-οι**, **-ες**
-
-| Dictionary Form (Singular) | Plural Subject (Nom) | Plural Object (Acc) |
-|---|:---:|:---:|
-| **ο φίλος** (the friend) | ο**ι** φίλ**οι** | το**υς** φίλ**ους** |
-| **ο μαύρος** (the black...) | ο**ι** μαύρ**οι** | το**υς** μαύρ**ους** |
-| **ο πατέρας** (the father) | ο**ι** πατέρ**ες** | το**υς** πατέρ**ες** |
-| **ο μαθητής** (the student) | ο**ι** μαθητ**ές** | το**υς** μαθητ**ές** |
+| Singular | Plural Subject (Nom) | Plural Object (Acc) | Pattern |
+| :--- | :--- | :--- | :--- |
+| **ο φίλος** | **οι** φίλ**οι** | **τους** φίλ**ους** | -ος ➔ -οι / -ους |
+| **ο πατέρας** | **οι** πατέρ**ες** | **τους** πατέρ**ες** | -ας ➔ -ες |
+| **ο μαθητής** | **οι** μαθητ**ές** | **τους** μαθητ**ές** | -ης ➔ -ες |
 
 > [!WARNING]
-> **The Tricky "-οι" Ending**
-> Look closely at the top row. Both the article (**οι**) and the noun (**φίλοι**) end in an "i" sound. 
-> But when they become the Object, the article changes to **τους**, and the noun ending changes to **-ους**! 
-> - *Οι καλοί φίλοι* είναι εδώ. (The good friends are here.)
-> - Βλέπω *τους καλούς φίλους*. (I see the good friends.)
+> **The -οι vs -ους Trap**  
+> For nouns ending in **-ος**, the plural "The" is **οι** (Subject) but becomes **τους** (Object). The noun ending follows: **-οι** matches **οι**, and **-ους** matches **τους**.  
+> - Οι καλοί φίλοι. (The good friends - Subject)  
+> - Τους καλούς φίλους. (The good friends - Object)
 
 ---
 
-## 2. Feminine Plurals (Οι, Τις)
+## 2. Feminine Plurals (Οι / Τις)
+Feminine nouns are much easier. The noun ending **-ες** never changes between subject and object—only the article flips!
 
-Feminine words are wonderful because **their plural endings never change between Subject and Object**. The noun stays exactly the same; only the article changes!
-
-**Singular Root:** -η, -α
-**Plural Root:** **-ες**
-
-| Dictionary Form (Singular) | Plural Subject (Nom) | Plural Object (Acc) |
-|---|:---:|:---:|
-| **η μητέρα** (the mother) | ο**ι** μητέρ**ες** | τ**ις** μητέρ**ες** |
-| **η καλή** (the good...) | ο**ι** καλ**ές** | τ**ις** καλ**ές** |
-| **η κόρη** (the daughter) | ο**ι** κόρ**ες** | τ**ις** κόρ**ες** |
-| **η ώρα** (the hour) | ο**ι** ώρ**ες** | τ**ις** ώρ**ες** |
-
-::: example-box 
-**Οι όμορφες γυναίκες** είναι εδώ. (The beautiful women are here.)
-Βλέπω **τις όμορφες γυναίκες**. (I see the beautiful women.)
-Notice how nothing changed except the article (Οι ➔ Τις)!
-::: end
+- **Singular**: Η μητέρα / Η καλή
+- **Plural Subject**: **Οι** μητέρ**ες** / **Οι** καλ**ές**
+- **Plural Object**: **Τις** μητέρ**ες** / **Τις** καλ**ές**
 
 ---
 
 ## 3. Neuter Plurals (Τα)
+Neuter nouns are the most stable. Both the article **τα** and the noun endings remain the same whether they are the subject or the object.
 
-Neuter words are the ultimate lazy words. Not only do their plural endings never change between Subject and Object, but **their plural article (τα) never changes either!**
-
-**Singular Root:** -ο, -ι, -μα
-**Plural Root:** **-α**, **-ια**, **-ματα**
-
-| Dictionary Form (Singular) | Plural Subject (Nom) | Plural Object (Acc) |
-|---|:---:|:---:|
-| **το βιβλίο** (the book) | τ**α** βιβλί**α** | τ**α** βιβλί**α** |
-| **το καλό** (the good...) | τ**α** καλ**ά** | τ**α** καλ**ά** |
-| **το παιδί** (the child) | τ**α** παιδ**ιά** | τ**α** παιδ**ιά** |
-| **το μάθημα** (the lesson) | τ**α** μαθή**ματα** | τ**α** μαθή**ματα** |
+| Singular | Plural (Nom & Acc) | Pattern |
+| :--- | :--- | :--- |
+| **το βιβλίο** | **τα** βιβλί**α** | -ο ➔ -α |
+| **το παιδί** | **τα** παιδ**ιά** | -ι ➔ -ια |
+| **το μάθημα** | **τα** μαθή**ματα** | -μα ➔ -ματα |
 
 ---
 
-## 🎯 Wrap-Up Checklist
+## 4. Verb Agreement
+When the subject is plural, the verb must also be plural.
+- **Ο** φίλος **διαβάζει**. (The friend reads.)
+- **Οι** φίλοι **διαβάζουν**. (The friends read.)
 
-Look at the sentence below and see if you can identify why every single word is spelled the way it is:
+---
 
-> **Οι καλοί πατέρες βλέπουν τα μικρά παιδιά.**
-> (The good fathers see the small children.)
+## 🎯 Unit 8 Mastery Checklist
+- [ ] I can pluralize the articles: **οι/τους**, **οι/τις**, and **τα**.
+- [ ] I know that masculine **-ος** nouns change to **-οι** (subject) and **-ους** (object).
+- [ ] I can correctly pluralize neuter nouns ending in **-μα** (e.g., *προβλήματα*).
 
-- **Οι καλοί**: Masculine plural subjects (-οι pattern).
-- **πατέρες**: Masculine plural subject (-ας becomes -ες).
-- **βλέπουν**: 3rd person plural verb ("They" see).
-- **τα μικρά**: Neuter plural object.
-- **παιδιά**: Neuter plural object (-ι becomes -ια).
+**Up Next:** [Unit 9: Verb Groups B1 & B2](/lessons/verb-groups-b)

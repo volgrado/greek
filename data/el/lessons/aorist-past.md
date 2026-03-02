@@ -1,93 +1,64 @@
-# The Aorist (Ο Αόριστος)
+# Unit 14: The Past Tenses (Imperfect vs. Aorist)
 
-The Aorist (*a-ó-ris-tos*) is the **Simple Past Tense**. 
-
-It is the opposite of the Continuous Past (Imperfect). You use the Simple Past for events that:
-1. Happened suddenly.
-2. Happened once.
-3. Have a clear beginning and end. 
-
-Because we are taking a "polaroid snapshot" of a completed action, we must use the **Simple Stem**. 
+Welcome to the capstone of the A2 Expansion stage. You’ve learned how to build stems and how to talk about the future. Now, we look back. In Greek, just like in the future, we have two ways to talk about the past.
 
 ---
 
-## 1. Creating the Simple Stem
-
-How do you turn a continuous verb like "παίζ-ω" (I play) into a simple snapshot? You change the final consonant of the stem!
-
-Greek verbs fall into three major families based on how their stems change.
-
-### Family 1: The Sizzlers (-ζω, -νω, -θω)
-If the verb ends in `-ζω`, `-νω`, or `-θω`, the final consonant transforms into an **"S" sound (Σ)**.
-- παί**ζ**ω (I play) ➔ παί**σ**... wait, that looks wrong. Because *παίσ-α* is so hard to say, the Greek language invented a special letter to make the `[ps]` sound easier: **Ξ** (Xi). Let's see how that looks in the table below!
-
-> *Wait, actually, verbs in -ζω go to -σ- (if they don't have a 'γ' hidden inside) or -ξ-.* 
-> Let's make this much easier. Here are the true "cheat codes" for the vast majority of Type A verbs:
-
-### Cheat Code 1: The 'Σ' Group
-Most verbs ending in **-νω, -ζω, -θω** change their stem to **-σ**.
-- διαβάζω (I read) ➔ **διαβάσ-**
-- κλείνω (I close) ➔ **κλείσ-**
-- νιώθω (I feel) ➔ **νιώσ-**
-
-### Cheat Code 2: The 'Ξ' Group
-If the verb ends in a "throat" sound (**-κω, -γω, -χω**), that sound crashes into the 's' ending and explodes into the letter **Ξ** *(xi)*.
-- ανοίγω (I open) ➔ **ανοίξ-**
-- τρέχω (I run) ➔ **τρέξ-**
-- παίζω (I play) ➔ **παίξ-** *(Yes, "παίζω" is officially an exception that joins the 'ξ' group!)*
-
-### Cheat Code 3: The 'Ψ' Group
-If the verb ends in a "lip" sound (**-πω, -βω, -φω**), the sound crashes into the 's' ending and explodes into the letter **Ψ** *(psi)*.
-- βλέπω (I see) ➔ This one is actually completely irregular! Hold on tight!
-- γράφω (I write) ➔ **γράψ-**
-- κρύβω (I hide) ➔ **κρύψ-**
+## 1. The Two Past Tenses
+1. **The Aorist (Simple Past)**: A one-time completed action. (e.g., "I played"). **Uses the Simple Stem.**
+2. **The Imperfect (Continuous Past)**: An ongoing habit or background action. (e.g., "I was playing"). **Uses the Continuous Stem.**
 
 ---
 
-## 2. The Simple Past Endings 
+## 2. Past Tense Conjugation
+Both past tenses use the same set of endings. The difference is the **Stem** and the **Augment**.
 
-Remember the Past Tense endings from Unit 12 (The Imperfect)? Good news! The Aorist uses the exact same endings:
-**-α, -ες, -ε, -αμε, -ατε, -αν(ε)**
+| Pronoun | Ending | Example: **γράφω** |
+| :--- | :---: | :--- |
+| **Εγώ** | **-α** | έγραφ-**α** |
+| **Εσύ** | **-ες** | έγραφ-**ες** |
+| **Αυτός/ή/ό** | **-ε** | έγραφ-**ε** |
+| **Εμείς** | **-αμε** | γράφ-**αμε** |
+| **Εσείς** | **-ατε** | γράφ-**ατε** |
+| **Αυτοί/ές/ά** | **-αν** | έγραφ-**αν** |
 
-Remember the Augment rule? Short verbs need an **έ-** added to the front to push the accent to the third-to-last syllable. 
-
-Let's put it all together using the verb **γράφω** (I write) ➔ **γράψ-**.
-
-| Pronoun | Aorist Form | English (Simple Past) |
-|---|---|---|
-| (Εγώ) | **έ**-γραψ-**α** | I wrote |
-| (Εσύ) | **έ**-γραψ-**ες** | You wrote |
-| (Αυτό/ή/ό) | **έ**-γραψ-**ε** | He/She/It wrote |
-| (Εμείς) | γράψ-**αμε** * | We wrote |
-| (Εσείς) | γράψ-**ατε** * | You wrote |
-| (Αυτοί/ές/ά) | **έ**-γραψ-**αν** | They wrote |
-*(Notice how the Augment drops off in the 'We' and 'You' forms because the word is long enough!)*
+> [!TIP]
+> **The Augment (έ-)**  
+> Notice the **έ-** at the beginning. This is a marker of the past. It only appears when the word is short (1 or 2 syllables). In **Εμείς** and **Εσείς** forms, the word gets too long, and the augment drops off!
 
 ---
 
-## 3. The Irregulars
+## 3. Side-by-Side: Video vs. Photo
+Let's use the verb **παίζω** (I play).
+- Continuous Stem: **παίζ-**
+- Simple Stem: **παίξ-**
 
-Greek is an ancient language, and many of the most common verbs are horribly irregular in the Past Tense. Their stems completely shatter and change into totally different words. 
+### A. The Imperfect (The Video)
+- **Έπαιζα** τένις κάθε μέρα. (I used to play tennis every day.)
+- Use this for background info: "While I **was playing**, it started to rain."
 
-You just have to bite the bullet and memorize these five absolute lifesavers:
-
-1. **βλέπω** (I see) ➔ **είδα** (I saw)
-2. **λέω** (I say) ➔ **είπα** (I said)
-3. **πάω** / **πηγαίνω** (I go) ➔ **πήγα** (I went)
-4. **έχω** (I have) ➔ **είχα** (I had) *(Wait, "to have" doesn't have a simple past! You just use είχα for everything!)*
-5. **είμαι** (I am) ➔ **ήμουν** (I was)
-
-::: example-box 
-**Χθες, πήγα στο σινεμά και είδα μια ταινία.**
-(Yesterday, I went to the cinema and I saw a movie.)
-*Both are one-time, completed actions! So we use the Simple Past (Aorist) forms.*
-::: end
+### B. The Aorist (The Photo)
+- **Έπαιξα** τένις χθες. (I played tennis yesterday—once).
+- Use this for specific events: "I **went** to the park."
 
 ---
 
-## 🎯 Wrap-Up Checklist
+## 4. The 5 Absolute Irregulars
+These are the most common verbs in the past. You must memorize them:
+1. **βλέπω** (see) ➔ **είδα** (I saw)
+2. **λέω** (say) ➔ **είπα** (I said)
+3. **πάω** (go) ➔ **πήγα** (I went)
+4. **έχω** (have) ➔ **είχα** (I had)
+5. **είμαι** (be) ➔ **ήμουν** (I was)
 
-- [ ] I understand that the Simple Past acts like a "Polaroid snapshot" of a completed action.
-- [ ] I know how to turn a Continuous Stem into a Simple Stem by changing the final consonant to **Σ, Ξ, or Ψ**.
-- [ ] I know that the endings are identical to the Imperfect Past (**-α, -ες, -ε...**).
-- [ ] I have memorized the five crazy irregulars (**είδα, είπα, πήγα, είχα, ήμουν**).
+---
+
+## 🎯 A2 Expansion Capstone
+Congratulations! You have completed the **A2 Stage**. You have mastered:
+- [x] Pluralization of all nouns and adjectives.
+- [x] The "Big Two" Verb Groups (B1 & B2).
+- [x] Verbal Aspect (Video vs. Photo) and the Subjunctive (**να**).
+- [x] Both Future tenses and the mechanics of the Simple Stem.
+- [x] Both Past tenses (Imperfect vs. Aorist).
+
+**Up Next:** [Unit 15: The Genitive Case (Possession)](/lessons/genitive-case)

@@ -1,55 +1,65 @@
-# Introduction to Verbs (Τα Ρήματα)
+# Unit 4: Regular Verbs & Negation (Type A)
 
-You have arrived at Unit 4. You can read, you understand how nouns change their shape, and you know the pronouns. It is time to start making things happen. It is time for **Verbs**.
-
-A verb is an "action word" (run, play, sleep, want). In English, verbs are very simple.
-> I play, you play, we play, they play. 
-
-In Greek, verbs are the absolute workhorses of the sentence. They change their shape constantly to tell you **who** is doing the action, **when** they are doing it, and even **how** they are doing it.
+You’ve learned the nouns; now it’s time to make things happen. Verbs are the workhorses of the Greek sentence. They change their shape to tell you **who** is doing the action and **when**.
 
 ---
 
-## The Anatomy of a Greek Verb
+## 1. The Anatomy of a Verb
+Every Greek verb has a **Stem** (trunk) and an **Ending** (leaves).  
+Take the verb "to play": **παίζω** *(pé-zo)*.
 
-Every Greek verb is made up of two parts: the **Stem** and the **Ending**. 
+- The Stem is **παίζ-** (contains the meaning).
+- The Ending is **-ω** (means "I").
 
-Think of it like a tree. The Stem is the trunk—it never changes, and it holds the core meaning of the word. The Ending is the leaves—they change depending on the season (or in this case, depending on *who* is doing the action).
-
-Let's look at the dictionary form of the verb "to play":
-**παίζω** *(pé-zo)*
-
-The Stem is **παίζ-**
-The Ending is **-ω**
-
-### The Secret of the Omega (-ω)
-Almost every single active verb in the Greek dictionary ends in the letter Omega (**-ω**). 
-
-This is the "I" ending. If you see a verb ending in **-ω**, you instantly know it means "I [do something]". 
-- **παίζω** (I play)
-- **τρέχω** (I run)
-- **γράφω** (I write)
+Almost all Greek verbs in the dictionary end in **-ω**. This always means "I" am doing the action.
 
 ---
 
-## How Conjugation Works
+## 2. Verb Groups (The Three Teams)
+Before conjugating, you must know which "team" a verb belongs to. Look at the **accent mark** in the dictionary form:
 
-When we want to change the "doer" from *I* to *You* or *We*, we simply chop off the **-ω** ending and glue on a new one. This is called conjugation.
+1. **Type A (Regular)**: Accent is on the stem (NOT the -ω).  
+   *Examples: **παίζω, κάνω, γράφω, διαβάζω***.
+2. **Type B (Accented)**: Accent is on the ending (**-ώ** or **-άω**).  
+   *Examples: **αγαπώ (αγαπάω), μιλώ (μιλάω)***.
+3. **Type C (Passive)**: Ends in **-ομαι** instead of -ω.  
+   *Examples: **έρχομαι, γίνομαι***.
 
-This is exactly why Greeks don't use pronouns (I, You, He) most of the time!
-
-If you want to say "We play", you take the stem (**παίζ-**) and add the "We" ending (**-ουμε**).
-➔ **παίζουμε** (We play). 
-
-If you want to say "You play", you take the stem (**παίζ-**) and add the "You" ending (**-εις**).
-➔ **παίζεις** (You play).
-
-See how simple it is? The stem stays the same, and the ending does all the heavy lifting!
+**In this unit, we focus exclusively on Type A.**
 
 ---
 
-## 🎯 Wrap-Up Checklist
+## 3. Conjugation (Present Tense)
+To change the person (I, you, we...), chop off the **-ω** and add these endings:
 
-- [ ] I understand that a Greek verb is made of a rigid **Stem** and a flexible **Ending**.
-- [ ] I know that the dictionary form of almost every verb ends in **-ω**.
-- [ ] I know that **-ω** specifically means *"I"* am doing the action.
-- [ ] I understand that we conjugate verbs by chopping off the **-ω** and adding new endings.
+| Pronoun | Ending | Example: **διαβάζω** (read) |
+| :--- | :---: | :--- |
+| (Εγώ) | **-ω** | διαβάζ**ω** |
+| (Εσύ) | **-εις** | διαβάζ**εις** |
+| (Αυτός/ή/ό) | **-ει** | διαβάζ**ει** |
+| (Εμείς) | **-ουμε** | διαβάζ**ουμε** |
+| (Εσείς) | **-ετε** | διαβάζ**ετε** |
+| (Αυτοί/ές/ά) | **-ουν(ε)** | διαβάζ**ουν** |
+
+> [!TIP]
+> **He = They?**  
+> In English, "He is" and "They are" are different. In Greek, for verbs like **Είμαι**, they are the same (**είναι**). But for regular verbs like **διαβάζω**, They (**-ουν**) is distinct from He (**-ει**).
+
+---
+
+## 4. Making it Negative: Δεν
+To say "I do not," just put the word **δεν** before the verb.
+- **Δεν παίζω** (I don't play).
+- **Δεν θέλω** (I don't want).
+
+**Negation + Pronouns:** If you have an object pronoun (like "you"), **δεν** comes first.  
+- **Δεν σε βλέπω** (I don't see you).
+
+---
+
+## 🎯 Unit 4 Mastery Checklist
+- [ ] I can tell a Type A verb apart from a Type B by its accent.
+- [ ] I have memorized the endings: **-ω, -εις, -ει, -ουμε, -ετε, -ουν**.
+- [ ] I know that **δεν** is used for verbs, while **όχι** is used for "No."
+
+**Up Next:** [Unit 5: The Accusative Case](/lessons/accusative-case)

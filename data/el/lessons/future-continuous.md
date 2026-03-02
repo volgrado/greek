@@ -1,77 +1,49 @@
-# The Continuous Future (Ο Εξακολουθητικός Μέλλοντας)
+# Unit 11: Future Tenses (Θα)
 
-You know how to talk about the Present (what you are doing right now). 
-You know how to use the Subjunctive (what you *want* to do).
-
-Now, it is time to look forward. It is time to learn the **Future Tense**.
-
-In English, we create the future tense by adding the helper word "will" (I will play). Greek does exactly the same thing!
+In Unit 10, you learned the magic of **Aspect**. Now, we apply that "Video vs. Photo" logic to the future. In Greek, we don't just say "I will play"; we specify if it's a habit or a one-time thing.
 
 ---
 
-## 1. The Magic Word: Θα 
+## 1. The Future Particle: Θα
+Just like *να* and *δεν*, the word **θα** sits right in front of the verb. It translates to the English "will."
 
-In Greek, the word for "will" is **θα** *(tha)*. 
-
-Just like **να** and **δεν**, this is a tiny, powerful particle that sits directly in front of the verb. 
-
-Also like **να** and **δεν**, it doesn't stand alone. It relies on the ending of the verb to tell us who is doing the action.
-
-- **English:** I will play.
-- **Greek (Literal):** Will I-play.
-- **Greek:** **Θα** παίξω. *(Wait, that's the Simple Future! Let's stick to what we know for now).*
+- **English**: I will play.
+- **Greek**: **Θα** [verb].
 
 ---
 
-## 2. The *Continuous* Future
+## 2. Continuous Future (The Video)
+If you want to talk about a habit, a routine, or something you will be doing repeatedly in the future, use the **Continuous Stem** (the Present tense stem).
 
-Here is where Greek gets very specific (and very brilliant).
-
-In English, "I will play" can mean two entirely different things:
-1. I will play a quick game of chess tomorrow. (A single, completed event)
-2. I will be playing chess every night for the rest of my life. (A continuous, ongoing habit)
-
-Greek hates ambiguity. Greek forces you to choose between these two meanings by using different verb stems. This is called **Verbal Aspect**.
-
-For the entirety of Level A (A1 and A2), we are only going to focus on the **Continuous Aspect**. This means actions that are ongoing, repeated, or habitual.
-
-How do you form the Continuous Future? 
-**It is incredibly easy: You take the Present Tense verb you already know, and you just put "Θα" in front of it!**
-
-| English | Greek | Meaning |
-|---|---|---|
-| I will play (repeatedly) | **Θα παίζω** | I will be playing (every day, continuously). |
-| You will run (always) | **Θα τρέχεις** | You will be running (as a habit). |
-| We will have | **Θα έχουμε** | We will continue to have. |
-| He will be | **Θα είναι** | He will be. |
-
-::: example-box 
-**Κάθε μέρα θα διαβάζω ένα βιβλίο.**
-(Every day, I will [be reading] a book.)
-*Because it happens "every day", it is a repeated habit. We use the Present stem (διαβάζ-).*
-::: end
+**Formula: Θα + Present Tense Verb**
+- **Θα διαβάζω** κάθε μέρα. (I will [be reading] every day.)
+- **Θα έχουμε** χρόνο. (We will have [ongoing] time.)
 
 ---
 
-## 3. The Power Combo: Δεν + Θα 
+## 3. Simple Future (The Photo)
+If you are talking about a single, specific event that will happen and finish, use the **Simple Stem** (Aorist Stem). 
 
-What happens when you want to say "I will *not* be playing"?
+**Formula: Θα + Simple Stem + Present Endings**
+- **Θα διαβάσω** το βιβλίο αύριο. (I will read the book tomorrow—*once*).
+- **Θα παίξουμε** τένις. (We will play tennis—*one game*).
 
-You have two powerful particles: **δεν** (not) and **θα** (will). Which one wins the race to be closest to the verb?
-
-**Rule: The future word (θα) is always glued closest to the verb.**
-
-- **English:** I will not run.
-- **Greek:** **Δεν θα** τρέχω. (Or usually pronounced: *Δε θα τρέχω*).
-
-And if there is a pronoun? The pronoun sneaks in right before the verb!
-- **Δεν θα σε** βλέπω. (I will not be seeing you).
+> [!CAUTION]
+> **No Past Markings!**  
+> Even though we use the Simple (Aorist) stem, do NOT add the past tense augment (the prefix **ε-**) to the future. It’s *θα γράψω*, never *θα έγραψα*.
 
 ---
 
-## 🎯 Wrap-Up Checklist
+## 4. The Negation Combo
+To say "I will not," put **δεν** before **θα**.
+- **Δεν θα** παίζω (I won't be playing regularly).
+- **Δεν θα** παίξω (I won't play this specific time).
 
-- [ ] I know that the word **θα** means "will".
-- [ ] I understand the difference between a one-time event (Simple) and an ongoing habit (Continuous).
-- [ ] I know that **Θα + Present Tense Verb = The Continuous Future** (I will *be doing* X).
-- [ ] I know the word order is **Δεν + Θα + (Pronoun) + Verb**.
+---
+
+## 🎯 Unit 11 Mastery Checklist
+- [ ] I can choose between **θα παίζω** (habit) and **θα παίξω** (one-off).
+- [ ] I know how to negate the future with **δεν θα**.
+- [ ] I understand that the future uses the present tense endings (-ω, -εις, -ει...).
+
+**Up Next:** [Unit 12: Building the Simple Stem (Aorist)](/lessons/simple-subjunctive)

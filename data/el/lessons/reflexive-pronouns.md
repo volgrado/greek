@@ -1,45 +1,44 @@
-# Reflexive Pronouns
-Reflexive pronouns are used when the subject and the object of a verb are the same person. In Greek, we use the phrase **ο εαυτός μου** (my self).
+# Unit 24: Reflexive Pronouns (Myself)
 
-::: reflexive-showcase mt-8
+Reflexive pronouns are used when the person doing the action and the person receiving it are the same. In English, we use "-self." In Greek, we use the phrase **ο εαυτός μου** (my self).
 
-::: content-card
+---
 
-### 1st Person
+## 1. The Formula
+The word **εαυτός** (self) is a masculine noun. To say "myself," you simply add the weak possessive pronoun after it.
 
-ο εαυτός μου myself
-::: end
+| Person | Greek | English |
+| :--- | :--- | :--- |
+| **1st (Singular)** | τον **εαυτό μου** | myself |
+| **2nd (Singular)** | τον **εαυτό σου** | yourself |
+| **3rd (Singular)** | τον **εαυτό του / της** | himself / herself |
+| **1st (Plural)** | τους **εαυτούς μας** | ourselves |
+| **2nd (Plural)** | τους **εαυτούς σας** | yourselves |
+| **3rd (Plural)** | τους **εαυτούς τους** | themselves |
 
-::: content-card
+---
 
-### 2nd Person
+## 2. How to Use them
+Because "the self" is receiving the action, it is almost always in the **Accusative Case**.
 
-ο εαυτός σου yourself
-::: end
+- **Αγαπώ τον εαυτό μου.** (I love myself).
+- **Προσέχεις τον εαυτό σου;** (Do you take care of yourself?)
+- **Σκέφτονται μόνο τους εαυτούς τους.** (They only think of themselves).
 
-::: content-card
+---
 
-### 3rd Person
+## 3. Reflexive Verbs vs. Pronouns
+In Unit 18, you learned that **Passive Verbs (-ομαι)** are often used reflexively.
+- **Πλένομαι** (I wash myself).
 
-ο εαυτός του / της himself / herself
-::: end
+So when do you use the pronoun? You use the pronoun (**τον εαυτό μου**) for emphasis or with verbs that don't have a passive form.
+- **Βλάπτω τον εαυτό μου.** (I am hurting myself).
 
-::: end
+---
 
-## Plural Reflexives
+## 🎯 Unit 24 Mastery Checklist
+- [ ] I can form the reflexive phrase for any person (e.g., *τον εαυτό της*).
+- [ ] I know that **εαυτός** is a masculine noun and uses masculine articles.
+- [ ] I understand when to use the pronoun instead of a passive verb ending.
 
-In the plural, the word "self" (εαυτός) can either stay singular or become plural (εαυτοί).
-
-| Person | Singular (Self) | Plural (Selves) |
-|---|---|---|
-| 1st (Ourselves) | τον εαυτό μας | τους εαυτούς μας |
-| 2nd (Yourselves) | τον εαυτό σας | τους εαυτούς σας |
-| 3rd (Themselves) | τον εαυτό τους | τους εαυτούς τους |
-
-::: info-box mt-12 mb-12
-
-### Common Usage
-
-Reflexive pronouns are usually used as objects. Example: Σκέφτομαι τον εαυτό μου. (I am thinking of myself).
-
-::: end
+**Up Next:** [Unit 25: Adjective Comparison (Better, Faster)](/lessons/adjective-comparison)

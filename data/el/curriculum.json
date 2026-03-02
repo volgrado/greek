@@ -49,146 +49,131 @@
         },
         {
             "id": "subjunctive-1",
-            "title": "Unit 10: The Subjunctive Mood",
+            "title": "Unit 10: Aspect & Subjunctive",
             "num": 10
         },
         {
             "id": "future-continuous",
-            "title": "Unit 11: The Continuous Future",
+            "title": "Unit 11: Future Tenses (Θα)",
             "num": 11
         },
         {
-            "id": "imperfect-tense",
-            "title": "Unit 12: The Imperfect Tense",
+            "id": "simple-stem",
+            "title": "Unit 12: Building the Simple Stem",
             "num": 12
         },
         {
-            "id": "genitive-case",
-            "title": "Unit 13: Possessive Pronouns & Genitive",
+            "id": "object-pronouns",
+            "title": "Unit 13: Object Pronouns",
             "num": 13
         },
         {
-            "id": "object-pronouns",
-            "title": "Unit 14: Object Pronouns",
+            "id": "aorist-past",
+            "title": "Unit 14: The Past Tenses",
             "num": 14
         }
     ],
-    "B1 The Great Divide: Verbal Aspect": [
+    "B1 Intermediate Grammar": [
         {
-            "id": "aspect-intro",
-            "title": "Unit 15: Introduction to Aspect",
+            "id": "genitive-case",
+            "title": "Unit 15: Genitive Case",
             "num": 15
         },
         {
-            "id": "aorist-past",
-            "title": "Unit 16: The Aorist (Simple Past)",
+            "id": "imperative",
+            "title": "Unit 16: Imperative Mood",
             "num": 16
         },
         {
-            "id": "simple-future",
-            "title": "Unit 17: Simple Future & Subjunctive",
+            "id": "adverbs",
+            "title": "Unit 17: Adverbs & Manner",
             "num": 17
         },
         {
             "id": "deponent-verbs",
-            "title": "Unit 18: Deponent Verbs",
+            "title": "Unit 18: Passive & Deponent Verbs",
             "num": 18
         },
         {
-            "id": "imperative",
-            "title": "Unit 19: The Imperative (Commands)",
+            "id": "voices-moods",
+            "title": "Unit 19: Voices & Moods Review",
             "num": 19
         },
         {
-            "id": "degrees-adjectives",
-            "title": "Unit 20: Degrees of Comparison",
+            "id": "perfect-tenses",
+            "title": "Unit 20: The Perfect Tenses",
             "num": 20
         },
         {
-            "id": "prepositions",
-            "title": "Unit 21: Prepositions in Depth",
+            "id": "conditionals-1-2",
+            "title": "Unit 21: Conditionals (If Clauses)",
             "num": 21
         }
     ],
-    "B2 Fluency & Nuance": [
+    "B2 Advanced Fluency": [
         {
-            "id": "passive-voice",
-            "title": "Unit 22: True Passive Voice",
+            "id": "particles",
+            "title": "Unit 22: Spoken Expressions",
             "num": 22
         },
         {
-            "id": "perfect-tenses",
-            "title": "Unit 23: The Perfect Tenses",
+            "id": "relative-pronouns",
+            "title": "Unit 23: Relative Pronouns",
             "num": 23
         },
         {
-            "id": "participles",
-            "title": "Unit 24: Active & Passive Participles",
+            "id": "reflexive-pronouns",
+            "title": "Unit 24: Reflexive Pronouns",
             "num": 24
         },
         {
-            "id": "conditionals-1-2",
-            "title": "Unit 25: Conditional Sentences (Type 1 & 2)",
+            "id": "adjective-comparison",
+            "title": "Unit 25: Adjective Comparison",
             "num": 25
         },
         {
-            "id": "relative-pronouns",
-            "title": "Unit 26: Relative Pronouns",
+            "id": "participles",
+            "title": "Unit 26: Participles",
             "num": 26
         },
         {
             "id": "impersonal-verbs",
-            "title": "Unit 27: Impersonal Verbs & Expressions",
+            "title": "Unit 27: Impersonal Verbs",
             "num": 27
-        }
-    ],
-    "C1 Advanced Syntax & Idioms": [
-        {
-            "id": "conditionals-3",
-            "title": "Unit 28: Conditional Sentences (Type 3)",
-            "num": 28
-        },
-        {
-            "id": "diminutives",
-            "title": "Unit 29: Diminutives and Augmentatives",
-            "num": 29
-        },
-        {
-            "id": "particles",
-            "title": "Unit 30: Nuanced Particles",
-            "num": 30
-        },
-        {
-            "id": "subjunctive-2",
-            "title": "Unit 31: Advanced Subjunctive Usage",
-            "num": 31
-        },
-        {
-            "id": "compound-words",
-            "title": "Unit 32: Compound Words",
-            "num": 32
-        }
-    ],
-    "C2 Mastery & Archaisms": [
-        {
-            "id": "ancient-remnants",
-            "title": "Unit 33: Ancient Remnants in Modern Greek",
-            "num": 33
-        },
-        {
-            "id": "genitive-absolute",
-            "title": "Unit 34: Participles in the Genitive Absolute",
-            "num": 34
-        },
-        {
-            "id": "irregular-words",
-            "title": "Unit 35: Irregular & Defective Words",
-            "num": 35
         },
         {
             "id": "idioms",
-            "title": "Unit 36: Idiomatic Expressions & Proverbs",
-            "num": 36
+            "title": "Unit 28: Idioms & Remnants",
+            "num": 28
+        }
+    ],
+    "C1 Advanced syntax": [
+        {
+            "id": "diminutives",
+            "title": "Unit 29: Diminutives",
+            "num": 29
+        },
+        {
+            "id": "compound-words",
+            "title": "Unit 30: Compound Words",
+            "num": 30
+        }
+    ],
+    "C2 Mastery": [
+        {
+            "id": "ancient-remnants",
+            "title": "Unit 31: Ancient Remnants",
+            "num": 31
+        },
+        {
+            "id": "genitive-absolute",
+            "title": "Unit 32: Genitive Absolute",
+            "num": 32
+        },
+        {
+            "id": "irregular-words",
+            "title": "Unit 33: Irregular Words",
+            "num": 33
         }
     ]
 }

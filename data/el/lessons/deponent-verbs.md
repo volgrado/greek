@@ -1,90 +1,62 @@
-# Deponent Verbs (-ομαι)
+# Unit 18: Passive Voice & Deponent Verbs (-ομαι)
 
-In Unit 9, we learned about the three main groups of Greek verbs.
-- **Type A**: End in an unaccented **-ω** (κάνω, παίζω)
-- **Type B**: End in an accented **-ώ / -άω** (αγαπώ, μπορώ)
-
-Both of these are Active verbs. The subject is actively *doing* something to an object. 
-- *Κάνω* καφέ. (I make coffee).
-
-Now it is time to meet **Type C**: The Passive Verbs.
+Welcome to **Type C** verbs. These verbs don’t end in **-ω**; they end in **-ομαι** *(o-me)*. This ending system is used for two very different things in Greek: the **Passive Voice** and **Deponent Verbs**.
 
 ---
 
-## 1. The Passive Voice vs. Deponent Verbs
+## 1. What are Deponent Verbs?
+Some of the most common verbs in Greek *look* passive but are actually **active**. These are called Deponent Verbs. They only exist in the -ομαι form.
 
-In Greek, the "Passive Voice" means that the subject is *receiving* the action, not doing it.
-Active: The dog bites the man. *(The dog is doing it)*
-Passive: The man **is bitten** by the dog. *(The man is receiving it)*
-
-When a Greek verb goes into the Passive Voice, its ending completely changes. It stops ending in **-ω** and instead ends in **-ομαι** *(o-me)*. 
-
-But here is where things get strange. 
-
-There is a massive group of Greek verbs that **only exist in the Passive Voice format**, but they have an **Active meaning**! 
-
-These are called **Deponent Verbs**. They look passive (they end in *-ομαι*), but they act active. 
-
-Here are some of the most common Deponent Verbs in the Greek language:
-- **έρχομαι** (I come / I arrive)
-- **γίνομαι** (I become / I happen)
-- **χρειάζομαι** (I need)
-- **εργάζομαι** (I work)
-- **σκέφτομαι** (I think)
-
-You cannot say *έρχω* or *γίνω*. Those words do not exist. You must use the *-ομαι* endings.
+| Verb | Meaning | Example |
+| :--- | :--- | :--- |
+| **έρχομαι** | I come | Από πού **έρχεσαι**; |
+| **γίνομαι** | I become / I happen | Τι **γίνεσαι**; (How are you?) |
+| **χρειάζομαι** | I need | **Χρειάζομαι** βοήθεια. |
+| **σκέφτομαι** | I think | Τι **σκέφτεσαι**; |
 
 ---
 
-## 2. Conjugating Deponent Verbs (Present Tense)
+## 2. Present Tense Conjugation
+Both Passive and Deponent verbs use these "Type C" endings:
 
-If you see a verb ending in **-ομαι**, you must use the passive endings. 
+| Pronoun | Ending | Example: **έρχομαι** |
+| :--- | :---: | :--- |
+| (Εγώ) | **-ομαι** | έρχ**ομαι** |
+| (Εσύ) | **-εσαι** | έρχ**εσαι** |
+| (Αυτό/ή/ό) | **-εται** | έρχ**εται** |
+| (Εμείς) | **-όμαστε** | ερχ**όμαστε** |
+| (Εσείς) | **-εστε** | έρχ**εστε** |
+| (Αυτοί/ές/ά) | **-ονται** | έρχ**ονται** |
 
-They look very different from the active endings, but they follow a strict pattern. Notice how almost every ending has an **'αι'** *(e)* sound in it!
-
-| Pronoun | The Passive Ending | Example (έρχομαι) | English |
-|---|:---:|---|---|
-| (Εγώ) | **-ομαι** | έρχ**ομαι** | I come |
-| (Εσύ) | **-εσαι** | έρχ**εσαι** | You come |
-| (Αυτό/ή/ό) | **-εται** | έρχ**εται** | He/She/It comes |
-| (Εμείς) | **-όμαστε** | ερχ**όμαστε** * | We come |
-| (Εσείς) | **-εστε** | έρχ**εστε** | You come |
-| (Αυτοί/ές/ά) | **-ονται** | έρχ**ονται** | They come |
-
-*(Notice that the accent mark moves forward in the 'We' form: ερχόμαστε!)*
+> [!TIP]
+> **The Accent Shift**: Notice that in the "We" form (**ερχόμαστε**), the accent mark jumps forward. This is a very common rhythmic rule in Greek!
 
 ---
 
-## 3. Practice Sentences
+## 3. The True Passive Voice
+You can also take an active verb (like **πλένω** - I wash) and flip it to the passive form (**πλένομαι** - I am washed / I wash myself).
 
-Look at how these verbs function exactly like normal active verbs in a sentence, even though they have passive endings.
+- **Active**: Πλένω το αυτοκίνητο. (I wash the car).
+- **Passive**: **Πλένομαι**. (I am washing myself / I am taking a bath).
 
-::: example-box 
-**Από πού έρχεσαι;**
-(Where are you coming from?)
-::: end
-
-::: example-box 
-**Ο Γιώργος χρειάζεται ένα αυτοκίνητο.**
-(George needs a car.)
-*Notice that the verb takes a Direct Object (το αυτοκίνητο) exactly like an active verb!*
-::: end
-
-::: example-box 
-**Τι γίνεσαι;**
-(What are you becoming? / How are you doing?)
-*This is a very common alternative to "Τι κάνεις;"*
-::: end
-
-::: example-box 
-**Εμείς εργαζόμαστε κάθε μέρα.**
-(We work every day.)
-::: end
+### "By Someone" (Από)
+To say "by" in a passive sentence, use **από** + Accusative.
+- **Το βιβλίο διαβάζεται από τον Γιώργο.** (The book is read by George).
 
 ---
 
-## 🎯 Wrap-Up Checklist
+## 4. Past Passive (Aorist)
+The past tense of these verbs is marked by the letter **Θ** (Theta) and the endings **-ηκα, -ηκες, -ηκε**.
 
-- [ ] I know that Deponent Verbs end in **-ομαι** instead of -ω.
-- [ ] I know that even though they have "passive" endings, they have an active meaning (I come, I need).
-- [ ] I have memorized the Passive Present Endings (**-ομαι, -εσαι, -εται, -όμαστε, -εστε, -ονται**).
+- **Active Past**: Έπλυνα (I washed).
+- **Passive Past**: **Πλύθηκα** (I was washed / I bathed).
+
+---
+
+## 🎯 Unit 18 Mastery Checklist
+- [ ] I can conjugate **έρχομαι** in the present tense.
+- [ ] I know that verbs ending in **-ομαι** can be either Active (Deponent) or Passive/Reflexive.
+- [ ] I recognize the **-ηκα** ending as a marker of the Past Passive.
+
+**Up Next:** [Unit 19: Imperfect vs. Aorist (Refined Comparison)](/lessons/imperfect-tense) 
+*(Note: We will further refine the past tense split in the next phase!)*
