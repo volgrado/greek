@@ -1,38 +1,90 @@
-# Interrogative Pronouns
-Interrogative pronouns are used to ask questions. In Greek, almost all interrogative pronouns carry an accent mark to distinguish them from their non-interrogative counterparts.
+# Asking Questions (Οι Ερωτήσεις)
 
-::: content-grid mt-8
+You now have a solid vocabulary and an understanding of verb conjugation. The last skill you need to survive in Greece is the ability to ask for things!
 
-::: content-card
-### Who / Which (ποιος, ποια, ποιο)
+In English, we call these the "W" words (Who, What, Where, When, Why). In Greek, they are called **Interrogative Pronouns**.
 
-Used to ask about identity. It declines like an adjective.
+Let's look at the "Big Five":
 
-- **Ποιος** είναι στην πόρτα; (**Who** is at the door?)
+---
+
+## 1. The Universal "What" (Τι)
+
+The word for "what" is **τι** *(ti)*. 
+It is the easiest word in the Greek language because it **never changes**. It doesn't care about gender, number, or case.
+
+::: example-box 
+**Τι** είναι αυτό; (What is this?)
+**Τι** κάνεις; (What are you doing? / How are you?)
+**Τι** ώρα είναι; (What time is it?)
 ::: end
 
-::: content-card
-### How much / many (πόσος, πόση, πόσο)
+---
 
-Used to ask about quantity.
+## 2. The Chameleon "Who" (Ποιος)
 
-- **Πόσο** κάνει; (**How much** does it cost?)
+The word for "who" is tricky. Because Greek grammar Demands to know the gender of everything, you can't just say "who". You have to specify **"Who (male)", "Who (female)", or "Which (thing)"**.
+
+This means **Ποιος** acts exactly like an adjective! It changes its ending based on the noun it replaces.
+
+| Gender | Word | Pronunciation | Example |
+|:---:|:---:|---|---|
+| **Masc** | **Ποιος** | *(pyós)* | **Ποιος** είναι ο άντρας; (Who is the man?) |
+| **Fem** | **Ποια** | *(pyá)* | **Ποια** είναι η γυναίκα; (Who is the woman?) |
+| **Neut** | **Ποιο** | *(pyó)* | **Ποιο** παιδί; (Which child?) |
+
+> [!CAUTION]
+> **Who vs. Which**
+> Notice from the examples above that **Ποιος / Ποια / Ποιο** translates to both "Who" and "Which". 
+> - If you use it alone, it means "Who?" (**Ποιος** είναι;)
+> - If you put it in front of a noun, it means "Which?" (**Ποιο** βιβλίο; = Which book?)
+
+---
+
+## 3. The Chameleon "How Much/Many" (Πόσος)
+
+Just like "ποιος", the word for "how much" or "how many" acts like an adjective and changes its ending to match the noun it is asking about.
+
+| Gender | Singular (How Much) | Plural (How Many) |
+|:---:|:---:|:---:|
+| **Masc** | Πόσ**ος** | Πόσ**οι** |
+| **Fem** | Πόσ**η** | Πόσ**ες** |
+| **Neut** | Πόσ**ο** | Πόσ**α** |
+
+::: example-box 
+**Πόσο** κάνει; (How much does it cost?)
+**Πόσα** παιδιά έχεις; (How many children do you have? *[Notice -α to match -α]*)
 ::: end
 
-::: content-card
-### What (τι)
+---
 
-The universal "what". It is indeclinable (stays the same).
+## 4. Where and When (Πού & Πότε)
 
-- **Τι** κάνεις; (**What** are you doing?)
+These two are very easy. They never change their shape.
+
+**Πού** *(poo)* = Where?
+**Πότε** *(pó-te)* = When?
+
+::: example-box 
+**Πού** είναι το ξενοδοχείο; (Where is the hotel?)
+**Πότε** φεύγουμε; (When are we leaving?)
 ::: end
 
-::: end
+> [!TIP]
+> **The Secret Accent Marks**
+> Remember back in Unit 1 when we said that one-syllable words don't get accent marks? 
+> **Πού** (Where) and **Πώς** (How) are the exceptions! They keep their accent marks so you don't confuse them with the identical words meaning "that". If you see an accent on a tiny word, it's a question!
 
-::: info-box mt-12 mb-12
+---
 
-### Accentuation Note
+## 🎯 A1 Foundation Checklist
 
-In Modern Greek, one of the few words that **always** keep their accent even when they are single-syllable are interrogative words (πώς, πού, τι can be an exception but usually keeps the context). The accent tells the reader "this is a question".
+Congratulations! You have officially completed the A1 Foundations Stage. 
 
-::: end
+You can now:
+- [ ] Read the Greek Alphabet and pronounce double letters.
+- [ ] Understand the 3 Genders and the concept of Declension (Cases).
+- [ ] Conjugate Type A verbs in the Present Tense (**-ω, -εις, -ει...**).
+- [ ] Make sentences negative (**δεν**) and ask questions (**τι, πού, ποιος...**).
+
+In the next phase (A2 Stage), we will learn how to talk about the Future and the Past, starting with the mysterious "Continuous Aspect".

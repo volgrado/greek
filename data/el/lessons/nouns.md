@@ -1,48 +1,84 @@
-# The Nouns
-Nouns in Modern Greek (Τα Ουσιαστικά) are complex entities governed by gender, case, and number. Gender is a fundamental property.
+# Introduction to Nouns (Τα Ουσιαστικά)
 
-## The Three Genders
+Congratulations on making it to Unit 2! You can now read Greek and pronounce words correctly. It's time to start building sentences. 
 
-### Masculine (Ο)
+We will begin with **Nouns**—the words we use for people, places, and things.
 
-ο
+In English, nouns are incredibly simple. A "table" is just a table. In Greek, nouns are alive. They change their shape based on three things: **Gender, Number, and Case**.
 
-- δρόμος (street)
-- άντρας (man)
-- χάρτης (map)
+If this sounds intimidating, don't worry. We will tackle them one by one.
 
-### Feminine (Η)
+---
 
-η
+## The Concept of Grammatical Gender
 
-- ώρα (hour)
-- ζώνη (belt)
-- γυναίκα (woman)
+In English, objects don't have a gender. A boy is a "he," a girl is a "she," and a table is an "it."
 
-### Neuter (Το)
+In Greek, **every single noun has a gender**, even inanimate objects. 
+- A street is **masculine** (Ο).
+- A map is **masculine** (Ο).
+- A chair is **feminine** (Η).
+- A child is **neuter** (Το).
 
-το
+> [!WARNING]
+> **Don't try to find logic!**
+> There is no reason why a "chair" is female and a "street" is male. It is purely grammatical. You simply have to memorize the gender of a word when you learn it. 
 
-- βιβλίο (book)
-- παιδί (child)
-- πράγμα (thing)
+---
 
-## Case Study
+## How to Spot the Gender
 
-::: example-box
-**Ο Γιάννης** μένει με **τον Πέτρο**.
+How do you know if a word is Masculine, Feminine, or Neuter? 
 
-John lives with Peter.
+Greek is very generous here. **95% of the time, the last letter of the word gives away the gender.**
 
-::: end
+### 1. Masculine Nouns (Ο)
+Almost all masculine words end in **-ος**, **-ας**, or **-ης**.
 
-::: example-box
-**Ο Πέτρος** μένει με **τον Γιάννη**.
+| Gender Class | Word | Meaning |
+|---|---|---|
+| Ends in **-ος** | ο φίλ**ος** *(o fílos)* | the (male) friend |
+| Ends in **-ας** | ο πατέρ**ας** *(o patéras)* | the father |
+| Ends in **-ης** | ο χάρτ**ης** *(o chártis)* | the map |
 
-Peter lives with John.
+### 2. Feminine Nouns (Η)
+Almost all feminine words end in **-η** or **-α**.
 
-::: end
+| Gender Class | Word | Meaning |
+|---|---|---|
+| Ends in **-η** | η αγάπ**η** *(i agápi)* | the love |
+| Ends in **-α** | η μητέρ**α** *(i mitéra)* | the mother |
 
-## The Golden Rule
+### 3. Neuter Nouns (Το)
+Almost all neuter words end in **-ο**, **-ι**, or **-μα**.
 
-Never learn a noun in isolation. Always learn it alongside its definite article (ο, η, το).
+| Gender Class | Word | Meaning |
+|---|---|---|
+| Ends in **-ο** | το βιβλί**ο** *(to vivlío)* | the book |
+| Ends in **-ι** | το παιδ**ί** *(to pedí)* | the child |
+| Ends in **-μα** | το πρόβλη**μα** *(to próvlima)* | the problem |
+
+---
+
+## The Golden Rule of Greek Vocabulary
+
+Because gender dictates everything in Greek (how adjectives match the noun, how verbs behave), you must adhere to one iron-clad rule:
+
+> [!IMPORTANT]
+> **The Golden Rule**
+> **Never** learn a Greek noun by itself. Always memorize it with its **Definite Article** (the word for "the" — **ο, η, το**).
+
+Do not memorize that "house" is *σπίτι*. Memorize that it is ***το* σπίτι**. 
+Do not memorize that "street" is *δρόμος*. Memorize that it is ***ο* δρόμος**.
+
+The article is the anchor that tells your brain how the rest of the sentence should behave.
+
+---
+
+## 🎯 Wrap-Up Checklist
+
+- [ ] I understand that every Greek noun belongs to one of three genders.
+- [ ] I know that the ending of the word usually reveals its gender.
+- [ ] I commit to never learning a noun without its article (**ο, η, το**).
+
+In the next lesson, we will dive deeper into those little words—the Articles!

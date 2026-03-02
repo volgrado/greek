@@ -1,233 +1,194 @@
 {
-    "Phonology & Orthography": [
+    "A1 Foundations & Survival": [
         {
             "id": "basics",
-            "title": "The Greek Alphabet",
+            "title": "Unit 1: The Greek Alphabet",
             "num": 1
         },
         {
-            "id": "double-letters",
-            "title": "Double Letters",
+            "id": "nouns",
+            "title": "Unit 2: The Basics of Nouns",
             "num": 2
         },
         {
-            "id": "read",
-            "title": "Learn to Read",
+            "id": "verb-to-be",
+            "title": "Unit 3: Being & Having",
             "num": 3
         },
         {
-            "id": "vowels-consonants",
-            "title": "Vowels and Consonants",
+            "id": "verbs",
+            "title": "Unit 4: Intro to Verbs (Type A)",
             "num": 4
         },
         {
-            "id": "accents",
-            "title": "Accents (Τονισμός)",
+            "id": "accusative-case",
+            "title": "Unit 5: The Accusative Case",
             "num": 5
         },
         {
-            "id": "punctuation",
-            "title": "Punctuation Marks",
+            "id": "adjectives",
+            "title": "Unit 6: Adjectives & Agreement",
             "num": 6
-        }
-    ],
-    "Nominal Morphology": [
-        {
-            "id": "nouns",
-            "title": "The Nouns",
-            "num": 7
-        },
-        {
-            "id": "genders",
-            "title": "The Genders",
-            "num": 8
-        },
-        {
-            "id": "articles",
-            "title": "The Articles",
-            "num": 9
-        },
-        {
-            "id": "cases",
-            "title": "The Cases",
-            "num": 10
-        },
-        {
-            "id": "declension",
-            "title": "The Declension",
-            "num": 11
-        },
-        {
-            "id": "masculine-declension",
-            "title": "Masculine Declension",
-            "num": 12
-        },
-        {
-            "id": "feminine-declension",
-            "title": "Feminine Declension",
-            "num": 13
-        },
-        {
-            "id": "neuter-declension",
-            "title": "Neuter Declension",
-            "num": 14
-        },
-        {
-            "id": "articles-declension",
-            "title": "Articles Declension",
-            "num": 15
-        }
-    ],
-    "Pronouns": [
-        {
-            "id": "pronouns",
-            "title": "Intro to Pronouns",
-            "num": 16
-        },
-        {
-            "id": "personal-pronouns",
-            "title": "Personal Pronouns",
-            "num": 17
-        },
-        {
-            "id": "possessive-pronouns",
-            "title": "Possessive Pronouns",
-            "num": 18
-        },
-        {
-            "id": "demonstrative-pronouns",
-            "title": "Demonstrative Pronouns",
-            "num": 19
-        },
-        {
-            "id": "relative-pronouns",
-            "title": "Relative Pronouns",
-            "num": 20
         },
         {
             "id": "interrogative-pronouns",
-            "title": "Interrogative Pronouns",
-            "num": 21
-        },
-        {
-            "id": "indefinite-pronouns",
-            "title": "Indefinite Pronouns",
-            "num": 22
-        },
-        {
-            "id": "reflexive-pronouns",
-            "title": "Reflexive Pronouns",
-            "num": 23
-        },
-        {
-            "id": "definite-pronouns",
-            "title": "Definite Pronouns",
-            "num": 24
+            "title": "Unit 7: Asking Questions",
+            "num": 7
         }
     ],
-    "Adjectives & Adverbs": [
+    "A2 Expansion & Daily Life": [
         {
-            "id": "adjectives",
-            "title": "The Adjectives",
-            "num": 25
+            "id": "plurals",
+            "title": "Unit 8: Plural Nouns & Adjectives",
+            "num": 8
+        },
+        {
+            "id": "verb-groups-b",
+            "title": "Unit 9: Verb Groups B1 & B2",
+            "num": 9
+        },
+        {
+            "id": "subjunctive-1",
+            "title": "Unit 10: The Subjunctive Mood",
+            "num": 10
+        },
+        {
+            "id": "future-continuous",
+            "title": "Unit 11: The Continuous Future",
+            "num": 11
+        },
+        {
+            "id": "imperfect-tense",
+            "title": "Unit 12: The Imperfect Tense",
+            "num": 12
+        },
+        {
+            "id": "genitive-case",
+            "title": "Unit 13: Possessive Pronouns & Genitive",
+            "num": 13
+        },
+        {
+            "id": "object-pronouns",
+            "title": "Unit 14: Object Pronouns",
+            "num": 14
+        }
+    ],
+    "B1 The Great Divide: Verbal Aspect": [
+        {
+            "id": "aspect-intro",
+            "title": "Unit 15: Introduction to Aspect",
+            "num": 15
+        },
+        {
+            "id": "aorist-past",
+            "title": "Unit 16: The Aorist (Simple Past)",
+            "num": 16
+        },
+        {
+            "id": "simple-future",
+            "title": "Unit 17: Simple Future & Subjunctive",
+            "num": 17
+        },
+        {
+            "id": "deponent-verbs",
+            "title": "Unit 18: Deponent Verbs",
+            "num": 18
+        },
+        {
+            "id": "imperative",
+            "title": "Unit 19: The Imperative (Commands)",
+            "num": 19
         },
         {
             "id": "degrees-adjectives",
-            "title": "Degrees of Adjectives",
+            "title": "Unit 20: Degrees of Comparison",
+            "num": 20
+        },
+        {
+            "id": "prepositions",
+            "title": "Unit 21: Prepositions in Depth",
+            "num": 21
+        }
+    ],
+    "B2 Fluency & Nuance": [
+        {
+            "id": "passive-voice",
+            "title": "Unit 22: True Passive Voice",
+            "num": 22
+        },
+        {
+            "id": "perfect-tenses",
+            "title": "Unit 23: The Perfect Tenses",
+            "num": 23
+        },
+        {
+            "id": "participles",
+            "title": "Unit 24: Active & Passive Participles",
+            "num": 24
+        },
+        {
+            "id": "conditionals-1-2",
+            "title": "Unit 25: Conditional Sentences (Type 1 & 2)",
+            "num": 25
+        },
+        {
+            "id": "relative-pronouns",
+            "title": "Unit 26: Relative Pronouns",
             "num": 26
         },
         {
-            "id": "adverbs",
-            "title": "The Adverbs",
+            "id": "impersonal-verbs",
+            "title": "Unit 27: Impersonal Verbs & Expressions",
             "num": 27
         }
     ],
-    "Verbal System": [
+    "C1 Advanced Syntax & Idioms": [
         {
-            "id": "verbs",
-            "title": "Introduction to Verbs",
+            "id": "conditionals-3",
+            "title": "Unit 28: Conditional Sentences (Type 3)",
             "num": 28
         },
         {
-            "id": "verb-groups",
-            "title": "Groups of Verbs",
+            "id": "diminutives",
+            "title": "Unit 29: Diminutives and Augmentatives",
             "num": 29
         },
         {
-            "id": "conjugation-present",
-            "title": "Present Conjugation",
+            "id": "particles",
+            "title": "Unit 30: Nuanced Particles",
             "num": 30
         },
         {
-            "id": "auxiliary-verbs",
-            "title": "Auxiliary Verbs",
+            "id": "subjunctive-2",
+            "title": "Unit 31: Advanced Subjunctive Usage",
             "num": 31
         },
         {
-            "id": "tenses",
-            "title": "Verb Tenses",
+            "id": "compound-words",
+            "title": "Unit 32: Compound Words",
             "num": 32
-        },
+        }
+    ],
+    "C2 Mastery & Archaisms": [
         {
-            "id": "verb-to-be",
-            "title": "The Verb 'To Be' (Είμαι)",
+            "id": "ancient-remnants",
+            "title": "Unit 33: Ancient Remnants in Modern Greek",
             "num": 33
         },
         {
-            "id": "past-conjugation",
-            "title": "Past Conjugation",
+            "id": "genitive-absolute",
+            "title": "Unit 34: Participles in the Genitive Absolute",
             "num": 34
         },
         {
-            "id": "voices-moods",
-            "title": "Voices and Moods",
+            "id": "irregular-words",
+            "title": "Unit 35: Irregular & Defective Words",
             "num": 35
-        }
-    ],
-    "Particles & Connectors": [
+        },
         {
-            "id": "prepositions",
-            "title": "The Prepositions",
+            "id": "idioms",
+            "title": "Unit 36: Idiomatic Expressions & Proverbs",
             "num": 36
-        },
-        {
-            "id": "conjunctions",
-            "title": "The Conjunctions",
-            "num": 37
-        },
-        {
-            "id": "particles",
-            "title": "The Particles",
-            "num": 38
-        },
-        {
-            "id": "interjections",
-            "title": "Interjections",
-            "num": 39
-        }
-    ],
-    "Practical Greek": [
-        {
-            "id": "phrases",
-            "title": "Essential Phrases",
-            "num": 40
-        },
-        {
-            "id": "social-expressions",
-            "title": "Social Expressions",
-            "num": 41
-        },
-        {
-            "id": "dialogues-travel",
-            "title": "Travel Dialogues",
-            "num": 42
-        }
-    ],
-    "Future Units": [
-        {
-            "id": "coming-soon",
-            "title": "Coming Soon",
-            "num": ""
         }
     ]
 }

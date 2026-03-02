@@ -1,50 +1,60 @@
-# Present Conjugation
-Conjugation (Κλίση) involves changing the verb ending to match the person. Modern Greek verbs are grouped into four main paradigms.
+# Present Conjugation (Type A)
 
-### Group 1: Regular -ω (e.g. τρέχω)
+You now know that Type A verbs end in an unaccented **-ω**.
 
-| Εγώ | τρέχ-ω |
-|---|---|
-| Εσύ | τρέχ-εις |
-| Αυτός/ή/ό | τρέχ-ει |
-| Εμείς | τρέχ-ουμε |
-| Εσείς | τρέχ-ετε |
-| Αυτοί/ές/ά | τρέχ-ουν |
+How do we conjugate them? We take the **Stem**, and we add the **Endings** for the Present Tense.
 
-### Group 2: Accented -ώ (e.g. αγαπώ)
+Here is the master table for Type A verbs in the Present Tense. We will use the verb **διαβάζω** (I read) as our example.
 
-| Εγώ | αγαπ-ώ |
-|---|---|
-| Εσύ | αγαπ-άς |
-| Αυτός/ή/ό | αγαπ-ά |
-| Εμείς | αγαπ-άμε |
-| Εσείς | αγαπ-άτε |
-| Αυτοί/ές/ά | αγαπ-ούν |
+| Pronoun | Verb | Ending | Pronunciation |
+|---|---|:---:|---|
+| (Εγώ) | διαβάζ**ω** | **-ω** | *(di-a-vá-zo)* |
+| (Εσύ) | διαβάζ**εις** | **-εις** | *(di-a-vá-zis)* |
+| (Αυτό/ή/ό) | διαβάζ**ει** | **-ει** | *(di-a-vá-zi)* |
+| (Εμείς) | διαβάζ**ουμε** | **-ουμε** | *(di-a-vá-zou-me)* |
+| (Εσείς) | διαβάζ**ετε** | **-ετε** | *(di-a-vá-ze-te)* |
+| (Αυτοί/ές/ά) | διαβάζ**ουν(ε)** | **-ουν(ε)** | *(di-a-vá-zoun / zoun-e)* |
 
-### Group 3: Middle -ομαι (e.g. κάθομαι)
+> [!TIP]
+> **The Spelling Cheat Sheet**
+> Notice that the "You" and "He/She" endings (**-εις** and **-ει**) sound exactly the same: `[is]` and `[i]`. 
+> But they are always spelled with the **ει** combination! This is a strict rule. You will never see a Type A verb end in *-ις* or *-ι*. 
 
-| Εγώ | κάθ-ομαι |
-|---|---|
-| Εσύ | κάθ-εσαι |
-| Αυτός/ή/ό | κάθ-εται |
-| Εμείς | καθ-όμαστε |
-| Εσείς | κάθ-εστε |
-| Αυτοί/ές/ά | κάθ-ονται |
+---
 
-### Group 4: Middle -άμαι (e.g. κοιμάμαι)
+## 2. Let's Practice!
 
-| Εγώ | κοιμ-άμαι |
-|---|---|
-| Εσύ | κοιμ-άσαι |
-| Αυτός/ή/ό | κοιμ-άται |
-| Εμείς | κοιμ-όμαστε |
-| Εσείς | κοιμ-άστε |
-| Αυτοί/ές/ά | κοιμ-ούνται |
+Let's take a brand new verb: **γράφω** (I write).
 
-::: info-box mt-12
+Step 1: Find the stem by chopping off the **-ω**.
+The stem is **γράφ-**.
 
-### Alternative Endings
+Step 2: Add the endings from the table above.
 
-In Modern Greek, many verbs have alternative endings in common speech. For example, *αγαπ-άμε* can also be *αγαπ-ούμε*, and *τρέχ-ουν* can be *τρέχ-ουνε*. Both are correct!
+- (I write) ➔ **γράφω**
+- (You write) ➔ **γράφεις**
+- (He/She writes) ➔ **γράφει**
+- (We write) ➔ **γράφουμε**
+- (You all write) ➔ **γράφετε**
+- (They write) ➔ **γράφουν**
 
-::: end
+---
+
+## 3. The "They" Ending: -ουν vs -ουνε
+
+You might have noticed the `(ε)` on the "They" ending: **διαβάζουν(ε)**. 
+
+In Greek, you can add an extra **-ε** to the end of the 3rd person plural to make it flow better in speech.
+
+- Τα παιδιά διαβάζ**ουν** το βιβλίο. (Correct)
+- Τα παιδιά διαβάζ**ουνε** το βιβλίο. (Also correct, and very common!)
+
+There is zero difference in meaning. It's just a matter of rhythm. When you are writing formally, stick to **-ουν**. When you are speaking casually, you will hear **-ουνε** all the time.
+
+---
+
+## 🎯 Wrap-Up Checklist
+
+- [ ] I have memorized the six endings for Type A verbs: **-ω, -εις, -ει, -ουμε, -ετε, -ουν.**
+- [ ] I can conjugate any Type A verb by finding its stem and adding these endings.
+- [ ] I know that the "He/She" ending sounds like `[ee]` but is always spelled **-ει**.
