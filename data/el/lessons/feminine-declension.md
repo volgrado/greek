@@ -1,29 +1,70 @@
-# Feminine Declension
-Feminine nouns in Greek typically end in **-α** or **-η**. Unlike masculine nouns, they are generally very consistent in their declension patterns.
+# Feminine Declension (Κλίση Θηλυκών)
 
-## 1. Nouns in -α (η μητέρα - the mother)
+Feminine nouns are a breath of fresh air after the rules of the masculine table. They are highly consistent and very easy to memorize.
 
-| Case | Singular | Plural |
+Almost all feminine nouns end in **-η** or **-α**. Let's see how they change from being the Subject (Nominative) to being the Object (Accusative).
+
+---
+
+## 1. Nouns ending in -η 
+
+Example: **η γυναίκα** (the woman) - wait, that ends in α!
+Example: **η κόρη** (the daughter) 
+
+| Case | Singular | English |
 |---|---|---|
-| Nom | η μητέρ **α** | οι μητέρ **ες** |
-| Gen | της μητέρ **ας** | των μητέρ **ων** |
-| Acc | τη(ν) μητέρ **α** | τις μητέρ **ες** |
+| **Nom** (Subject) | η κόρ**η** | *The daughter* is here. |
+| **Acc** (Object) | τη(ν) κόρ**η** | I see *the daughter*. |
+| Gen (Owner) | της κόρ**ης** | The book *of the daughter*. |
 
-## 2. Nouns in -η (η ζωή - the life)
+**What happens?**
+If the word is the Object (Accusative), **the noun itself does not change at all!** 
+Only the article changes from **η** to **την**.
 
-| Case | Singular | Plural |
+*Note: Just like the masculine 'τον', the feminine 'την' only keeps its 'N' if the next word starts with a vowel or a hard consonant. Don't stress about this right now!*
+
+---
+
+## 2. Nouns ending in -α 
+
+Example: **η γυναίκα** (the woman)
+
+| Case | Singular | English |
 |---|---|---|
-| Nom | η ζω **ή** | οι ζω **ές** |
-| Gen | της ζω **ής** | των ζω **ών** |
-| Acc | τη(ν) ζω **ή** | τις ζω **ές** |
+| **Nom** (Subject) | η γυναίκ**α** | *The woman* is here. |
+| **Acc** (Object) | τη(ν) γυναίκ**α** | I see *the woman*. |
+| Gen (Owner) | της γυναίκ**ας** | The car *of the woman*. |
 
-::: info-box mt-12 mb-12
+**What happens?**
+Again, absolutely nothing happens to the noun! Only the article changes to **την**.
 
-### The Special "Mama" Case
+> [!TIP]
+> **The Golden Rule for Feminine Singular**
+> In the singular, the noun never changes between being the subject (Nom) or the object (Acc). Only the article does!
 
-Some feminine nouns (often kinship terms or loanwords) ending in an accented **-ά** follow a slightly different plural pattern:
+---
 
-- η μαμά → οι μαμά **δες**
-- η γιαγιά → οι γιαγιά **δες**
+## The Plural Forms
 
-::: end
+When you want to talk about *multiple* daughters or women, the endings change to show Plurality.
+
+Here is the best part: in the plural, **feminine nouns behave exactly the same whether they are the subject or the object!**
+
+| Ending | Plural Nominative (Subjects) | Plural Accusative (Objects) |
+|---|---|---|
+| **-η** | **οι** κόρ**ες** (the daughters) | **τις** κόρ**ες** (the daughters) |
+| **-α** | **οι** γυναίκ**ες** (the women) | **τις** γυναίκ**ες** (the women) |
+
+Look closely:
+- **Οι γυναίκες** είναι εδώ. (The women are here - Nominative).
+- Βλέπω **τις γυναίκες**. (I see the women - Accusative).
+
+The word *γυναίκες* didn't change at all! Only the article changed (**οι** ➔ **τις**).
+
+---
+
+## 🎯 Wrap-Up Checklist
+
+- [ ] I know that feminine singular nouns don't change their endings when they become the Object (Accusative). Only **η** becomes **την**.
+- [ ] I know that the plural ending for almost all feminine nouns is **-ες**.
+- [ ] I know that the plural article for subjects is **οι**, and for objects is **τις**.

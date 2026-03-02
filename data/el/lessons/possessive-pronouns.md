@@ -1,48 +1,77 @@
-# Possessive Pronouns
-In Greek, possession is usually expressed using a "weak" form of the personal pronoun that follows the noun. To express "own" or for stronger emphasis, we use the word **δικός**.
+# Possessive Pronouns (Κτητικές Αντωνυμίες)
 
-## 1. The Weak Forms (My, Your, His...)
+In the last lesson, we learned how to say "George's dog" using the Genitive case (Ο σκύλος **του Γιώργου**).
 
-These short words always follow the noun and never change their form based on the noun's case—they only match the person and number of the owner.
+But what if you don't want to use a name? What if you just want to say "**My** dog" or "**His** dog"? 
 
-::: content-grid mt-8
+For this, we use the Weak Pronouns you learned back in Unit 3! (με, σε, τον, την..). But we use the *Genitive* version of them.
 
-### Singular Owner
+---
 
-- μου (my)
-- σου (your)
-- του / της / του (his / her / its)
+## 1. The Possessive Words (My, Your, His...)
 
-### Plural Owner
+These are tiny, little words that mean "my", "your", "his", etc. 
 
-- μας (our)
-- σας (your [pl])
-- τους (their)
+| English | Greek |
+|:---:|:---:|
+| My | **μου** |
+| Your | **σου** |
+| His / Her / Its | **του** / **της** / **του** |
+| Our | **μας** |
+| Your (plural) | **σας** |
+| Their | **τους** |
 
+### The Golden Rule of Position
+
+In English, the possessive word comes *before* the noun (My car). 
+In Greek, the possessive word must come **AFTER** the noun! (The car my).
+
+::: example-box 
+Το αυτοκίνητό **μου** (My car)
+Ο σκύλος **σου** (Your dog)
+Το πρόβλημά **μας** (Our problem)
+Η αδερφή **του** (His sister)
+Η μητέρα **της** (Her mother)
 ::: end
 
-::: example-box mt-12 mb-12
+> [!CAUTION]
+> **Who is doing the matching?**
+> The word "του" means *his*, and the word "της" means *hers*. This word ONLY cares about the gender of the **Owner**, not the object being owned!
+> - Ο σκύλος **της** (Her dog) ➔ *The dog is masculine, but the owner is a woman!*
+> - Η γάτα **του** (His cat) ➔ *The cat is feminine, but the owner is a man!*
 
-### Examples
+---
 
-- το βιβλίο **μου** (my book)
-- το μολύβι **του** (his pencil)
-- το σκυλί **τους** (their dog)
+## 2. Emphatic Possession (Mine!)
 
+Sometimes, saying "my car" isn't enough. Someone is trying to steal your car, and you want to yell: "That is **my own** car!" or "That car is **mine**!"
+
+For this, we use a special word: **Δικός** (di-kós). 
+
+Because **δικός** is an adjective, it is a chameleon. It must match the gender of the *object being owned*. 
+
+And because you still need to say *whose* it is, you combine it with the little words from above:
+
+::: adjective-showcase mt-8
+**Ο δικός μου** σκύλος *(My own dog - Masc)*
+**Η δική μου** γάτα *(My own cat - Fem)*
+**Το δικό μου** σπίτι *(My own house - Neut)*
 ::: end
 
-## 2. Emphatic Possession (δικός)
+::: example-box 
+**Situation: Whose coffee is this?**
 
-The word **δικός, δική, δικό** acts like an adjective and is used to say "mine" or "my own". It must match the gender of the object being possessed.
+**Normal Answer:** 
+Είναι ο καφές **μου**. (It is my coffee.)
 
-::: content-grid mt-8
-το δικό μου my own / mineτο δικό σου your own / yoursτο δικό του his own / his
+**Emphatic Answer:** 
+Είναι **ο δικός μου** (καφές)! (It is **MINE**!)
 ::: end
 
-::: info-box mt-12 mb-12
+---
 
-### Pro-Tip: The Article
+## 🎯 Wrap-Up Checklist
 
-When using **δικός**, you often need an article before it. Think of it like saying "the mine own". Example: Έχω το δικό μου αυτοκίνητο. (I have my own car).
-
-::: end
+- [ ] I know the possessive words (**μου, σου, του, της, μας, σας, τους**).
+- [ ] I know that these words must go **after** the noun (Το βιβλίο *μου*).
+- [ ] I know that to say "Mine!" or "My own", I use the chameleon word **δικός/δική/δικό** + μου/σου/του.

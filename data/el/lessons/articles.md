@@ -1,37 +1,76 @@
-# The Articles
-In Greek, almost every noun is preceded by an **article**. The article tells us the gender, number, and case of the noun. There are two types: **Definite** ("the") and **Indefinite** ("a/an").
+# The Articles (Τα Άρθρα)
 
-## 1. The Definite Article (Το Οριστικό Άρθρο)
+In Greek, almost every noun must be preceded by an **article** (the little words for "the" or "a/an"). 
 
-This is used when referring to a specific item. In English, we only have "the", but in Greek, it changes based on gender.
+You cannot ignore them. If you drop the article in a Greek sentence, you will sound like a caveman ("Me go store. Buy apple.")
 
-| Gender | Singular (The) | Plural (The) |
-|---|---|---|
-| Masculine | ο | οι |
-| Feminine | η | οι |
-| Neuter | το | τα |
+The article is the anchor of the sentence. It tells the listener the **gender** (male/female/neuter) and the **number** (singular/plural) of the noun that is about to follow.
 
-::: info-box mt-8
-**Note:** In the plural, Masculine and Feminine share the same article (οι), but Neuter uses τα.
+---
 
+## 1. The Definite Article ("The")
+
+We use the definite article when we are talking about a *specific* thing (e.g., "The car is red"). 
+
+In English, we only have one word for this: **The**. 
+
+In Greek, "The" shape-shifts based on the gender of the noun. You already learned these in the previous lesson!
+
+| Gender | "The" (Singular) | Example | Translation |
+|---|:---:|---|---|
+| Masculine | **ο** | **ο** δρόμος *(o dró-mos)* | the street |
+| Feminine | **η** | **η** γυναίκα *(ee yi-né-ka)* | the woman |
+| Neuter | **το** | **το** παιδί *(to pe-dí)* | the child |
+
+> [!CAUTION]
+> **Names Take Articles!**
+> In English, we never put "The" in front of someone's name. You don't say "The Maria is here."
+> In Greek, **you absolutely must.**
+> - **Ο Γιώργος** είναι εδώ. (George is here).
+> - **Η Μαρία** είναι εδώ. (Maria is here).
+
+---
+
+## 2. The Indefinite Article ("A / An")
+
+We use the indefinite article when we are talking about a *non-specific* thing (e.g., "I want a car").
+
+Just like "The", the Greek word for "A" changes based on the gender. 
+
+| Gender | "A / An" | Example | Translation |
+|---|:---:|---|---|
+| Masculine | **ένας** | **ένας** δρόμος *(é-nas dró-mos)* | a street |
+| Feminine | **μία / μια** | **μια** γυναίκα *(mya yi-né-ka)* | a woman |
+| Neuter | **ένα** | **ένα** παιδί *(é-na pe-dí)* | a child |
+
+Notice how the indefinite articles share the same endings as the nouns they describe? **ένας** ends in *-ας* (masculine), **μία** ends in *-α* (feminine), and **ένα** ends in *-α* (neuter rule-breaker, but very easy to remember).
+
+> [!TIP]
+> **μία vs. μια**
+> You will see the feminine article spelled both ways. 
+> - **Μία** *(mí-a)* has two distinct syllables. It is slightly more formal and is also used as the number "1".
+> - **Μια** *(mya)* is a single syllable. It is used in fast, casual speech. 
+> They mean exactly the same thing.
+
+---
+
+## Example Sentences
+
+Let's look at how replacing "The" with "A" changes the meaning exactly as it does in English.
+
+::: example-box 
+**Ο** φίλος είναι εδώ. ➔ **The** (specific) friend is here.
+**Ένας** φίλος είναι εδώ. ➔ **A** (random) friend is here.
 ::: end
 
-## 2. The Indefinite Article (Το Αόριστο Άρθρο)
-
-This is used for non-specific items. There is no plural form for the indefinite article in Greek (similar to English—we don't say "a cars").
-
-| Gender | Singular (A / An) |
-|---|---|
-| Masculine | ένας |
-| Feminine | μία |
-| Neuter | ένα |
-
-::: example-box mt-12
-
-### Usage Examples
-
-- ο πατέρας (the father) vs ένας πατέρας (a father)
-- η μητέρα (the mother) vs μία μητέρα (a mother)
-- το παιδί (the child) vs ένα παιδί (a child)
-
+::: example-box 
+Θέλω **το** βιβλίο. ➔ I want **the** (specific) book.
+Θέλω **ένα** βιβλίο. ➔ I want **a** (random) book.
 ::: end
+
+---
+
+## 🎯 Wrap-Up Checklist
+
+- [ ] I will literally never say a Greek noun or a person's name without putting "The" (**ο, η, το**) or "A" (**ένας, μία, ένα**) in front of it. 
+- [ ] I know that "μία" and "μια" are the exact same word.
