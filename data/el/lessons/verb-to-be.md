@@ -1,78 +1,72 @@
-# The Verb 'To Be' (Είμαι)
+# Unit 3: Being & Having (Είμαι & Έχω)
 
-To build a real sentence, we need our first verb. And just like in English, the most important verb in the Greek language is the verb **To Be** (I am, you are, he is...).
+To building real sentences, you need verbs. In Greek, just like in English, the two most important verbs are **To Be** (I am) and **To Have** (I have). Together, they unlock hundreds of basic conversations.
 
-In Greek, the dictionary form of this verb is **είμαι** *(í-me)*. 
+---
 
-## 1. The Personal Pronouns
-
-Before we conjugate the verb, we need to know the words for I, You, He, She, etc. These are called **Personal Pronouns**.
+## 1. The Actors: Personal Pronouns
+Before the verbs, we need to know the people. Greek handles "I, You, He" very logically.
 
 | English | Greek | Pronunciation |
-|---|---|---|
+| :--- | :--- | :--- |
 | **I** | **Εγώ** | *(e-gó)* |
-| **You** (singular/informal) | **Εσύ** | *(e-sí)* |
-| **He**<br>**She**<br>**It** | **Αυτός**<br>**Αυτή**<br>**Αυτό** | *(af-tós)*<br>*(af-tí)*<br>*(af-tó)* |
+| **You** (sing.) | **Εσύ** | *(e-sí)* |
+| **He / She / It** | **Αυτός / Αυτή / Αυτό** | *(af-tós / af-tí / af-tó)* |
 | **We** | **Εμείς** | *(e-mís)* |
-| **You** (plural/formal) | **Εσείς** | *(e-sís)* |
-| **They** (masculine)<br>**They** (feminine)<br>**They** (neuter) | **Αυτοί**<br>**Αυτές**<br>**Αυτά** | *(af-tí)*<br>*(af-tés)*<br>*(af-tá)* |
+| **You** (plur./formal) | **Εσείς** | *(e-sís)* |
+| **They** (m/f/n) | **Αυτοί / Αυτές / Αυτά** | *(af-tí / af-tés / af-tá)* |
 
 > [!NOTE]
-> **Did you notice something?**
-> The words for *He, She, It, They* are completely identical to the gender rules you just learned in Unit 2!
-> - **Αυτός** ends in *-ος* (Masculine)
-> - **Αυτή** ends in *-η* (Feminine)
-> - **Αυτό** ends in *-ο* (Neuter).
-> 
-> Also notice that **Εμείς** (We) and **Εσείς** (You plural) rhyme perfectly!
+> **Rhyme Time**  
+> Notice that **Εμείς** (We) and **Εσείς** (You plural) rhyme, and the 3rd person singular pronouns (**Αυτός, Αυτή, Αυτό**) follow the exact same ending rules as the nouns you learned in Unit 2!
 
 ---
 
-## 2. Conjugating "Είμαι" (I am)
+## 2. Conjugating the "Big Two"
 
-Now let's pair these pronouns with the verb. 
+### Είμαι (To Be)
+Used for identity and state (I am a student, I am here).
 
-| Pronoun | Verb | English | Pronunciation |
-|---|---|---|---|
-| Εγώ | **είμαι** | I am | *(í-me)* |
-| Εσύ | **είσαι** | You are | *(í-se)* |
-| Αυτός/ή/ό | **είναι** | He/She/It is | *(í-ne)* |
-| Εμείς | **είμαστε** | We are | *(í-mas-te)* |
-| Εσείς | **είστε** | You are | *(ís-te)* |
-| Αυτοί/ές/ά | **είναι** | They are | *(í-ne)* |
+- **Είμαι** (I am)
+- **Είσαι** (You are)
+- **Είναι** (He/She/It is **AND** They are!)
+- **Είμαστε** (We are)
+- **Είστε** (You are)
 
-> [!TIP]
-> **The Best News Ever: "He is" = "They are"!**
-> Look at the table again. The word for "He is" (**είναι**) is exactly the same word as "They are" (**είναι**). In Greek, the 3rd person singular and the 3rd person plural of the verb "To Be" are identical.
+### Έχω (To Have)
+Used for possession and family. 
 
----
-
-## 3. The Pro-Drop Rule (We don't need pronouns!)
-
-Here is one of the most important concepts in Greek: **You do not need to say the pronoun.**
-
-In English, if you walk into a room and say "Am hungry," people will look at you funny. You must say "**I** am hungry."
-
-In Greek, the ending of the verb already tells everyone who is speaking. The word **είμαι** *only* means "I am". It cannot mean "You are" or "He is". 
-
-Therefore, Greeks *rarely* use the words **Εγώ**, **Εσύ**, **Εμείς**, etc., unless they want to emphasize something.
-
-::: example-box 
-**English**: I am George.
-**Greek (Robotic)**: Εγώ είμαι ο Γιώργος.
-**Greek (Natural)**: **Είμαι** ο Γιώργος.
-::: end
-
-::: example-box 
-**English**: Are you Maria?
-**Greek (Robotic)**: Εσύ είσαι η Μαρία;
-**Greek (Natural)**: **Είσαι** η Μαρία;
-::: end
+- **Έχω** (I have)
+- **Έχεις** (You have)
+- **Έχει** (He/She/It has)
+- **Έχουμε** (We have)
+- **Έχετε** (You have)
+- **Έχουν(ε)** (They have)
 
 ---
 
-## 🎯 Wrap-Up Checklist
+## 3. The Pro-Drop Rule: Speak Like a Native
+In English, you must say "**I** have a dog." In Greek, you simply say "**Έχω** έναν σκύλο."
 
-- [ ] I know how to say I, You, He/She/It, We, They.
-- [ ] I know the conjugation of **είμαι** (είμαι, είσαι, είναι, είμαστε, είστε, είναι).
-- [ ] I know that Greeks usually **drop the pronoun** because the verb ending tells you who is doing the action.
+Because the ending of the verb changes for every person (I, you, he), the pronoun **Εγώ, Εσύ, κτλ.** becomes redundant. Greeks **only** use the pronouns when they want to emphasize *who* specifically they are talking about. 
+
+- **Natural**: Είμαι εδώ. (I am here.)
+- **Emphatic**: **Εγώ** είμαι εδώ! (***I*** am here!)
+
+---
+
+## 4. The Power Combo
+With these two verbs and the Accusative case from Unit 2, you can already speak!
+
+- **Έχεις το βιβλίο;** (Do you have the book?)
+- **Όχι, ο Γιώργος έχει το βιβλίο.** (No, George has the book.)
+- **Είμαστε φίλοι.** (We are friends.)
+
+---
+
+## 🎯 Unit 3 Mastery Checklist
+- [ ] I can conjugate **είμαι** and **έχω** by heart.
+- [ ] I know when to use **Αυτός, Αυτή,** and **Αυτό**.
+- [ ] I understand that I should drop the pronoun when speaking naturally.
+
+**Up Next:** [Unit 4: Intro to Verbs (Group A)](/lessons/verbs)

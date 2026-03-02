@@ -1,80 +1,99 @@
-# The Greek Alphabet
+# Unit 1: The Greek Writing System Masterclass
 
-Welcome to your first step toward mastering Greek! As an English speaker, learning the Greek alphabet is much easier than you might think. Did you know that the word "alphabet" itself comes from the first two Greek letters: **Alpha (Α)** and **Beta (Β)**? Over 25% of English vocabulary has Greek roots, meaning you already know a lot of Greek without even realizing it.
+Welcome to your first step toward mastering Greek! As an English speaker, learning the Greek alphabet is much easier than you might think. Over 25% of English vocabulary has Greek roots—you already know more Greek than you realize.
 
-The Greek alphabet consists of **24 letters**. We will break them down into three easy-to-digest groups based on how similar they are to English.
-
----
-
-### Group 1: The "Freebies"
-
-These letters look identical to their English counterparts and make the exact same sounds. You already know these:
-
-| Letter (Cap & Lower) | Name    | Pronunciation                      | Example in English                      |
-| :------------------: | :------ | :--------------------------------- | :-------------------------------------- |
-|   **Α α**   | Alpha   | `[a]` as in **f*a*ther** | **A**pple                         |
-|   **Ε ε**   | Epsilon | `[e]` as in **p*e*t**    | **E**lephant                      |
-|   **Ι ι**   | Iota    | `[ee]` as in **m*ee*t**  | Ignorant (but purely**ee** sound) |
-|   **Κ κ**   | Kappa   | `[k]` as in **k*i*te**   | **K**ing                          |
-|   **Μ μ**   | Mu      | `[m]` as in **m*o*m**    | **M**other                        |
-|   **Ν ν**   | Nu      | `[n]` as in **n*o***     | **N**ever                         |
-|   **Ο ο**   | Omicron | `[o]` as in **t*o*p**    | **O**live                         |
-|   **Τ τ**   | Tau     | `[t]` as in **t*o*p**    | **T**ime                          |
-|   **Ζ ζ**   | Zeta    | `[z]` as in **z*oo***    | **Z**ebra                         |
+This comprehensive guide covers everything you need to read and write Modern Greek: Single Letters, Digraphs (Sound Combinations), Accents, and Punctuation.
 
 ---
 
-### Group 2: The "False Friends"
+## 1. The 24 Letters
+We break the alphabet into three groups based on their similarity to English.
 
-These letters *look* like English letters but make a **completely different sound**. Watch out for these—they are the most common source of early mistakes for English speakers!
+### Team A: The "Freebies"
+These look and sound exactly like English.
+| Letter | Name | Sound | Example |
+| :---: | :--- | :--- | :--- |
+| **Α α** | Alpha | `[a]` | **f*a*ther** |
+| **Ε ε** | Epsilon | `[e]` | **p*e*t** |
+| **Ι ι** | Iota | `[ee]` | **m*ee*t** |
+| **Κ κ** | Kappa | `[k]` | **k*i*te** |
+| **Μ μ** | Mu | `[m]` | **m*o*m** |
+| **Ν ν** | Nu | `[n]` | **n*o*** |
+| **Ο ο** | Omicron | `[o]` | **t*o*p** |
+| **Τ τ** | Tau | `[t]` | **t*o*p** |
+| **Ζ ζ** | Zeta | `[z]` | **z*oo*** |
 
-|     Letter     | Name    | Pronunciation & Warning                                                                                   | Example         |
-| :-------------: | :------ | :-------------------------------------------------------------------------------------------------------- | :-------------- |
-| **Β β** | Beta    | Sounds like an English**V** (like in **v*a*n**). Do *not* pronounce it as 'B'!            | **V**ideo |
-| **Η η** | Eta     | Sounds exactly like**Ι (Iota)**: `[ee]` as in **m*ee*t**. It is *not* an 'H'.          | S**ee**   |
-| **Ρ ρ** | Rho     | Sounds like a lightly rolled**R**. It is *not* a 'P'.                                             | **R**oll  |
-| **Χ χ** | Chi     | A throaty 'H' sound, like the Scottish*lo**ch*** or Spanish *J*. It is *not* an 'X'.          | Lo**ch**  |
-| **Υ υ** | Upsilon | Another `[ee]` sound! It sounds identical to **Ι** and **Η**. It is *not* a 'Y' or 'U'. | Fr**ee**  |
+### Team B: The "False Friends"
+These *look* like English letters but sound different. **Watch out for these!**
+| Letter | Name | Sound | Warning |
+| :---: | :--- | :--- | :--- |
+| **Β β** | Beta | `[v]` | Like **v*a*n**, not 'B' |
+| **Η η** | Eta | `[ee]` | Like **m*ee*t**, not 'H' |
+| **Ρ ρ** | Rho | `[r]` | Rolled **R**, not 'P' |
+| **Χ χ** | Chi | `[h]` | Guttural **H** (Lo**ch**) |
+| **Υ υ** | Upsilon | `[ee]` | Like **m*ee*t**, not 'Y' or 'U' |
 
-> [!TIP]
-> **Why are there three letters that sound like "ee"?**
-> In Ancient Greek, **Ι**, **Η**, and **Υ** represented different sounds (short i, long e, and a French u). Over thousands of years, pronunciation shifted, and today they all make the exact same `[ee]` sound! This is called "Iotacism." You will learn when to use which purely through spelling rules later on.
+### Team C: The "Aliens"
+Unique shapes, but simple sounds.
+| Letter | Name | Sound | Example |
+| :---: | :--- | :--- | :--- |
+| **Γ γ** | Gamma | `[g/y]` | Soft **G** or **y** in **y*es*** |
+| **Δ δ** | Delta | `[th]` | Soft **th** in **th*i*s** |
+| **Θ θ** | Theta | `[th]` | Hard **th** in **th*i*nk** |
+| **Λ λ** | Lambda | `[l]` | **l*i*on** |
+| **Ξ ξ** | Xi | `[ks]` | **x** in **bo*x*** |
+| **Π π** | Pi | `[p]` | **p*en*** |
+| **Σ σ, ς** | Sigma | `[s]` | **s*un*** (use **ς** at end of words) |
+| **Φ φ** | Phi | `[f]` | **f*ish*** |
+| **Ψ ψ** | Psi | `[ps]` | **ps** in **o*ps*** |
+| **Ω ω** | Omega | `[o]` | Exactly like **Omicron** |
 
 ---
 
-### Group 3: The "Aliens"
+## 2. Digraphs (Letter Combinations)
+Sometimes Greek glues two letters together to make a new sound.
 
-These letters look entirely new, but their sounds are very straightforward.
+### Vowel Twins
+| Combinations | Sound | Example |
+| :---: | :--- | :--- |
+| **αι** | `[e]` | **αι**τία *(etía)* - cause |
+| **ει, οι, υι** | `[ee]` | **εί**μαι *(ímai)* - I am |
+| **ου** | `[oo]` | **ου**ρανός *(ouranós)* - sky |
 
-|       Letter       | Name   | Pronunciation                                                                             | Example in English                         |
-| :-----------------: | :----- | :---------------------------------------------------------------------------------------- | :----------------------------------------- |
-|   **Γ γ**   | Gamma  | A soft, guttural G, or sometimes a 'Y'. Roughly like the**y** in **y*es***. | **Y**oghurt / Spanish a**g**ua |
-|   **Δ δ**   | Delta  | A soft**th** sound, like in **th*i*s** or **th*a*t**.               | **Th**ere                            |
-|   **Θ θ**   | Theta  | A hard, breathy**th** sound, like in **th*i*nk** or **th*e*me**.    | **Th**eory                           |
-|   **Λ λ**   | Lambda | An**L** sound, like in **l*i*on**.                                          | **L**ist                             |
-|   **Ξ ξ**   | Xi     | A**ks** sound, like the English 'x' in bo**x**.                               | Ta**x**i                             |
-|   **Π π**   | Pi     | A**P** sound, like in **p*e*n**.                                            | **P**aper                            |
-| **Σ σ, ς** | Sigma  | An**S** sound, like in **s*u*n**.                                           | **S**top                             |
-|   **Φ φ**   | Phi    | An**F** sound, like in **f*i*sh**.                                          | **F**ly                              |
-|   **Ψ ψ**   | Psi    | A**ps** sound, like in o**ps**!                                               | Ste**ps**                            |
-|   **Ω ω**   | Omega  | An**O** sound. Sounds exactly like **Ο (Omicron)**.                          | L**o**w                              |
-
-> [!CAUTION]
-> **The Two Faces of Sigma**
-> Notice that **Sigma** has two lowercase forms: **σ** and **ς**.
->
-> - Use the round **σ** anywhere inside a word: **σύστημα** (system).
-> - Use the final **ς** *only* if it is the very last letter of a word: **οδός** (street).
+### Consonant Twins (The Missing Sounds)
+Ancient Greek didn't have sounds for B, D, or G. Modern Greek creates them like this:
+| Combinations | Sound | Example |
+| :---: | :--- | :--- |
+| **μπ** | **B** | **μπ**α**μπ**άς *(babás)* - dad |
+| **ντ** | **D** | **ντ**ύνω *(díno)* - to dress |
+| **γκ / γγ** | **G** | ά**γκ**υρα *(ágira)* - anchor |
+| **τσ** | **TS** | **τσ**έπη *(tsépi)* - pocket |
+| **τζ** | **J / DZ** | **τζ**άκι *(dzáki)* - fireplace |
 
 ---
 
-## 🎯 Quick Review & Orthographic Notes
+## 3. Accents & Punctuation
+Greek is highly phonetic. One mark changes everything.
 
-1. **Capitalization**: Greek uses uppercase letters exactly like English—for names of people, places, and at the beginning of sentences. (e.g., **Αθήνα** = Athens).
-2. **Punctuation**: The Greek question mark looks exactly like an English semicolon (**;**). The English question mark (?) is never used!
-3. **The "ee" and "o" sounds**:
-   - `[ee]` can be spelled **ι**, **η**, or **υ**.
-   - `[o]` can be spelled **ο** or **ω**.
-     (There is zero difference in pronunciation today. Don't stress about it; you will pick up the spelling patterns naturally).
+### The Tonos (´)
+Every word with 2+ syllables has one accent mark on a vowel. This tells you exactly where to put the stress.
+- **νερό** (ne-RÓ) - water
+- **πρόβλημα** (PRÓ-vli-ma) - problem
 
-Take your time familiarizing yourself with these letters. In the next lesson, we will look at what happens when you combine two letters together to make completely new sounds!
+### The Question Mark (;) 
+In Greek, the English semicolon (`;`) is the question mark. The English mark (`?`) is never used.
+- **Πώς είσαι;** (How are you?)
+
+### The Upper Dot (·)
+Used like an English semicolon or colon for a long pause.
+- **Θέλω νερό· διψάω.** (I want water; I am thirsty.)
+
+---
+
+## 🎯 Unit 1 Mastery Checklist
+- [ ] I can recognize all 24 letters and their sounds.
+- [ ] I know that **ι, η, υ, ει, οι, υι** all sound like `[ee]`.
+- [ ] I understand that **;** is a question mark.
+- [ ] I can identify the stressed syllable using the accent mark.
+
+**Up Next:** [Unit 2: The Basics of Nouns](/lessons/nouns)

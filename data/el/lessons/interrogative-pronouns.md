@@ -1,90 +1,55 @@
-# Asking Questions (Οι Ερωτήσεις)
+# Unit 7: Asking Questions (Τι, Πού, Ποιος)
 
-You now have a solid vocabulary and an understanding of verb conjugation. The last skill you need to survive in Greece is the ability to ask for things!
-
-In English, we call these the "W" words (Who, What, Where, When, Why). In Greek, they are called **Interrogative Pronouns**.
-
-Let's look at the "Big Five":
+You now have a solid vocabulary and know how to conjugate verbs. The final step in your A1 foundation is learning how to ask for things. In Greek, this involves two parts: a special punctuation mark and "Question Words."
 
 ---
 
-## 1. The Universal "What" (Τι)
+## 1. The Greek Question Mark (;)
+The first thing you must memorize is that the English semicolon (`;`) is the Greek question mark. The English question mark (`?`) does *not* exist in Greek.
 
-The word for "what" is **τι** *(ti)*. 
-It is the easiest word in the Greek language because it **never changes**. It doesn't care about gender, number, or case.
-
-::: example-box 
-**Τι** είναι αυτό; (What is this?)
-**Τι** κάνεις; (What are you doing? / How are you?)
-**Τι** ώρα είναι; (What time is it?)
-::: end
+- **Πώς είσαι;** (How are you?)
+- **Τι κάνεις;** (What are you doing?)
 
 ---
 
-## 2. The Chameleon "Who" (Ποιος)
+## 2. The Fixed "W" Words
+These words are easy because they never change their shape.
 
-The word for "who" is tricky. Because Greek grammar Demands to know the gender of everything, you can't just say "who". You have to specify **"Who (male)", "Who (female)", or "Which (thing)"**.
-
-This means **Ποιος** acts exactly like an adjective! It changes its ending based on the noun it replaces.
-
-| Gender | Word | Pronunciation | Example |
-|:---:|:---:|---|---|
-| **Masc** | **Ποιος** | *(pyós)* | **Ποιος** είναι ο άντρας; (Who is the man?) |
-| **Fem** | **Ποια** | *(pyá)* | **Ποια** είναι η γυναίκα; (Who is the woman?) |
-| **Neut** | **Ποιο** | *(pyó)* | **Ποιο** παιδί; (Which child?) |
-
-> [!CAUTION]
-> **Who vs. Which**
-> Notice from the examples above that **Ποιος / Ποια / Ποιο** translates to both "Who" and "Which". 
-> - If you use it alone, it means "Who?" (**Ποιος** είναι;)
-> - If you put it in front of a noun, it means "Which?" (**Ποιο** βιβλίο; = Which book?)
+- **Τι** *(ti)* = **What?** (e.g., Τι είναι αυτό;)
+- **Πού** *(poo)* = **Where?** (e.g., Πού είσαι;)
+- **Πότε** *(pó-te)* = **When?** (e.g., Πότε φεύγουμε;)
+- **Πώς** *(pos)* = **How?** (e.g., Πώς είσαι;)
+- **Γιατί** *(ya-tí)* = **Why?** (e.g., Γιατί λες όχι;)
 
 ---
 
-## 3. The Chameleon "How Much/Many" (Πόσος)
+## 3. The Chameleon "W" Words
+Just like adjectives, some question words must match the gender of the noun you are asking about.
 
-Just like "ποιος", the word for "how much" or "how many" acts like an adjective and changes its ending to match the noun it is asking about.
+### "Who" or "Which" (Ποιος)
+- **Ποιος** είναι ο άντρας; (Who is the man?)
+- **Ποια** είναι η γυναίκα; (Who is the woman?)
+- **Ποιο** παιδί; (Which child?)
 
-| Gender | Singular (How Much) | Plural (How Many) |
-|:---:|:---:|:---:|
-| **Masc** | Πόσ**ος** | Πόσ**οι** |
-| **Fem** | Πόσ**η** | Πόσ**ες** |
-| **Neut** | Πόσ**ο** | Πόσ**α** |
-
-::: example-box 
-**Πόσο** κάνει; (How much does it cost?)
-**Πόσα** παιδιά έχεις; (How many children do you have? *[Notice -α to match -α]*)
-::: end
+### "How Much" or "How Many" (Πόσος)
+- **Πόσο κάνει;** (How much does it cost?)
+- **Πόσα** παιδιά έχεις; (How many children do you have? *Matching the neuter plural -α*)
 
 ---
 
-## 4. Where and When (Πού & Πότε)
+## 4. Word Order in Questions
+Greek is very flexible. To make a statement into a question, you often just change the punctuation and your tone of voice.
 
-These two are very easy. They never change their shape.
-
-**Πού** *(poo)* = Where?
-**Πότε** *(pó-te)* = When?
-
-::: example-box 
-**Πού** είναι το ξενοδοχείο; (Where is the hotel?)
-**Πότε** φεύγουμε; (When are we leaving?)
-::: end
-
-> [!TIP]
-> **The Secret Accent Marks**
-> Remember back in Unit 1 when we said that one-syllable words don't get accent marks? 
-> **Πού** (Where) and **Πώς** (How) are the exceptions! They keep their accent marks so you don't confuse them with the identical words meaning "that". If you see an accent on a tiny word, it's a question!
+- **Statement**: Ο Γιώργος είναι εδώ. (George is here.)
+- **Question**: Ο Γιώργος είναι εδώ; (Is George here?)
 
 ---
 
-## 🎯 A1 Foundation Checklist
+## 🎯 A1 Foundations Capstone
+Congratulations! You have officially completed the **A1 Stage**. You have mastered:
+- [x] The Writing System (Alphabet, Digraphs, Accents).
+- [x] Noun Basics (Genders, Articles, Accusative Case).
+- [x] Fundamental Verbs (Being, Having, Type A Verbs).
+- [x] Building basic negative sentences and questions.
 
-Congratulations! You have officially completed the A1 Foundations Stage. 
-
-You can now:
-- [ ] Read the Greek Alphabet and pronounce double letters.
-- [ ] Understand the 3 Genders and the concept of Declension (Cases).
-- [ ] Conjugate Type A verbs in the Present Tense (**-ω, -εις, -ει...**).
-- [ ] Make sentences negative (**δεν**) and ask questions (**τι, πού, ποιος...**).
-
-In the next phase (A2 Stage), we will learn how to talk about the Future and the Past, starting with the mysterious "Continuous Aspect".
+**Up Next:** [Unit 8: Plural Nouns & Adjectives](/lessons/plurals)

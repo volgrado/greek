@@ -1,87 +1,52 @@
-# Direct and Indirect Object Pronouns (Τα Αντικείμενα)
+# Unit 13: Direct & Indirect Object Pronouns (me, to me)
 
-In Unit 3, you learned about **Direct Object Pronouns** (me, you, him, her). These are words that receive the action directly. 
-
-- **Τον** βλέπω. (I see **him**).
-- **Τις** ξέρω. (I know **them** - the women).
-
-These are called "Direct" objects because they take the verb head-on. They are always in the **Accusative Case** (the 'N' case).
-
-But what happens when you have *two* objects in a sentence? 
+In Unit 3, you learned how to say "I see **him**" (**Τον** βλέπω). These are **Direct Objects**. Now, we learn how to handle the receiver of an action: the **Indirect Object** (e.g., "Give **to me**").
 
 ---
 
-## 1. The Indirect Object (The Receiver)
+## 1. The Two Types of Objects
+### Direct (Accusative)
+The target of the action.
+- **Με** βλέπεις; (Do you see **me**?)
+- **Τον** ξέρω. (I know **him**.)
 
-Imagine the sentence: "I give the book to him."
+### Indirect (Genitive)
+The person receiving something. In Greek, we use the **Genitive** case for this!
+- **Μου** δίνεις... (Give **to me**...)
+- **Σου** λέω... (I am telling **to you**...)
 
-There are two objects here:
-1. **The Book**: This is what is being physically moved. This is the **Direct Object**. It goes in the Accusative Case (*το βιβλίο*).
-2. **Him**: This is the person receiving the book. This is the **Indirect Object**. 
-
-In Greek, the "Receiver" of an action (the person to whom something is given, told, or shown) goes into the **Genitive Case**. 
-
-Wait, the Genitive Case? Isn't that for possession? Yes! The Genitive case does double duty in Greek. It marks the Owner (My book) AND it marks the Receiver (To me).
-
-Let's look at the Weak Genitive pronouns again:
-
-| English | Genitive Pronoun (Receiver) |
-|:---:|:---:|
-| to me | **μου** |
-| to you | **σου** |
-| to him / to her / to it | **του** / **της** / **του** |
-| to us | **μας** |
-| to you (plural) | **σας** |
-| to them | **τους** |
-
-::: example-box 
-**Λέω ένα μυστικό.** (I tell a secret - Direct Object)
-**Σου λέω ένα μυστικό.** (I tell **you** a secret - Indirect + Direct)
-::: end
+| English | Direct (Acc) | Indirect (Gen) |
+| :--- | :---: | :---: |
+| Me / To me | **με** | **μου** |
+| You / To you | **σε** | **σου** |
+| Him / To him | **τον** | **του** |
+| Her / To her | **τη(ν)** | **της** |
+| It / To it | **το** | **του** |
 
 ---
 
-## 2. Order of Operations: Stacking Pronouns
+## 2. Stacking Pronouns: The Rule
+What if you want to say "I give **it** (the book) to **her** (Maria)"? 
+In Greek, the person (Indirect) always comes **BEFORE** the thing (Direct).
 
-What if you want to replace *both* nouns with pronouns? 
-
-Like instead of saying "I give the book to Maria", you want to say "I give **it** to **her**."
-
-In Greek, the rule for stacking two pronouns is always the same: **The Person (Genitive) comes first, and the Thing (Accusative) comes second.**
-
-1. Who is receiving it? (της = to her)
-2. What is being received? (το = it)
-3. The Verb (δίνω = I give).
-
-➔ **Της το δίνω.** (I give it to her.)
-
-::: example-box 
-- **Μου το** λες; (Are you telling **it** to **me**?)
-- **Σου τον** δίνω. (I give **him/it(masc)** to **you**.)
-- Ο Γιώργος **της τα** λέει. (George tells **them(neut)** to **her**.)
-::: end
+**Formula: Indirect + Direct + Verb**
+- **Της το** δίνω. (I give it to her).
+- **Μου το** λες; (Are you telling it to me?)
+- **Σας τα** γράφω. (I am writing them [neut] to you all).
 
 ---
 
-## 3. The Power of "Τους"
+## 3. Position in the Sentence
+Just like negation (**δεν**) and future (**θα**), these pronouns sit right in front of the verb.
 
-Notice that the word **τους** appears in both the Accusative list (Unit 3) and the Genitive list (above). 
-
-This makes **τους** a very powerful chameleon. You have to look at the verb to know what it means.
-
-If the verb takes a Direct Object (like "I see"):
-- **Τους** βλέπω = I see **them** (Accusative).
-
-If the verb takes an Indirect Object (like "I give"):
-- **Τους** δίνω = I give **to them** (Genitive).
-
-And what if you stack them together? (I give *them*[masc] to *them*).
-➔ **Τους τους** δίνω! (Yes, this is a real, correct Greek sentence!)
+- **Δεν σου το** δίνω. (I am not giving it to you).
+- **Θα μου το** πεις; (Will you tell it to me?)
 
 ---
 
-## 🎯 Wrap-Up Checklist
+## 🎯 Unit 13 Mastery Checklist
+- [ ] I know the difference between **με** (me) and **μου** (to me).
+- [ ] I remember that the person comes before the thing: **Της το** δίνω.
+- [ ] I can negate a double-pronoun sentence: **Δεν σου το** λέω.
 
-- [ ] I know that the Direct Object (the thing being acted on) takes the Accusative Case (**τον, την, το**).
-- [ ] I know that the Indirect Object (the person receiving) takes the Genitive Case (**μου, σου, του**).
-- [ ] I know that when stacking pronouns, the Person always comes *before* the Thing (**Μου το** δίνεις).
+**Up Next:** [Unit 14: The Past Tenses (Imperfect vs. Aorist)](/lessons/aorist-past)

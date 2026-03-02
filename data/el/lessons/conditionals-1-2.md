@@ -1,84 +1,39 @@
-# Conditional Sentences (Υποθετικοί Λόγοι - Types 1 & 2)
+# Unit 21: Conditionals (The 'If' Clauses)
 
-Conditional sentences are "If X, then Y" sentences. 
-
-- **If** I have money, **then** I will buy a car.
-- **If** I were rich, **then** I would buy a boat.
-
-In Greek, the word for "If" is **Αν** (An) or **Εάν** (E-án). They mean exactly the same thing, but **Αν** is much more common in spoken Greek.
-
-There are three types of conditionals, but we are only going to focus on the first two in Level B2. 
+Conditional sentences are "If X, then Y" statements. In Greek, the word for "If" is **Αν** (An). There are three main ways to build these, depending on how likely the situation is.
 
 ---
 
-## Type 1: The "Real" Conditional (It's possible)
+## 1. Type 1: The Real (Possible)
+Use this for facts, plans, or likely events. Just use the normal Present or Future tenses.
 
-The Type 1 conditional is used when the "If X" part is a real possibility. It might happen in the future, or it might be a general truth.
-
-You use this when you are talking about facts, plans, or likely outcomes.
-
-### The Formula
-**If [Present or Future], then [Future, Present, or Command].**
-
-Notice that this is exactly the same as English! You just use normal verb tenses.
-
-::: example-box 
-**English:** If it is raining (Present), I will stay (Future) at home.
-**Greek:** **Αν** βρέχει, **θα μείνω** στο σπίτι.
-::: end
-
-::: example-box 
-**English:** If you want (Present), come (Command) with me.
-**Greek:** **Αν** θέλεις, **έλα** μαζί μου.
-::: end
-
-::: example-box 
-**English:** If you heat (Present) ice, it melts (Present).
-**Greek:** **Αν** ζεσταίνεις τον πάγο, λιώνει.
-::: end
+**Formula: Αν [Present/Future], then [Future/Command]**
+- **Αν βρέχει**, θα μείνω σπίτι. (If it rains, I will stay home).
+- **Αν θέλεις**, έλα μαζί μου. (If you want, come with me).
 
 ---
 
-## Type 2: The "Unreal" Conditional (Dreaming / Hypothetical)
+## 2. Type 2: The Unreal (Dreaming)
+Use this for hypotheticals, dreams, or giving advice. Greek pushes both verbs into the **Continuous Past (Imperfect)**.
 
-The Type 2 conditional is used when the "If X" part is a dream, highly unlikely, or currently impossible. 
-
-You use this when you are giving advice ("If I were you...") or daydreaming ("If I had a million dollars...").
-
-In English, we have to invent weird grammar to make this work: "If I **were** rich, I **would** buy a boat."
-
-Greek handles this in a wonderfully logical way. To show that something is a "fake" dream scenario, Greek pushes both verbs back into the **Continuous Past (Imperfect Tense)**. 
-
-### The Formula
-**If [Continuous Past], then [Θα + Continuous Past].**
-
-Look at how beautifully symmetrical that is! 
-1. The "If" half uses the Continuous Past tense (έπαιζα).
-2. The "Then" half uses the word **θα** + the Continuous Past tense (θα έπαιζα). 
-
-In Greek, **θα** + Past Tense = "Would". 
-
-::: example-box 
-**English:** If I had money (Right now, but I don't), I would buy a car.
-**Greek:** **Αν είχα** λεφτά, **θα αγόραζα** ένα αυτοκίνητο.
-*(Both verbs are in the Continuous Past tense!)*
-::: end
-
-::: example-box 
-**English:** If I were you, I would tell him.
-**Greek:** **Αν ήμουν** εσύ, **θα του έλεγα**.
-::: end
-
-::: example-box 
-**English:** What would you do?
-**Greek:** Τι **θα έκανες**;
-::: end
+**Formula: Αν [Past], then Θα + [Past]**
+- **Αν είχα** λεφτά, **θα αγόραζα** ένα πλοίο. (If I had money [now], I would buy a boat).
+- **Αν ήμουν** εσύ, **θα του έλεγα** "ναι". (If I were you, I would say yes).
 
 ---
 
-## 🎯 Wrap-Up Checklist
+## 3. Type 3: The Regret (Past Unreal)
+Use this for things that never happened in the past. It’s too late!
 
-- [ ] I know that the word for "If" is **Αν**.
-- [ ] I know that Type 1 Conditionals ("Real / Possible") just use standard Present and Future tenses.
-- [ ] I know that Type 2 Conditionals ("Unreal / Dreaming") push both verbs into the Continuous Past tense.
-- [ ] I know that **Θα + Continuous Past Tense** translates to "Would" in English (*θα πήγαινα* = I would go).
+**Formula: Αν [Past Perfect], then Θα + [Past Perfect]**
+- **Αν είχα δει** εσένα, **θα είχα πει** γεια. (If I had seen you, I would have said hello).
+- **Αν είχε διαβάσει**, θα είχε περάσει. (If he had read, he would have passed).
+
+---
+
+## 🎯 Unit 21 Mastery Checklist
+- [ ] I know that **Αν** means "If."
+- [ ] I understand that for "Would," Greek uses **Θα + Past Tense**.
+- [ ] I can build a hypothetical dream sentence using the Imperfect tense.
+
+**Up Next:** [Unit 22: Advanced Particles & Interjections](/lessons/particles)

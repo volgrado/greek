@@ -1,87 +1,49 @@
-# Relative Pronouns (Αναφορικές Αντωνυμίες)
+# Unit 23: Relative Pronouns (Who, Which, That)
 
-A relative pronoun is a word like "who", "which", or "that". 
-It connects two sentences together so you don't have to repeat the same noun twice.
-
-- The man is tall. The man is my brother.
-- The man **who** is tall is my brother.
-
-In Greek, there are two main ways to do this: the easy way, and the formal way.
+Relative pronouns link two sentences together. Instead of saying "I saw a man. The man was tall," you say "I saw a man **who** was tall." In Greek, we have two ways to do this: the easy way and the formal way.
 
 ---
 
-## 1. The Magic Word: Που (That / Who / Which)
+## 1. The Easy Way: Που
+The word **που** is the ultimate chameleon. It is indeclinable (never changes shape) and can mean **who**, **which**, **that**, or **where**.
 
-This is the easiest, most common, and most useful word in the modern Greek language.
+- **Ο άντρας που είδα...** (The man [whom] I saw...)
+- **Το σπίτι που μένω...** (The house [where] I live...)
+- **Οι άνθρωποι που ξέρω...** (The people [that] I know...)
 
-**Που** means "that", "which", or "who". 
-And the best part? **It never changes.** It doesn't care about gender, number, or case. It is completely frozen.
-
-- Ο άντρας **που** βλέπεις είναι ο αδερφός μου. (The man **who** you see is my brother).
-- Το βιβλίο **που** διαβάζω είναι καλό. (The book **which** I am reading is good).
-- Η γυναίκα **που** μένει εδώ έφυγε. (The woman **that** lives here left).
-
-> [!WARNING]
-> **Spelling Alert: που vs πού**
-> Do not confuse the relative pronoun **που** (no accent) with the question word **πού** (with accent).
-> - Το σπίτι **που** μένω. (The house **that** I live in.)
-> - **Πού** μένεις; (**Where** do you live?)
+> [!TIP]
+> **Spelling Alert**: Don't confuse **που** (that/which) with **Πού;** (Where?). The question word always has an accent; the relative pronoun never does.
 
 ---
 
-## 2. The Formal Way: Ο Οποίος (Who / Which)
+## 2. The Formal Way: Ο οποίος
+If you are writing a formal letter or reading the news, you will see **ο οποίος**. Unlike *που*, this word acts like an adjective and must match the noun in **Gender, Number, and Case**.
 
-While **που** is perfect for 90% of daily conversations, you will absolutely encounter its formal cousin: **Ο οποίος** (o o-pí-os).
-
-You will see this in the news, in books, in official documents, and when people want to sound very polite or precise.
-
-Unlike "που", **ο οποίος** is a chameleon. Both the article AND the pronoun must match the noun they are replacing in Gender, Number, and Case!
-
-- Masculine: **Ο οποίος**
-- Feminine: **Η οποία**
-- Neuter: **Το οποίο**
-
-::: example-box 
-**Που vs Ο οποίος (Nominative Subject)**
-
-- Η δασκάλα **που** μιλάει είναι καλή. (Everyday)
-- Η δασκάλα **η οποία** μιλάει είναι καλή. (Formal)
-*(Both mean: The teacher who is speaking is good).*
-::: end
-
-### When MUST you use "ο οποίος"?
-There is one huge grammatical rule where you *cannot* use "που". 
-
-If the relative pronoun comes immediately after a **Preposition** (like *με, από, για*), you are totally banned from using "που". You must use the matching form of **ο οποίος** (usually in the Accusative form: *τον οποίο / την οποία / το οποίο*).
-
-- Η κοπέλα **με την οποία** μιλάω. (The girl **with whom** I am speaking).
-- Το πρόβλημα **για το οποίο** ξέρεις. (The problem **about which** you know).
-
-*(In spoken Greek, people often sidestep this by just ditching the relative pronoun entirely and rewording the sentence: "Η κοπέλα που μιλάω μαζί της" [The girl that I speak with her]. But grammatically, the "ο οποίος" structure is the correct one!)*
+- **Ο άντρας ο οποίος...** (Masc)
+- **Η γυναίκα η οποία...** (Fem)
+- **Το παιδί το οποίο...** (Neut)
 
 ---
 
-## 3. Other Useful Relatives
+## 3. Using Prepositions
+When you need to say things like "the man **to whom**" or "the house **in which**," you must use the formal *ο οποίος* or a combination of *που*.
 
-Here are three more relative pronouns you will hear all the time. They all act like adjectives and must match their nouns!
-
-| Greek | Meaning | Example |
-|---|---|---|
-| **Όποιος** (-α, -ο) | Whoever / Whichever | **Όποιος** θέλει, ας έρθει. (Whoever wants, let him come). |
-| **Όσος** (-η, -ο) | As much/many as | Πάρε **όσα** λεφτά θέλεις. (Take as much money as you want). |
-| **Ό,τι** | Whatever | Φάε **ό,τι** θέλεις! (Eat whatever you want!) |
-
-> [!CAUTION]
-> **Ό,τι vs Ότι**
-> Notice the comma inside the word **ό,τι**! 
-> - **Ό,τι** (with a comma) means "Whatever".
-> - **Ότι** (without a comma) means "That" (as a conjunction, e.g., "I know *that* you are here" - Ξέρω *ότι* είσαι εδώ). 
+- **Το σπίτι στο οποίο μένω.** (The house in which I live).
+- **Η κοπέλα για την οποία σου μίλησα.** (The girl about whom I told you).
 
 ---
 
-## 🎯 Wrap-Up Checklist
+## 4. The Relative "What": Ό,τι
+When you want to say "whatever" or "what" (meaning "that which"), use **ό,τι**.
+- **Κάνε ό,τι θέλεις.** (Do whatever you want).
+- **Ό,τι πεις.** (Whatever you say).
 
-- [ ] I know that the frozen word **που** means "who, which, or that" and is used in 90% of daily speech.
-- [ ] I know that the formal version is **Ο οποίος/Η οποία/Το οποίο** and must match the noun.
-- [ ] I know that I *must* use "ο οποίος" after a preposition (με την οποία).
-- [ ] I have memorized the special words **Όποιος** (Whoever), **Όσος** (As much as), and **Ό,τι** (Whatever).
+---
+
+## 🎯 Unit 23 Mastery Checklist
+- [ ] I can use **που** to link two basic sentences.
+- [ ] I know the difference between **που** (that) and **πού;** (where?).
+- [ ] I recognize **ο οποίος** as the formal version of "who/which."
+- [ ] I can use **ό,τι** to mean "whatever."
+
+**Up Next:** [Unit 24: Reflexive Pronouns (Myself)](/lessons/reflexive-pronouns)

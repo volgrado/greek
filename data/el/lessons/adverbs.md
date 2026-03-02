@@ -1,64 +1,56 @@
-# The Adverbs
-Adverbs (Επιρρήματα) are indeclinable words that provide more information about verbs, adjectives, or other adverbs. They tell us **when**, **where**, **how**, or **how much** something happened.
+# Unit 17: Adverbs & Expressions of Manner
 
-::: content-grid mt-8
+Adverbs are words that describe **how**, **where**, **when**, or **how much** an action happens. In Greek, adverbs are "frozen"—they never change their shape, which makes them very easy to learn.
 
-::: content-card
+---
 
-### Time (Χρονικά)
+## 1. Manner: How?
+These describe the "vibe" of an action.
+- **Σιγά** (Slowly / Quietly)
+- **Γρήγορα** (Quickly)
+- **Καλά** (Well)
+- **Μαζί** (Together)
+- **Έτσι** (Like this / So)
 
-- σήμερα today
-- αύριο tomorrow
-- χτες yesterday
-- τώρα now
-- πάντα always
-- ποτέ never
+---
 
-::: end
+## 2. Place: Where?
+- **Εδώ** (Here)
+- **Εκεί** (There)
+- **Πάνω** (Up / On top)
+- **Κάτω** (Down / Below)
+- **Μέσα** (Inside)
+- **Έξω** (Outside)
 
-::: content-card
+---
 
-### Place (Τοπικά)
+## 3. Time: When?
+- **Τώρα** (Now)
+- **Σήμερα** (Today)
+- **Αύριο** (Tomorrow)
+- **Χθες** (Yesterday)
+- **Πάντα** (Always)
+- **Ποτέ** (Never)
 
-- εδώ here
-- εκεί there
-- πάνω up / on top
-- κάτω down / below
-- μέσα inside
-- έξω outside
+> [!CAUTION]
+> **Spelling Alert: πότε vs ποτέ**  
+> Be careful with the accent!  
+> - **Πότε;** (Accent on first syllable) = **When?**  
+> - **Ποτέ** (Accent on last syllable) = **Never.**
 
-::: end
+---
 
-::: content-card
+## 4. Quantity: How much?
+- **Πολύ** (Very / Much)
+- **Λίγο** (A little)
+- **Αρκετά** (Enough / Quite)
+- **Καθόλου** (Not at all / At all)
 
-### Manner (Τροπικά)
+---
 
-- σιγά slowly / quietly
-- γρήγορα quickly
-- μαζί together
-- έτσι like this
-- ευτυχώς fortunately
-- δυστυχώς unfortunately
+## 🎯 Unit 17 Mastery Checklist
+- [ ] I can use the 10 most common adverbs correctly.
+- [ ] I know the difference between **Πότε** (When?) and **Ποτέ** (Never).
+- [ ] I understand that adverbs never change their endings to match nouns.
 
-::: end
-
-::: content-card
-
-### Quantity (Ποσοτικά)
-
-- πολύ very / much
-- λίγο a little
-- αρκετά enough / quite
-- καθόλου not at all
-
-::: end
-
-::: end
-
-::: info-box mt-12
-
-### Spelling Alert: πότε vs ποτέ
-
-Be careful with the accent! **πότε** (accent on the first syllable) means "when?" **ποτέ** (accent on the last syllable) means "never".
-
-::: end
+**Up Next:** [Unit 18: Deponent Verbs (Passive Voice Intro)](/lessons/deponent-verbs)
