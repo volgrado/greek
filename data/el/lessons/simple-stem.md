@@ -44,7 +44,7 @@ Now that you have the stem (e.g., **γράψ-**), you can use it for everything 
 > [!IMPORTANT]
 > **Irregulars**  
 > Some verbs are rebels and don't follow these codes. You just have to memorize their simple stems:
-> - **βλέπω** (see) ➔ **ιδ-** (θα δω)
+> - **βλέπω** (see) ➔ **δ-** (θα δω)
 > - **λέω** (say) ➔ **π-** (θα πω)
 > - **πάω** (go) ➔ **πα-** (θα πάω)
 > - **έρχομαι** (come) ➔ **ερθ-** (θα έρθω)

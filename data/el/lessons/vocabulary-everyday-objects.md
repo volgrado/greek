@@ -2,6 +2,8 @@
 
 Words for the things and places around you.
 
+![Greek Coffee Table](/assets/images/vocab_objects.png)
+
 ## 1. Top Objects
 - **το βιβλίο** *(to vee-vlí-o)* = book
 - **η τσάντα** *(ee tsán-da)* = bag

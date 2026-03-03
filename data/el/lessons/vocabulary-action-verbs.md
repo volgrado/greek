@@ -2,6 +2,8 @@
 
 The most common Type A verbs to get you speaking right away.
 
+![Greek Town Square Activity](/assets/images/vocab_actions.png)
+
 ## 1. The Big Two
 - **είμαι** *(í-me)* = to be
 - **έχω** *(é-ho)* = to have
@@ -15,7 +17,6 @@ The most common Type A verbs to get you speaking right away.
 
 ## 3. Thought & Emotion
 - **καταλαβαίνω** *(ka-ta-la-vé-no)* = to understand
-- **αγαπάω / αγαπώ** *(a-ga-páo)* = to love
 - **θέλω** *(thé-lo)* = to want
 
 

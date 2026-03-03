@@ -49,8 +49,12 @@ These are the most common verbs in the past. You must memorize them:
 1. **βλέπω** (see) ➔ **είδα** (I saw)
 2. **λέω** (say) ➔ **είπα** (I said)
 3. **πάω** (go) ➔ **πήγα** (I went)
-4. **έχω** (have) ➔ **είχα** (I had)
-5. **είμαι** (be) ➔ **ήμουν** (I was)
+4. **έχω** (have) ➔ **είχα** (I had - *Imperfect only*)
+5. **είμαι** (be) ➔ **ήμουν** (I was - *Imperfect only*)
+
+> [!CAUTION]
+> **No Photo for Be & Have**  
+> The verbs **έχω** and **είμαι** do not have an Aorist (Photo) form. They only exist in the Imperfect (Video) past tense. You cannot say "I was" or "I had" as a single, completed dot in time in Greek.
 
 ---
 

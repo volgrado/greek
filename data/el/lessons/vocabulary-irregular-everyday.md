@@ -15,7 +15,7 @@ These words, heavily used in daily life, never change their endings no matter th
 - **το σπορ** *(to spor)* = the sport ➔ **τα σπορ** (the sports)
 - **το κομπιούτερ** *(to kom-byoó-ter)* = the computer ➔ **τα κομπιούτερ**
 - **το μπαρ** *(to bar)* = the bar
-- **το ταξί** *(to ta-xí)* = the taxi (Be careful! It looks Greek but is foreign and doesn't change to ταξιά!)
+- **το ταξί** *(to ta-xí)* = the taxi (Grammatically foreign words don't change, e.g. *τα ταξί*, but colloquially you will often hear native speakers say **τα ταξιά**!)
 
 ## 3. The Rebellious Adjectives
 The adjective "much/many" and "big" are famously tricky to decline. Learn these key forms:
@@ -27,5 +27,6 @@ The adjective "much/many" and "big" are famously tricky to decline. Learn these 
 ## 4. The 3rd Person "Frozen" Genitive Absolute
 Sometimes, Greeks use ancient participle constructions that seem disconnected from the sentence (Genitive Absolute).
 
-- **όντος** *(ón-dos)* = being / in reality (e.g. **όλων των πραγμάτων όντων...** = all things being...)
+- **όντως** *(ón-dos)* = indeed / in reality / factually
+- **όντος** *(ón-dos)* = being (Ancient genitive participle) (e.g. **όλων των πραγμάτων όντων...** = all things being...)
 - **τρέχοντος (μήνα)** *(tré-hon-dos)* = of the current (month)

@@ -5,7 +5,7 @@ Master the most common **-ομαι** verbs that describe thoughts, feelings, and
 ## 1. Thoughts & Memories
 - **σκέφτομαι** *(ské-fto-me)* = to think / to consider
 - **θυμάμαι** *(thee-má-me)* = to remember
-- **ξεχνάω** *(xe-hná-o)* = to forget (Active counterpart!)
+- **ξεχνιέμαι** *(xe-hnyé-me)* = to be forgotten / to get distracted
 - **αισθάνομαι** *(es-thá-no-me)* = to feel
 
 ## 2. Daily Routines (Reflexive actions)

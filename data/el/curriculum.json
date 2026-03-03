@@ -301,5 +301,29 @@
                 "num": 22
             }
         ]
+    },
+    "exercises": {
+        "A1 Foundations (Practice)": [
+            {
+                "id": "exercise-basics",
+                "title": "Unit 1-3: The Basics",
+                "num": 1
+            },
+            {
+                "id": "exercise-actions",
+                "title": "Unit 4-5: Accusative Action",
+                "num": 2
+            },
+            {
+                "id": "exercise-adjectives",
+                "title": "Unit 6-7: Adjectives & Objects",
+                "num": 3
+            },
+            {
+                "id": "exercise-plurals",
+                "title": "Unit 8-10: Plurals & Verbs",
+                "num": 4
+            }
+        ]
     }
 }

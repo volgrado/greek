@@ -25,7 +25,7 @@ How does the noun itself change?
 
 - **Masculine (-ος, -ας, -ης)**: Drops the final **-ς**. (e.g., ο πατέρας ➔ **του πατέρα**). *Nouns in -ος change to -ου.*
 - **Feminine (-η, -α)**: **Always adds an -ς**. (e.g., η Μαρία ➔ **της Μαρίας**).
-- **Neuter (-ο, -ι)**: Changes to **-ου** or adds a syllable (e.g., το παιδί ➔ **του παιδιού**).
+- **Neuter (-ο, -ι)**: Nouns ending in **-ο** change to **-ου** (το βιβλίο ➔ **του βιβλίου**). Nouns ending in **-ι** change the final vowel to a diphthong **-ιού** (το παιδί ➔ **του παιδιού**). *Note: Only neuter nouns ending in **-μα** actually add a syllable (το πρόβλημα ➔ **του προβλήματος**).*
 
 ---
 

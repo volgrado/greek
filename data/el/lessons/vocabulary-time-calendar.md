@@ -3,7 +3,7 @@
 Essential vocabulary for dealing with time, predicting the future, and talking about the past. Notice how these words pair perfectly with verbs in the Aorist or Future tense!
 
 ## 1. Days of the Week (Οι μέρες της εβδομάδας)
-*Note: All days are feminine except for Saturday and Sunday.*
+*Note: All days are feminine except for Saturday (το Σάββατο).*
 
 - **η Δευτέρα** *(ee thef-té-ra)* = Monday
 - **η Τρίτη** *(ee trí-tee)* = Tuesday
@@ -18,7 +18,7 @@ Essential vocabulary for dealing with time, predicting the future, and talking a
 - **αύριο** *(áv-ryo)* = tomorrow (use with Simple Future: *Θα πάω αύριο*)
 - **χθες / εχθές** *(hthes / e-hthés)* = yesterday (use with Aorist: *Πήγα χθες*)
 - **τώρα** *(tó-ra)* = now
-- **μετά** *(me-τά)* = later / after
+- **μετά** *(me-tá)* = later / after
 - **πριν** *(preen)* = before
 
 ## 3. Frequency (for the "Video" Continuous verbs)

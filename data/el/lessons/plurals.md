@@ -28,6 +28,18 @@ Feminine nouns are much easier. The noun ending **-ες** never changes between 
 - **Plural Subject**: **Οι** μητέρ**ες** / **Οι** καλ**ές**
 - **Plural Object**: **Τις** μητέρ**ες** / **Τις** καλ**ές**
 
+> [!CAUTION]
+> **The Academic Exception (-εις)**  
+> While everyday words use **-ες**, many formal or academic nouns ending in **-ση** or **-ξη** form their plural with **-εις**.  
+> - Η λύση (solution) ➔ **Οι λύσεις**
+> - Η τάξη (class) ➔ **Οι τάξεις**
+
+> [!WARNING]
+> **The Masked Feminines (-ος)**  
+> Remember **η οδός** (the street) from Unit 2? Feminine nouns ending in **-ος** take masculine endings in the plural (**-οι, -ους**), but keep their feminine articles!
+> - Plural Subject: **Οι** οδ**οί**
+> - Plural Object: **Τις** οδ**ούς**
+
 ---
 
 ## 3. Neuter Plurals (Τα)
