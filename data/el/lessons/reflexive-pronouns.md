@@ -29,9 +29,11 @@ Because "the self" is receiving the action, it is almost always in the **Accusat
 
 ## 3. Reflexive Verbs vs. Pronouns
 In Unit 18, you learned that **Passive Verbs (-ομαι)** are often used reflexively.
+
 - **Πλένομαι** (I wash myself).
 
 So when do you use the pronoun? You use the pronoun (**τον εαυτό μου**) for emphasis or with verbs that don't have a passive form.
+
 - **Βλάπτω τον εαυτό μου.** (I am hurting myself).
 
 ---

@@ -43,6 +43,7 @@ Neuter nouns are the most stable. Both the article **τα** and the noun endings
 
 ## 4. Verb Agreement
 When the subject is plural, the verb must also be plural.
+
 - **Ο** φίλος **διαβάζει**. (The friend reads.)
 - **Οι** φίλοι **διαβάζουν**. (The friends read.)
 

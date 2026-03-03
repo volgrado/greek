@@ -31,6 +31,7 @@ Just like adjectives, some question words must match the gender of the noun you 
 
 ### "Who" or "Which" (Ποιος)
 *Pronounced as one syllable: **pyos***
+
 - **Ποιος** είναι ο άντρας; (Who is the man?)
 - **Ποια** είναι η γυναίκα; (Who is the woman?)
 - **Ποιο** παιδί; (Which child?)
@@ -54,6 +55,7 @@ Greek is very flexible. To make a statement into a question, you often just chan
 
 ## 🎯 A1 Foundations Capstone
 Congratulations! You have officially completed the **A1 Stage**. You have mastered:
+
 - [x] The Writing System (Alphabet, Digraphs, Accents).
 - [x] Noun Basics (Genders, Articles, Accusative Case).
 - [x] Fundamental Verbs (Being, Having, Type A Verbs).

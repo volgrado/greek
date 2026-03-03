@@ -37,6 +37,7 @@ If the verb ends in a "lip" sound like **-πω, -βω, -φω**, it explodes into
 
 ## 4. Why does this matter?
 Now that you have the stem (e.g., **γράψ-**), you can use it for everything you learned in Unit 10 and 11:
+
 - **Future**: Θα **γράψ**ω. (I will write).
 - **Subjunctive**: Θέλω να **γράψ**ω. (I want to write).
 

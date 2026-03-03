@@ -18,6 +18,7 @@ Modern Greek is heavily sprinkled with direct survivals from Ancient Greek. Thes
 
 ## 3. Academic & Formal Nouns (The -σις / -ση group)
 These feminine nouns originally ended in -σις in ancient Greek.
+
 - **η λύση / λύσις** *(ee lí-see)* = the solution
 - **η κρίση / κρίσις** *(ee krí-see)* = the crisis / judgment
 - **η γνώση / γνώσις** *(ee gnó-see)* = the knowledge

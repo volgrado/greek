@@ -13,6 +13,7 @@ Every Greek adjective in the dictionary has three versions (Masculine, Feminine,
 | **Logic** | The good father | The good mother | The good child |
 
 When you use an adjective as an object (Accusative Case), it must flex with the noun.  
+
 - **Subject**: Ο καλός φίλος.
 - **Object**: Βλέπω **τον καλό** φίλο. (The adjective drops the **-ς** just like the noun!)
 

@@ -41,6 +41,7 @@ You can also take an active verb (like **πλένω** - I wash) and flip it to t
 
 ### "By Someone" (Από)
 To say "by" in a passive sentence, use **από** + Accusative.
+
 - **Το βιβλίο διαβάζεται από τον Γιώργο.** (The book is read by George).
 
 ---

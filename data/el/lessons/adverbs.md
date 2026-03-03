@@ -6,6 +6,7 @@ Adverbs are words that describe **how**, **where**, **when**, or **how much** an
 
 ## 1. Manner: How?
 These describe the "vibe" of an action.
+
 - **Σιγά** (Slowly / Quietly)
 - **Γρήγορα** (Quickly)
 - **Καλά** (Well)

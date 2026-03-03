@@ -16,6 +16,7 @@ Just like *να* and *δεν*, the word **θα** sits right in front of the verb
 If you want to talk about a habit, a routine, or something you will be doing repeatedly in the future, use the **Continuous Stem** (the Present tense stem).
 
 **Formula: Θα + Present Tense Verb**
+
 - **Θα διαβάζω** κάθε μέρα. (I will [be reading] every day.)
 - **Θα έχουμε** χρόνο. (We will have [ongoing] time.)
 
@@ -25,6 +26,7 @@ If you want to talk about a habit, a routine, or something you will be doing rep
 If you are talking about a single, specific event that will happen and finish, use the **Simple Stem** (Aorist Stem). 
 
 **Formula: Θα + Simple Stem + Present Endings**
+
 - **Θα διαβάσω** το βιβλίο αύριο. (I will read the book tomorrow—*once*).
 - **Θα παίξουμε** τένις. (We will play tennis—*one game*).
 
@@ -36,6 +38,7 @@ If you are talking about a single, specific event that will happen and finish, u
 
 ## 4. The Negation Combo
 To say "I will not," put **δεν** before **θα**.
+
 - **Δεν θα** παίζω (I won't be playing regularly).
 - **Δεν θα** παίξω (I won't play this specific time).
 

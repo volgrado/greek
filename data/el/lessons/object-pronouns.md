@@ -7,11 +7,13 @@ In Unit 3, you learned how to say "I see **him**" (**Τον** βλέπω). These
 ## 1. The Two Types of Objects
 ### Direct (Accusative)
 The target of the action.
+
 - **Με** βλέπεις; (Do you see **me**?)
 - **Τον** ξέρω. (I know **him**.)
 
 ### Indirect (Genitive)
 The person receiving something. In Greek, we use the **Genitive** case for this!
+
 - **Μου** δίνεις... (Give **to me**...)
 - **Σου** λέω... (I am telling **to you**...)
 
@@ -30,6 +32,7 @@ What if you want to say "I give **it** (the book) to **her** (Maria)"?
 In Greek, the person (Indirect) always comes **BEFORE** the thing (Direct).
 
 **Formula: Indirect + Direct + Verb**
+
 - **Της το** δίνω. (I give it to her).
 - **Μου το** λες; (Are you telling it to me?)
 - **Σας τα** γράφω. (I am writing them [neut] to you all).
