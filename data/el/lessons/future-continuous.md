@@ -46,4 +46,6 @@ To say "I will not," put **δεν** before **θα**.
 - [ ] I know how to negate the future with **δεν θα**.
 - [ ] I understand that the future uses the present tense endings (-ω, -εις, -ει...).
 
+**Practice Vocabulary:** [A2 Vocabulary: Time & Calendar](/lessons/vocabulary-time-calendar)
+
 **Up Next:** [Unit 12: Building the Simple Stem (Aorist)](/lessons/simple-subjunctive)

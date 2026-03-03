@@ -51,4 +51,6 @@ These verbs are less common but very important. They prefer the **-ούμε** so
 - [ ] I know that B1 verbs use **-άμε** and **-άτε** for 'we' and 'you all'.
 - [ ] I recognize that B2 endings look like Type A endings but with an extra vowel "kick."
 
+**Practice Vocabulary:** [A2 Vocabulary: Routines & B-Group Verbs](/lessons/vocabulary-routines-hobbies)
+
 **Up Next:** [Unit 10: The Subjunctive Mood (Intro to 'να')](/lessons/subjunctive-1)

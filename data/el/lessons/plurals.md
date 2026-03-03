@@ -53,4 +53,6 @@ When the subject is plural, the verb must also be plural.
 - [ ] I know that masculine **-ος** nouns change to **-οι** (subject) and **-ους** (object).
 - [ ] I can correctly pluralize neuter nouns ending in **-μα** (e.g., *προβλήματα*).
 
+**Practice Vocabulary:** [A2 Vocabulary: Shopping & Clothes](/lessons/vocabulary-shopping-clothes)
+
 **Up Next:** [Unit 9: Verb Groups B1 & B2](/lessons/verb-groups-b)

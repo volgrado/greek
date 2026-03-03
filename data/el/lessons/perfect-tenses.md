@@ -52,4 +52,6 @@ Use the future helper **θα έχω**:
 - [ ] I know that the helper verb **έχω** is the only part that conjugates.
 - [ ] I can translate "I have", "I had", and "I will have" using this formula.
 
+**Practice Vocabulary:** [B1 Vocabulary: Travel & Life Experiences](/lessons/vocabulary-travel-experiences)
+
 **Up Next:** [Unit 21: Conditionals (The 'If' Clauses)](/lessons/conditionals-1-2)

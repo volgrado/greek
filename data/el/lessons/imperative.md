@@ -54,4 +54,6 @@ To say "Don't," you use the magic particle **μην** (instead of *δεν*) foll
 - [ ] I have memorized the "Big 5" irregular commands, especially **Έλα!**
 - [ ] I know that negative commands use **Μην** + the Subjunctive.
 
+**Practice Vocabulary:** [B1 Vocabulary: Directions & Commands](/lessons/vocabulary-directions-commands)
+
 **Up Next:** [Unit 17: Adverbs & Expressions of Manner](/lessons/adverbs)

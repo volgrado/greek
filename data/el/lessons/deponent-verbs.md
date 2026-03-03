@@ -58,5 +58,7 @@ The past tense of these verbs is marked by the letter **Θ** (Theta) and the end
 - [ ] I know that verbs ending in **-ομαι** can be either Active (Deponent) or Passive/Reflexive.
 - [ ] I recognize the **-ηκα** ending as a marker of the Past Passive.
 
+**Practice Vocabulary:** [B1 Vocabulary: Deponent Verbs & States](/lessons/vocabulary-deponent-states)
+
 **Up Next:** [Unit 19: Imperfect vs. Aorist (Refined Comparison)](/lessons/imperfect-tense) 
 *(Note: We will further refine the past tense split in the next phase!)*

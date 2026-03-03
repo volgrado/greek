@@ -52,4 +52,6 @@ The most versatile word in Greek. It can mean "Let's go!", "Hurry up!", or "Get 
 - [ ] I understand the sarcastic tone of **Δήθεν**.
 - [ ] I know how to say "Let's go" using **Ας πάμε**.
 
+**Practice Vocabulary:** [B2 Vocabulary: Conversational Fillers & Particles](/lessons/vocabulary-particles-fillers)
+
 **Up Next:** [Unit 23: Relative Pronouns (που, ο οποίος)](/lessons/relative-pronouns)

@@ -52,9 +52,45 @@ class CustomBlockPreprocessor(Preprocessor):
             new_lines.append(line)
         return new_lines
 
+class CalloutPreprocessor(Preprocessor):
+    """
+    Converts GitHub-style alerts:
+    > [!IMPORTANT]
+    > some text
+    Into <div class="callout callout-important">some text</div>
+    """
+    def run(self, lines):
+        new_lines = []
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            # Match the start of an alert: > [!TYPE]
+            m = re.match(r'^>\s*\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*$', line, re.IGNORECASE)
+            if m:
+                callout_type = m.group(1).lower()
+                new_lines.append(f'<div markdown="1" class="callout callout-{callout_type}">')
+                new_lines.append(f'<div class="callout-label">{callout_type.upper()}</div>')
+                i += 1
+                # Process subsequent lines that start with >
+                while i < len(lines) and lines[i].startswith('>'):
+                    content = lines[i][1:].strip()
+                    # If it was exactly "> ", content is empty, but we want a newline/paragraph break in MD
+                    if lines[i].startswith('> '):
+                        new_lines.append(lines[i][2:])
+                    else:
+                        new_lines.append('')
+                    i += 1
+                new_lines.append('</div>')
+                continue
+            
+            new_lines.append(line)
+            i += 1
+        return new_lines
+
 class CustomBlockExtension(Extension):
     def extendMarkdown(self, md):
-        md.preprocessors.register(CustomBlockPreprocessor(md), 'custom_blocks', 100)
+        md.preprocessors.register(CustomBlockPreprocessor(md), 'custom_blocks', 101)
+        md.preprocessors.register(CalloutPreprocessor(md), 'callouts', 102)
 
 def parse_markdown(md_text, lang_code):
     """Compiles Markdown to HTML."""
@@ -80,12 +116,22 @@ def parse_markdown(md_text, lang_code):
     # Current pattern in markdown: - Target text (English text)
     def process_li(match):
         li_content = match.group(1).strip()
-        # Check for phrase-list format "Target text (English text)"
-        m = re.match(r'^(.*?)\s*\((.*?)\)$', li_content)
+
+        # 1. Check for checklist-format "[ ]" or "[x]"
+        checkbox_m = re.match(r'\[([ xX])\]\s*(.*)', li_content, re.DOTALL)
+        if checkbox_m:
+            checked = checkbox_m.group(1).lower() == 'x'
+            content = checkbox_m.group(2)
+            checked_attr = 'checked' if checked else ''
+            return f'<li class="checklist-item"><input type="checkbox" disabled {checked_attr}> <span>{content}</span></li>'
+
+        # 2. Check for phrase-list format "Target text (English text)"
+        m = re.match(r'^(.*?)\s*\((.*?)\)$', li_content, re.DOTALL)
         if m:
             target_text, en_text = m.groups()
             return f'<li><span class="lang-{lang_code}">{target_text}</span> <span class="meaning">({en_text})</span></li>'
-        return match.group(0) # Return original matched string if no pattern match
+        
+        return f'<li>{li_content}</li>'
         
     html = re.sub(r'<li>(.*?)</li>', process_li, html, flags=re.DOTALL)
     
@@ -114,28 +160,31 @@ def build_lang(lang_code, dist_root):
     with curriculum_path.open('r', encoding='utf-8') as f:
         structure = json.load(f)
 
-    # Numeración jerárquica: Capítulo.Lección
-    chapter_idx = 1
-    for section_name, lessons in structure.items():
-        lesson_idx = 1
-        for l in lessons:
-            l['hierarchical_num'] = f"{chapter_idx}.{lesson_idx}"
-            lesson_idx += 1
-        chapter_idx += 1
-    
-    # Create a quick lookup dictionary for lesson metadata to avoid nested loops
+    # Numeración jerárquica y Mapeo de Metadatos
     lesson_meta_map = {}
-    c_count = 1
-    for section_name, lessons_list in structure.items():
-        l_count = 1
-        for lesson in lessons_list:
-            lesson_meta_map[lesson['id']] = {
-                'title': lesson['title'],
-                'chapter': f"{c_count}. {section_name}",
-                'num': f"{c_count}.{l_count}"
-            }
-            l_count += 1
-        c_count += 1
+    
+    # structure can be {"grammar": {...}, "vocabulary": {...}} or just {...}
+    is_nested = "grammar" in structure
+    
+    def process_branch(branch, branch_name=""):
+        c_idx = 1
+        for section_name, lessons in branch.items():
+            l_idx = 1
+            for l in lessons:
+                l['hierarchical_num'] = f"{c_idx}.{l_idx}"
+                lesson_meta_map[l['id']] = {
+                    'title': l['title'],
+                    'chapter': f"{c_idx}. {section_name}",
+                    'num': f"{c_idx}.{l_idx}"
+                }
+                l_idx += 1
+            c_idx += 1
+
+    if is_nested:
+        for branch_key in structure:
+            process_branch(structure[branch_key])
+    else:
+        process_branch(structure)
 
     # 3. Procesar Lessons y generar índice de búsqueda
     doc_store = {}
@@ -245,9 +294,14 @@ def build_all():
                 
             # Reconstruct the HTML tree exactly as router.js would
             shell_html = '<div class="curriculum-container">\n'
+            
+            # Use grammar section for initial paint
+            is_nested = "grammar" in db['structure']
+            curriculum_structure = db['structure']['grammar'] if is_nested else db['structure']
+
             chapter_idx = 1
-            for section_name, lessons in db['structure'].items():
-                shell_html += f'''<section class="curriculum-section" data-section-id="{chapter_idx}">
+            for section_name, lessons in curriculum_structure.items():
+                shell_html += f'''<section class="curriculum-section" data-section-id="grammar-{chapter_idx}">
                 <div class="section-header">
                     <h2>{chapter_idx}. {section_name}</h2>
                     <span class="toggle-icon">

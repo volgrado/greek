@@ -41,4 +41,6 @@ So when do you use the pronoun? You use the pronoun (**τον εαυτό μου*
 - [ ] I know that **εαυτός** is a masculine noun and uses masculine articles.
 - [ ] I understand when to use the pronoun instead of a passive verb ending.
 
+**Practice Vocabulary:** [B2 Vocabulary: Beliefs, Relations & Society](/lessons/vocabulary-beliefs-society)
+
 **Up Next:** [Unit 25: Adjective Comparison (Better, Faster)](/lessons/adjective-comparison)

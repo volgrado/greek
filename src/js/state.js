@@ -34,7 +34,9 @@ class AppState {
         this._data = {
             currentLang: localStorage.getItem('lang') || 'el',
             currentTheme: localStorage.getItem('theme'),
+            viewMode: localStorage.getItem('viewMode') || 'grammar',
             db: null,
+            isDownloaded: false,
             lessonCache: {},
             viewedLessons: new Set(JSON.parse(localStorage.getItem('viewed') || '[]')),
             searchIndex: {},
@@ -103,7 +105,8 @@ class AppState {
     getFlatLessons() {
         if (!this._data.db) return [];
 
-        const structure = this._data.db.structure || this._data.db;
+        // Logic split by viewMode (grammar vs vocabulary)
+        const structure = this._data.db.structure[this._data.viewMode] || this._data.db.structure || this._data.db;
         const flat = [];
         let cIdx = 1;
 
@@ -114,6 +117,35 @@ class AppState {
         }
 
         return flat;
+    }
+
+    async checkDownloadStatus() {
+        if (!this._data.db || !this._data.db.structure) return false;
+
+        const lessons = this.getFlatLessons();
+        const cacheName = `pwa-lessons-${this._data.currentLang}-v2`;
+
+        try {
+            const cache = await caches.open(cacheName);
+            const keys = await cache.keys();
+            const cachedUrls = new Set(keys.map(k => new URL(k.url).pathname));
+
+            const requiredCount = lessons.length;
+            let foundCount = 0;
+
+            const lessonsPath = '/public/data/' + this._data.currentLang + '/lessons/';
+
+            for (const l of lessons) {
+                if (cachedUrls.has(lessonsPath + l.id + '.html')) {
+                    foundCount++;
+                }
+            }
+
+            const isFullyDownloaded = foundCount >= requiredCount && requiredCount > 0;
+            return isFullyDownloaded;
+        } catch (e) {
+            return false;
+        }
     }
 
     normalizeText(text) {

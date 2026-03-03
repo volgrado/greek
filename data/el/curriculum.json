@@ -1,179 +1,305 @@
 {
-    "A1 Foundations & Survival": [
-        {
-            "id": "basics",
-            "title": "Unit 1: The Greek Alphabet",
-            "num": 1
-        },
-        {
-            "id": "nouns",
-            "title": "Unit 2: The Basics of Nouns",
-            "num": 2
-        },
-        {
-            "id": "verb-to-be",
-            "title": "Unit 3: Being & Having",
-            "num": 3
-        },
-        {
-            "id": "verbs",
-            "title": "Unit 4: Intro to Verbs (Type A)",
-            "num": 4
-        },
-        {
-            "id": "accusative-case",
-            "title": "Unit 5: The Accusative Case",
-            "num": 5
-        },
-        {
-            "id": "adjectives",
-            "title": "Unit 6: Adjectives & Agreement",
-            "num": 6
-        },
-        {
-            "id": "interrogative-pronouns",
-            "title": "Unit 7: Asking Questions",
-            "num": 7
-        }
-    ],
-    "A2 Expansion & Daily Life": [
-        {
-            "id": "plurals",
-            "title": "Unit 8: Plural Nouns & Adjectives",
-            "num": 8
-        },
-        {
-            "id": "verb-groups-b",
-            "title": "Unit 9: Verb Groups B1 & B2",
-            "num": 9
-        },
-        {
-            "id": "subjunctive-1",
-            "title": "Unit 10: Aspect & Subjunctive",
-            "num": 10
-        },
-        {
-            "id": "future-continuous",
-            "title": "Unit 11: Future Tenses (Θα)",
-            "num": 11
-        },
-        {
-            "id": "simple-stem",
-            "title": "Unit 12: Building the Simple Stem",
-            "num": 12
-        },
-        {
-            "id": "object-pronouns",
-            "title": "Unit 13: Object Pronouns",
-            "num": 13
-        },
-        {
-            "id": "aorist-past",
-            "title": "Unit 14: The Past Tenses",
-            "num": 14
-        }
-    ],
-    "B1 Intermediate Grammar": [
-        {
-            "id": "genitive-case",
-            "title": "Unit 15: Genitive Case",
-            "num": 15
-        },
-        {
-            "id": "imperative",
-            "title": "Unit 16: Imperative Mood",
-            "num": 16
-        },
-        {
-            "id": "adverbs",
-            "title": "Unit 17: Adverbs & Manner",
-            "num": 17
-        },
-        {
-            "id": "deponent-verbs",
-            "title": "Unit 18: Passive & Deponent Verbs",
-            "num": 18
-        },
-        {
-            "id": "voices-moods",
-            "title": "Unit 19: Voices & Moods Review",
-            "num": 19
-        },
-        {
-            "id": "perfect-tenses",
-            "title": "Unit 20: The Perfect Tenses",
-            "num": 20
-        },
-        {
-            "id": "conditionals-1-2",
-            "title": "Unit 21: Conditionals (If Clauses)",
-            "num": 21
-        }
-    ],
-    "B2 Advanced Fluency": [
-        {
-            "id": "particles",
-            "title": "Unit 22: Spoken Expressions",
-            "num": 22
-        },
-        {
-            "id": "relative-pronouns",
-            "title": "Unit 23: Relative Pronouns",
-            "num": 23
-        },
-        {
-            "id": "reflexive-pronouns",
-            "title": "Unit 24: Reflexive Pronouns",
-            "num": 24
-        },
-        {
-            "id": "adjective-comparison",
-            "title": "Unit 25: Adjective Comparison",
-            "num": 25
-        },
-        {
-            "id": "participles",
-            "title": "Unit 26: Participles",
-            "num": 26
-        },
-        {
-            "id": "impersonal-verbs",
-            "title": "Unit 27: Impersonal Verbs",
-            "num": 27
-        },
-        {
-            "id": "idioms",
-            "title": "Unit 28: Idioms & Remnants",
-            "num": 28
-        }
-    ],
-    "C1 Advanced syntax": [
-        {
-            "id": "diminutives",
-            "title": "Unit 29: Diminutives",
-            "num": 29
-        },
-        {
-            "id": "compound-words",
-            "title": "Unit 30: Compound Words",
-            "num": 30
-        }
-    ],
-    "C2 Mastery": [
-        {
-            "id": "ancient-remnants",
-            "title": "Unit 31: Ancient Remnants",
-            "num": 31
-        },
-        {
-            "id": "genitive-absolute",
-            "title": "Unit 32: Genitive Absolute",
-            "num": 32
-        },
-        {
-            "id": "irregular-words",
-            "title": "Unit 33: Irregular Words",
-            "num": 33
-        }
-    ]
+    "grammar": {
+        "A1 Foundations & Survival": [
+            {
+                "id": "basics",
+                "title": "Unit 1: The Greek Alphabet",
+                "num": 1
+            },
+            {
+                "id": "nouns",
+                "title": "Unit 2: The Basics of Nouns",
+                "num": 2
+            },
+            {
+                "id": "verb-to-be",
+                "title": "Unit 3: Being & Having",
+                "num": 3
+            },
+            {
+                "id": "verbs",
+                "title": "Unit 4: Intro to Verbs (Type A)",
+                "num": 4
+            },
+            {
+                "id": "accusative-case",
+                "title": "Unit 5: The Accusative Case",
+                "num": 5
+            },
+            {
+                "id": "adjectives",
+                "title": "Unit 6: Adjectives & Agreement",
+                "num": 6
+            },
+            {
+                "id": "interrogative-pronouns",
+                "title": "Unit 7: Asking Questions",
+                "num": 7
+            }
+        ],
+        "A2 Expansion & Daily Life": [
+            {
+                "id": "plurals",
+                "title": "Unit 8: Plural Nouns & Adjectives",
+                "num": 8
+            },
+            {
+                "id": "verb-groups-b",
+                "title": "Unit 9: Verb Groups B1 & B2",
+                "num": 9
+            },
+            {
+                "id": "subjunctive-1",
+                "title": "Unit 10: Aspect & Subjunctive",
+                "num": 10
+            },
+            {
+                "id": "future-continuous",
+                "title": "Unit 11: Future Tenses (Θα)",
+                "num": 11
+            },
+            {
+                "id": "simple-stem",
+                "title": "Unit 12: Building the Simple Stem",
+                "num": 12
+            },
+            {
+                "id": "object-pronouns",
+                "title": "Unit 13: Object Pronouns",
+                "num": 13
+            },
+            {
+                "id": "aorist-past",
+                "title": "Unit 14: The Past Tenses",
+                "num": 14
+            }
+        ],
+        "B1 Intermediate Grammar": [
+            {
+                "id": "genitive-case",
+                "title": "Unit 15: Genitive Case",
+                "num": 15
+            },
+            {
+                "id": "imperative",
+                "title": "Unit 16: Imperative Mood",
+                "num": 16
+            },
+            {
+                "id": "adverbs",
+                "title": "Unit 17: Adverbs & Manner",
+                "num": 17
+            },
+            {
+                "id": "deponent-verbs",
+                "title": "Unit 18: Passive & Deponent Verbs",
+                "num": 18
+            },
+            {
+                "id": "voices-moods",
+                "title": "Unit 19: Voices & Moods Review",
+                "num": 19
+            },
+            {
+                "id": "perfect-tenses",
+                "title": "Unit 20: The Perfect Tenses",
+                "num": 20
+            },
+            {
+                "id": "conditionals-1-2",
+                "title": "Unit 21: Conditionals (If Clauses)",
+                "num": 21
+            }
+        ],
+        "B2 Advanced Fluency": [
+            {
+                "id": "particles",
+                "title": "Unit 22: Spoken Expressions",
+                "num": 22
+            },
+            {
+                "id": "relative-pronouns",
+                "title": "Unit 23: Relative Pronouns",
+                "num": 23
+            },
+            {
+                "id": "reflexive-pronouns",
+                "title": "Unit 24: Reflexive Pronouns",
+                "num": 24
+            },
+            {
+                "id": "adjective-comparison",
+                "title": "Unit 25: Adjective Comparison",
+                "num": 25
+            },
+            {
+                "id": "participles",
+                "title": "Unit 26: Participles",
+                "num": 26
+            },
+            {
+                "id": "impersonal-verbs",
+                "title": "Unit 27: Impersonal Verbs",
+                "num": 27
+            },
+            {
+                "id": "idioms",
+                "title": "Unit 28: Idioms & Remnants",
+                "num": 28
+            }
+        ],
+        "C1 Advanced syntax": [
+            {
+                "id": "diminutives",
+                "title": "Unit 29: Diminutives",
+                "num": 29
+            },
+            {
+                "id": "compound-words",
+                "title": "Unit 30: Compound Words",
+                "num": 30
+            }
+        ],
+        "C2 Mastery": [
+            {
+                "id": "ancient-remnants",
+                "title": "Unit 31: Ancient Remnants",
+                "num": 31
+            },
+            {
+                "id": "genitive-absolute",
+                "title": "Unit 32: Genitive Absolute",
+                "num": 32
+            },
+            {
+                "id": "irregular-words",
+                "title": "Unit 33: Irregular Words",
+                "num": 33
+            }
+        ]
+    },
+    "vocabulary": {
+        "A1 Essentials (Lexis)": [
+            {
+                "id": "vocabulary-survival",
+                "title": "Survival Phrases",
+                "num": 1
+            },
+            {
+                "id": "vocabulary-family-people",
+                "title": "Family & People",
+                "num": 2
+            },
+            {
+                "id": "vocabulary-everyday-objects",
+                "title": "Everyday Objects & Places",
+                "num": 3
+            },
+            {
+                "id": "vocabulary-action-verbs",
+                "title": "Essential Action Verbs",
+                "num": 4
+            },
+            {
+                "id": "vocabulary-colors-numbers",
+                "title": "Colors & Numbers",
+                "num": 5
+            },
+            {
+                "id": "vocabulary-questions",
+                "title": "Question Words & Pronouns",
+                "num": 6
+            }
+        ],
+        "A2 Expansion (Lexis)": [
+            {
+                "id": "vocabulary-time-calendar",
+                "title": "Time & Calendar",
+                "num": 7
+            },
+            {
+                "id": "vocabulary-routines-hobbies",
+                "title": "Routines & B-Group Verbs",
+                "num": 8
+            },
+            {
+                "id": "vocabulary-food-restaurant",
+                "title": "Food & the Restaurant",
+                "num": 9
+            },
+            {
+                "id": "vocabulary-shopping-clothes",
+                "title": "Shopping & Clothes",
+                "num": 10
+            }
+        ],
+        "B1 Intermediate (Lexis)": [
+            {
+                "id": "vocabulary-family-possessions",
+                "title": "Family Tree & Possessions",
+                "num": 11
+            },
+            {
+                "id": "vocabulary-directions-commands",
+                "title": "Directions & Commands",
+                "num": 12
+            },
+            {
+                "id": "vocabulary-deponent-states",
+                "title": "Deponent Verbs & States",
+                "num": 13
+            },
+            {
+                "id": "vocabulary-travel-experiences",
+                "title": "Travel & Life Experiences",
+                "num": 14
+            }
+        ],
+        "B2 Advanced (Lexis)": [
+            {
+                "id": "vocabulary-particles-fillers",
+                "title": "Conversational Fillers & Particles",
+                "num": 15
+            },
+            {
+                "id": "vocabulary-adjectives-comparisons",
+                "title": "Adjectives & Comparisons",
+                "num": 16
+            },
+            {
+                "id": "vocabulary-impersonal-weather",
+                "title": "Expressions, impersonal states & weather",
+                "num": 17
+            },
+            {
+                "id": "vocabulary-beliefs-society",
+                "title": "Beliefs, Relations & Society",
+                "num": 18
+            }
+        ],
+        "C1 Advanced (Lexis)": [
+            {
+                "id": "vocabulary-affection-emotion",
+                "title": "Affection & Emotion",
+                "num": 19
+            },
+            {
+                "id": "vocabulary-compound-everyday",
+                "title": "Common Compound Words",
+                "num": 20
+            }
+        ],
+        "C2 Mastery (Lexis)": [
+            {
+                "id": "vocabulary-ancient-phrases",
+                "title": "Ancient Phrases in Modern Greek",
+                "num": 21
+            },
+            {
+                "id": "vocabulary-irregular-everyday",
+                "title": "Irregular Nouns & Verbs in the Wild",
+                "num": 22
+            }
+        ]
+    }
 }

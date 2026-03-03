@@ -54,6 +54,9 @@
                     <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
                 </svg>
             </button>
+            <button id="mode-switch-btn" class="lang-toggle" title="Switch Mode">
+                <span id="mode-label">LEXIS</span>
+            </button>
             <button id="lang-toggle" class="lang-toggle" title="Change Language">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
                     stroke-linejoin="round">
@@ -65,14 +68,6 @@
                 </svg>
                 <span id="lang-label" style="text-transform: uppercase;">EN</span>
             </button>
-            <button id="download-toggle" class="download-toggle" title="Download for Offline">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                    stroke-linejoin="round">
-                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
-                    <polyline points="7 10 12 15 17 10"></polyline>
-                    <line x1="12" y1="15" x2="12" y2="3"></line>
-                </svg>
-            </button>
             <button id="theme-toggle" class="theme-toggle" title="Change Theme">
                 <svg id="theme-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
                     stroke-linecap="round" stroke-linejoin="round">
@@ -80,8 +75,8 @@
                 </svg>
             </button>
         </div>
+        <div class="scroll-progress"></div>
     </header>
-    <div class="scroll-progress"></div>
     <div id="search-drawer" popover class="search-panel">
         <div class="search-drawer-inner">
             <div class="search-drawer-header">
@@ -100,7 +95,7 @@
     </div>
     <main id="app">
 <div class="curriculum-container">
-<section class="curriculum-section" data-section-id="1">
+<section class="curriculum-section" data-section-id="grammar-1">
                 <div class="section-header">
                     <h2>1. A1 Foundations & Survival</h2>
                     <span class="toggle-icon">
@@ -138,7 +133,7 @@
                     </a>
 </div>
 </section>
-<section class="curriculum-section" data-section-id="2">
+<section class="curriculum-section" data-section-id="grammar-2">
                 <div class="section-header">
                     <h2>2. A2 Expansion & Daily Life</h2>
                     <span class="toggle-icon">
@@ -176,7 +171,7 @@
                     </a>
 </div>
 </section>
-<section class="curriculum-section" data-section-id="3">
+<section class="curriculum-section" data-section-id="grammar-3">
                 <div class="section-header">
                     <h2>3. B1 Intermediate Grammar</h2>
                     <span class="toggle-icon">
@@ -214,7 +209,7 @@
                     </a>
 </div>
 </section>
-<section class="curriculum-section" data-section-id="4">
+<section class="curriculum-section" data-section-id="grammar-4">
                 <div class="section-header">
                     <h2>4. B2 Advanced Fluency</h2>
                     <span class="toggle-icon">
@@ -252,7 +247,7 @@
                     </a>
 </div>
 </section>
-<section class="curriculum-section" data-section-id="5">
+<section class="curriculum-section" data-section-id="grammar-5">
                 <div class="section-header">
                     <h2>5. C1 Advanced syntax</h2>
                     <span class="toggle-icon">
@@ -270,7 +265,7 @@
                     </a>
 </div>
 </section>
-<section class="curriculum-section" data-section-id="6">
+<section class="curriculum-section" data-section-id="grammar-6">
                 <div class="section-header">
                     <h2>6. C2 Mastery</h2>
                     <span class="toggle-icon">
@@ -295,7 +290,21 @@
 </div>
 
 </main>
-    <footer id="footer"></footer>
+    <footer id="footer-root">
+        <div id="footer-disclaimer">
+            <span id="footer-course-name">GREEK LANGUAGE COURSE</span> &middot; A1-C2 MASTERY
+        </div>
+
+        <div class="footer-actions">
+            <button id="download-toggle" class="footer-action-link">
+                <span id="footer-download-label">Download Offline</span>
+                <span id="download-status-text" class="status-meta">...</span>
+            </button>
+            <button id="clear-progress" class="footer-action-link warning">
+                <span id="footer-clear-label">Reset Progress</span>
+            </button>
+        </div>
+    </footer>
     <template id="skeleton-template">
         <div class="skeleton-loader">
             <div class="skeleton-meta"></div>

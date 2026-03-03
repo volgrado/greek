@@ -61,4 +61,6 @@ Congratulations! You have completed the **A2 Stage**. You have mastered:
 - [x] Both Future tenses and the mechanics of the Simple Stem.
 - [x] Both Past tenses (Imperfect vs. Aorist).
 
+**Practice Vocabulary:** [A2 Vocabulary: Time & Calendar](/lessons/vocabulary-time-calendar)
+
 **Up Next:** [Unit 15: The Genitive Case (Possession)](/lessons/genitive-case)

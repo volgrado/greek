@@ -49,4 +49,6 @@ Just like negation (**δεν**) and future (**θα**), these pronouns sit right 
 - [ ] I remember that the person comes before the thing: **Της το** δίνω.
 - [ ] I can negate a double-pronoun sentence: **Δεν σου το** λέω.
 
+**Practice Vocabulary:** [A2 Vocabulary: Shopping & Clothes](/lessons/vocabulary-shopping-clothes)
+
 **Up Next:** [Unit 14: The Past Tenses (Imperfect vs. Aorist)](/lessons/aorist-past)

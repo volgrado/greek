@@ -56,4 +56,6 @@ Now that you have the stem (e.g., **γράψ-**), you can use it for everything 
 - [ ] I can turn **ανοίγω** into **ανοίξ-**.
 - [ ] I have memorized the "Big 4" irregular stems (*δω, πω, πάω, έρθω*).
 
+**Practice Vocabulary:** [A2 Vocabulary: Food & the Restaurant](/lessons/vocabulary-food-restaurant)
+
 **Up Next:** [Unit 13: Direct & Indirect Object Pronouns](/lessons/object-pronouns)
