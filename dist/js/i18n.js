@@ -35,7 +35,13 @@ export const updateUIStrings = () => {
 
     if (modeLabel) {
         // Show what the NEXT mode will be
-        modeLabel.textContent = state.viewMode === 'grammar' ? "LEXIS" : "GRAMMAR";
+        if (state.viewMode === 'grammar') {
+            modeLabel.textContent = strings.vocabulary?.toUpperCase() || "LEXIS";
+        } else if (state.viewMode === 'vocabulary') {
+            modeLabel.textContent = strings.exercises?.toUpperCase() || "PRACTICE";
+        } else {
+            modeLabel.textContent = strings.grammar?.toUpperCase() || "GRAMMAR";
+        }
     }
 
     document.title = strings.title;
@@ -120,7 +126,14 @@ export const initI18n = (routeFn) => {
 
     if (modeSwitchBtn) {
         modeSwitchBtn.addEventListener('click', () => {
-            const nextMode = state.viewMode === 'grammar' ? 'vocabulary' : 'grammar';
+            let nextMode;
+            if (state.viewMode === 'grammar') {
+                nextMode = 'vocabulary';
+            } else if (state.viewMode === 'vocabulary') {
+                nextMode = 'exercises';
+            } else {
+                nextMode = 'grammar';
+            }
             handleModeSwitch(nextMode);
         });
 

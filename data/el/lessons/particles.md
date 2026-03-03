@@ -45,7 +45,7 @@ The most versatile word in Greek. It can mean "Let's go!", "Hurry up!", or "Get 
 
 ## 4. Emotional Interjections
 - **Μπράβο!** (Well done!)
-- **Α μπά;** (Really? / No way!)
+- **Α μπα;** (Really? / No way!)
 - **Αχ!** (Oh! / Ah! - used for both pain and relief).
 - **Αλίμονο!** (Alas! / Of course! - depending on context).
 

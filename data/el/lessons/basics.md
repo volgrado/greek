@@ -44,7 +44,7 @@ Unique shapes, but simple sounds.
 
 |       Letter       | Name   | Sound     | Example                                                                                       |
 | :-----------------: | :----- | :-------- | :-------------------------------------------------------------------------------------------- |
-|   **Γ γ**   | Gamma  | `[g/y]` | **y** in **y*es*** (before **e, i**); soft/guttural **g** otherwise |
+|   **Γ γ**   | Gamma  | `[g/y]` | **y** in **y*es*** (before **e, i**); A soft guttural sound, like a soft French 'r' or Spanish 'g' in 'fuego' otherwise |
 |   **Δ δ**   | Delta  | `[th]`  | Soft **th** in **th*i*s**                                                      |
 |   **Θ θ**   | Theta  | `[th]`  | Hard**th** in **th*i*nk**                                                       |
 |   **Λ λ**   | Lambda | `[l]`   | **l*i*on**                                                                            |

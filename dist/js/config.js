@@ -32,8 +32,9 @@ export const I18N = {
         errorBack: 'Back to Curriculum',
         resetProgress: 'Reset Progress',
         resetConfirm: 'Confirm Reset?',
-        grammar: 'Grammar',
-        vocabulary: 'Vocabulary',
+        grammar: 'G',
+        vocabulary: 'L',
+        exercises: 'P',
         courseName: 'GREEK LANGUAGE COURSE'
     },
     es: {
@@ -53,8 +54,9 @@ export const I18N = {
         errorBack: 'Back to Curriculum',
         resetProgress: 'Restablecer Progreso',
         resetConfirm: '¿Confirmar?',
-        grammar: 'Gramática',
-        vocabulary: 'Vocabulario',
+        grammar: 'G',
+        vocabulary: 'L',
+        exercises: 'P',
         courseName: 'CURSO DE IDIOMA ESPAÑOL'
     }
 };

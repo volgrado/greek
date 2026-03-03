@@ -31,6 +31,18 @@
     margin-right: 0.4rem;
 }
 
+.header-actions .lang-toggle,
+.header-actions .theme-toggle {
+    width: 2.5rem;
+    height: 2.5rem;
+    padding: 0;
+}
+
+.header-actions .lang-toggle svg,
+.header-actions .theme-toggle svg {
+    margin: 0;
+}
+
 /* Cards & Content Blocks */
 .content-card {
     border: 1px solid var(--border);
@@ -531,7 +543,6 @@ body.search-mode footer {
 
 /* 🧭 View Toggle (Header) */
 #mode-switch-btn {
-    min-width: 80px;
     justify-content: center;
 }
 

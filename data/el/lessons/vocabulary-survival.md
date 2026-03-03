@@ -2,6 +2,8 @@
 
 In this first vocabulary list, we focus on the words that will help you survive your first 24 hours in Greece.
 
+![Greek Taverna Bill](/assets/images/vocab_survival.png)
+
 ## 1. Greetings (Χαιρετισμοί)
 - **Γεια σου** *(ya soo)* = Hello / Goodbye (informal)
 - **Γεια σας** *(ya sas)* = Hello / Goodbye (formal or plural)

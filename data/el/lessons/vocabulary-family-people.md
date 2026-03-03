@@ -2,6 +2,8 @@
 
 Learn the essential words to talk about people and family members in Greek.
 
+![Greek Family Dinner](/assets/images/vocab_family.png)
+
 ## 1. Immediate Family (Οικογένεια)
 - **ο πατέρας** *(o pa-té-ras)* = father
 - **η μητέρα** *(ee mee-té-ra)* = mother

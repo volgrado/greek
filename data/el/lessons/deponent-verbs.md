@@ -47,17 +47,23 @@ To say "by" in a passive sentence, use **από** + Accusative.
 ---
 
 ## 4. Past Passive (Aorist)
-The past tense of these verbs is marked by the letter **Θ** (Theta) and the endings **-ηκα, -ηκες, -ηκε**.
+The past tense of many passive verbs is marked by the letter **Θ** (Theta) and the endings **-ηκα, -ηκες, -ηκε**.
 
 - **Active Past**: Έπλυνα (I washed).
 - **Passive Past**: **Πλύθηκα** (I was washed / I bathed).
+
+> [!CAUTION]
+> **Not Always Theta!**  
+> While **-θηκα** is common, many everyday verbs change their stem to use **στ, φτ,** or **χτ** before the **-ηκα** ending. For example:
+> - **ετοιμάζω** ➔ **ετοιμάστηκα** (I got ready)
+> - **κρύβω** ➔ **κρύφτηκα** (I hid myself)
 
 ---
 
 ## 🎯 Unit 18 Mastery Checklist
 - [ ] I can conjugate **έρχομαι** in the present tense.
 - [ ] I know that verbs ending in **-ομαι** can be either Active (Deponent) or Passive/Reflexive.
-- [ ] I recognize the **-ηκα** ending as a marker of the Past Passive.
+- [ ] I recognize the **-ηκα** ending as a marker of the Past Passive, even if the consonant before it changes.
 
 **Practice Vocabulary:** [B1 Vocabulary: Deponent Verbs & States](/lessons/vocabulary-deponent-states)
 

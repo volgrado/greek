@@ -2,6 +2,8 @@
 
 Describing quantities and colors.
 
+![Colorful Greek Fishing Boats](/assets/images/vocab_colors.png)
+
 ## 1. Numbers 1-10 (Αριθμοί)
 - **ένα** *(é-na)* = one
 - **δύο** *(dí-o)* = two

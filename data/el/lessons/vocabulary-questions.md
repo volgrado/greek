@@ -2,6 +2,8 @@
 
 Mastering how to ask for things.
 
+![Confusing Athens Crossroads](/assets/images/vocab_questions.png)
+
 ## 1. The "W" Words 
 - **Τι;** *(ti)* = What?
 - **Πού;** *(poo)* = Where?

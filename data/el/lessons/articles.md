@@ -46,6 +46,14 @@ Just like "The", the Greek word for "A" changes based on the gender.
 
 Notice how the indefinite articles share the same endings as the nouns they describe? **ένας** ends in *-ας* (masculine), **μία** ends in *-α* (feminine), and **ένα** ends in *-α* (neuter rule-breaker, but very easy to remember).
 
+> [!IMPORTANT]
+> **The Object Form (Accusative)**  
+> Just like "The" (*ο* ➔ *τον*), the masculine "A" drops its "s" when it receives the action: **ένας** ➔ **έναν**.  
+> - **Έχω έναν σκύλο** (I have a dog).  
+> 
+> Good news: The feminine (**μία/μια**) and neuter (**ένα**) forms **never change**!  
+> - **Έχω μια γάτα** (I have a cat).
+
 > [!TIP]
 > **μία vs. μια**
 > You will see the feminine article spelled both ways.
