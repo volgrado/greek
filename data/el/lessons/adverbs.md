@@ -53,4 +53,6 @@ These describe the "vibe" of an action.
 - [ ] I know the difference between **Πότε** (When?) and **Ποτέ** (Never).
 - [ ] I understand that adverbs never change their endings to match nouns.
 
+**Practice Vocabulary:** [B1 Vocabulary: Directions & Commands](/lessons/vocabulary-directions-commands)
+
 **Up Next:** [Unit 18: Deponent Verbs (Passive Voice Intro)](/lessons/deponent-verbs)

@@ -8,14 +8,19 @@ const app = document.getElementById('app');
 export const renderCurriculum = (container) => {
     container.innerHTML = ''; // Clear container
 
+    if (!state.db || !state.db.structure) return;
+
     const curriculumContainer = document.createElement('div');
     curriculumContainer.className = 'curriculum-container';
 
+    // 🎯 Logic split: use viewMode to pick the branch
+    const structure = state.db.structure[state.viewMode] || state.db.structure;
+
     let chapterIdx = 1;
-    for (const [sectionName, lessons] of Object.entries(state.db.structure)) {
+    for (const [sectionName, lessons] of Object.entries(structure)) {
         const section = document.createElement('section');
         section.className = 'curriculum-section';
-        section.setAttribute('data-section-id', chapterIdx.toString());
+        section.setAttribute('data-section-id', `${state.viewMode}-${chapterIdx}`);
 
         // Header
         const header = document.createElement('div');

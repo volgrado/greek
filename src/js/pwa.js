@@ -9,6 +9,7 @@ export const initPWA = () => {
             if (!state.db || !state.db.structure) return;
 
             downloadToggle.style.opacity = '0.5';
+            if (downloadStatusText) downloadStatusText.textContent = "Downloading...";
 
             const lessons = state.getFlatLessons();
             const lang = state.currentLang;
@@ -20,8 +21,12 @@ export const initPWA = () => {
                 await cache.addAll(urlsToCache);
 
                 const oldIcon = downloadToggle.innerHTML;
-                downloadToggle.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>';
+                const label = downloadToggle.querySelector('span');
+                const originalLabelText = label ? label.textContent : '';
+
+                downloadToggle.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>' + (label ? `<span>Done</span>` : '');
                 downloadToggle.style.opacity = '1';
+                state.isDownloaded = true;
 
                 setTimeout(() => {
                     downloadToggle.innerHTML = oldIcon;
@@ -29,6 +34,7 @@ export const initPWA = () => {
             } catch (e) {
                 console.error("Download failed", e);
                 downloadToggle.style.opacity = '1';
+                if (downloadStatusText) downloadStatusText.textContent = "Error";
             }
         });
     }
@@ -57,4 +63,14 @@ export const initPWA = () => {
             console.log("[PWA] Service Worker took over. Next navigation will use newest code.");
         });
     }
+
+    // Initial check needs to wait for DB schema to be loaded
+    const updateDownloadStatus = async () => {
+        state.isDownloaded = await state.checkDownloadStatus();
+    };
+
+    if (state.db) {
+        updateDownloadStatus();
+    }
+    state.subscribe('db', updateDownloadStatus);
 };

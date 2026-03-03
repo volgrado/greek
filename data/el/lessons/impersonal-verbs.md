@@ -43,4 +43,6 @@ You can turn any adjective into a command or observation by using **Είναι**
 - [ ] I understand the difference between **Μπορώ** (ability) and **Μπορεί** (possibility).
 - [ ] I can use **Απαγορεύεται** and **Επιτρέπεται** correctly.
 
+**Practice Vocabulary:** [B2 Vocabulary: Expressions, impersonal states & weather](/lessons/vocabulary-impersonal-weather)
+
 **Up Next:** [Unit 28: Idioms & Ancient Remnants](/lessons/idioms)

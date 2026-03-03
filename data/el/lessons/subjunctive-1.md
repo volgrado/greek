@@ -48,4 +48,6 @@ Since **να** is followed by a verb, you must choose the aspect:
 - [ ] I can use **θα + να** to translate English "to" phrases.
 - [ ] I know that Greeks conjugate both verbs (e.g., *Θέλω να πάω* vs *Θέλεις να πας*).
 
+**Practice Vocabulary:** [A2 Vocabulary: Routines & B-Group Verbs](/lessons/vocabulary-routines-hobbies)
+
 **Up Next:** [Unit 11: Future Tenses (Θα)](/lessons/future-continuous)

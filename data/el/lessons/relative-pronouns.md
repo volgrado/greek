@@ -46,4 +46,6 @@ When you want to say "whatever" or "what" (meaning "that which"), use **ό,τι*
 - [ ] I recognize **ο οποίος** as the formal version of "who/which."
 - [ ] I can use **ό,τι** to mean "whatever."
 
+**Practice Vocabulary:** [B2 Vocabulary: Beliefs, Relations & Society](/lessons/vocabulary-beliefs-society)
+
 **Up Next:** [Unit 24: Reflexive Pronouns (Myself)](/lessons/reflexive-pronouns)

@@ -36,4 +36,6 @@ Use this for things that never happened in the past. It’s too late!
 - [ ] I understand that for "Would," Greek uses **Θα + Past Tense**.
 - [ ] I can build a hypothetical dream sentence using the Imperfect tense.
 
+**Practice Vocabulary:** [B1 Vocabulary: Travel & Life Experiences](/lessons/vocabulary-travel-experiences)
+
 **Up Next:** [Unit 22: Advanced Particles & Interjections](/lessons/particles)

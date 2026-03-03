@@ -54,4 +54,6 @@ These three are used in every sentence. You must learn their "native" comparison
 - [ ] I have memorized the irregulars **καλύτερος** and **χειρότερος**.
 - [ ] I know that **ο + comparison** makes it "the most."
 
+**Practice Vocabulary:** [B2 Vocabulary: Adjectives & Comparisons](/lessons/vocabulary-adjectives-comparisons)
+
 **Up Next:** [Unit 26: Participles (-οντας, -μένος)](/lessons/participles)

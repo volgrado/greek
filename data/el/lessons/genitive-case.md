@@ -50,4 +50,6 @@ As you learned in Unit 13, the Genitive also marks the **Receiver** of an action
 - [ ] I know that Greek structures possession as "The Item of the Owner."
 - [ ] I can identify the Genitive case as both an "Owner" and a "Receiver."
 
+**Practice Vocabulary:** [B1 Vocabulary: Family Tree & Possessions](/lessons/vocabulary-family-possessions)
+
 **Up Next:** [Unit 16: Imperative Mood (Giving Orders)](/lessons/imperative)

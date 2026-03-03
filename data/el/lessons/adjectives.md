@@ -35,7 +35,7 @@ Most colors are regular adjectives. They help you practice agreement every day.
 ## 3. Numbers 1-10 (Αριθμοί 1-10)
 Learning to count is the key to daily survival.
 
-1. **Ένα / Ένας / Μία** (One)
+1. **Ένας / Μία / Ένα** (One)
 2. **Δύο** (Two)
 3. **Τρία** (Three)
 4. **Τέσσερα** (Four)
@@ -48,10 +48,12 @@ Learning to count is the key to daily survival.
 
 > [!IMPORTANT]
 > **The number 1 is a chameleon!**  
-> Just like an adjective, it must match the gender of what you are counting:  
+> Good news: the number "One" is the exact same word as the **indefinite articles** (a/an) you learned in Unit 2! It must match the gender of what you are counting:  
 > - **Ένας** άντρας (One man)  
 > - **Μία** γυναίκα (One woman)  
 > - **Ένα** παιδί (One child)
+> 
+> *Fun Fact: The numbers **3** and **4** are also mini-chameleons! You will learn their masculine/feminine forms later, but for now, use **Τρία** and **Τέσσερα** when counting out loud.*
 
 ---
 
@@ -59,5 +61,7 @@ Learning to count is the key to daily survival.
 - [ ] I can change the ending of **καλός** to match any noun gender.
 - [ ] I know how to count to 10 in Greek.
 - [ ] I remember that **μπλε** and **ροζ** never change their endings.
+
+**Practice Vocabulary:** [A1 Vocabulary: Colors & Numbers](/lessons/vocabulary-colors-numbers)
 
 **Up Next:** [Unit 7: Asking Questions](/lessons/interrogative-pronouns)

@@ -21,15 +21,22 @@ These words are easy because they never change their shape.
 - **Πώς** *(pos)* = **How?** (e.g., Πώς είσαι;)
 - **Γιατί** *(ya-tí)* = **Why?** (e.g., Γιατί λες όχι;)
 
+> [!TIP]
+> **Accent Mystery:** You learned in Unit 1 that 1-syllable words don't get accents. **Πού** and **Πώς** are the rare exceptions! They keep the accent only to differentiate them from their twins *που* (that/who) and *πως* (that).
+
 ---
 
 ## 3. The Chameleon "W" Words
 Just like adjectives, some question words must match the gender of the noun you are asking about.
 
 ### "Who" or "Which" (Ποιος)
+*Pronounced as one syllable: **pyos***
 - **Ποιος** είναι ο άντρας; (Who is the man?)
 - **Ποια** είναι η γυναίκα; (Who is the woman?)
 - **Ποιο** παιδί; (Which child?)
+
+> [!NOTE]
+> **Accusative Alert!** If "Who" is the object receiving the action, it drops its **-ς** just like the nouns you learned in Unit 2: **Ποιον βλέπεις;** (*Who(m) do you see?*)
 
 ### "How Much" or "How Many" (Πόσος)
 - **Πόσο κάνει;** (How much does it cost?)
@@ -51,5 +58,7 @@ Congratulations! You have officially completed the **A1 Stage**. You have master
 - [x] Noun Basics (Genders, Articles, Accusative Case).
 - [x] Fundamental Verbs (Being, Having, Type A Verbs).
 - [x] Building basic negative sentences and questions.
+
+**Practice Vocabulary:** [A1 Vocabulary: Question Words & Pronouns](/lessons/vocabulary-questions)
 
 **Up Next:** [Unit 8: Plural Nouns & Adjectives](/lessons/plurals)

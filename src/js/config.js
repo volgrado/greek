@@ -31,7 +31,10 @@ export const I18N = {
         errorRetry: 'Retry',
         errorBack: 'Back to Curriculum',
         resetProgress: 'Reset Progress',
-        resetConfirm: 'Confirm Reset?'
+        resetConfirm: 'Confirm Reset?',
+        grammar: 'Grammar',
+        vocabulary: 'Vocabulary',
+        courseName: 'GREEK LANGUAGE COURSE'
     },
     es: {
         label: 'ES',
@@ -48,7 +51,10 @@ export const I18N = {
         errorNotFound: 'Lesson content not found.',
         errorRetry: 'Retry',
         errorBack: 'Back to Curriculum',
-        resetProgress: 'Reset Progress',
-        resetConfirm: 'Confirm Reset?'
+        resetProgress: 'Restablecer Progreso',
+        resetConfirm: '¿Confirmar?',
+        grammar: 'Gramática',
+        vocabulary: 'Vocabulario',
+        courseName: 'CURSO DE IDIOMA ESPAÑOL'
     }
 };
