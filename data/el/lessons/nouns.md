@@ -37,10 +37,12 @@ In English, "The man" is always "The man," whether he is doing the action or rec
 
 ### The Nominative (The Subject)
 The form you find in the dictionary. Used for the person/thing **performing** the action.
+
 - **Ο** πατέρ**ας** είναι εδώ. *(The father is here)*
 
 ### The Accusative (The Object)
 Used for the person/thing **receiving** the action (the Direct Object). 
+
 - **Rule for Masculine:** Drop the final **-ς**. The article becomes **τον** (always keep the **'ν'** for masculine nouns to avoid confusion with the neuter article **το**!).
 - **Rule for Fem/Neu:** The word doesn't change, but the feminine article becomes **τη(ν)**.
     - *Note: The feminine 'την' sometimes drops its 'ν' depending on the next letter, but you will learn that trick later!*

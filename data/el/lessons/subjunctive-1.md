@@ -11,6 +11,7 @@ Greek forces you to choose between two ways of looking at an action:
 2. **Simple Aspect (The Photo)**: For a single, specific, or completed event. (e.g., "I want to play *one game*").
 
 Because of this, every active Greek verb has **two stems**:
+
 - **Continuous Stem**: The one you know (παίζ-).
 - **Simple Stem**: The "Aorist" stem (παίξ-). *We will learn how to build this in the next units.*
 

@@ -20,6 +20,7 @@ You already know how to conjugate **έχω**. In this tense, it acts as the "mot
 To create the action word (e.g., "played", "read", "written"), you take the **Simple Stem** (from Unit 12) and add the ending **-ει**. 
 
 This word **never changes** regardless of the person.
+
 - **παίζω** ➔ παίξ- ➔ **παίξει**
 - **γράφω** ➔ γράψ- ➔ **γράψει**
 - **διαβάζω** ➔ διαβάσ- ➔ **διαβάσει**
@@ -28,6 +29,7 @@ This word **never changes** regardless of the person.
 
 ## 3. Assembling the Present Perfect
 Simply put them together:
+
 - **Έχω παίξει.** (I have played).
 - **Έχουν διαβάσει.** (They have read).
 - **Έχεις γράψει;** (Have you written?)
@@ -39,10 +41,12 @@ To change the timeline, you only change the helper verb **έχω**. The frozen w
 
 ### Past Perfect (I had done)
 Use the past tense helper **είχα**:
+
 - **Είχα παίξει.** (I had played).
 
 ### Future Perfect (I will have done)
 Use the future helper **θα έχω**:
+
 - **Θα έχω παίξει** μέχρι αύριο. (I will have played by tomorrow).
 
 ---

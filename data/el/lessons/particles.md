@@ -7,11 +7,13 @@ To sound like a native, you need to master the tiny, untranslatable words that G
 ## 1. Curiosity & Doubt
 ### Άραγε (I wonder...)
 Placed at the beginning or end of a question.
+
 - **Άραγε** θα έρθει η Μαρία; (I wonder if Maria will come?)
 - Τι σκέφτεται **άραγε**; (What is he thinking, I wonder?)
 
 ### Τάχα & Δήθεν (Supposedly / "Yeah, right")
 Used to show extreme sarcasm or disbelief.
+
 - Κλαίει **δήθεν** επειδή χτύπησε. (He is *supposedly* crying [but I know he's faking]).
 - **Ναι, τάχα μου!** (Yeah, right! / Allegedly!)
 
@@ -20,6 +22,7 @@ Used to show extreme sarcasm or disbelief.
 ## 2. Wishes & Hopes
 ### Μακάρι (If only / Let's hope)
 Triggers the Subjunctive (**να**) or stands alone as a hopeful response.
+
 - **Μακάρι να** περάσω τις εξετάσεις! (I hope I pass!)
 - Person A: Θα βρούμε τραπέζι; ➔ Person B: **Μακάρι!** (Let's hope!)
 
@@ -28,11 +31,13 @@ Triggers the Subjunctive (**να**) or stands alone as a hopeful response.
 ## 3. Direction & Commands
 ### Ας (Let's / Let it be)
 Triggers the Subjunctive directly (no *να* needed).
+
 - **Ας πάμε!** (Let's go!)
 - **Ας είναι.** (Let it be / Whatever).
 
 ### Άντε / Άιντε (Come on!)
 The most versatile word in Greek. It can mean "Let's go!", "Hurry up!", or "Get out of here!"
+
 - **Άντε**, σήκω! (Come on, get up!)
 - **Άντε πάλι...** (Oh, here we go again...)
 

@@ -8,6 +8,7 @@ Conditional sentences are "If X, then Y" statements. In Greek, the word for "If"
 Use this for facts, plans, or likely events. Just use the normal Present or Future tenses.
 
 **Formula: Αν [Present/Future], then [Future/Command]**
+
 - **Αν βρέχει**, θα μείνω σπίτι. (If it rains, I will stay home).
 - **Αν θέλεις**, έλα μαζί μου. (If you want, come with me).
 
@@ -17,6 +18,7 @@ Use this for facts, plans, or likely events. Just use the normal Present or Futu
 Use this for hypotheticals, dreams, or giving advice. Greek pushes both verbs into the **Continuous Past (Imperfect)**.
 
 **Formula: Αν [Past], then Θα + [Past]**
+
 - **Αν είχα** λεφτά, **θα αγόραζα** ένα πλοίο. (If I had money [now], I would buy a boat).
 - **Αν ήμουν** εσύ, **θα του έλεγα** "ναι". (If I were you, I would say yes).
 
@@ -26,6 +28,7 @@ Use this for hypotheticals, dreams, or giving advice. Greek pushes both verbs in
 Use this for things that never happened in the past. It’s too late!
 
 **Formula: Αν [Past Perfect], then Θα + [Past Perfect]**
+
 - **Αν είχα δει** εσένα, **θα είχα πει** γεια. (If I had seen you, I would have said hello).
 - **Αν είχε διαβάσει**, θα είχε περάσει. (If he had read, he would have passed).
 

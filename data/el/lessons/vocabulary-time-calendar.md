@@ -4,6 +4,7 @@ Essential vocabulary for dealing with time, predicting the future, and talking a
 
 ## 1. Days of the Week (Οι μέρες της εβδομάδας)
 *Note: All days are feminine except for Saturday and Sunday.*
+
 - **η Δευτέρα** *(ee thef-té-ra)* = Monday
 - **η Τρίτη** *(ee trí-tee)* = Tuesday
 - **η Τετάρτη** *(ee te-tár-tee)* = Wednesday

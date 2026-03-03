@@ -15,6 +15,7 @@ Perfect for practicing plurals, adjective agreement, and object pronouns ("I wan
 
 ## 3. Clothes (Τα ρούχα)
 *Notice how many clothes are naturally plural, just like in English!*
+
 - **τα ρούχα** *(ta roo-ha)* = the clothes
 - **το παντελόνι** *(to pan-de-ló-nee)* = the trousers / pants (Plural: τα παντελόνια)
 - **το παπούτσι** *(to pa-poo-tsee)* = the shoe (Plural: τα παπούτσια)

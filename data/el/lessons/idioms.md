@@ -35,6 +35,7 @@ These are phrases where the literal meaning is completely different from the act
 
 ## 4. Compound "Lego" Words
 Greek builds new words by snapping smaller ones together with the letter **"ο"** as glue.
+
 - **βιβλίο** (book) + **πωλείο** (shop) ➔ **βιβλιοπωλείο** (bookstore).
 - **ψάρι** (fish) + **ταβέρνα** ➔ **ψαροταβέρνα** (fish tavern).
 
@@ -42,6 +43,7 @@ Greek builds new words by snapping smaller ones together with the letter **"ο"*
 
 ## 🎯 B2 Advanced Capstone
 Congratulations! You have navigated the complex waters of intermediate and advanced Greek grammar. You have mastered:
+
 - [x] Advanced Particles and Spoken Nuance.
 - [x] Relative and Reflexive Pronouns.
 - [x] Comparison of Adjectives.

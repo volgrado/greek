@@ -8,6 +8,7 @@ A Participle is a verb dressed up to act like an adjective or an adverb. In Engl
 Used to show two actions happening *at the same time* by the same person. It translates to "**while doing X**" or "**by doing X**."
 
 **Formula: Stem + -οντας (or -ώντας for Type B)**
+
 - **τρέχω** ➔ **τρέχοντας** (while running)
 - **μιλάω** ➔ **μιλώντας** (while speaking)
 
@@ -22,10 +23,12 @@ Used to show two actions happening *at the same time* by the same person. It tra
 This acts exactly like a normal Adjective. It describes the **final state** of something after an action (e.g., Tired, Broken, Hidden).
 
 **Formula: Stem + -μένος, -μένη, -μένο**
+
 - **κουράζω** (tire) ➔ **κουρασμένος** (tired)
 - **κλείνω** (close) ➔ **κλεισμένος** (closed)
 
 Because it is an adjective, it **must match** the noun:
+
 - **Η πόρτα είναι κλεισμένη.** (The door is closed).
 - **Οι κλεισμένοι δρόμοι.** (The closed roads).
 
@@ -33,6 +36,7 @@ Because it is an adjective, it **must match** the noun:
 
 ## 3. The "C1" Bonus: -ώντας
 For Type B verbs (like *αγαπάω* or *οδηγώ*), the ending becomes **-ώντας** (with an omega).
+
 - **Οδηγώντας** (while driving)
 - **Γελώντας** (while laughing)
 

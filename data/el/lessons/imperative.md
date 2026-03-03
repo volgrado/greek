@@ -13,6 +13,7 @@ This is the most common way to give a command. You use the **Simple Stem** (Aori
 | **Εσείς** (Formal/Plural) | **-τε** | **Γράψτε!** (Write!) |
 
 *Examples:*
+
 - **Κλείσε** την πόρτα! (Close the door!)
 - **Διαβάστε** το βιβλίο! (Read the book!)
 

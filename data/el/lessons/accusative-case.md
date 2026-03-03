@@ -11,6 +11,7 @@ Now, we will see the Accusative Case in action through verbs and the "Big Three"
 
 ## 1. Verbs that use the Accusative
 Most "action" verbs require the object to be in the Accusative case.
+
 - **Βλέπω τον** Γιώργο. (I see George).
 - **Έχω την** τσάντα. (I have the bag).
 - **Διαβάζω το** βιβλίο. (I read the book).
@@ -26,6 +27,7 @@ In Greek, almost all prepositions force the noun that follows them into the Accu
 
 ### A. Σε (To / At / In)
 This word shows location or direction. In Greek, we almost **never** say "σε" and "the" separately. They merge into one word:
+
 - σε + τον = **στον**
 - σε + την = **στη(ν)**
 - σε + το = **στο**
@@ -34,6 +36,7 @@ This word shows location or direction. In Greek, we almost **never** say "σε" 
 
 ### B. Από (From)
 Used for origins. It does **not** merge with the article, but the article must still be in the Accusative.
+
 - **Είμαι από την Ελλάδα.** (I am from Greece).
 - **Έρχομαι από τον γιατρό.** (I am coming from the doctor).
 
@@ -42,6 +45,7 @@ Used for origins. It does **not** merge with the article, but the article must s
 
 ### C. Με (With)
 Used for company or instruments.
+
 - **Είμαι με τη Μαρία.** (I am with Maria).
 - **Θέλω καφέ με ζάχαρη.** (I want coffee with sugar).
 

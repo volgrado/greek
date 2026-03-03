@@ -11,6 +11,7 @@ This is currently the most common way to speak. Just put the word **πιο** (mo
 - **Ωραίος** (Beautiful) ➔ **Πιο ωραίος** (More beautiful)
 
 To say "than," use the word **από**.
+
 - Ο Γιώργος είναι **πιο ψηλός από** τον Νίκο. (George is taller than Nikos).
 
 ---
@@ -34,6 +35,7 @@ To say "the most" or "the best," you simply add the **Definite Article** (ο, η
 
 ## 4. The "Very" Superlative: -τατος
 If you want to say something is "extremely" or "very, very" X, use the ancient suffix **-τατος**.
+
 - **Ωραιότατος** (Extremely beautiful)
 - **Φθηνότατος** (Super cheap)
 

@@ -4,6 +4,7 @@ Vocabulary specifically tailored to practice **Diminutives and Augmentatives**. 
 
 ## 1. Terms of Endearment (Υποκοριστικά)
 Add your new suffixes (-άκι, -ούλα) to these base words to show affection!
+
 - **η αγάπη** *(ee a-gá-pee)* = the love ➔ **η αγαπούλα** (sweetheart)
 - **η ψυχή** *(ee psee-heé)* = the soul ➔ **η ψυχούλα** (sweet soul)
 - **η καρδιά** *(ee kar-dyá)* = the heart ➔ **η καρδούλα** (little heart)
@@ -12,6 +13,7 @@ Add your new suffixes (-άκι, -ούλα) to these base words to show affection
 
 ## 2. Everyday Diminutives (Το -άκι)
 Almost any object can take the `-άκι` suffix to sound friendlier or smaller.
+
 - **το σπίτι** *(to spí-tee)* = house ➔ **το σπιτάκι** (little house)
 - **ο καφές** *(o ka-fés)* = coffee ➔ **το καφεδάκι** (a nice, relaxing coffee)
 - **το νερό** *(to ne-ró)* = water ➔ **το νεράκι** (a little water)
@@ -19,6 +21,7 @@ Almost any object can take the `-άκι` suffix to sound friendlier or smaller.
 
 ## 3. Augmentatives (Μεγεθυντικά)
 When things are unusually large, impressive, or scary!
+
 - **ο σκύλος** *(o skí-los)* = dog ➔ **ο σκύλαρος** (huge dog)
 - **το αυτοκίνητο** *(to af-to-kí-nee-to)* = car ➔ **ο αυτοκινητάρας** (impressive car)
 - **ο άντρας** *(o án-dras)* = man ➔ **ο άντραρος** (big man)

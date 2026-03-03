@@ -48,6 +48,7 @@ To change the person (I, you, we...), chop off the **-ω** and add these endings
 ---
 
 To say "I do not," just put the word **δεν** (*den*) right before the verb.
+
 - **Δεν παίζω** (*I don't play*)
 - **Δεν κάνω** (*I don't do/make*)
 

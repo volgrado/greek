@@ -30,6 +30,7 @@ Both past tenses use the same set of endings. The difference is the **Stem** and
 
 ## 3. Side-by-Side: Video vs. Photo
 Let's use the verb **παίζω** (I play).
+
 - Continuous Stem: **παίζ-**
 - Simple Stem: **παίξ-**
 
@@ -55,6 +56,7 @@ These are the most common verbs in the past. You must memorize them:
 
 ## 🎯 A2 Expansion Capstone
 Congratulations! You have completed the **A2 Stage**. You have mastered:
+
 - [x] Pluralization of all nouns and adjectives.
 - [x] The "Big Two" Verb Groups (B1 & B2).
 - [x] Verbal Aspect (Video vs. Photo) and the Subjunctive (**να**).

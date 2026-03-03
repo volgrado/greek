@@ -12,6 +12,7 @@ Verbs and nouns that are frozen in the 3rd person singular to describe states, r
 
 ## 2. Weather & Nature (Τα Φαινόμενα)
 *Weather is almost always impersonal in Greek.*
+
 - **ο καιρός** *(o ke-rós)* = the weather
 - **βρέχει** *(vré-hee)* = it is raining / **η βροχή** = the rain
 - **χιονίζει** *(hyo-ní-zee)* = it is snowing / **το χιόνι** = the snow
