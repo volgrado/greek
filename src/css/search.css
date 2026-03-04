@@ -1,0 +1,170 @@
+/* Integrated Search System (Native Popover API) */
+.search-panel {
+    background: var(--bg);
+    border: none;
+    border-bottom: 0px solid var(--border);
+    padding: 0 1.5rem;
+    view-transition-name: search-panel;
+    width: 100vw;
+    margin: 0;
+    max-height: 80vh;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.1);
+    inset: 0 auto auto 0;
+    /* Align to top */
+}
+
+.search-panel:popover-open {
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid var(--border);
+    animation: slide-down 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes slide-down {
+    from {
+        transform: translateY(-100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.search-panel::backdrop {
+    background: rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4px);
+    transition: all 0.4s ease;
+}
+
+.search-drawer-inner {
+    max-width: 65ch;
+    margin: 0 auto;
+}
+
+.search-drawer-header {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    border-bottom: 2px solid var(--text);
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.global-search-input {
+    flex: 1;
+    background: none;
+    border: none;
+    font-family: var(--font-editorial);
+    font-size: 2rem;
+    color: var(--text);
+    outline: none;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+}
+
+.global-search-input::placeholder {
+    opacity: 0.15;
+    font-style: italic;
+}
+
+.close-search-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text);
+    opacity: 0.3;
+    transition: opacity 0.2s ease, transform 0.3s ease;
+    padding: 0.5rem;
+}
+
+.close-search-btn:hover {
+    opacity: 1;
+    transform: rotate(90deg);
+}
+
+.close-search-btn svg {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+/* Results styling */
+.global-search-results {
+    animation: fadeIn 0.4s ease-out;
+}
+
+.search-result-item {
+    display: block;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid var(--border);
+    text-decoration: none;
+    color: var(--text);
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+}
+
+.search-result-item:hover {
+    transform: translateX(8px);
+    opacity: 0.7;
+}
+
+.search-result-item .lesson-meta {
+    font-size: 0.7rem;
+    opacity: 0.5;
+    margin-bottom: 0.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-family: var(--font-ui);
+}
+
+.search-result-item strong {
+    display: block;
+    font-size: 1.4rem;
+    font-family: var(--font-editorial);
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.search-result-item p {
+    font-size: 0.9rem;
+    color: var(--muted-text);
+    line-height: 1.6;
+    margin: 0;
+}
+
+.search-empty {
+    padding: var(--space-16) 0;
+    text-align: center;
+    color: var(--muted-text);
+    font-style: italic;
+    font-size: 1.1rem;
+}
+
+/* Body mode tweaks */
+body.search-mode main#app {
+    display: none;
+}
+
+body.search-mode footer {
+    opacity: 0.5;
+    border-top: 1px dashed var(--border);
+    margin-top: 4rem !important;
+}
+
+/* Mobile Responsiveness for Search */
+@media screen and (max-width: 480px) {
+    .global-search-input {
+        font-size: 1.5rem;
+    }
+
+    .search-drawer-header {
+        gap: 0.75rem;
+    }
+
+    .search-result-item strong {
+        font-size: 1.2rem;
+    }
+
+    .search-panel.is-open {
+        padding: 1rem 1rem;
+    }
+}

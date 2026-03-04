@@ -1,0 +1,76 @@
+/* 📣 Premium Callouts (GitHub Style) */
+.callout {
+    margin: 2rem 0;
+    padding: 1.25rem 1.5rem;
+    border-left: 4px solid var(--border);
+    background: var(--secondary-bg);
+    border-radius: 0 8px 8px 0;
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
+
+.callout p:first-of-type {
+    margin-top: 0.5rem;
+}
+
+.callout p:last-of-type {
+    margin-bottom: 0;
+}
+
+.callout-label {
+    font-family: var(--font-ui);
+    font-weight: 800;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.25rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+/* Callout Variants */
+.callout-note {
+    border-left-color: #4a90e2;
+    background: rgba(74, 144, 226, 0.05);
+}
+
+.callout-note .callout-label {
+    color: #4a90e2;
+}
+
+.callout-tip {
+    border-left-color: #48bb78;
+    background: rgba(72, 187, 120, 0.05);
+}
+
+.callout-tip .callout-label {
+    color: #48bb78;
+}
+
+.callout-important {
+    border-left-color: #9f7aea;
+    background: rgba(159, 122, 234, 0.05);
+}
+
+.callout-important .callout-label {
+    color: #9f7aea;
+}
+
+.callout-warning {
+    border-left-color: #ed8936;
+    background: rgba(237, 137, 54, 0.05);
+}
+
+.callout-warning .callout-label {
+    color: #ed8936;
+}
+
+.callout-caution {
+    border-left-color: #f56565;
+    background: rgba(245, 101, 101, 0.05);
+}
+
+.callout-caution .callout-label {
+    color: #f56565;
+}
