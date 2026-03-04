@@ -2,27 +2,88 @@
     --bg: #ffffff;
     --text: #111111;
     --accent: #4a90e2;
-    /* Modern Blue accent */
+
+    /* Fallback derived colors for older browsers */
+    --border: #e0e0e0;
+    --muted-text: #666666;
+    --secondary-bg: #f9f9f9;
+    --card-bg: var(--bg);
+    --hover-overlay: #f0f0f0;
 
     /* 🧬 Genius Derived Colors via color-mix() */
     --border: color-mix(in srgb, var(--text) 15%, transparent);
     --muted-text: color-mix(in srgb, var(--text) 60%, transparent);
     --secondary-bg: color-mix(in srgb, var(--text) 4%, transparent);
-    --card-bg: var(--bg);
     --hover-overlay: color-mix(in srgb, var(--text) 8%, transparent);
 
+    /* Typography */
     --font-ui: 'Inter', system-ui, sans-serif;
     --font-editorial: 'Lora', serif;
+
+    /* 📐 Parametric Scales (Mathematical) */
+    --base-spacing: 0.25rem;
+    --space-1: var(--base-spacing);
+    /* 0.25rem */
+    --space-2: calc(var(--base-spacing) * 2);
+    /* 0.5rem */
+    --space-3: calc(var(--base-spacing) * 3);
+    /* 0.75rem */
+    --space-4: calc(var(--base-spacing) * 4);
+    /* 1rem */
+    --space-5: calc(var(--base-spacing) * 5);
+    /* 1.25rem */
+    --space-6: calc(var(--base-spacing) * 6);
+    /* 1.5rem */
+    --space-8: calc(var(--base-spacing) * 8);
+    /* 2rem */
+    --space-10: calc(var(--base-spacing) * 10);
+    /* 2.5rem */
+    --space-12: calc(var(--base-spacing) * 12);
+    /* 3rem */
+    --space-16: calc(var(--base-spacing) * 16);
+    /* 4rem */
+    --space-20: calc(var(--base-spacing) * 20);
+    /* 5rem */
+
+    --radius-sm: 4px;
+    --radius-md: 8px;
+
+    /* Global Transitions */
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    --transition-slow: 0.5s ease;
 }
 
 html.dark-mode {
     --bg: #111111;
     --text: #f4f4f4;
+
+    /* Fallbacks for Dark Mode */
+    --border: #2a2a2a;
+    --muted-text: #999999;
+    --secondary-bg: #1a1a1a;
+    --hover-overlay: #222222;
+
     /* Derived colors automatically update because they depend on --text */
+    --border: color-mix(in srgb, var(--text) 15%, transparent);
+    --muted-text: color-mix(in srgb, var(--text) 60%, transparent);
+    --secondary-bg: color-mix(in srgb, var(--text) 4%, transparent);
+    --hover-overlay: color-mix(in srgb, var(--text) 8%, transparent);
 }
 
 html.sepia-mode {
     --bg: #f4ecd8;
     --text: #433422;
+
+    /* Fallbacks for Sepia Mode */
+    --border: #d6c8b3;
+    --muted-text: #8c7a65;
+    --secondary-bg: #eaddc4;
+    --hover-overlay: #e4d5bb;
+
     /* Derived colors automatically update because they depend on --text */
+    --border: color-mix(in srgb, var(--text) 15%, transparent);
+    --muted-text: color-mix(in srgb, var(--text) 60%, transparent);
+    --secondary-bg: color-mix(in srgb, var(--text) 4%, transparent);
+    --hover-overlay: color-mix(in srgb, var(--text) 8%, transparent);
 }
