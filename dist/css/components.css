@@ -46,8 +46,8 @@
 /* Cards & Content Blocks */
 .content-card {
     border: 1px solid var(--border);
-    padding: 1.5rem;
-    margin-top: 2rem;
+    padding: var(--space-6);
+    margin-top: var(--space-8);
     background: var(--card-bg);
 }
 
@@ -55,26 +55,26 @@ img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 1.5rem auto;
+    margin: var(--space-6) auto;
 }
 
 .content-card h3 {
     margin-top: 0;
     border-bottom: 1px solid var(--border);
-    padding-bottom: 1rem;
-    margin-bottom: 1.5rem;
+    padding-bottom: var(--space-4);
+    margin-bottom: var(--space-6);
 }
 
 .content-grid {
     display: grid;
-    gap: 1.5rem;
+    gap: var(--space-6);
     grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
 }
 
 .example-box {
     border-left: 1px solid var(--border);
-    padding-left: 1.5rem;
-    margin: 2rem 0;
+    padding-left: var(--space-6);
+    margin: var(--space-8) 0;
     font-style: italic;
     color: var(--muted-text);
 }
@@ -83,8 +83,8 @@ img {
 .grammar-info {
     background: var(--secondary-bg);
     border: 1px solid var(--border);
-    padding: 1.5rem;
-    margin: 2rem 0;
+    padding: var(--space-6);
+    margin: var(--space-8) 0;
     overflow-x: auto;
     /* Handle inner tables/long text */
 }
@@ -143,15 +143,15 @@ td {
 
 /* Utilities */
 .mt-12 {
-    margin-top: 3rem;
+    margin-top: var(--space-12);
 }
 
 .mb-12 {
-    margin-bottom: 3rem;
+    margin-bottom: var(--space-12);
 }
 
 .p-6 {
-    padding: 1.5rem;
+    padding: var(--space-6);
 }
 
 /* Skeleton Loader */
@@ -335,19 +335,8 @@ td {
     margin: 0;
 }
 
-.search-highlight {
-    background: rgba(255, 215, 0, 0.2);
-    color: var(--text);
-    padding: 0 2px;
-    border-bottom: 1px solid var(--text);
-}
-
-[data-theme="dark"] .search-highlight {
-    background: rgba(255, 215, 0, 0.1);
-}
-
 .search-empty {
-    padding: 4rem 0;
+    padding: var(--space-16) 0;
     text-align: center;
     color: var(--muted-text);
     font-style: italic;
@@ -621,11 +610,6 @@ body.search-mode footer {
     opacity: 0.5;
     padding-left: 0.5rem;
     border-left: 1px solid var(--border);
-}
-
-.is-downloaded .status-meta {
-    color: #48bb78;
-    opacity: 1;
 }
 
 @media screen and (max-width: 480px) {

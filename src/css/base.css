@@ -29,11 +29,11 @@ body {
     background: var(--bg);
     max-width: 65ch;
     margin: 0 auto;
-    padding: 0 1.5rem 1rem 1.5rem;
+    padding: 0 var(--space-6) var(--space-4) var(--space-6);
     font-family: var(--font-editorial);
     line-height: 1.7;
     -webkit-font-smoothing: antialiased;
-    transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease, fill 0.5s ease;
+    transition: background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow), fill var(--transition-slow);
     overflow-x: hidden;
     /* Global safety for mobile */
 }
@@ -54,7 +54,7 @@ footer,
 .theme-toggle,
 .download-toggle,
 .lesson-nav a {
-    transition: background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease, fill 0.5s ease;
+    transition: background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow), fill var(--transition-slow);
 }
 
 /* Tactile feedback for clickable elements */
@@ -79,12 +79,21 @@ body.sepia-mode img {
 }
 
 *+* {
-    margin-top: 1.25rem;
+    margin-top: calc(var(--base-spacing) * 5);
 }
 
-header *,
-footer *,
-.lesson-nav *,
+header a,
+header button,
+header svg,
+header span,
+header div,
+footer a,
+footer button,
+footer span,
+footer div,
+footer p,
+.lesson-nav a,
+.lesson-nav span,
 .search-panel,
 main {
     margin-top: 0;
