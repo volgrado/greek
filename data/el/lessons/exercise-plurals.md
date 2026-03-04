@@ -49,15 +49,12 @@ Listen to the native speaker describing the scene. Your goal is to speak *at the
 
 Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change the sentence mentally before checking the Target. This builds agility without overthinking.
 
-* **Base:** Η γυναίκα φοράει το παλτό. (The woman wears the coat.)
-* **Trigger:** Change object to **Plural**.
-* **Target:** Η γυναίκα φοράει τα παλτά.
-
-<br>
-
-* **Base:** Το μικρό παιδί παίζει. (The small child plays.)
-* **Trigger:** Change subject to **Plural** (and adjust verb).
-* **Target:** Τα μικρά παιδιά παίζουν.
+| Base Sentence | Trigger | Target Sentence |
+| :--- | :--- | :--- |
+| **Η γυναίκα φοράει το παλτό.** <br> *(The woman wears the coat.)* | Change object to **Plural** | **Η γυναίκα φοράει τα παλτά.** |
+| **Το μικρό παιδί παίζει.** <br> *(The small child plays.)* | Change subject to **Plural** | **Τα μικρά παιδιά παίζουν.** |
+| **Αγοράζω το ακριβό ρούχο.** <br> *(I buy the expensive piece of clothing.)* | Change object to **Plural** | **Αγοράζω τα ακριβά ρούχα.** |
+| **Ο πωλητής μιλάει πολύ.** <br> *(The salesperson talks a lot.)* | Change subject to **Plural** | **Οι πωλητές μιλούν πολύ.** |
 
 ---
 
