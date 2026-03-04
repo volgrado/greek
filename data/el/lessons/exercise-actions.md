@@ -48,15 +48,12 @@ Listen to the native speaker describing the scene. Your goal is to speak *at the
 
 Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change the sentence mentally before checking the Target. This builds agility without overthinking.
 
-* **Base:** Διαβάζω το βιβλίο. (I read the book.)
-* **Trigger:** Change subject to **Ο δάσκαλος**.
-* **Target:** Ο δάσκαλος διαβάζει το βιβλίο.
-
-<br>
-
-* **Base:** Κρατάει την ομπρέλα. (He/She holds the umbrella.)
-* **Trigger:** Change subject to **Εγώ** (I).
-* **Target:** Κρατάω την ομπρέλα.
+| Base Sentence | Trigger | Target Sentence |
+| :--- | :--- | :--- |
+| **Διαβάζω το βιβλίο.** <br> *(I read the book.)* | Change subject to **Ο δάσκαλος** | **Ο δάσκαλος διαβάζει το βιβλίο.** |
+| **Κρατάει την ομπρέλα.** <br> *(He/She holds the umbrella.)* | Change subject to **Εγώ** (I) | **Κρατάω την ομπρέλα.** |
+| **Τρέχω γρήγορα.** <br> *(I run fast.)* | Change subject to **Η γυναίκα** (The woman) | **Η γυναίκα τρέχει γρήγορα.** |
+| **Βλέπει τον καφέ.** <br> *(He/She sees the coffee.)* | Change subject to **Εμείς** (We) | **Βλέπουμε τον καφέ.** |
 
 ---
 

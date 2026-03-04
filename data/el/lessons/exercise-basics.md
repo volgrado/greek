@@ -49,15 +49,12 @@ Listen to the native speaker describing the scene. Your goal is to speak *at the
 
 Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change the sentence mentally before checking the Target. This builds agility without overthinking.
 
-* **Base:** Εγώ είμαι στην κουζίνα. (I am in the kitchen.)
-* **Trigger:** Change subject to **Η γιαγιά**.
-* **Target:** Η γιαγιά είναι στην κουζίνα.
-
-<br>
-
-* **Base:** Έχω ωραίο φαγητό. (I have nice food.)
-* **Trigger:** Change subject to **Ο πατέρας**.
-* **Target:** Ο πατέρας έχει ωραίο φαγητό.
+| Base Sentence | Trigger | Target Sentence |
+| :--- | :--- | :--- |
+| **Εγώ είμαι στην κουζίνα.** <br> *(I am in the kitchen.)* | Change subject to **Η γιαγιά** | **Η γιαγιά είναι στην κουζίνα.** |
+| **Έχω ωραίο φαγητό.** <br> *(I have nice food.)* | Change subject to **Ο πατέρας** | **Ο πατέρας έχει ωραίο φαγητό.** |
+| **Ο φίλος είναι εδώ.** <br> *(The friend is here.)* | Change subject to **Εμείς** (We) | **Εμείς είμαστε εδώ.** |
+| **Η μητέρα έχει ένα βιβλίο.** <br> *(The mother has a book.)* | Change subject to **Εσύ** (You) | **Εσύ έχεις ένα βιβλίο.** |
 
 ---
 

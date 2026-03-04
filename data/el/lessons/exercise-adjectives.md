@@ -49,15 +49,12 @@ Listen to the native speaker describing the scene. Your goal is to speak *at the
 
 Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change the sentence mentally before checking the Target. This builds agility without overthinking.
 
-* **Base:** Το κόκκινο μήλο κάνει δύο ευρώ. (The red apple costs two euros.)
-* **Trigger:** Change subject to **Ο καφές** (The coffee - Masculine).
-* **Target:** Ο κόκκινος καφές κάνει δύο ευρώ.
-
-<br>
-
-* **Base:** Πόσο κάνει η μικρή τσάντα; (How much does the small bag cost?)
-* **Trigger:** Change subject to **Το βιβλίο** (The book - Neuter).
-* **Target:** Πόσο κάνει το μικρό βιβλίο;
+| Base Sentence | Trigger | Target Sentence |
+| :--- | :--- | :--- |
+| **Το κόκκινο μήλο κάνει δύο ευρώ.** <br> *(The red apple costs two euros.)* | Change subject to **Ο καφές** (Masculine) | **Ο κόκκινος καφές κάνει δύο ευρώ.** |
+| **Πόσο κάνει η μικρή τσάντα;** <br> *(How much does the small bag cost?)* | Change subject to **Το βιβλίο** (Neuter) | **Πόσο κάνει το μικρό βιβλίο;** |
+| **Το φρέσκο νερό είναι κρύο.** <br> *(The fresh water is cold.)* | Change subject to **Η σαλάτα** (Feminine) | **Η φρέσκια σαλάτα είναι κρύα.** |
+| **Έχω ένα μεγάλο πρόβλημα.** <br> *(I have a big problem - Neuter)* | Change object to **Η ιδέα** (Feminine) | **Έχω μία μεγάλη ιδέα.** |
 
 ---
 
