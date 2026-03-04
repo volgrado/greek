@@ -8,6 +8,7 @@ This exercise is divided into four fluency-building activities to move you from 
 ![Greek Market Fruit](/assets/images/greek_market_fruit.png)
 
 **Power Lexis:**
+
 * Φρέσκος, -η, -ο (frés-kos) - Fresh
 * Κόκκινος, -η, -ο (kó-ki-nos) - Red
 * Πόσο (pó-so) - How much
@@ -38,6 +39,7 @@ Listen to the native speaker describing the scene. Your goal is to speak *at the
 </details>
 
 **Why it works:**
+
 * **κόκκινο και φρέσκο**: The noun "το φρούτο" is neuter. Therefore, the adjectives "κόκκινος" and "φρέσκος" must drop their masculine "-ος" ending and take the neuter "-ο" ending to become "κόκκινο" and "φρέσκο".
 * **Πόσο κάνει;**: This is the standard, everyday way to ask for the price of a singular item in Greece.
 

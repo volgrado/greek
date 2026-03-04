@@ -8,6 +8,7 @@ This exercise is divided into four fluency-building activities to move you from 
 ![Athens Boutique Woman](/assets/images/athens_boutique_coats.png)
 
 **Power Lexis:**
+
 * Το παλτό (to pal-tó) - The coat -> **Τα παλτά** (ta pal-tá)
 * Μικρός, -ή, -ό (mi-krós) - Small -> **Μικρά** (mi-krá)
 * Φοράω (fo-ráo) - I wear
@@ -38,6 +39,7 @@ Listen to the native speaker describing the scene. Your goal is to speak *at the
 </details>
 
 **Why it works:**
+
 * **τα μικρά παλτά / πολύ ακριβά**: "Το παλτό" becomes "Τα παλτά" in the plural. Accordingly, the adjectives "μικρό" and "ακριβό" change their endings to match the neuter plural form (μικρά, ακριβά).
 * **φοράει**: "Φοράω" belongs to Verb Group B1 (verbs ending in an unstressed -άω in the "I" form). The "she" form takes the -άει ending.
 
