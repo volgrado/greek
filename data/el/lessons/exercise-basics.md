@@ -8,6 +8,7 @@ This exercise is divided into four fluency-building activities to move you from 
 ![Old Greek grandmother cooking](/assets/images/greek_grandmother_kitchen.png)
 
 **Power Lexis:**
+
 * Η γιαγιά (i ya-yá) - The grandmother
 * Το φαγητό (to fa-yi-tó) - The food
 * Είναι (í-ne) - He/She/It is
@@ -38,6 +39,7 @@ Listen to the native speaker describing the scene. Your goal is to speak *at the
 </details>
 
 **Why it works:**
+
 * **Η γιαγιά είναι...**: Correct use of the feminine definite article "η" with the subject noun and the 3rd person singular present tense form of "είμαι".
 * **Έχει ωραίο φαγητό**: The verb "έχω" is conjugated to the 3rd person singular ("έχει" - she has). "Ωραίο φαγητό" (nice food) follows as the related object of possession.
 

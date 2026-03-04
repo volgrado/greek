@@ -8,6 +8,7 @@ This exercise is divided into four fluency-building activities to move you from 
 ![A rainy street in Thessaloniki](/assets/images/thessaloniki_rainy_street.png)
 
 **Power Lexis:**
+
 * Η βροχή (i vro-chí) - The rain
 * Η ομπρέλα (i om-bré-la) - The umbrella
 * Κρατάω (kra-táo) - I hold
@@ -38,6 +39,7 @@ Listen to the native speaker describing the scene. Your goal is to speak *at the
 </details>
 
 **Why it works:**
+
 * **κρατάει την ομπρέλα**: "Κρατάει" is the 3rd person singular of the Type A action verb "κρατάω". "Την ομπρέλα" is the direct object receiving the action, correctly inflected in the accusative case (changing from "Η ομπρέλα" to "Την ομπρέλα").
 
 ---
