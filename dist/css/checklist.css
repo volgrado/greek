@@ -1,0 +1,45 @@
+/* 📝 Premium Checklists */
+.checklist-item {
+    list-style: none !important;
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    margin-top: 0.75rem !important;
+    font-size: 0.95rem;
+}
+
+.checklist-item input[type="checkbox"] {
+    appearance: none;
+    -webkit-appearance: none;
+    width: 1.25rem;
+    height: 1.25rem;
+    border: 2px solid var(--border);
+    border-radius: 4px;
+    background: var(--card-bg);
+    cursor: default;
+    position: relative;
+    flex-shrink: 0;
+    margin-top: 0.2rem;
+    transition: all 0.3s ease;
+}
+
+.checklist-item input[type="checkbox"]:checked {
+    background: #48bb78;
+    border-color: #48bb78;
+}
+
+.checklist-item input[type="checkbox"]:checked::after {
+    content: '';
+    position: absolute;
+    left: 6px;
+    top: 2px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg);
+}
+
+.checklist-item span {
+    flex: 1;
+}
