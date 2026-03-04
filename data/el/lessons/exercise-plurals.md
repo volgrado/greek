@@ -9,10 +9,12 @@ This exercise is divided into four fluency-building activities to move you from 
 
 **Power Lexis:**
 
-* Το παλτό (to pal-tó) - The coat -> **Τα παλτά** (ta pal-tá)
-* Μικρός, -ή, -ό (mi-krós) - Small -> **Μικρά** (mi-krá)
-* Φοράω (fo-ráo) - I wear
-* Ακριβός, -ή, -ό (a-kri-vós) - Expensive
+| Greek | Pronunciation | English |
+| :--- | :--- | :--- |
+| **Το παλτό** -> **Τα παλτά** | *(to pal-tó)* -> *(ta pal-tá)* | The coat |
+| **Μικρός, -ή, -ό** -> **Μικρά** | *(mi-krós)* -> *(mi-krá)* | Small |
+| **Φοράω** | *(fo-ráo)* | I wear |
+| **Ακριβός, -ή, -ό** | *(a-kri-vós)* | Expensive |
 
 **Grammar Tags (Goals):**
 1. Use **Plural Nouns and Adjectives**.

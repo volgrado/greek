@@ -9,10 +9,12 @@ This exercise is divided into four fluency-building activities to move you from 
 
 **Power Lexis:**
 
-* Η βροχή (i vro-chí) - The rain
-* Η ομπρέλα (i om-bré-la) - The umbrella
-* Κρατάω (kra-táo) - I hold
-* Τρέχω (tré-kho) - I run
+| Greek | Pronunciation | English |
+| :--- | :--- | :--- |
+| **Η βροχή** | *(i vro-chí)* | The rain |
+| **Η ομπρέλα** | *(i om-bré-la)* | The umbrella |
+| **Κρατάω** | *(kra-táo)* | I hold |
+| **Τρέχω** | *(tré-kho)* | I run |
 
 **Grammar Tags (Goals):**
 1. Use one **Type A action verb** (e.g. κρατάω, τρέχω).

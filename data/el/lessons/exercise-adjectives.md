@@ -9,10 +9,12 @@ This exercise is divided into four fluency-building activities to move you from 
 
 **Power Lexis:**
 
-* Φρέσκος, -η, -ο (frés-kos) - Fresh
-* Κόκκινος, -η, -ο (kó-ki-nos) - Red
-* Πόσο (pó-so) - How much
-* Κάνει (ká-ni) - It costs (literally "it makes")
+| Greek | Pronunciation | English |
+| :--- | :--- | :--- |
+| **Φρέσκος, -η, -ο** | *(frés-kos)* | Fresh |
+| **Κόκκινος, -η, -ο** | *(kó-ki-nos)* | Red |
+| **Πόσο** | *(pó-so)* | How much |
+| **Κάνει** | *(ká-ni)* | It costs (literally "it makes") |
 
 **Grammar Tags (Goals):**
 1. Ask a question using the essential phrase **Πόσο κάνει;**

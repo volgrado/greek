@@ -9,10 +9,12 @@ This exercise is divided into four fluency-building activities to move you from 
 
 **Power Lexis:**
 
-* Η γιαγιά (i ya-yá) - The grandmother
-* Το φαγητό (to fa-yi-tó) - The food
-* Είναι (í-ne) - He/She/It is
-* Έχω (é-kho) - I have
+| Greek | Pronunciation | English |
+| :--- | :--- | :--- |
+| **Η γιαγιά** | *(i ya-yá)* | The grandmother |
+| **Το φαγητό** | *(to fa-yi-tó)* | The food |
+| **Είναι** | *(í-ne)* | He/She/It is |
+| **Έχω** | *(é-kho)* | I have |
 
 **Grammar Tags (Goals):**
 1. Describe the scene using the verb **"to be"** (είμαι).
