@@ -1,51 +1,44 @@
-/* Buttons & Controls */
-.lang-toggle,
-.theme-toggle,
-.download-toggle {
+/* 🔘 Buttons & Controls */
+.btn-base {
     background: none;
-    border: 1px solid var(--border);
+    border: var(--border-width) solid var(--border);
     cursor: pointer;
-    padding: 0.4rem 0.8rem;
+    padding: var(--space-2) var(--space-4);
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.3s ease, border-color 0.5s ease, background-color 0.5s ease, color 0.5s ease;
+    transition: all var(--transition-normal), border-color var(--transition-slow), background-color var(--transition-slow), color var(--transition-slow);
     color: var(--text);
-    font-size: 0.75rem;
+    font-size: var(--text-sm);
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: var(--ls-wide);
 }
 
-.lang-toggle:hover,
-.theme-toggle:hover,
-.download-toggle:hover {
+.btn-base:hover {
     background: var(--hover-overlay);
 }
 
-.lang-toggle svg,
-.theme-toggle svg,
-.download-toggle svg {
-    width: 1rem;
-    height: 1rem;
-    margin-right: 0.4rem;
+.btn-base svg {
+    width: var(--space-4);
+    height: var(--space-4);
+    margin-right: var(--space-2);
 }
 
-.header-actions .lang-toggle,
-.header-actions .theme-toggle {
-    width: 2.5rem;
-    height: 2.5rem;
+/* Specific Button Variants */
+.btn-icon-only {
+    width: var(--space-10);
+    height: var(--space-10);
     padding: 0;
 }
 
-.header-actions .lang-toggle svg,
-.header-actions .theme-toggle svg {
+.btn-icon-only svg {
     margin: 0;
 }
 
 /* Cards & Content Blocks */
 .content-card {
-    border: 1px solid var(--border);
+    border: var(--border-width) solid var(--border);
     padding: var(--space-6);
     margin-top: var(--space-8);
     background: var(--card-bg);
@@ -60,7 +53,7 @@ img {
 
 .content-card h3 {
     margin-top: 0;
-    border-bottom: 1px solid var(--border);
+    border-bottom: var(--border-width) solid var(--border);
     padding-bottom: var(--space-4);
     margin-bottom: var(--space-6);
 }
@@ -68,11 +61,11 @@ img {
 .content-grid {
     display: grid;
     gap: var(--space-6);
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--measure-narrow)), 1fr));
 }
 
 .example-box {
-    border-left: 1px solid var(--border);
+    border-left: var(--border-width) solid var(--border);
     padding-left: var(--space-6);
     margin: var(--space-8) 0;
     font-style: italic;
@@ -82,7 +75,7 @@ img {
 .info-box,
 .grammar-info {
     background: var(--secondary-bg);
-    border: 1px solid var(--border);
+    border: var(--border-width) solid var(--border);
     padding: var(--space-6);
     margin: var(--space-8) 0;
     overflow-x: auto;
@@ -92,22 +85,9 @@ img {
 .info-box h3,
 .grammar-info h3 {
     margin-top: 0;
-    font-size: 0.9rem;
+    font-size: var(--text-base);
     text-transform: uppercase;
-    letter-spacing: 0.2em;
-}
-
-/* Utilities */
-.mt-12 {
-    margin-top: var(--space-12);
-}
-
-.mb-12 {
-    margin-bottom: var(--space-12);
-}
-
-.p-6 {
-    padding: var(--space-6);
+    letter-spacing: var(--ls-widest);
 }
 
 /* 🧭 View Toggle (Header) */
@@ -117,6 +97,6 @@ img {
 
 #mode-label {
     font-weight: 800;
-    font-size: 0.65rem;
-    letter-spacing: 0.05em;
-}
+    font-size: var(--text-xs);
+    letter-spacing: var(--ls-normal);
+}

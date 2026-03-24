@@ -3,27 +3,27 @@ h2,
 h3 {
     font-family: var(--font-ui);
     font-weight: 800;
-    line-height: 1.1;
-    letter-spacing: -0.03em;
+    line-height: var(--line-height-heading);
+    letter-spacing: var(--ls-tight);
     color: var(--text);
     text-wrap: balance;
     /* 🖋️ Genius Typograpy: Prevents awkward orphans in headings */
 }
 
 h1 {
-    font-size: clamp(2.2rem, 8vw, 3.5rem);
-    margin-bottom: 0.5rem;
-    letter-spacing: -0.04em;
+    font-size: clamp(var(--text-4xl), 8vw, var(--text-5xl));
+    margin-bottom: var(--space-2);
+    letter-spacing: var(--ls-tighter);
 }
 
 h2 {
-    margin-top: 2rem;
-    font-size: 0.75rem;
+    margin-top: var(--space-8);
+    font-size: var(--text-sm);
     text-transform: uppercase;
-    letter-spacing: 0.3em;
+    letter-spacing: var(--ls-widest);
     color: var(--muted-text);
-    border-top: 1px solid var(--border);
-    padding-top: 1rem;
+    border-top: var(--border-width) solid var(--border);
+    padding-top: var(--space-4);
 }
 
 h2:first-child,
@@ -35,8 +35,10 @@ h2:first-child,
 }
 
 h3 {
-    font-size: 1.4rem;
-    letter-spacing: -0.01em;
+    font-size: var(--text-lg);
+    letter-spacing: var(--ls-tight);
+    margin-top: var(--space-6);
+    margin-bottom: var(--space-2);
 }
 
 p,
@@ -49,17 +51,17 @@ td {
 a {
     color: inherit;
     text-decoration: none;
-    border-bottom: 1px solid var(--border);
-    transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+    border-bottom: var(--border-width) solid var(--border);
+    transition: opacity var(--transition-normal), transform var(--transition-normal), background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow);
 }
 
 a:hover {
-    opacity: 0.6;
-    border-bottom-width: 2px;
+    opacity: var(--opacity-hover);
+    border-bottom-width: var(--border-width-thick);
 }
 
 .greek {
-    font-size: 1.2em;
+    font-size: var(--text-xl);
     font-weight: 400;
     color: var(--text);
 }

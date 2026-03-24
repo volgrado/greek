@@ -3,12 +3,12 @@
         "A1 Foundations & Survival": [
             {
                 "id": "basics",
-                "title": "Unit 1: The Greek Alphabet",
+                "title": "Unit 1: The Greek Writing System Masterclass",
                 "num": 1
             },
             {
                 "id": "nouns",
-                "title": "Unit 2: The Basics of Nouns",
+                "title": "Unit 2: The Basics of Nouns & Articles",
                 "num": 2
             },
             {
@@ -18,17 +18,17 @@
             },
             {
                 "id": "verbs",
-                "title": "Unit 4: Intro to Verbs (Type A)",
+                "title": "Unit 4: Regular Verbs & Negation (Type A)",
                 "num": 4
             },
             {
                 "id": "accusative-case",
-                "title": "Unit 5: The Accusative Case",
+                "title": "Unit 5: The Accusative Case & Basic Prepositions",
                 "num": 5
             },
             {
                 "id": "adjectives",
-                "title": "Unit 6: Adjectives & Agreement",
+                "title": "Unit 6: Adjectives, Colors & Numbers",
                 "num": 6
             },
             {
@@ -45,135 +45,135 @@
             },
             {
                 "id": "verb-groups-b",
-                "title": "Unit 9: Verb Groups B1 & B2",
+                "title": "Unit 9: Verb Groups B1 & B2 (The Accented Verbs)",
                 "num": 9
             },
             {
                 "id": "subjunctive-1",
-                "title": "Unit 10: Aspect & Subjunctive",
+                "title": "Unit 10: Verbal Aspect & The Subjunctive (Να)",
                 "num": 10
             },
             {
                 "id": "future-continuous",
-                "title": "Unit 11: Future Tenses (Θα)",
+                "title": "Unit 11: Future Tenses (Θα) & Aspect",
                 "num": 11
             },
             {
                 "id": "simple-stem",
-                "title": "Unit 12: Building the Simple Stem",
+                "title": "Unit 12: Building the Simple Stem (Σ, Ξ, Ψ)",
                 "num": 12
             },
             {
                 "id": "object-pronouns",
-                "title": "Unit 13: Object Pronouns",
+                "title": "Unit 13: Direct & Indirect Object Pronouns (Weak Pronouns)",
                 "num": 13
             },
             {
                 "id": "aorist-past",
-                "title": "Unit 14: The Past Tenses",
+                "title": "Unit 14: The Past Tenses (Imperfect vs. Aorist)",
                 "num": 14
             }
         ],
         "B1 Intermediate Grammar": [
             {
                 "id": "genitive-case",
-                "title": "Unit 15: Genitive Case",
+                "title": "Unit 15: The Genitive Case (Possession & Relationships)",
                 "num": 15
             },
             {
                 "id": "imperative",
-                "title": "Unit 16: Imperative Mood",
+                "title": "Unit 16: The Imperative Mood (Giving Orders)",
                 "num": 16
             },
             {
                 "id": "adverbs",
-                "title": "Unit 17: Adverbs & Manner",
+                "title": "Unit 17: Adverbs & Expressions of Manner",
                 "num": 17
             },
             {
                 "id": "deponent-verbs",
-                "title": "Unit 18: Passive & Deponent Verbs",
+                "title": "Unit 18: Passive Voice & Deponent Verbs (-ομαι)",
                 "num": 18
             },
             {
                 "id": "voices-moods",
-                "title": "Unit 19: Voices & Moods Review",
+                "title": "Unit 19: Voices, Moods & Special Forms",
                 "num": 19
             },
             {
                 "id": "perfect-tenses",
-                "title": "Unit 20: The Perfect Tenses",
+                "title": "Unit 20: The Perfect Tenses (I have done)",
                 "num": 20
             },
             {
                 "id": "conditionals-1-2",
-                "title": "Unit 21: Conditionals (If Clauses)",
+                "title": "Unit 21: Conditionals (The 'If' Clauses)",
                 "num": 21
             }
         ],
         "B2 Advanced Fluency": [
             {
                 "id": "particles",
-                "title": "Unit 22: Spoken Expressions",
+                "title": "Unit 22: Advanced Particles & Spoken Expressions",
                 "num": 22
             },
             {
                 "id": "relative-pronouns",
-                "title": "Unit 23: Relative Pronouns",
+                "title": "Unit 23: Relative Pronouns (Who, Which, That)",
                 "num": 23
             },
             {
                 "id": "reflexive-pronouns",
-                "title": "Unit 24: Reflexive Pronouns",
+                "title": "Unit 24: Reflexive Pronouns (Myself)",
                 "num": 24
             },
             {
                 "id": "adjective-comparison",
-                "title": "Unit 25: Adjective Comparison",
+                "title": "Unit 25: Adjective Comparison (Better, Faster)",
                 "num": 25
             },
             {
                 "id": "participles",
-                "title": "Unit 26: Participles",
+                "title": "Unit 26: Active & Passive Participles (Οι Μετοχές)",
                 "num": 26
             },
             {
                 "id": "impersonal-verbs",
-                "title": "Unit 27: Impersonal Verbs",
+                "title": "Unit 27: Impersonal Verbs & Expressions",
                 "num": 27
             },
             {
                 "id": "idioms",
-                "title": "Unit 28: Idioms & Remnants",
+                "title": "Unit 28: Idioms & Ancient Remnants",
                 "num": 28
             }
         ],
         "C1 Advanced syntax": [
             {
                 "id": "diminutives",
-                "title": "Unit 29: Diminutives",
+                "title": "Unit 29: Diminutives & Augmentatives (Υποκοριστικά & Μεγεθυντικά)",
                 "num": 29
             },
             {
                 "id": "compound-words",
-                "title": "Unit 30: Compound Words",
+                "title": "Unit 30: Compound Words & Prefixation",
                 "num": 30
             }
         ],
         "C2 Mastery": [
             {
                 "id": "ancient-remnants",
-                "title": "Unit 31: Ancient Remnants",
+                "title": "Unit 31: Ancient Remnants & Formal Registers",
                 "num": 31
             },
             {
                 "id": "genitive-absolute",
-                "title": "Unit 32: Genitive Absolute",
+                "title": "Unit 32: Participles in the Genitive Absolute (Γενική Απόλυτη)",
                 "num": 32
             },
             {
                 "id": "irregular-words",
-                "title": "Unit 33: Irregular Words",
+                "title": "Unit 33: Irregular & Defective Words",
                 "num": 33
             }
         ]
@@ -318,11 +318,23 @@
                 "id": "exercise-adjectives",
                 "title": "Unit 6-7: Adjectives & Objects",
                 "num": 3
-            },
+            }
+        ],
+        "A2 Expansion (Practice)": [
             {
                 "id": "exercise-plurals",
                 "title": "Unit 8-10: Plurals & Verbs",
                 "num": 4
+            },
+            {
+                "id": "exercise-future",
+                "title": "Unit 11-12: The Future & Stems",
+                "num": 5
+            },
+            {
+                "id": "exercise-past",
+                "title": "Unit 13-14: Pronouns & The Past",
+                "num": 6
             }
         ]
     }

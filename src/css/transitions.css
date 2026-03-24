@@ -5,53 +5,47 @@
 
 /* 1. Global Page Morph: Slide & Fade */
 ::view-transition-group(main-content) {
-    animation-duration: 0.5s;
+    animation-duration: var(--transition-slow);
     animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 ::view-transition-old(main-content) {
-    animation: 0.4s cubic-bezier(0.16, 1, 0.3, 1) both slide-out;
+    animation: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
 }
 
 ::view-transition-new(main-content) {
-    animation: 0.5s cubic-bezier(0.16, 1, 0.3, 1) both slide-in;
+    animation: var(--transition-normal) both fade-in, 
+               var(--transition-normal) both slide-from-bottom;
 }
 
 /* 2. Search Panel: Vertical Blur-In */
 ::view-transition-old(search-panel) {
-    animation: 0.3s ease-in both fade-out;
+    animation: var(--transition-normal) both fade-out;
 }
 
 ::view-transition-new(search-panel) {
-    animation: 0.4s cubic-bezier(0.16, 1, 0.3, 1) both reveal-down;
+    animation: var(--transition-medium) both reveal-down,
+               var(--transition-medium) both fade-in;
 }
 
 /* Keyframes */
-@keyframes slide-out {
-    from {
-        opacity: 1;
-        transform: scale(1);
-        filter: blur(0);
-    }
-
+@keyframes slide-to-top {
     to {
-        opacity: 0;
-        transform: scale(0.98) translateY(-10px);
-        filter: blur(15px);
+        transform: translateY(calc(-1 * var(--space-4)));
     }
 }
 
-@keyframes slide-in {
+@keyframes slide-from-bottom {
+    from {
+        transform: translateY(var(--space-4));
+    }
+}
+
+@keyframes fade-in {
     from {
         opacity: 0;
-        transform: scale(1.02) translateY(10px);
-        filter: blur(15px);
-    }
-
-    to {
-        opacity: 1;
-        transform: scale(1) translateY(0);
-        filter: blur(0);
     }
 }
 
@@ -64,7 +58,7 @@
 @keyframes reveal-down {
     from {
         clip-path: inset(0 0 100% 0);
-        transform: translateY(-10px);
+        transform: translateY(calc(-1 * var(--space-2)));
     }
 
     to {

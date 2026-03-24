@@ -87,10 +87,44 @@ class CalloutPreprocessor(Preprocessor):
             i += 1
         return new_lines
 
+class ListFixPreprocessor(Preprocessor):
+    """
+    Ensures a blank line before any line starting with '* ' or '- '
+    if it's preceded by a non-blank line.
+    """
+    def run(self, lines):
+        new_lines = []
+        for i, line in enumerate(lines):
+            # Check if current line starts a list item (possibly inside a blockquote)
+            # Group 1: optional blockquote prefix (e.g. "> ")
+            # Group 2: list marker (e.g. "* ")
+            m = re.match(r'^([ \t]*>[ \t]*)?([ \t]*[*+-][ \t]+)', line)
+            if m:
+                prefix = m.group(1) or ""
+                # If there's a previous line and it's not blank
+                if i > 0 and new_lines and new_lines[-1].strip():
+                    # Check if the previous line is also a list item (with or without prefix)
+                    prev_m = re.match(r'^([ \t]*>[ \t]*)?([ \t]*[*+-][ \t]+)', new_lines[-1])
+                    if not prev_m:
+                        # Check content of previous line (strip > if present)
+                        prev_content = new_lines[-1].strip()
+                        if prev_content.startswith('>'):
+                            prev_content = prev_content[1:].strip()
+                        
+                        # If previous line had content and wasn't a header/rule/list
+                        if prev_content and not re.match(r'^(#+|-{3,}|\*{3,}|_{3,})', prev_content):
+                            # Insert a blank line (preserving the blockquote prefix if we are in one)
+                            # If prefix is "> ", insert "> " to maintain the callout block
+                            # If prefix is "", insert ""
+                            new_lines.append(prefix.rstrip())
+            new_lines.append(line)
+        return new_lines
+
 class CustomBlockExtension(Extension):
     def extendMarkdown(self, md):
         md.preprocessors.register(CustomBlockPreprocessor(md), 'custom_blocks', 101)
         md.preprocessors.register(CalloutPreprocessor(md), 'callouts', 102)
+        md.preprocessors.register(ListFixPreprocessor(md), 'list_fix', 103)
 
 def parse_markdown(md_text, lang_code):
     """Compiles Markdown to HTML."""

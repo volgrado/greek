@@ -36,27 +36,17 @@ export const I18N = {
         vocabulary: 'L',
         exercises: 'P',
         courseName: 'GREEK LANGUAGE COURSE'
-    },
-    es: {
-        label: 'ES',
-        symbol: 'Ñ',
-        title: 'SPANISH',
-        themeToggle: 'Change Theme',
-        downloadToggle: 'Download Offline',
-        langToggle: 'Change Course',
-        footer: '&copy; 2026 / SPANISH PROJECT',
-        dataFile: '/public/data/es/curriculum.json',
-        lessonsPath: '/public/data/es/lessons/',
-        errorTitle: 'Oops!',
-        errorOffline: 'You are offline and this lesson hasn\'t been downloaded.',
-        errorNotFound: 'Lesson content not found.',
-        errorRetry: 'Retry',
-        errorBack: 'Back to Curriculum',
-        resetProgress: 'Restablecer Progreso',
-        resetConfirm: '¿Confirmar?',
-        grammar: 'G',
-        vocabulary: 'L',
-        exercises: 'P',
-        courseName: 'CURSO DE IDIOMA ESPAÑOL'
     }
+};
+
+/**
+ * App global constants
+ */
+export const CONFIG = {
+    APP_CACHE_NAME: 'greek-v12',
+    LESSON_CACHE_PREFIX: 'pwa-lessons-',
+    LESSON_CACHE_VERSION: 'v2',
+    SYNC_CHANNEL_NAME: 'greek_app_sync',
+    DEFAULT_LANG: 'el',
+    DEFAULT_VIEW_MODE: 'grammar'
 };
