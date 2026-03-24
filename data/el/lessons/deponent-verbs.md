@@ -1,71 +1,91 @@
 # Unit 18: Passive Voice & Deponent Verbs (-ομαι)
 
-Welcome to **Type C** verbs. These verbs don’t end in **-ω**; they end in **-ομαι** *(o-me)*. This ending system is used for two very different things in Greek: the **Passive Voice** and **Deponent Verbs**.
+Welcome to Type C verbs. These verbs don’t end in **-ω**; they end in **-ομαι** (o-me). This ending system is used for two very different things in Greek: the Passive Voice and Deponent Verbs.
 
 ---
 
 ## 1. What are Deponent Verbs?
-Some of the most common verbs in Greek *look* passive but are actually **active**. These are called Deponent Verbs. They only exist in the -ομαι form.
+Some of the most common verbs in Greek look passive but are actually active in meaning. These are called **Deponent Verbs**. They only exist in the -ομαι form.
 
-| Verb | Meaning | Example |
-| :--- | :--- | :--- |
-| **έρχομαι** | I come | Από πού **έρχεσαι**; |
-| **γίνομαι** | I become / I happen | Τι **γίνεσαι**; (How are you?) |
-| **χρειάζομαι** | I need | **Χρειάζομαι** βοήθεια. |
-| **σκέφτομαι** | I think | Τι **σκέφτεσαι**; |
+*   **έρχομαι** (I come) ➔ *Από πού έρχεσαι;*
+*   **αισθάνομαι** (I feel) ➔ *Αισθάνομαι καλά.*
+*   **χρειάζομαι** (I need) ➔ *Χρειάζομαι βοήθεια.*
+*   **σκέφτομαι** (I think) ➔ *Τι σκέφτεσαι;*
+*   **φοβάμαι / ντρέπομαι** (I fear / I am ashamed)
+
+> [!CAUTION]
+> **The "Semi-Deponents"**  
+> Some very common verbs are "semi-deponent". This means they look passive in the Present and Imperfect tenses, but they suddenly switch to **Active** endings in the Simple Past!
+> *   **γίνομαι** (I become) ➔ Past: **έγινα** (I became).
+> *   **έρχομαι** (I come) ➔ Past: **ήρθα** (I came).
+> *   **κάθομαι** (I sit) ➔ Past: **κάθισα** (I sat).
 
 ---
 
 ## 2. Present Tense Conjugation
-Both Passive and Deponent verbs use these "Type C" endings:
+Both Passive and Deponent verbs of the First Conjugation use these "Type C" endings:
 
-| Pronoun | Ending | Example: **έρχομαι** |
-| :--- | :---: | :--- |
+| Pronoun | Ending | Example: έρχομαι (I come) |
+| :--- | :--- | :--- |
 | (Εγώ) | **-ομαι** | έρχ**ομαι** |
 | (Εσύ) | **-εσαι** | έρχ**εσαι** |
 | (Αυτό/ή/ό) | **-εται** | έρχ**εται** |
 | (Εμείς) | **-όμαστε** | ερχ**όμαστε** |
-| (Εσείς) | **-εστε** | έρχ**εστε** |
+| (Εσείς) | **-εστε / -όσαστε** | έρχ**εστε** / ερχ**όσαστε** |
 | (Αυτοί/ές/ά) | **-ονται** | έρχ**ονται** |
 
 > [!TIP]
-> **The Accent Shift**: Notice that in the "We" form (**ερχόμαστε**), the accent mark jumps forward. This is a very common rhythmic rule in Greek!
+> **The Accent Shift & Colloquial Forms**  
+> Notice that in the "We" form (**ερχόμαστε**), the accent mark jumps one syllable to the right. This is a very common rhythmic rule in Greek! Also, for the "You all" form, **-εστε** is standard, but **-όσαστε** (with the same accent shift) is a very frequent colloquial alternative.
 
 ---
 
 ## 3. The True Passive Voice
-You can also take an active verb (like **πλένω** - I wash) and flip it to the passive form (**πλένομαι** - I am washed / I wash myself).
+You can also take an active verb (like *πλένω* - I wash) and flip it to the passive form (*πλένομαι* - I am washed). The passive voice is often used reflexively in Greek (to do something to oneself).
 
-- **Active**: Πλένω το αυτοκίνητο. (I wash the car).
-- **Passive**: **Πλένομαι**. (I am washing myself / I am taking a bath).
+*   **Active:** Πλένω το αυτοκίνητο. (I wash the car).
+*   **Passive/Reflexive:** **Πλένομαι**. (I am washing myself / I am taking a bath).
 
-### "By Someone" (Από)
-To say "by" in a passive sentence, use **από** + Accusative.
-
-- **Το βιβλίο διαβάζεται από τον Γιώργο.** (The book is read by George).
+### "By Someone" (Ο Ποιητής / The Agent)
+To say "by" in a passive sentence, you use the preposition **από** + Accusative. The object of the active sentence becomes the subject of the passive one.
+*   *Active:* Ο Γιώργος διαβάζει το βιβλίο. (George reads the book).
+*   *Passive:* Το βιβλίο διαβάζεται **από τον** Γιώργο. (The book is read by George).
 
 ---
 
 ## 4. Past Passive (Aorist)
-The past tense of many passive verbs is marked by the letter **Θ** (Theta) and the endings **-ηκα, -ηκες, -ηκε**.
+The simple past tense of passive verbs is characterized by the extra syllable **-ηκ-** (or variations of it) placed right before the past endings. The stress always falls on the third syllable from the end.
 
-- **Active Past**: Έπλυνα (I washed).
-- **Passive Past**: **Πλύθηκα** (I was washed / I bathed).
+| Pronoun | Ending | Example: πλένομαι ➔ πλύθηκα |
+| :--- | :--- | :--- |
+| (Εγώ) | **-ηκα** | πλύθηκα (I was washed) |
+| (Εσύ) | **-ηκες** | πλύθηκες |
+| (Αυτός/ή/ό) | **-ηκε** | πλύθηκε |
+| (Εμείς) | **-ήκαμε** | πλυθήκαμε |
+| (Εσείς) | **-ήκατε** | πλυθήκατε |
+| (Αυτοί/ές/ά) | **-ηκαν / -ήκανε** | πλύθηκαν / πλυθήκανε |
 
-> [!CAUTION]
-> **Not Always Theta!**  
-> While **-θηκα** is common, many everyday verbs change their stem to use **στ, φτ,** or **χτ** before the **-ηκα** ending. For example:
-> - **ετοιμάζω** ➔ **ετοιμάστηκα** (I got ready)
-> - **κρύβω** ➔ **κρύφτηκα** (I hid myself)
+> [!WARNING]
+> **The Consonant "Cheat Codes" Return!**  
+> Do you remember the simple stem groups (Σ, Ξ, Ψ) from Unit 12? The consonant before the **-ηκα** ending changes depending on the active stem!
+> 
+> *   **The 'S' Group (ζω, νω, θω):** Uses **-στηκα** or **-θηκα**. 
+>     *ετοιμάζω* ➔ ετοιμά**στ**ηκα (I got ready).
+>     *δένω* ➔ δέ**θ**ηκα (I was tied).
+> *   **The 'PS' (Lip) Group (πω, βω, φω, -εύω):** Uses **-φτηκα** (or formally *-φθηκα*).
+>     *κρύβω* ➔ κρύ**φτ**ηκα (I hid myself).
+> *   **The 'X' (Throat) Group (κω, γω, χω):** Uses **-χτηκα** (or formally *-χθηκα*).
+>     *ανοίγω* ➔ ανοί**χτ**ηκα (I was opened).
 
 ---
 
 ## 🎯 Unit 18 Mastery Checklist
-- [ ] I can conjugate **έρχομαι** in the present tense.
-- [ ] I know that verbs ending in **-ομαι** can be either Active (Deponent) or Passive/Reflexive.
-- [ ] I recognize the **-ηκα** ending as a marker of the Past Passive, even if the consonant before it changes.
+*   [ ] I can conjugate **έρχομαι** in the present tense, remembering the accent shift in **ερχόμαστε**.
+*   [ ] I know that verbs ending in **-ομαι** can be either Active (Deponent) or Passive/Reflexive.
+*   [ ] I know what a "semi-deponent" verb is (**έρχομαι ➔ ήρθα**).
+*   [ ] I can use **από** + Accusative to express "by someone" in a passive sentence.
+*   [ ] I recognize the **-ηκα, -στηκα, -φτηκα, -χτηκα** endings as markers of the Past Passive.
 
 **Practice Vocabulary:** [B1 Vocabulary: Deponent Verbs & States](/lessons/vocabulary-deponent-states)
 
-**Up Next:** [Unit 19: Imperfect vs. Aorist (Refined Comparison)](/lessons/imperfect-tense) 
-*(Note: We will further refine the past tense split in the next phase!)*
+**Up Next:** [Unit 19: Voices & Moods Review](/lessons/voices-moods)

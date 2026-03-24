@@ -2,20 +2,20 @@ header.root-nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.75rem 0;
+    padding: var(--space-3) 0;
     margin-bottom: 0;
-    border-bottom: 1px solid var(--border);
+    border-bottom: var(--border-width) solid var(--border);
     view-transition-name: main-header;
     position: sticky;
     top: 0;
-    z-index: 1000;
+    z-index: var(--z-header);
 
     /* 🛡️ Genius Mask: Solid block that hides content but looks like a margin */
-    border-top: 0.75rem solid var(--bg);
+    border-top: var(--space-3) solid var(--bg);
 
     /* Premium touch: subtle transparency and blur if supported */
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(var(--blur-lg));
+    -webkit-backdrop-filter: blur(var(--blur-lg));
     background-color: color-mix(in srgb, var(--bg), transparent 5%);
 }
 
@@ -24,53 +24,58 @@ header.root-nav a.logo {
     border: none;
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: var(--space-4);
     font-family: var(--font-ui);
-    letter-spacing: -0.05em;
+    letter-spacing: var(--ls-tightest);
 }
 
-header.root-nav .owl-logo {
-    height: 1.8rem;
-    width: auto;
-    fill: var(--text);
-    transition: fill 0.3s ease;
+header.root-nav .flag-logo {
+    height: var(--space-10); /* Matches button size exactly */
+    aspect-ratio: 27/18;
+    border-radius: var(--radius-sm);
+    overflow: hidden;
+    transition: all var(--transition-normal);
+}
+
+.flag-logo .flag-bg {
+    fill: var(--accent);
+}
+
+.flag-logo .flag-stripes {
+    stroke: var(--bg);
 }
 
 .header-actions {
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: var(--space-4);
     font-family: var(--font-ui);
 }
 
 footer {
-    margin-top: 1rem !important;
+    margin-top: var(--space-4) !important;
     text-align: center;
     color: var(--muted-text);
-    font-size: 0.6rem;
-    border-top: 1px solid var(--border);
-    padding: 1rem 0;
+    padding: var(--space-4);
+    border: var(--border-width) solid var(--border);
+    border-radius: var(--radius-md);
     text-transform: uppercase;
-    letter-spacing: 0.3em;
+    letter-spacing: var(--ls-widest);
     font-family: var(--font-ui);
 }
 
 @media screen and (max-width: 480px) {
     header.root-nav a.logo {
-        gap: 0.5rem;
+        gap: var(--space-2);
     }
 
     #logo-text {
-        font-size: 0.8rem;
+        font-size: var(--text-sm);
     }
 
     .header-actions {
-        gap: 0.5rem;
+        gap: var(--space-2);
     }
 
-    .lang-toggle,
-    .theme-toggle,
-    .download-toggle {
-        padding: 0.4rem 0.6rem;
-    }
+    /* Padding for buttons handled by .btn-base in components.css */
 }

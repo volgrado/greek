@@ -54,7 +54,7 @@ export const updateUIStrings = () => {
     if (searchBtn) searchBtn.title = "Search Lessons";
 };
 
-export const resetProgress = (linkElement) => {
+export const resetProgress = (linkElement, routeFn) => {
     const strings = I18N[state.currentLang];
     const clearLabel = linkElement.querySelector('span') || linkElement;
     if (clearLabel.textContent === strings.resetProgress) {
@@ -72,7 +72,6 @@ export const resetProgress = (linkElement) => {
     clearLabel.textContent = 'Done!';
 
     if (window.location.pathname === '/' || window.location.pathname === '/index.html' || window.location.pathname === '/curriculum') {
-        const routeFn = window._route; // Get globally if needed or pass it
         if (state.db && routeFn) routeFn();
     }
 
@@ -98,7 +97,6 @@ export const initI18n = (routeFn) => {
     updateUIStrings();
 
     // 3. User interaction just modifies the reactive variable
-    const langToggle = getEl('lang-toggle');
     const modeSwitchBtn = getEl('mode-switch-btn');
     const clearProgressBtn = getEl('clear-progress');
 
@@ -116,13 +114,6 @@ export const initI18n = (routeFn) => {
         }
     };
 
-    if (langToggle) {
-        langToggle.addEventListener('click', () => {
-            const nextLang = state.currentLang === 'el' ? 'es' : 'el';
-            state.lessonCache = {};
-            state.currentLang = nextLang;
-        });
-    }
 
     if (modeSwitchBtn) {
         modeSwitchBtn.addEventListener('click', () => {
@@ -150,7 +141,7 @@ export const initI18n = (routeFn) => {
 
     if (clearProgressBtn) {
         clearProgressBtn.addEventListener('click', (e) => {
-            resetProgress(clearProgressBtn);
+            resetProgress(clearProgressBtn, routeFn);
         });
     }
 };

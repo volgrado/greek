@@ -1,40 +1,19 @@
+import { getFlatLessons } from './lesson-utils.js';
+import { CONFIG } from './config.js';
+
 class AppState {
     constructor() {
         this._listeners = {};
 
         // 📡 Genius Sync: Telepathic Broadcast Channel
-        this.syncChannel = new BroadcastChannel('greek_app_sync');
+        this.syncChannel = new BroadcastChannel(CONFIG.SYNC_CHANNEL_NAME);
 
-        this.syncChannel.onmessage = (e) => {
-            const { type, prop, value, id } = e.data;
-            if (type === 'SYNC_PROP') {
-                if (this._data[prop] !== value) {
-                    this._data[prop] = value;
-                    if (this._listeners[prop]) {
-                        if (document.startViewTransition) {
-                            document.startViewTransition(() => {
-                                this._listeners[prop].forEach(fn => fn(value));
-                            });
-                        } else {
-                            this._listeners[prop].forEach(fn => fn(value));
-                        }
-                    }
-                }
-            } else if (type === 'SYNC_VIEWED') {
-                this._data.viewedLessons.add(id);
-                // Blindly attempt to check the UI if curriculum is open
-                const link = document.querySelector(`a[href="/lessons/${id}"]`);
-                if (link) link.classList.add('viewed');
-            } else if (type === 'SYNC_RESET_PROGRESS') {
-                this._data.viewedLessons.clear();
-                document.querySelectorAll('.curriculum-link.viewed').forEach(el => el.classList.remove('viewed'));
-            }
-        };
+        this.syncChannel.onmessage = (e) => this._handleSyncMessage(e);
 
         this._data = {
-            currentLang: localStorage.getItem('lang') || 'el',
+            currentLang: localStorage.getItem('lang') || CONFIG.DEFAULT_LANG,
             currentTheme: localStorage.getItem('theme'),
-            viewMode: localStorage.getItem('viewMode') || 'grammar',
+            viewMode: localStorage.getItem('viewMode') || CONFIG.DEFAULT_VIEW_MODE,
             db: null,
             isDownloaded: false,
             lessonCache: {},
@@ -56,20 +35,9 @@ class AppState {
             set: (target, prop, value) => {
                 if (prop in target._data) {
                     const changed = target._data[prop] !== value;
-                    target._data[prop] = value;
                     if (changed) {
-                        // Broadcast the change to other tabs magically
-                        target.syncChannel.postMessage({ type: 'SYNC_PROP', prop, value });
-
-                        if (target._listeners[prop]) {
-                            if (document.startViewTransition) {
-                                document.startViewTransition(() => {
-                                    target._listeners[prop].forEach(fn => fn(value));
-                                });
-                            } else {
-                                target._listeners[prop].forEach(fn => fn(value));
-                            }
-                        }
+                        target._data[prop] = value;
+                        this._notify(prop, value, true);
                     }
                     return true;
                 }
@@ -77,6 +45,38 @@ class AppState {
                 return true;
             }
         });
+    }
+
+    _handleSyncMessage(e) {
+        const { type, prop, value, id } = e.data;
+        if (type === 'SYNC_PROP') {
+            if (this._data[prop] !== value) {
+                this._data[prop] = value;
+                this._notify(prop, value, false);
+            }
+        } else if (type === 'SYNC_VIEWED') {
+            this._data.viewedLessons.add(id);
+            const link = document.querySelector(`a[href="/lessons/${id}"]`);
+            if (link) link.classList.add('viewed');
+        } else if (type === 'SYNC_RESET_PROGRESS') {
+            this._data.viewedLessons.clear();
+            document.querySelectorAll('.curriculum-link.viewed').forEach(el => el.classList.remove('viewed'));
+        }
+    }
+
+    _notify(prop, value, broadcast = false) {
+        if (broadcast) {
+            this.syncChannel.postMessage({ type: 'SYNC_PROP', prop, value });
+        }
+
+        if (this._listeners[prop]) {
+            const run = () => this._listeners[prop].forEach(fn => fn(value));
+            if (document.startViewTransition) {
+                document.startViewTransition(run);
+            } else {
+                run();
+            }
+        }
     }
 
     subscribe(key, callback) {
@@ -103,27 +103,14 @@ class AppState {
     }
 
     getFlatLessons() {
-        if (!this._data.db) return [];
-
-        // Logic split by viewMode (grammar vs vocabulary)
-        const structure = this._data.db.structure[this._data.viewMode] || this._data.db.structure || this._data.db;
-        const flat = [];
-        let cIdx = 1;
-
-        for (const section in structure) {
-            if (!Array.isArray(structure[section])) continue;
-            flat.push(...structure[section].map(l => ({ ...l, sectionName: section, cIdx })));
-            cIdx++;
-        }
-
-        return flat;
+        return getFlatLessons(this._data.db?.structure || this._data.db, this._data.viewMode);
     }
 
     async checkDownloadStatus() {
         if (!this._data.db || !this._data.db.structure) return false;
 
         const lessons = this.getFlatLessons();
-        const cacheName = `pwa-lessons-${this._data.currentLang}-v2`;
+        const cacheName = `${CONFIG.LESSON_CACHE_PREFIX}${this._data.currentLang}-${CONFIG.LESSON_CACHE_VERSION}`;
 
         try {
             const cache = await caches.open(cacheName);

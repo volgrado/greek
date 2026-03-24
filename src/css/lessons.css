@@ -12,29 +12,29 @@
     justify-content: space-between;
     align-items: center;
     cursor: pointer;
-    padding: 0.25rem 0;
+    padding: var(--space-1) 0;
     user-select: none;
-    transition: opacity 0.2s ease;
+    transition: opacity var(--transition-fast);
 }
 
 .section-header:hover {
-    opacity: 0.7;
+    opacity: var(--opacity-hover);
 }
 
 .section-header h2 {
     margin: 0;
-    font-size: 0.85rem;
+    font-size: var(--text-sm);
     font-family: var(--font-ui);
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: var(--ls-wide);
     font-weight: 800;
     color: var(--muted-text);
 }
 
 .toggle-icon {
-    width: 20px;
-    height: 20px;
-    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    width: var(--space-5);
+    height: var(--space-5);
+    transition: transform var(--transition-normal);
     color: var(--muted-text);
     display: flex;
 }
@@ -44,12 +44,12 @@
 }
 
 .section-content {
-    max-height: 2000px;
+    max-height: 200vh;
     overflow: hidden;
-    transition: max-height 0.4s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+    transition: max-height var(--transition-normal), opacity var(--transition-fast);
     opacity: 1;
-    padding-top: 0.4rem;
-    padding-bottom: 0.1rem;
+    padding-top: var(--space-2);
+    padding-bottom: var(--space-1);
 }
 
 .curriculum-section.collapsed .section-content {
@@ -63,31 +63,31 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.15rem 0.5rem;
-    border: 1px solid var(--border);
-    margin-bottom: 0.1rem;
+    padding: var(--space-1) var(--space-2);
+    border: var(--border-width) solid var(--border);
+    margin-bottom: var(--space-1);
     font-family: var(--font-ui);
     font-weight: 600;
-    font-size: 0.8rem;
-    transition: opacity 0.3s cubic-bezier(0.16, 1, 0.3, 1), transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+    font-size: var(--text-sm);
+    transition: opacity var(--transition-normal), transform var(--transition-normal), background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow);
 }
 
 .curriculum-link:hover {
     background: var(--hover-overlay);
-    transform: translateX(4px);
+    transform: translateX(var(--space-1));
 }
 
 .curriculum-link.viewed {
-    border-left: 4px solid #48bb78;
+    border-left: var(--space-1) solid var(--success);
     /* Green indicator */
-    opacity: 0.8;
+    opacity: var(--opacity-muted);
 }
 
 .curriculum-link.viewed::after {
     content: '✓';
-    font-size: 0.8rem;
-    margin-left: 0.5rem;
-    color: #48bb78;
+    font-size: var(--text-sm);
+    margin-left: var(--space-2);
+    color: var(--success);
 }
 
 .curriculum-link.viewed span:last-child {
@@ -96,30 +96,30 @@
 
 /* Lesson Structure */
 .lesson-container {
-    margin-top: 3rem;
+    margin-top: var(--space-12);
 }
 
 .lesson-header {
-    margin-bottom: 2.5rem;
-    border-bottom: 1px solid var(--border);
-    padding-bottom: 1.5rem;
+    margin-bottom: var(--space-10);
+    border-bottom: var(--border-width) solid var(--border);
+    padding-bottom: var(--space-6);
 }
 
 .lesson-meta {
     font-family: var(--font-ui);
-    font-size: 0.75rem;
+    font-size: var(--text-xs);
     text-transform: uppercase;
-    letter-spacing: 0.25em;
+    letter-spacing: var(--ls-mega);
     color: var(--muted-text);
-    margin-bottom: 0.5rem;
+    margin-bottom: var(--space-2);
     display: block;
 }
 
 .lesson-header h1 {
     font-family: var(--font-editorial);
     font-weight: 400;
-    font-size: 3.5rem;
-    letter-spacing: -0.02em;
+    font-size: var(--text-5xl);
+    letter-spacing: var(--ls-ui);
 }
 
 /* Lesson Navigation */
@@ -127,19 +127,19 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: 2rem !important;
-    padding: 1rem 0;
-    border-top: 1px solid var(--border);
+    margin-top: var(--space-8) !important;
+    padding: var(--space-4) 0;
+    border-top: var(--border-width) solid var(--border);
     font-family: var(--font-ui);
-    font-size: 0.7rem;
+    font-size: var(--text-xs);
     text-transform: uppercase;
-    letter-spacing: 0.2em;
+    letter-spacing: var(--ls-widest);
 }
 
 .lesson-nav a {
-    border: 1px solid var(--border);
-    padding: 0.8rem 1.2rem;
-    transition: opacity 0.3s ease, background-color 0.5s ease, color 0.5s ease, border-color 0.5s ease;
+    border: var(--border-width) solid var(--border);
+    padding: var(--space-3) var(--space-5);
+    transition: opacity var(--transition-fast), background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow);
 }
 
 .lesson-nav a:hover {
@@ -157,12 +157,12 @@
 }
 
 /* Mobile Tweaks */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: var(--breakpoint-mobile)) {
     .lesson-header h1 {
-        font-size: 2.2rem;
+        font-size: var(--text-4xl);
     }
 
     .curriculum-link {
-        padding: 0.25rem 0.5rem;
+        padding: var(--space-1) var(--space-2);
     }
-}
+}

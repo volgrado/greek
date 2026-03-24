@@ -2,21 +2,21 @@
 .search-panel {
     background: var(--bg);
     border: none;
-    border-bottom: 0px solid var(--border);
-    padding: 0 1.5rem;
+    border-bottom: none;
+    padding: 0 var(--space-6);
     view-transition-name: search-panel;
     width: 100vw;
     margin: 0;
     max-height: 80vh;
-    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 var(--space-5) var(--space-12) color-mix(in srgb, var(--text) var(--p-shadow), transparent);
     inset: 0 auto auto 0;
     /* Align to top */
 }
 
 .search-panel:popover-open {
-    padding: 1rem 1.5rem;
-    border-bottom: 1px solid var(--border);
-    animation: slide-down 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+    padding: var(--space-4) var(--space-6);
+    border-bottom: var(--border-width) solid var(--border);
+    animation: slide-down var(--transition-normal);
 }
 
 @keyframes slide-down {
@@ -32,23 +32,23 @@
 }
 
 .search-panel::backdrop {
-    background: rgba(0, 0, 0, 0.1);
-    backdrop-filter: blur(4px);
-    transition: all 0.4s ease;
+    background: color-mix(in srgb, var(--text) 10%, transparent);
+    backdrop-filter: blur(var(--blur-sm));
+    transition: all var(--transition-normal);
 }
 
 .search-drawer-inner {
-    max-width: 65ch;
+    max-width: var(--max-width-content);
     margin: 0 auto;
 }
 
 .search-drawer-header {
     display: flex;
     align-items: center;
-    gap: 1.5rem;
-    border-bottom: 2px solid var(--text);
-    padding-bottom: 0.5rem;
-    margin-bottom: 1rem;
+    gap: var(--space-6);
+    border-bottom: var(--border-width-thick) solid var(--text);
+    padding-bottom: var(--space-2);
+    margin-bottom: var(--space-4);
 }
 
 .global-search-input {
@@ -56,15 +56,15 @@
     background: none;
     border: none;
     font-family: var(--font-editorial);
-    font-size: 2rem;
+    font-size: var(--text-4xl);
     color: var(--text);
     outline: none;
     font-weight: 400;
-    letter-spacing: -0.02em;
+    letter-spacing: var(--ls-ui);
 }
 
 .global-search-input::placeholder {
-    opacity: 0.15;
+    opacity: var(--opacity-ghost);
     font-style: italic;
 }
 
@@ -73,9 +73,9 @@
     border: none;
     cursor: pointer;
     color: var(--text);
-    opacity: 0.3;
-    transition: opacity 0.2s ease, transform 0.3s ease;
-    padding: 0.5rem;
+    opacity: var(--opacity-subtle);
+    transition: opacity var(--transition-fast), transform var(--transition-normal);
+    padding: var(--space-2);
 }
 
 .close-search-btn:hover {
@@ -84,50 +84,50 @@
 }
 
 .close-search-btn svg {
-    width: 1.5rem;
-    height: 1.5rem;
+    width: var(--space-6);
+    height: var(--space-6);
 }
 
 /* Results styling */
 .global-search-results {
-    animation: fadeIn 0.4s ease-out;
+    animation: fadeIn var(--transition-normal);
 }
 
 .search-result-item {
     display: block;
-    padding: 1.25rem 0;
-    border-bottom: 1px solid var(--border);
+    padding: var(--space-5) 0;
+    border-bottom: var(--border-width) solid var(--border);
     text-decoration: none;
     color: var(--text);
-    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+    transition: transform var(--transition-normal), opacity var(--transition-fast);
 }
 
 .search-result-item:hover {
-    transform: translateX(8px);
-    opacity: 0.7;
+    transform: translateX(var(--space-2));
+    opacity: var(--opacity-hover);
 }
 
 .search-result-item .lesson-meta {
-    font-size: 0.7rem;
-    opacity: 0.5;
-    margin-bottom: 0.4rem;
+    font-size: var(--text-xs);
+    opacity: var(--opacity-muted);
+    margin-bottom: var(--space-1);
     text-transform: uppercase;
-    letter-spacing: 0.1em;
+    letter-spacing: var(--ls-wide);
     font-family: var(--font-ui);
 }
 
 .search-result-item strong {
     display: block;
-    font-size: 1.4rem;
+    font-size: var(--text-2xl);
     font-family: var(--font-editorial);
-    margin-bottom: 0.5rem;
+    margin-bottom: var(--space-2);
     font-weight: 700;
 }
 
 .search-result-item p {
-    font-size: 0.9rem;
+    font-size: var(--text-base);
     color: var(--muted-text);
-    line-height: 1.6;
+    line-height: var(--line-height-reading);
     margin: 0;
 }
 
@@ -136,7 +136,7 @@
     text-align: center;
     color: var(--muted-text);
     font-style: italic;
-    font-size: 1.1rem;
+    font-size: var(--text-lg);
 }
 
 /* Body mode tweaks */
@@ -145,26 +145,26 @@ body.search-mode main#app {
 }
 
 body.search-mode footer {
-    opacity: 0.5;
-    border-top: 1px dashed var(--border);
-    margin-top: 4rem !important;
+    opacity: var(--opacity-muted);
+    border-top: var(--border-width) dashed var(--border);
+    margin-top: var(--space-16) !important;
 }
 
 /* Mobile Responsiveness for Search */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: var(--breakpoint-mobile)) {
     .global-search-input {
-        font-size: 1.5rem;
+        font-size: var(--text-2xl);
     }
 
     .search-drawer-header {
-        gap: 0.75rem;
+        gap: var(--space-3);
     }
 
     .search-result-item strong {
-        font-size: 1.2rem;
+        font-size: var(--text-xl);
     }
 
     .search-panel.is-open {
-        padding: 1rem 1rem;
+        padding: var(--space-4) var(--space-4);
     }
 }

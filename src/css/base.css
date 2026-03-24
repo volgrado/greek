@@ -7,7 +7,7 @@ html {
 
 /* Chrome, Safari, and Edge */
 ::-webkit-scrollbar {
-    width: 6px;
+    width: var(--space-2);
 }
 
 ::-webkit-scrollbar-track {
@@ -16,8 +16,8 @@ html {
 
 ::-webkit-scrollbar-thumb {
     background-color: var(--muted-text);
-    border-radius: 10px;
-    border: 2px solid var(--bg);
+    border-radius: var(--radius-md);
+    border: var(--border-width-thick) solid var(--bg);
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -27,11 +27,11 @@ html {
 body {
     color: var(--text);
     background: var(--bg);
-    max-width: 65ch;
+    max-width: var(--max-width-content);
     margin: 0 auto;
     padding: 0 var(--space-6) var(--space-4) var(--space-6);
     font-family: var(--font-editorial);
-    line-height: 1.7;
+    line-height: var(--line-height-base);
     -webkit-font-smoothing: antialiased;
     transition: background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow), fill var(--transition-slow);
     overflow-x: hidden;
@@ -41,6 +41,7 @@ body {
 img {
     max-width: 100%;
     height: auto;
+    filter: var(--img-filter);
 }
 
 body,
@@ -50,9 +51,7 @@ body,
 header,
 footer,
 .curriculum-link,
-.lang-toggle,
-.theme-toggle,
-.download-toggle,
+.btn-base,
 .lesson-nav a {
     transition: background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow), fill var(--transition-slow);
 }
@@ -61,27 +60,21 @@ footer,
 a:active,
 button:active,
 .curriculum-link:active {
-    transform: scale(0.97);
+    transform: scale(var(--scale-active));
 }
-
-
 
 main#app {
     view-transition-name: main-content;
 }
 
-body.dark-mode img {
-    filter: invert(1) brightness(1.2) contrast(1.2);
-}
+/* Mode-specific image handling moved to global img with --img-filter token */
 
-body.sepia-mode img {
-    filter: sepia(0.4) contrast(0.9) brightness(0.9);
-}
-
+/* 🦉 Lobotomized Owl for vertical rhythm */
 *+* {
-    margin-top: calc(var(--base-spacing) * 5);
+    margin-top: var(--space-5);
 }
 
+/* Reset margins for structural components to prevent owl interference */
 header a,
 header button,
 header svg,
@@ -97,4 +90,4 @@ footer p,
 .search-panel,
 main {
     margin-top: 0;
-}
+}

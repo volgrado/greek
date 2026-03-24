@@ -1,6 +1,8 @@
 import { state } from './state.js';
 import { I18N } from './config.js';
 import { fetchLessonHTML, prefetchNext } from './data.js';
+import { getFlatLessons, getLessonNavigation } from './lesson-utils.js';
+import { matchLessonPath } from './route-utils.js';
 
 
 const app = document.getElementById('app');
@@ -107,30 +109,13 @@ export const route = async (pathOverride = null) => {
     let preFetchedLesson = null;
     let lessonId = null;
 
-    // 🛣️ Genius Router: Native URLPattern API
+    // 🛣️ Centralized Routing Logic
+    const lessonMatch = matchLessonPath(path);
     let isLesson = false;
-
-    // We try to use the modern URLPattern, catching if it's not supported in older browsers
-    if ('URLPattern' in window) {
-        const pattern = new URLPattern({ pathname: '/lessons/:id' });
-        const match = pattern.exec({ pathname: path });
-
-        if (match) {
-            isLesson = true;
-            lessonId = decodeURIComponent(match.pathname.groups.id);
-            // Just in case there's a trailing slash captured
-            if (lessonId.endsWith('/')) lessonId = lessonId.slice(0, -1);
-            preFetchedLesson = await fetchLessonHTML(lessonId);
-        }
-    } else {
-        // Fallback
-        isLesson = path.includes('/lessons/');
-        if (isLesson) {
-            const parts = path.split('/lessons/');
-            lessonId = decodeURIComponent(parts[parts.length - 1]);
-            if (lessonId.endsWith('/')) lessonId = lessonId.slice(0, -1);
-            preFetchedLesson = await fetchLessonHTML(lessonId);
-        }
+    if (lessonMatch) {
+        isLesson = true;
+        lessonId = lessonMatch.id;
+        preFetchedLesson = await fetchLessonHTML(lessonId);
     }
 
     const updateDOM = async () => {
@@ -151,44 +136,13 @@ export const route = async (pathOverride = null) => {
             if (typeof res === 'string') {
                 app.innerHTML = res;
 
-                // FALLBACK: If the user bypassed the Service Worker (e.g. Shift+F5 or no SW)
-                if (!res.includes('class="lesson-nav"')) {
-                    const flatLessons = state.getFlatLessons();
-                    const currentIndex = flatLessons.findIndex(l => l.id === id);
+                // Authoritative Mounting: router.js adds the nav/meta
+                const flatLessons = getFlatLessons(state.db.structure, state.viewMode);
+                const nav = getLessonNavigation(flatLessons, id);
 
-                    if (currentIndex !== -1) {
-                        const l = flatLessons[currentIndex];
-                        const chapterName = `${l.cIdx}. ${l.sectionName}`;
-                        const lessonNum = l.hierarchical_num;
-
-                        const metaHTML = `
-                            <div class="lesson-meta">
-                                ${chapterName} ${lessonNum ? `&middot; LESSON ${lessonNum}` : ''}
-                            </div>
-                        `;
-
-                        let prevLink = '<span></span>';
-                        if (currentIndex > 0) {
-                            const prev = flatLessons[currentIndex - 1];
-                            prevLink = `<a href="/lessons/${prev.id}">← ${prev.title}</a>`;
-                        }
-
-                        let nextLink = '<span></span>';
-                        if (currentIndex < flatLessons.length - 1) {
-                            const next = flatLessons[currentIndex + 1];
-                            nextLink = `<a href="/lessons/${next.id}">${next.title} →</a>`;
-                        }
-
-                        const navHTML = `
-                        <div class="lesson-nav">
-                            ${prevLink}
-                            <a href="/" class="menu-btn">MENU</a>
-                            ${nextLink}
-                        </div>`;
-
-                        app.insertAdjacentHTML('afterbegin', metaHTML);
-                        app.insertAdjacentHTML('beforeend', navHTML);
-                    }
+                if (nav.current) {
+                    app.insertAdjacentHTML('afterbegin', nav.metaHTML);
+                    app.insertAdjacentHTML('beforeend', nav.navHTML);
                 }
 
                 state.markAsViewed(id);
@@ -204,16 +158,25 @@ export const route = async (pathOverride = null) => {
                     const errorClone = errorTemplate.content.cloneNode(true);
                     errorClone.querySelector('.error-title').textContent = strings.errorTitle;
                     errorClone.querySelector('.error-message').textContent = isConnError ? strings.errorOffline : strings.errorNotFound;
-                    errorClone.querySelector('.error-retry').textContent = strings.errorRetry;
+                    
+                    const retryBtn = errorClone.querySelector('.error-retry');
+                    if (retryBtn) retryBtn.textContent = strings.errorRetry;
 
                     const backLink = errorClone.querySelector('.error-back');
-                    backLink.textContent = strings.errorBack;
-                    backLink.href = '/';
+                    if (backLink) {
+                        backLink.textContent = strings.errorBack;
+                        backLink.href = '/';
+                    }
 
                     app.appendChild(errorClone);
                 } else {
                     const backHref = window.navigation ? '/' : '#/';
-                    app.innerHTML = `<div style="padding: 5rem; text-align: center"><h1 style="color: #e53e3e">${strings.errorTitle}</h1><a href="${backHref}">${strings.errorBack}</a></div>`;
+                    app.innerHTML = `
+                        <div class="error-container p-8 text-center">
+                            <h1 class="error-title mb-4">${strings.errorTitle}</h1>
+                            <p class="error-message mb-8">${isConnError ? strings.errorOffline : strings.errorNotFound}</p>
+                            <a href="${backHref}" class="btn-base">${strings.errorBack}</a>
+                        </div>`;
                 }
             }
         } else {
