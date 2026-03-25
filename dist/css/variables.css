@@ -125,7 +125,7 @@ html.dark-mode {
     --bg: var(--bg-dark);
     --text: var(--text-white);
     --accent: var(--brand-accent-dark);
-    --img-filter: invert(1) brightness(1.2) contrast(1.2);
+    --img-filter: grayscale(1) brightness(0.7) contrast(1.1);
 
     --p-subtle: 8%;
     --p-medium: 12%;

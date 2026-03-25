@@ -1,83 +1,90 @@
-# Unit 13: Direct & Indirect Object Pronouns (Weak Pronouns)
+# Unit 13: Direct & Indirect Object Pronouns
 
-In Unit 3, you learned how to say "I see him" (*Τον βλέπω*). These are **Direct Objects**. Now, we learn how to handle the receiver of an action: the **Indirect Object** (e.g., "Give *to me*"). 
+In Unit 3, you learned the subject pronouns (Εγώ, Εσύ, κτλ.) and how Greeks usually drop them. 
 
-These short, unstressed pronouns are formally known as "weak" or "clitic" pronouns. Mastering them is essential for natural, everyday Greek conversation.
+Now, we need to talk about the **Object Pronouns**—the little words like "me," "him," or "it." These are the real stars of everyday Greek conversation. They are short, unstressed, and we call them **Weak Pronouns**.
 
 ---
 
-## 1. The Two Types of Objects
+## 1. The Two Types of Targets
 
-### Direct Object (Accusative Case)
-The direct target of the action.
-*   **Με βλέπεις;** (Do you see me?).
-*   **Τον ξέρω.** (I know him.)
+To use them correctly, you must know if the person is the *direct target* of the action or the *indirect receiver* of something.
 
-### Indirect Object (Genitive Case)
-The person receiving something, or to whom/for whom an action is done. In English, we usually add "to" or "for", but in Greek, we simply use the Genitive case form of the pronoun!
-*   **Μου δίνεις...** (You give to me...)
-*   **Σου λέω...** (I am telling to you...)
+### The Direct Object (Accusative Case)
+This is the person or thing receiving the action directly.
+- **Με** βλέπεις; (Do you see **me**?).
+- **Τον** ξέρω. (I know **him**.)
 
-| English | Direct (Accusative) | Indirect (Genitive) |
+### The Indirect Object (Genitive Case)
+This is the person *to whom* or *for whom* an action is done. In English, we use extra words like "to" or "for" (e.g., "Give it *to me*"). In Greek, you don't need "to"—you just use the Genitive version of the pronoun!
+- **Μου** δίνεις τον καφέ; (Are you giving the coffee **to me**?)
+- **Σου** λέω την αλήθεια. (I am telling the truth **to you**.)
+
+### The Pronoun Cheat Sheet
+
+| English | Direct Object (Me/Him/It) | Indirect Object (To me/To him) |
 | :--- | :--- | :--- |
-| **Me / To me** | με | μου |
-| **You / To you (sg.)** | σε | σου |
-| **Him / To him** | τον | του |
-| **Her / To her** | τη(ν) | της |
-| **It / To it** | το | του |
-| **We / To us** | μας | μας |
-| **You / To you (pl.)** | σας | σας |
-| **Them (m/f/n)** | τους / τις / τα | τους |
+| **I / me** | **με** | **μου** |
+| **You** (sg.) | **σε** | **σου** |
+| **He / it (masc)** | **τον** | **του** |
+| **She / it (fem)** | **τη(ν)** | **της** |
+| **It (neut)** | **το** | **του** |
+| **We / us** | **μας** | **μας** |
+| **You** (pl./formal) | **σας** | **σας** |
+| **They / them** | **τους / τις / τα** | **τους** |
 
 > [!TIP]
-> **Notice the Plurals!**  
-> For "We" (**μας**) and "You plural" (**σας**), the Accusative and Genitive forms are exactly the same! 
+> **The Plural Freebies!**  
+> Notice that for "We" (**μας**) and "You" (**σας**), the Direct and Indirect forms are exactly the same! 
 
 ---
 
-## 2. Position in the Sentence
+## 2. The Clingy Rule (Positioning)
 
-These weak pronouns almost always sit **immediately in front of the verb**. Nothing can separate them from the verb except other weak pronouns.
-*   *Statement:* **Σου το** δίνω. (I am giving it to you).
-*   *With Particles:* They sit safely *between* the particles (**δεν, μην, θα, να, ας**) and the verb.
-    *   **Δεν σου** το δίνω. (I am not giving it to you).
-    *   **Θα μου** το πεις; (Will you tell it to me?).
+These weak pronouns are incredibly lazy. They cannot stand alone. They must cling **immediately to the front of the verb**.
+- **Το** ξέρω. (I know **it**).
+- **Τον** βλέπω. (I see **him**).
+
+### The Particle Sandwich
+Absolutely nothing can separate these pronouns from their verb—except other pronouns, or the magic particles **δεν, μην, θα, να, ας**. When you use particles, the pronouns jump *inside* to be closest to the verb.
+- **Δεν σε** ξέρω. (I don't know you).
+- **Θα σου** πω. (I will tell you).
+- Πρέπει **να το** κάνεις. (You must do it).
 
 > [!WARNING]
-> **The Imperative Exception**  
-> There is a major exception to the "front" rule. When you use an Imperative (a command) or a Gerund (an "-ing" word), the weak pronouns move to the **end** of the verb!
-> *   *Normal:* Μου το λες. (You tell it to me).
-> *   *Command:* Πες **μου το**. (Tell it to me!).
-> 
-> **Pronunciation Tip (Enclisis):** If adding the pronoun to the end of a command pushes the stress more than three syllables back, the verb gets an **extra accent mark**! (e.g., **Κοίταξέ με!** - Look at me!).
+> **The Command Exception!**  
+> If you are giving a direct command (the Imperative mood), the pronoun is forced to move to the **end** of the verb and attach to it like a tail!
+> - *Normal:* **Μου** το λες. (You are telling it to me).
+> - *Command:* Πες **μου** το! (Tell it to me!).
 
 ---
 
-## 3. Stacking Pronouns (The Double Pronoun Rule)
+## 3. Stacking Pronouns (Person Before Thing)
 
-What if you want to say "I give it (the book) to her (Maria)"? In Greek, the person always comes before the thing. The rule is strict: **The Indirect Object (Genitive) always comes BEFORE the Direct Object (Accusative)**.
+What if you want to say "I give it (the book) to her (Maria)"? You need to use two pronouns at once. 
 
-**Formula:** Indirect (Gen) + Direct (Acc) + Verb
+Greek is very polite: **The Person (Indirect) always comes before the Thing (Direct).**
 
-*   **Της το** δίνω. (I give it to her).
-*   **Μου το** λες; (Are you telling it to me?).
-*   **Σας τα** γράφω. (I am writing them [neut] to you all).
-*   **Μη μου τα** δείξεις. (Don't show them to me).
+**Formula:** Indirect (Genitive) + Direct (Accusative) + Verb
 
-> [!TIP]
-> **Native Speaker Secrets:**  
-> *   **The "S' to" blend:** In rapid colloquial speech, the combination **σου το** is often squeezed together into a single sound: **σ' το**! (e.g., *Σ' το είπα!* - I told you it!).
-> *   **Flexible Commands:** While the Genitive + Accusative order is perfectly strict before a verb, when they attach to the *end* of a command, Greeks are flexible! You can say either *Πες του το* OR *Πες το του* (Tell him it / Tell it him).
+- **Της το** δίνω. (I give **it to her**).
+- **Μου την** δίνεις; (Are you giving **her/it to me**?).
+- **Σας τα** γράφω. (I am writing **them to you all**).
+
+> [!CAUTION]
+> **Native Speed: The "S' to" Blend**  
+> When you stack **σου** (to you) and **το** (it), Greeks speak so fast that the "ou" disappears. The phrase **σου το** is almost always pronounced as a single sharp syllable: **σ' το**!
+> - *Σ' το λέω!* (I am telling it to you!)
 
 ---
 
 ## 🎯 Unit 13 Mastery Checklist
-*   [ ] I know the difference between **με** (Accusative/Direct) and **μου** (Genitive/Indirect).
-*   [ ] I have learned the plural forms (**μας, σας, τους**).
-*   [ ] I remember that the person (Indirect) comes before the thing (Direct): **Της το** δίνω.
-*   [ ] I know that pronouns go *after* the verb for commands (**Πες μου**).
-*   [ ] I can negate a double-pronoun sentence: **Δεν σου το** λέω.
+
+- [ ] I can choose between **με** (Direct/Accusative) and **μου** (Indirect/Genitive).
+- [ ] I know how to put pronouns *between* particles (**θα, να, δεν**) and the verb.
+- [ ] I understand the "Person before Thing" rule for stacking pronouns (e.g., **Της το**).
+- [ ] I know that command verbs force the pronoun to the end of the word (**Πες μου**).
 
 **Practice Vocabulary:** [A2 Vocabulary: Shopping & Clothes](/lessons/vocabulary-shopping-clothes)
 
-**Up Next:** [Unit 14: The Past Tenses (Imperfect vs. Aorist)](/lessons/aorist-past)
+**Next Lesson:** [Unit 14: The Past Tenses (Imperfect vs. Aorist)](/lessons/aorist-past)

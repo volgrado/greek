@@ -143,9 +143,37 @@ def parse_markdown(md_text, lang_code):
     )
 
     # Wrap tables for responsiveness
-    html = re.sub(r'<table>', '<div class="table-wrapper"><table>', html)
+    html = re.sub(r'<table>', '<div class="table-container"><table>', html)
     html = re.sub(r'</table>', '</table></div>', html)
     
+    # Process reading segments for word-level karaoke
+    # We find divs with class reading-segment and look for the first <p> (Greek text)
+    def wrap_words_in_p(match):
+        segment_content = match.group(0)
+        # Find the first paragraph
+        p_match = re.search(r'<p>(.*?)</p>', segment_content, re.DOTALL)
+        if p_match:
+            original_p = p_match.group(0)
+            inner_content = p_match.group(1)
+            
+            # Words are split by spaces, but we must preserve tags like <strong> or <em>
+            # We use a regex to split by whitespace but keep tags attached to words
+            # Simple approach: split by space and wrap each chunk that isn't just a tag
+            chunks = inner_content.split()
+            wrapped_chunks = []
+            for i, chunk in enumerate(chunks):
+                # Only wrap if it contains Greek letters or text (not just tags)
+                if re.search(r'[a-zA-Z\u0370-\u03ff]', chunk):
+                    wrapped_chunks.append(f'<span class="k-word" data-word-idx="{i}">{chunk}</span>')
+                else:
+                    wrapped_chunks.append(chunk)
+            
+            new_p = f'<p>{" ".join(wrapped_chunks)}</p>'
+            return segment_content.replace(original_p, new_p)
+        return segment_content
+
+    html = re.sub(r'<div class="reading-segment">.*?</div>', wrap_words_in_p, html, flags=re.DOTALL)
+
     # Process specific styling like translation lists 
     # Current pattern in markdown: - Target text (English text)
     def process_li(match):
@@ -169,7 +197,7 @@ def parse_markdown(md_text, lang_code):
         
     html = re.sub(r'<li>(.*?)</li>', process_li, html, flags=re.DOTALL)
     
-    return f'<div class="content-wrapper">\n{html}\n</div>'
+    return f'<div class="lesson-container">\n{html}\n</div>'
 
 
 def build_lang(lang_code, dist_root):

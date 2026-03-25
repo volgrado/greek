@@ -1,80 +1,92 @@
 # Unit 25: Adjective Comparison (Better, Faster)
 
-In Greek, there are two ways to compare things (e.g., "tall" ➔ "taller"). You can use the easy "more" method or the specialized one-word "suffix" method.
+In Greek, just like in English, there are two ways to compare things (e.g., "tall" ➔ "taller"). You can use the easy "more" method, or you can use the specialized one-word "suffix" method.
 
 ---
 
-## 1. The Easy Way: Πιο + Adjective
-This is currently the most common way to speak. Just put the word **πιο** (more) in front of the positive form of the adjective.
-*   **Μεγάλος** (Big) ➔ **Πιο μεγάλος** (Bigger)
-*   **Ωραίος** (Beautiful) ➔ **Πιο ωραίος** (More beautiful)
+## 1. The Easy Way: The "Πιο" Method
 
-**How to say "than":**  
-To express the second term of a comparison (e.g., "taller *than*..."), Greek uses the preposition **από** + Accusative case.
-*   **Ο Γιώργος είναι πιο ψηλός από τον Νίκο.** (George is taller than Nikos).
+This is the most common way to speak in modern everyday Greek. You simply put the word **πιο** (more) right in front of the normal adjective.
+
+- **Μεγάλος** (Big) ➔ **Πιο μεγάλος** (Bigger).
+- **Ωραία** (Beautiful) ➔ **Πιο ωραία** (More beautiful).
+- **Ακριβό** (Expensive) ➔ **Πιο ακριβό** (More expensive).
+
+### How to say "than"
+To complete the comparison (e.g., "taller *than*..."), Greek uses the preposition **από** followed by the Accusative case.
+- Ο Γιώργος είναι πιο ψηλός **από τον Νίκο**. (George is taller *than Nikos*).
+- Το κρασί είναι πιο ακριβό **από το νερό**. (Wine is more expensive *than water*).
 
 > [!TIP]
-> **Native Secret: The Genitive Pronoun**  
-> Instead of using *από εμένα* (than me) or *από εσένα* (than you), native speakers often just attach a weak possessive pronoun in the Genitive case directly after the comparative adjective!
-*   **Η Άννα είναι μεγαλύτερή μου.** (Anna is older *than me* / *my* senior).
+> **Native Secret: The Genitive Shortcut**  
+> If you want to say "than me" or "than you," you can use *από μένα*. But native speakers often completely drop the "από" and just attach a weak possessive pronoun (Genitive) directly to the end of the adjective! 
+> - Η Άννα είναι μικρότερή **μου**. (Anna is younger *than me* / *my* junior).
+> - Είναι ψηλότερός **σου**. (He is taller *than you*).
 
 ---
 
-## 2. The Native Way: The -τερος Suffix
-If you want to sound more precise or formal, you form a one-word comparative by adding the suffix **-τερος, -τερη, -τερο** to the stem of the adjective. 
+## 2. The Native Way: The "-τερος" Suffix
 
-**The Stress Rule:** Comparative forms with this suffix always have their stress on the third syllable from the end (the antepenultimate syllable).
-*   **Ψηλός** ➔ **Ψηλότερος** (Taller)
-*   **Νέος** (Young) ➔ **Νεότερος** (Younger)
-*   **Σπουδαίος** (Important) ➔ **Σπουδαιότερος** (More important)
+If you want to sound more elegant, faster, or more formal, you can form a one-word comparative by replacing the adjective's normal ending with the suffix **-τερος, -τερη, -τερο**. 
+
+**The Stress Rule:** When you use this suffix, the stress mark is heavily anchored: it **must** fall on the **third** syllable from the end!
+- **Ψηλός** (Tall) ➔ **Ψηλότερος** (Taller).
+- **Νέος** (Young) ➔ **Νεότερος** (Younger).
+- **Σπουδαίος** (Important) ➔ **Σπουδαιότερος** (More important).
 
 > [!WARNING]
-> **The "Πιο" Only Adjectives**  
-> Not all adjectives can take the *-τερος* suffix! You MUST use the *πιο* method for:
-> 1. Passive participles ending in **-μένος** (e.g., *πιο κουρασμένος* - more tired).
-> 2. Adjectives ending in **-ης, -ια, -ι** or **-ων, -ουσα, -ον**.
-> 3. Indeclinable colors like **μπλε** or **ροζ** (e.g., *πιο μπλε*).
+> **The "Πιο" Only Rule**  
+> You cannot put the *-τερος* suffix on everything! You absolutely MUST use the easy *πιο* method for:
+> 1. **Passive Participles:** Adjectives ending in **-μένος** (*πιο κουρασμένος* - more tired).
+> 2. **Strange Vowels:** Adjectives ending in **-ης** (*πιο συνεπής* - more consistent).
+> 3. **Foreign Colors:** Indeclinable words like **ροζ** or **μπλε** (*πιο ροζ* - more pink).
 
 ---
 
-## 3. Relative Superlatives (The Best)
-To say "the most" or "the best," you are forming the Relative Superlative. You simply add the Definite Article (**ο, η, το**) in front of either of your comparative forms.
-*   **Ο πιο καλός** (The best / The most good)
-*   **Ο καλύτερος** (The better one / The best one)
-*   **Το ψηλότερο κτήριο.** (The tallest building).
+## 3. The Superlative: "The Best"
+
+To say "the most" or "the best," you don't need a new word. You simply add the **Definite Article** (*ο, η, το*) to the very front of the comparative phrase!
+- **Ο πιο καλός** / **Ο καλύτερος** (The best).
+- **Η πιο ωραία** / **Η ωραιότερη** (The most beautiful).
+- **Το ψηλότερο** κτήριο. (The tallest building).
 
 ---
 
-## 4. The Absolute Superlative: -τατος
-If you want to stress an exceptional property, saying something is "extremely" or "very, very" X, use the absolute superlative suffix **-τατος, -τατη, -τατο**. Like the comparative, the stress always falls on the third syllable from the end.
-*   **Ωραιότατος** (Extremely beautiful / Most beautiful)
-*   **Βαθύτατος** (Very deep indeed / Profound)
-*   **Φθηνότατος** (Super cheap)
+## 4. The Absolute Superlative: "Extremely"
+
+If you don't want to compare something to anything else, but just want to emphasize that it is "extremely" or "unbelievably" X, you use the absolute superlative suffix: **-τατος, -τατη, -τατο**. 
+*(The stress is also on the third syllable from the end!)*
+
+- **Ωραιότατος** (Extremely beautiful / Gorgeous).
+- **Ακριβότατος** (Unbelievably expensive).
+- **Φθηνότατος** (Super cheap).
 
 ---
 
 ## 5. The Top Irregulars
-Like English ("good" ➔ "better", not "gooder"), the most common adjectives in Greek are irregular. You must memorize their comparative and absolute superlative forms:
 
-| Positive | Comparative (Better/More) | Absolute Superlative (Extremely/Excellent) |
+Just like English ("good" ➔ "better", not "gooder"), the most common adjectives in Greek refuse to follow the rules. You must memorize these changelings:
+
+| The Adjective | Comparative (Better/More) | Absolute (Extremely/Optimal) |
 | :--- | :--- | :--- |
-| **Καλός** (Good) | **καλύτερος** | **άριστος / κάλλιστος** |
-| **Κακός** (Bad) | **χειρότερος** | **χείριστος / κάκιστος** |
-| **Πολύς** (Much/Many) | **περισσότερος** | **πλείστος** |
-| **Μεγάλος** (Big) | **μεγαλύτερος** | **μέγιστος** (Maximal) |
-| **Μικρός** (Small) | **μικρότερος** | **ελάχιστος** (Minimal) |
-| **Λίγος** (Little) | **λιγότερος** (Less) | **ελάχιστος** (Extremely little) |
+| **Καλός** (Good) | **καλύτερος** | **άριστος** (Excellent) |
+| **Κακός** (Bad) | **χειρότερος** | **χείριστος / κάκιστος** (The worst possible) |
+| **Πολύς** (Much/Many) | **περισσότερος** | **πλείστος** (Vast majority) |
+| **Μεγάλος** (Big) | **μεγαλύτερος** | **μέγιστος** (Maximum) |
+| **Μικρός** (Small) | **μικρότερος** | **ελάχιστος** (Minimum / Tiny) |
+| **Λίγος** (Little) | **λιγότερος** (Less) | **ελάχιστος** (Hardly any) |
 
 ---
 
 ## 🎯 Unit 25 Mastery Checklist
-*   [ ] I can use **πιο** + adjective to compare things easily.
-*   [ ] I recognize the **-τερος** suffix and remember to stress it on the third syllable from the end.
-*   [ ] I know how to use **από** + Accusative or a Genitive weak pronoun for "than".
-*   [ ] I know that adding the definite article (**ο, η, το**) creates the "most" (Relative Superlative).
-*   [ ] I can use the **-τατος** suffix to say something is "extremely" X.
-*   [ ] I have memorized the irregulars (**καλύτερος**, **χειρότερος**, **περισσότερος**, **μεγαλύτερος**).
+
+- [ ] I can use **πιο** + adjective to compare things easily.
+- [ ] I can build the one-word comparative using the **-τερος** suffix, remembering the stress rule.
+- [ ] I know how to use **από** + Accusative, or the Native Shortcut (Genitive pronoun) for "than".
+- [ ] I know that adding the definite article (**ο, η, το**) turns a comparative into a superlative ("the most").
+- [ ] I can use the **-τατος** suffix to say something is "extremely" X.
+- [ ] I have memorized the essential irregulars (**καλύτερος, χειρότερος, μεγαλύτερος**).
 
 **Practice Vocabulary:** [B2 Vocabulary: Adjectives & Comparisons](/lessons/vocabulary-adjective-comparison)
 
-**Up Next:** [Unit 26: Participles (-οντας, -μένος)](/lessons/participles)
+**Next Lesson:** [Unit 26: Building Participles (-οντας, -μένος)](/lessons/participles)

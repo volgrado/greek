@@ -1,40 +1,48 @@
 # Unit 6: Adjectives, Colors & Numbers
 
-In English, adjectives (describing words) are simple: the word "good" never changes. In Greek, adjectives are **chameleons**. They must perfectly match the noun they describe in **Gender**, **Number**, and **Case**. We call this **Agreement**.
+In English, adjectives (words that describe things) are completely static. A "good" man, a "good" woman, a "good" idea. The word never changes. 
+
+In Greek, adjectives are **chameleons**. They must perfectly match the noun they are describing in **Gender**, **Number**, and **Case**. This powerful concept is called **Agreement**.
 
 ---
 
 ## 1. The Chameleon Rule
-Every Greek adjective in the dictionary has three versions (Masculine, Feminine, Neuter). Notice how the endings often "rhyme" with the noun!
 
-| Focus | Masculine (-ος) | Feminine (-η/-α) | Neuter (-ο) |
+Every Greek adjective in the dictionary has three versions (Masculine, Feminine, and Neuter). It acts exactly like a noun! You simply pick the version that matches the noun you want to describe.
+
+Notice how the endings of the adjective often perfectly "rhyme" with the article and the noun:
+
+| Gender | Subject (Nominative) | Object (Accusative) | Translation |
 | :--- | :--- | :--- | :--- |
-| **Example** | **Ο καλός** πατέρας | **Η καλή** μητέρα | **Το καλό** παιδί |
-| **Logic** | The good father | The good mother | The good child |
-
-When you use an adjective as an object (Accusative Case), it must flex with the noun.
-
-- **Subject:** Ο καλός φίλος.
-- **Object:** Βλέπω **τον καλό** φίλο. (The adjective drops the **-ς** just like the noun!)
-
----
-
-## 2. Colors (Τα Χρώματα)
-Most colors are regular adjectives. They help you practice agreement every day.
-
-- **Κόκκινος, κόκκινη, κόκκινο** (Red)
-- **Μαύρος, μαύρη, μαύρο** (Black)
-- **Πράσινος, πράσινη, πράσινο** (Green)
+| **Masculine** | Ο καλ**ός** φίλ**ος** | Τον καλ**ό** φίλ**ο** | The good friend (m) |
+| **Feminine** | Η καλ**ή** φίλ**η** | Τη(ν) καλ**ή** φίλ**η** | The good friend (f) |
+| **Neuter** | Το καλ**ό** παιδ**ί** | Το καλ**ό** παιδ**ί** | The good child |
 
 > [!TIP]
-> **Foreign Colors:** Some colors borrowed from other languages do NOT change.  
-> **Μπλε** (Blue), **Ροζ** (Pink), and **Καφέ** (Brown) stay the same regardless of gender!  
-> - Ο μπλε ουρανός, η μπλε θάλασσα, το μπλε αυτοκίνητο.
+> **Adjectives Drop the 'ς' Too!**  
+> Did you notice the Accusative masculine form? Just like masculine nouns drop their final **-ς** when they become the object (ο φίλος -> τον φίλο), the adjective must do exactly the same (ο καλός -> τον καλό). They hunt in packs!
 
 ---
 
-## 3. Numbers 1-10 (Αριθμοί 1-10)
-Learning to count is the key to daily survival.
+## 2. Painting the World: Colors (Τα Χρώματα)
+
+Colors are just adjectives. They are the perfect way to practice Agreement because you use them every day.
+
+- **Κόκκινος, κόκκινη, κόκκινο** (Red) -> *Το κόκκινο μήλο* (The red apple)
+- **Μαύρος, μαύρη, μαύρο** (Black) -> *Ο μαύρος σκύλος* (The black dog)
+- **Πράσινος, πράσινη, πράσινο** (Green) -> *Η πράσινη πόρτα* (The green door)
+
+> [!CAUTION]
+> **The Rebel Colors**  
+> A few colors borrowed from other languages refuse to change their shape!  
+> **Μπλε** (Blue), **Ροζ** (Pink), and **Καφέ** (Brown) stay exactly the same regardless of what they describe!  
+> - *Ο μπλε ουρανός, η μπλε θάλασσα, το μπλε αυτοκίνητο.* (All correct!)
+
+---
+
+## 3. Counting 1 to 10 (Αριθμοί 1-10)
+
+Learning to count is the key to daily survival, shopping, and telling time.
 
 - **Ένας / Μία / Ένα** (One)
 - **Δύο** (Two)
@@ -42,27 +50,29 @@ Learning to count is the key to daily survival.
 - **Τέσσερα** (Four)
 - **Πέντε** (Five)
 - **Έξι** (Six)
-- **Επτά** (Seven)
-- **Οκτώ** (Eight)
-- **Εννέα** (Nine)
+- **Εφτά / Επτά** (Seven)
+- **Οχτώ / Οκτώ** (Eight)
+- **Εννέα / Εννιά** (Nine)
 - **Δέκα** (Ten)
 
 > [!IMPORTANT]
-> **The number 1 is a chameleon!**  
-> Good news: the number "One" is the exact same word as the **indefinite articles** (a/an) you learned in Unit 2! It must match the gender of what you are counting:  
+> **Number One is a Chameleon!**  
+> The number "One" is the exact same word as the **indefinite articles** (a/an) you learned in Unit 2! It must match the gender of what you are counting:  
 > - **Ένας** άντρας (One man)  
 > - **Μία** γυναίκα (One woman)  
 > - **Ένα** παιδί (One child)
 > 
-> *Fun Fact: The numbers **3** and **4** are also mini-chameleons! You will learn their masculine/feminine forms later, but for now, use **Τρία** and **Τέσσερα** when counting out loud.*
+> *(Fun Fact: The numbers **3** and **4** are also mini-chameleons! You will learn their masculine/feminine forms later, but for now, use **Τρία** and **Τέσσερα** when counting out loud.)*
 
 ---
 
 ## 🎯 Unit 6 Mastery Checklist
-- [ ] I can change the ending of **καλός** to match any noun gender.
-- [ ] I know how to count to 10 in Greek.
-- [ ] I remember that **μπλε** and **ροζ** never change their endings.
+
+- [ ] I understand the concept of "Agreement" between an article, adjective, and noun.
+- [ ] I can drop the final **-ς** from both the masculine adjective and noun when they are the target of the action.
+- [ ] I have memorized the numbers 1 to 10.
+- [ ] I know that **μπλε**, **ροζ**, and **καφέ** never change their endings.
 
 **Practice Vocabulary:** [A1 Vocabulary: Colors & Numbers](/lessons/vocabulary-colors-numbers)
 
-**Up Next:** [Unit 7: Asking Questions](/lessons/interrogative-pronouns)
+**Next Lesson:** [Unit 7: Asking Questions](/lessons/interrogative-pronouns)

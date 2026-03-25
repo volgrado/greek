@@ -14,6 +14,11 @@ h1 {
     font-size: clamp(var(--text-4xl), 8vw, var(--text-5xl));
     margin-bottom: var(--space-2);
     letter-spacing: var(--ls-tighter);
+    background: linear-gradient(135deg, var(--text) 10%, var(--accent) 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 4px 12px color-mix(in srgb, var(--accent) 15%, transparent);
 }
 
 h2 {
@@ -60,13 +65,17 @@ a:hover {
     border-bottom-width: var(--border-width-thick);
 }
 
-.greek {
-    font-size: var(--text-xl);
-    font-weight: 400;
+.greek,
+.lang-el {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.15em;
+    font-weight: 500;
     color: var(--text);
+    padding: 0 0.1em;
 }
 
-.spanish {
+.spanish,
+.lang-es {
     font-weight: 800;
     font-family: var(--font-ui);
 }

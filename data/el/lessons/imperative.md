@@ -1,81 +1,92 @@
 # Unit 16: The Imperative Mood (Giving Orders)
 
-The Imperative Mood is used to give positive commands, orders, or strong advice. In Greek, just like in the Future and Past tenses, giving a command is deeply tied to **Aspect** (Video vs. Photo). The imperative only has 2nd person forms (singular for "you" and plural for "you all" or formal "you").
+To give an order, a strong piece of advice, or a set of instructions, you use the **Imperative Mood**. Because you can only give an order directly to the person you are talking to, this mood only has two forms: "You" (informal singular) and "You All" (plural/formal).
+
+Just like everything else in Greek, **Aspect** rules the Imperative. You must choose between ordering a single action (a Photo) or an ongoing habit (a Video).
 
 ---
 
-## 1. Simple Commands (The Photo: Do it once!)
-This is the most common way to give a command. You use the **Simple (Perfective) Stem** that you learned in Unit 12.
+## 1. Simple Commands (The Photo: "Do it once!")
 
-### Active Simple Commands:
-*   **Εσύ (Informal):** Add **-ε** to the simple stem (e.g., γράψ- ➔ **Γράψε!**). 
-*   **Εσείς (Formal/Plural):** The ending depends on the last letter of the stem!
-    *   If the stem ends in **λ, ρ, σ, ξ,** or **ψ**, add **-τε** (e.g., γράψ- ➔ **Γράψτε!**).
-    *   If it ends in other consonants, add **-ετε** (e.g., πλύν- ➔ **Πλύνετε!**).
-    *   *Note:* Verbs ending in 'ν' often take the shorter '-τε' ending in colloquial speech (e.g., **Κάντε!** - Do!).
+This is by far the most common way to give a command. You want someone to do something right now, or just once. You build this using the **Simple (Perfective) Stem** you learned in Unit 12.
+
+**For Type A Verbs (e.g., γράφω ➔ Simple Stem: γράψ-):**
+- **Εσύ (Singular):** Add **-ε** to the simple stem. 
+  - *Γράψ**ε**!* (Write!)
+  - *Κλείσ**ε** την πόρτα!* (Close the door!)
+- **Εσείς (Plural/Formal):** Add **-τε** (if the stem ends in a hard consonant) or **-ετε** to the simple stem.
+  - *Γράψ**τε**!* (Write, you all!)
+  - *Πλύν**ετε** τα χέρια σας!* (Wash your hands!)
 
 > [!TIP]
 > **Pronunciation Secret (Vowel Dropping)**  
-> Active singular commands ending in **λ, ρ, σ, ξ,** or **ψ** often drop their final **-ε** when followed by a weak pronoun (like **το** or **τα**). 
-> *   *Γράψ' το!* (Write it!).
-> *   *Φέρ' τα βιβλία!* (Bring the books!).
-
-### Passive Simple Commands:
-Yes, passive verbs can be commands too! To form the singular, you add **-ου** to the *active* perfective stem. The plural is identical to the passive dependent form.
-*   **Χάσου!** (Get lost! / Lose yourself!).
-*   **Ετοιμάσου!** (Get ready!).
-*   **Ετοιμαστείτε!** (Get ready, you all!).
+> When you give a singular command and follow it with a weak object pronoun (like "it" - *το*), native speakers almost always drop the final **-ε** so they can speak faster!
+> - *Γράψε το!* ➔ **Γράψ' το!** (Write it!).
+> - *Φέρε τα!* ➔ **Φέρ' τα!** (Bring them!).
 
 ---
 
-## 2. Continuous Commands (The Video: Keep doing it!)
-Used for habits or ongoing actions. You use the **Continuous (Imperfective/Present) Stem**. There are no passive forms for continuous commands.
+## 2. Continuous Commands (The Video: "Keep doing it!")
 
-### First-Conjugation Verbs (Type A):
-*   **Εσύ:** Add **-ε** (e.g., **Τρέχε!**). 
-    > [!TIP]
-    > For verbs with more than two syllables, the stress jumps back to the third syllable from the end (e.g., **Διάβαζε!**).
-*   **Εσείς:** Add **-ετε** (e.g., **Τρέχετε!**). *Note: This form is identical to the normal Present tense!*.
+Use this when you want to give a general rule, tell someone to keep doing something, or establish a habit. You build this using the **Continuous (Present Tense) Stem**.
 
-### Second-Conjugation Verbs (The Accented Verbs):
-*   **Type A (-άω):** Sg: **-α** (**Αγάπα!**), Pl: **-άτε** (**Αγαπάτε!**).
-*   **Type B (-ώ):** They have *no singular form*! The plural is identical to the present tense (e.g., **Θεωρείτε!**).
+**For Type A Verbs (e.g., γράφω ➔ Continuous Stem: γράφ-):**
+- **Εσύ:** Add **-ε**. 
+  - *Γράφ**ε** καθαρά!* (Write cleanly - as a general rule).
+  - *Τρέχ**ε**!* (Keep running!).
+- **Εσείς:** Add **-ετε**. *(Note: This form looks exactly identical to the normal Present tense!)*
+  - *Γράφ**ετε**.* (Keep writing, you all).
 
----
-
-## 3. The Absolute Irregulars
-Like most languages, the most common commands in Greek are irregular. You MUST memorize these:
-
-*   **Λέω** (Say) ➔ **Πες! / Πείτε!** (or Πέστε!)
-*   **Βλέπω** (Look) ➔ **Δες! / Δείτε!** (or Δέστε!)
-*   **Βρίσκω** (Find) ➔ **Βρες! / Βρείτε!**
-*   **Πίνω** (Drink) ➔ **Πιες! / Πιείτε!** (or Πιέστε!)
-*   **Έρχομαι** (Come) ➔ **Έλα! / Ελάτε!**
-*   **Πηγαίνω / Πάω** (Go) ➔ **Πήγαινε! / Πηγαίνετε!**
+> [!CAUTION]
+> **The Shifting Accent**  
+> If your continuous command has three or more syllables, Greek forces the accent back to the **third syllable from the end**. 
+> - *Διαβάζω* (I read) ➔ **Διάβαζε!** (Keep reading!).
 
 ---
 
-## 4. Negative Commands (Μην) & The "Για" Particle
-To say "Don't," you use the magic particle **μην** (instead of δεν) followed by the Subjunctive form. The word 'να' can optionally be placed before it.
-*   **Μην κλείσεις την πόρτα.** (Don't close the door—this time).
-*   **(Να) μην τρέχεις.** (Don't run—habitually).
-*   *Note: If you want to shout a single-word command for "Don't!", you just say* ***Μη!***.
+## 3. The "Big 6" Irregulars
 
-> [!TIP]
-> **Native Secret: The "Για" Particle**  
-> If you want to add extra encouragement to a positive command, put the hortatory particle **για** in front of it! It translates to "Do..." or "Come on...".
-> *   **Για κάτσε!** (Do sit down!).
-> *   **Για φέρε μας λίγα παγάκια.** (Do bring us some ice cubes).
+Like most languages, the verbs used most often as commands refuse to follow the rules. You MUST memorize these six singular Simple Commands—you will hear them every single day in Greece:
+
+1. **Λέω** (Say) ➔ **Πες!** *(plural: Πείτε!)*
+2. **Βλέπω** (Look) ➔ **Δες!** *(plural: Δείτε!)*
+3. **Βρίσκω** (Find) ➔ **Βρες!** *(plural: Βρείτε!)*
+4. **Πίνω** (Drink) ➔ **Πιες!** *(plural: Πιείτε!)*
+5. **Έρχομαι** (Come) ➔ **Έλα!** *(plural: Ελάτε!)*
+6. **Πάω / Πηγαίνω** (Go) ➔ **Πήγαινε!** *(plural: Πηγαίνετε!)*
+
+---
+
+## 4. Negative Commands (How to say "Don't!")
+
+The Imperative Mood only exists for *positive* orders ("Do this!"). If you want to say "Don't!", you must use the rule you learned in Unit 10: **Subjunctive Verbs take Μη(ν)**.
+
+To tell someone NOT to do something, simply put **Μην** in front of the "You" form of the verb. 
+- *Photo (Just this once):* **Μην κλείσεις** την πόρτα! (Don't close the door!).
+- *Video (Habit/General):* **Μην τρέχεις!** (Don't run!).
+
+*(If you want to shout a single-word command for "Don't!", you just yell: **Μη!**)*
+
+---
+
+## 5. Speak Like a Native: The "Για" Particle
+
+If you want to add extra encouragement or friendliness to a positive command, put the tiny particle **για** right in front of it! It translates roughly to "Go on and..." or "Come on...".
+
+- **Για κάτσε!** (Go on and sit down! / Why don't you sit?).
+- **Για έλα εδώ.** (Come over here for a second).
 
 ---
 
 ## 🎯 Unit 16 Mastery Checklist
-*   [ ] I can give a simple command using the Simple Stem (**Γράψε**) and know when to use **-τε** vs **-ετε** for the plural.
-*   [ ] I know how to drop the final vowel in phrases like **Γράψ' το**.
-*   [ ] I can form continuous commands and know that Type B verbs have no singular continuous command.
-*   [ ] I have memorized the irregular commands (**Πες, Δες, Βες, Έλα, Πήγαινε**).
-*   [ ] I know that negative commands use **Μην** + the Subjunctive, and I can use **'Για'** to encourage someone.
+
+- [ ] I know that Simple Commands (Photo) are built from the Simple Stem (*Γράψε!*).
+- [ ] I can drop the final vowel when an object pronoun follows (*Γράψ' το!*).
+- [ ] I know that Continuous Commands (Video) use the Present Stem (*Γράφε!*).
+- [ ] I have memorized the "Big 6" irregular commands (**Πες, Δες, Βες, Πιες, Έλα, Πήγαινε**).
+- [ ] I know how to use **Μην** + the Subjunctive to say "Don't!".
+- [ ] I can use **Για** to soften an order and sound native.
 
 **Practice Vocabulary:** [B1 Vocabulary: Directions & Commands](/lessons/vocabulary-directions-commands)
 
-**Up Next:** [Unit 17: Adverbs & Expressions of Manner](/lessons/adverbs)
+**Next Lesson:** [Unit 17: Adverbs & Expressions of Manner](/lessons/adverbs)

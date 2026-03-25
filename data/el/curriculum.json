@@ -303,6 +303,73 @@
         ]
     },
     "exercises": {
+        "A1 Bilingual Readings": [
+            {
+                "id": "reading-unit-1",
+                "title": "Reading 1: The Writing System",
+                "num": 1
+            },
+            {
+                "id": "reading-unit-2",
+                "title": "Reading 2: The Mysterious Note",
+                "num": 2
+            },
+            {
+                "id": "reading-unit-3",
+                "title": "Reading 3: The Room 303",
+                "num": 3
+            },
+            {
+                "id": "reading-unit-4",
+                "title": "Reading 4: The Cafe in Monastiraki",
+                "num": 4
+            },
+            {
+                "id": "reading-unit-5",
+                "title": "Reading 5: The Museum Shadow",
+                "num": 5
+            },
+            {
+                "id": "reading-unit-6",
+                "title": "Reading 6: The Golden Door",
+                "num": 6
+            },
+            {
+                "id": "reading-unit-7",
+                "title": "Reading 7: The Syntagma Interview",
+                "num": 7
+            },
+            {
+                "id": "reading-unit-8",
+                "title": "Reading 8: The Hidden Documents",
+                "num": 8
+            },
+            {
+                "id": "reading-unit-9",
+                "title": "Reading 9: The Identity of the Man",
+                "num": 9
+            },
+            {
+                "id": "reading-unit-10",
+                "title": "Reading 10: The Search in the Attic",
+                "num": 10
+            },
+            {
+                "id": "reading-unit-11",
+                "title": "Reading 11: The Port of Piraeus",
+                "num": 11
+            },
+            {
+                "id": "reading-unit-12",
+                "title": "Reading 12: The Storm at Sea",
+                "num": 12
+            },
+            {
+                "id": "reading-unit-13",
+                "title": "Reading 13: The Way to the Temple",
+                "num": 13
+            }
+        ],
         "A1 Foundations (Practice)": [
             {
                 "id": "exercise-basics",

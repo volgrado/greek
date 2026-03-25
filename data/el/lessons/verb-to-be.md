@@ -1,87 +1,112 @@
 # Unit 3: Being & Having (Είμαι & Έχω)
 
-To build real sentences, you need verbs. In Greek, just like in English, the two most important verbs are **To Be** (I am) and **To Have** (I have). Together, they unlock hundreds of basic conversations.
+To build real sentences, you need verbs. If you only ever learn two verbs in Greek, make sure they are **Είμαι** (To Be) and **Έχω** (To Have). Together, they unlock hundreds of basic conversations and serve as the foundation for complex grammar later on.
 
 ---
 
 ## 1. The Actors: Personal Pronouns
-Before the verbs, we need to know the people. Greek handles "I, You, He" very logically.
+
+Before we can use verbs, we need to know the people performing the actions. Here are the Greek personal pronouns:
 
 | English | Greek | Pronunciation |
 | :--- | :--- | :--- |
-| I | Εγώ | (e-gó) |
-| You (sing.) | Εσύ | (e-sí) |
-| He / She / It | Αυτός / Αυτή / Αυτό | (af-tós / af-tí / af-tó) |
-| We | Εμείς | (e-mís) |
-| You (plur./formal) | Εσείς | (e-sís) |
-| They (m/f/n) | Αυτοί / Αυτές / Αυτά | (af-tí / af-tés / af-tó) |
-
-> [!NOTE]
-> **Rhyme Time & Grammar Tip:**  
-> Notice that **Εμείς** (We) and **Εσείς** (You plural) rhyme! Also, the 3rd person pronouns (**Αυτός, Αυτή, Αυτό**) are highly versatile—they can be used as demonstrative adjectives meaning "this" (e.g., *this man*, *this woman*) and follow the exact same ending rules as the nouns you learned in Unit 2!
+| **I** | Εγώ | (e-gó) |
+| **You** (singular/informal) | Εσύ | (e-sí) |
+| **He / She / It** | Αυτός / Αυτή / Αυτό | (af-tós / af-tí / af-tó) |
+| **We** | Εμείς | (e-mís) |
+| **You** (plural or formal) | Εσείς | (e-sís) |
+| **They** (m / f / n) | Αυτοί / Αυτές / Αυτά | (af-tí / af-tés / af-tá) |
 
 > [!TIP]
-> **Pronunciation Tip: The "Αυ" Vowel Twin:**  
-> When Alpha (α) and Upsilon (υ) team up, their sound changes depending on the letter that follows them. Before voiceless consonants like Tau (τ), Kappa (κ), or Pi (π), the combination **'αυ'** makes an **[af]** sound, which is why **αυτός** is pronounced *af-tós*. However, before vowels or voiced consonants (like β, δ, γ, λ, ρ), it makes an **[av]** sound. In rapid, casual speech, the initial 'ε' of words like **εγώ** and **εσύ** is sometimes dropped if the previous word ends in a vowel (e.g., *'γώ*, *'σύ*).
+> **Memory Hooks:**  
+> - Notice that **Εμείς** (We) and **Εσείς** (You) rhyme completely.
+> - The 3rd person pronouns (Αυτός, Αυτή, Αυτό) are highly versatile—they literally mean "this/these" and follow the exact same ending rules as the nouns you learned in Unit 2!
 
 ---
 
-## 2. Conjugating the "Big Two"
+## 2. Speak Like a Greek: The "Pro-Drop" Rule
 
-### Είμαι (To Be)
-Used for identity and state (I am a student, I am here).
+Here is a massive difference between English and Greek:
 
-- **Είμαι** (I am)
-- **Είσαι** (You are)
-- **Είναι** (He/She/It is)
-- **Είμαστε** (We are)
-- **Είστε / Είσαστε** (You are) - *Both forms are correct and widely used as alternatives*.
-- **Είναι** (They are) — *Surprise! It's the exact same word as "He is"!*
+In English, you **must** use the pronoun. If you just say "am a student," it sounds broken. You must say "**I** am a student". 
 
-### Έχω (To Have)
-Used for possession and family.
+In Greek, the end of the verb changes so dramatically for each person that the subject pronoun becomes completely redundant. **Greeks drop the pronouns 90% of the time.** You only use words like "Εγώ" or "Εσύ" when you want to show contrast or heavy emphasis.
 
-- **Έχω** (I have)
-- **Έχεις** (You have)
-- **Έχει** (He/She/It has)
-- **Έχουμε** (We have)
-- **Έχετε** (You have)
-- **Έχουν(ε)** (They have) - *The optional (ε) at the end is very common in everyday spoken Greek*.
-
----
-
-## 3. The Pro-Drop Rule & The Formal "You"
-
-### Speak Like a Native:
-In English, you must say "I have a dog." In Greek, because the ending of the verb clearly shows the person and number, the subject pronouns (**Εγώ, Εσύ, κτλ.**) become completely redundant. You simply say "**Έχω έναν σκύλο**." Greeks only use explicit pronouns when they want to highlight a contrast or place special emphasis on *who* is doing the action.
 - *Natural:* **Είμαι εδώ.** (I am here.)
-- *Emphatic:* **Εγώ είμαι εδώ!** (*I* am here!).
-
-### The Plural of Politeness:
-Greek uses the second-person plural to address a single person in a polite and respectful manner. You should always use the plural forms (**Εσείς, είστε, έχετε**) when speaking to someone unknown to you (like a taxi driver or shop assistant), or someone who is older or of higher status. 
+- *Emphatic:* **Εγώ είμαι εδώ!** (*I* am here, not someone else!).
 
 ---
 
-## 4. The Power Combo
-With these two verbs and the Accusative case from Unit 2, you can already speak! 
+## 3. The "Big Two" Verbs
+
+Both **Είμαι** and **Έχω** are slightly irregular, so they simply need to be memorized. Read them aloud!
+
+### Είμαι (I Am)
+Used for identity, state, and location.
+
+| Person | Verb | Translation |
+| :--- | :--- | :--- |
+| **(Εγώ)** | **είμαι** | I am |
+| **(Εσύ)** | **είσαι** | You are |
+| **(Αυτός/ή/ό)** | **είναι** | He/She/It is |
+| **(Εμείς)** | **είμαστε** | We are |
+| **(Εσείς)** | **είστε** | You are (pl./formal) |
+| **(Αυτοί/ές/ά)** | **είναι** | They are |
+
+> [!CAUTION]
+> **The "Είναι" Trap**  
+> Did you notice? The word for "He is" (**είναι**) and "They are" (**είναι**) is *exactly the same word*. You will know which one it is purely from the context of the sentence!
+
+### Έχω (I Have)
+Used for possession, age, and family.
+
+| Person | Verb | Translation |
+| :--- | :--- | :--- |
+| **(Εγώ)** | **έχω** | I have |
+| **(Εσύ)** | **έχεις** | You have |
+| **(Αυτός/ή/ό)** | **έχει** | He/She/It has |
+| **(Εμείς)** | **έχουμε** | We have |
+| **(Εσείς)** | **έχετε** | You have (pl./formal) |
+| **(Αυτοί/ές/ά)** | **έχουν(ε)** | They have |
+
+> [!NOTE]
+> **The Extra Vowel:** You will often hear Greeks add an extra "ε" to the end of plural verbs in casual speech. So, **έχουν** becomes **έχουνε**. Both are perfectly correct, but *έχουνε* feels a bit more relaxed.
+
+---
+
+## 4. The Formal "You"
+
+Greek has a built-in respect system. When speaking to someone older than you, a stranger, or someone in a position of authority (like a doctor or a shop owner), you **do not** use the singular "Εσύ". 
+
+Instead, you address them using the plural **Εσείς** and the plural verb, exactly like the French *vous* or Spanish *usted*.
+- *Informal (to a friend):* **Έχεις** χρόνο; (Do you have time?)
+- *Formal (to a boss):* **Έχετε** χρόνο; (Do you have time?)
+
+---
+
+## 5. The Power Combo
+
+With these two verbs, you can already speak! 
 
 - *Έχεις το βιβλίο;* (Do you have the book?)
 - *Όχι, ο Γιώργος έχει το βιβλίο.* (No, George has the book.)
-- *Είμαστε φίλοι.* (We are friends.)
 
-> [!NOTE]
-> **Question Intonation:**  
-> Notice that you don't need to change the word order to ask a yes/no question like in English (e.g., *You have* -> *Do you have?*). In Greek, you simply use the standard sentence order with a rising intonation of your voice at the end of the sentence.
+> [!TIP]
+> **Asking Questions:**  
+> In English, you change the word order to ask a question (*You have* -> *Do you have?*). In Greek, the sentence structure stays exactly the same! You simply raise the pitch of your voice at the end of the sentence to show it's a question. And remember, the Greek question mark looks like an English semicolon (**;**).
 
 ---
 
 ## 🎯 Unit 3 Mastery Checklist
-- [ ] I can conjugate **είμαι** and **έχω** by heart, remembering alternative forms like **είσαστε** and **έχουνε**.
-- [ ] I know when to use **Αυτός, Αυτή,** and **Αυτό**, and I know how to pronounce **'αυ'** as **[af]** or **[av]**.
-- [ ] I understand that I should drop the subject pronoun when speaking naturally.
-- [ ] I know to use the plural forms (**Εσείς, είστε, έχετε**) when I want to be polite to a stranger or elder.
-- [ ] I remember to put definite articles in front of people's names!
 
-**Practice Vocabulary:** [A1 Vocabulary: Everyday Objects & Places](/lessons/vocabulary-everyday-objects)
+- [ ] I can conjugate **είμαι** and **έχω** seamlessly.
+- [ ] I understand why Greeks usually drop pronouns like **Εγώ** and **Εσύ**.
+- [ ] I know that **είναι** means both "he is" and "they are".
+- [ ] I know to use the plural forms (**εσείς, είστε, έχετε**) to show respect to strangers.
+- [ ] I know how to turn a statement into a question using just my voice.
 
-**Up Next:** [Unit 4: Intro to Verbs (Group A)](/lessons/verbs)
+**Ready to practice?**  
+[A1 Vocabulary: Everyday Objects & Places](/lessons/vocabulary-everyday-objects)
+
+**Next Lesson:** 
+[Unit 4: Intro to Verbs (Group A)](/lessons/verbs)

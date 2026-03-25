@@ -164,7 +164,7 @@ body.search-mode footer {
         font-size: var(--text-xl);
     }
 
-    .search-panel.is-open {
+    .search-panel:popover-open {
         padding: var(--space-4) var(--space-4);
     }
 }

@@ -17,9 +17,7 @@ class AppState {
             db: null,
             isDownloaded: false,
             lessonCache: {},
-            viewedLessons: new Set(JSON.parse(localStorage.getItem('viewed') || '[]')),
-            searchIndex: {},
-            invertedIndex: {}
+            viewedLessons: new Set(JSON.parse(localStorage.getItem('viewed') || '[]'))
         };
 
         if (!this._data.currentTheme) {

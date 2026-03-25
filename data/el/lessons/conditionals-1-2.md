@@ -1,62 +1,79 @@
 # Unit 21: Conditionals (The 'If' Clauses)
 
-Conditional sentences are "If X, then Y" statements. In Greek grammar, the "If" clause is referred to as the **protasis**, and the main "then" clause is the **apodosis**. 
+Welcome to the end of the B1 Intermediate stage. You are about to unlock one of the most powerful structures in any language: **The Conditional sentence ("If X, then Y")**. 
 
-The standard word for "If" is **Αν**. Depending on how likely the situation is to happen, conditional constructions are divided into two main categories: Factual (Real) and Counterfactual (Unreal).
+In Greek grammar, the "If" half of the sentence is called the *Protasis*, and the "Then" half is the *Apodosis*. To master these, you just need to balance the tenses on both sides of the comma.
 
 > [!TIP]
-> **Native Alternatives to "Αν"**  
-> While **Αν** is the most common word, you will often hear Greeks use **άμα** (if / whenever), the more formal **εάν** (if), or **εφόσον** (provided that) to introduce an "if" clause.
+> **How to say "If"**  
+> The standard and most common word for "If" is **Αν**. However, in spoken Greek, you will constantly hear **άμα** (which means "if" or "whenever"). In formal writing, you will see **εάν**.
 
 ---
 
-## 1. Type 1: The Factual (Real)
-Use this for facts, plans, or likely events. If the condition is fulfilled, the main clause happens. 
+## 1. Type 1: The Real World (Highly Likely)
 
-**Formula:** Αν + [Any Tense except Pluperfect], then [Any Tense/Command].
-Even though you can use almost any tense, the most common combination is Present/Future in the "If" clause, and Future/Imperative in the main clause.
-*   **Αν προσπαθείς** να τον πείσεις, **κάνεις** μεγάλο λάθος. (If you are trying to persuade him, you are making a big mistake).
-*   **Άμα σε ενοχλεί** ο καπνός, **άνοιξε** το παράθυρο. (If the smoke bothers you, open the window).
-*   **Αν τελειώσετε** νωρίς, **ελάτε** να μας δείτε. (If you finish early, come to see us).
+Use this when talking about facts, plans, warnings, or things that possess a real possibility of happening. 
 
-> [!WARNING]
+**The Balance:** [Αν + Present or Future] ➔ [Future or Command]
+
+- **Αν βρέχει**, **δεν θα πάμε** παραλία. (If it rains, we will not go to the beach).
+- **Άμα τελειώσεις** νωρίς, **πάρε** με τηλέφωνο. (If you finish early, call me).
+- **Αν πεινάς**, **υπάρχει** φαγητό στο ψυγείο. (If you are hungry, there is food in the fridge).
+
+> [!CAUTION]
 > **Negating the "If"**  
-> How do you say "If you don't..."? Even though "If" phrases feel hypothetical, conditional clauses introduced by **αν** or **άμα** are strictly negated by the indicative particle **δεν** (NOT μην). 
-*   **Αν δεν βρέχει...** (If it does **not** rain...).
+> How do you say "If you *don't*..."? Even though "If" statements feel hypothetical, Greek grammar treats them as solid facts. Therefore, clauses starting with *Αν* must be negated by the strong particle **δεν** (never *μην*!). 
+> - **Αν δεν θέλεις...** (If you don't want to...)
 
 ---
 
-## 2. Type 2: The Unreal (Dreaming / Present Counterfactual)
-Use this for hypotheticals, dreams, or giving advice that are not being realized in the present. Greek pushes both verbs into the **Continuous Past (Imperfect)**.
+## 2. Type 2: The Unreal (Dreams & Hypotheticals)
 
-**Formula:** Αν + [Imperfect], then Θα + [Imperfect] (The Conditional).
-*   **Αν είχα** λεφτά, **θα αγόραζα** ένα πλοίο. (If I had money [now], I would buy a boat).
-*   **Αν καταλάβαινες** τη στενοχώρια μου, **δεν θα μιλούσες** έτσι. (If you understood my distress, you wouldn't speak like this).
+Use this to talk about present dreams, giving advice to someone else, or things that are highly unlikely or impossible right now. 
+
+To create distance from reality, Greek pushes both verbs one step backward into the continuous past tense!
+
+**The Balance:** [Αν + Imperfect Past] ➔ [**Θα** + Imperfect Past]
+
+- **Αν είχα** λεφτά, **θα αγόραζα** ένα νησί. (If I had money *[now]*, I would buy an island).
+- **Αν ήμουν** στη θέση σου, **δεν θα πήγαινα**. (If I were in your place, I wouldn't go).
+- **Άμα δούλευε** λιγότερο, **θα ήταν** πιο χαρούμενος. (If he worked less, he would be happier).
+
+*(Notice how **Θα + Past Tense** is the Greek way of saying "Would"!).*
 
 ---
 
-## 3. Type 3: The Regret (Past Counterfactual)
-Use this for things that never happened in the past. It’s too late!
+## 3. Type 3: The Regret (Too Late)
 
-**Formula:** Αν + [Pluperfect], then Θα + [Pluperfect] (The Perfect Conditional).
-*   **Αν είχε στείλει** εκείνο το γράμμα, **θα τον είχε πείσει**. (If she had sent that letter, she would have persuaded him).
-*   **Δεν θα τον παντρευότανε** ποτέ, **αν δεν τον αγαπούσε**. (She would never have married him, if she didn't love him).
+Use this for past regrets—things that never happened, and it is too late to change them. 
+
+You must push the verbs even further back, using the Past Perfect (Pluperfect) from Unit 20.
+
+**The Balance:** [Αν + Past Perfect] ➔ [**Θα** + Past Perfect]
+
+- **Αν είχα διαβάσει** περισσότερο, **θα είχα περάσει** τις εξετάσεις. (If I had studied more, I would have passed the exams).
+- **Αν δεν είχε βρέξει**, **θα είχαμε πάει** βόλτα. (If it hadn't rained, we would have gone for a walk).
 
 > [!TIP]
-> **The Imperfect Secret!**  
-> Greek is incredibly flexible here. When referring to the past, you don't *have* to use the long Pluperfect tenses. You can actually just use the **Imperfect tense** (Type 2) to talk about the past!. 
-*   **Αν έστελνε** εκείνο το γράμμα, **θα τον έπειθε**. 
-> Depending on the context, this can mean *either* "If she sent that letter [now], she would persuade him" OR "If she had sent that letter [yesterday], she would have persuaded him". 
+> **The Native Shortcut**  
+> The Type 3 "Regret" structure is very long and heavy. In casual street Greek, native speakers often take a shortcut and just use the shorter **Type 2** structure to complain about the past!
+> - *Formal:* Αν **είχες έρθει** νωρίτερα, θα τον **είχες δει**. (If you had come earlier, you would have seen him.)
+> - *Street:* Αν **ερχόσουν** νωρίτερα, θα τον **έβλεπες**. (If you came earlier, you would see him.) 
+> 
+> The context makes it obvious they are talking about yesterday!
 
 ---
 
-## 🎯 Unit 21 Mastery Checklist
-*   [ ] I know that **Αν, άμα,** and **εάν** mean "If."
-*   [ ] I understand the difference between the **protasis** (the "if" clause) and the **apodosis** (the "then" clause).
-*   [ ] I remember to use **δεν** (not *μην*) to negate an **Αν** clause.
-*   [ ] I understand that for "Would," Greek uses **Θα** + Past Tense (The Conditional).
-*   [ ] I can build a hypothetical dream sentence using the Imperfect tense, and I know it can be used for past regrets too!
+## 🎯 B1 Intermediate Capstone
+
+Congratulations! You have mastered the **B1 Stage**. You now possess the power to:
+- [x] Express ownership perfectly using the Genitive case.
+- [x] Give positive, continuous, and negative commands (Imperative).
+- [x] Use adverbs gracefully.
+- [x] Maneuver through Deponent and Passive verbs.
+- [x] Master the Perfect Tenses (I have/had done).
+- [x] Construct complex "If / Then" conditional sentences.
 
 **Practice Vocabulary:** [B1 Vocabulary: Travel & Life Experiences](/lessons/vocabulary-travel-experiences)
 
-**Up Next:** [Unit 22: Advanced Particles & Interjections (Spoken Expressions)](/lessons/particles)
+**Next module (C1 Advanced):** [Unit 22: Advanced Particles & Spoken Interjections](/lessons/particles)

@@ -1,84 +1,95 @@
 # Unit 14: The Past Tenses (Imperfect vs. Aorist)
 
-Welcome to the capstone of the A2 Expansion stage. You’ve learned how to build stems and how to talk about the future. Now, we look back. In Greek, just like in the future, we have two ways to talk about the past.
+Welcome to the capstone of the A2 Expansion stage. You’ve learned how to build stems and how to talk about the future. Now, we look back. 
+
+Just like the future, Greek forces you to choose between two ways to talk about the past: the **Video** and the **Photo**.
 
 > [!TIP]
 > **"Aorist" vs. "Simple Past"**  
-> While many traditional textbooks and dictionaries use the ancient term "Aorist", modern grammarians prefer the term **"Simple Past"**, as it describes the contemporary language much more accurately. In this course, we will use both terms interchangeably.
+> While traditional textbooks use the ancient term "Aorist", modern grammarians prefer the term **"Simple Past"**. In this course, we will use both terms interchangeably to describe a single, completed past event.
 
 ---
 
 ## 1. The Two Past Tenses
-*   **The Aorist (Simple Past/Perfective Past):** Presents an action as having been completed at some specific point in the past (e.g., "I played"). **Uses the Simple (Perfective) Stem.**
-*   **The Imperfect (Continuous Past/Imperfective Past):** Presents an action, process, or state as occurring habitually or continuously in the past (e.g., "I was playing" or "I used to play"). **Uses the Continuous (Present) Stem.**
+
+1. **The Imperfect (The Video):** Used for habits, routines, or actions that were ongoing in the past (e.g., "I *was playing*", "I *used to play*"). **Uses the Continuous (Present) Stem.**
+2. **The Aorist (The Photo):** Used for a single event completed at a specific point in the past (e.g., "I *played*"). **Uses the Simple (Perfective) Stem.**
 
 ---
 
-## 2. Past Tense Conjugation & The Augment
-Both past tenses (Imperfect and Aorist) use the exact same set of past-tense endings. Wait! The difference lies entirely in the Stem and the Augment.
+## 2. Past Tense Endings & The "Rule of 3"
 
-| Pronoun | Ending | Example: γράφω (Simple Past) |
-| :--- | :--- | :--- |
-| **Εγώ** | **-α** | έ-γραψ-**α** |
-| **Εσύ** | **-ες** | έ-γραψ-**ες** |
-| **Αυτός/ή/ό** | **-ε** | έ-γραψ-**ε** |
-| **Εμείς** | **-αμε** | γράψ-**αμε** |
-| **Εσείς** | **-ατε** | γράψ-**ατε** |
-| **Αυτοί/ές/ά** | **-αν(ε)** | έ-γραψ-**αν** / γράψ-**ανε** |
+Both past tenses (Imperfect and Aorist) share the exact same set of past-tense endings! The only difference is which stem you stick them onto. 
 
-> [!NOTE]
-> **Colloquial Tip:** The 3rd person plural form with the extra *-ε* (**γράψανε**, **διαβάζανε**) is extremely frequent in everyday spoken language, but less often used in formal writing.
+| Person | Past Ending | Example (Aorist of γράφω) | Translation |
+| :--- | :--- | :--- | :--- |
+| **Εγώ** | **-α** | **έ**-γραψ-**α** | I wrote |
+| **Εσύ** | **-ες** | **έ**-γραψ-**ες** | You wrote |
+| **Αυτός/ή/ό** | **-ε** | **έ**-γραψ-**ε** | He/She/It wrote |
+| **Εμείς** | **-αμε** | γράψ-**αμε**| We wrote |
+| **Εσείς** | **-ατε** | γράψ-**ατε** | You wrote |
+| **Αυτοί/ές/ά** | **-αν(ε)** | **έ**-γραψ-**αν** | They wrote |
 
 > [!IMPORTANT]
-> **The Augment (έ- and ή-)**  
-> Past tense forms in Greek always carry their stress on the **third syllable from the end**.
-> *   **Syllabic Augment (έ-):** If the verb stem plus the ending only has two syllables, Greek prefixes an **έ-** to the beginning to carry the stress. This is why it appears in short forms (**έ-γρα-ψα**) but completely drops off in longer forms where the stress naturally shifts to the right (**γρά-ψα-με**, **γρά-ψα-τε**).
-> *   **Vocalic Augment (ή-):** Verbs starting with a vowel often change their initial vowel to **ή-** in the past (e.g., ελπίζω -> **ή**λπιζα). 
+> **The Augment (έ-) & The Rule of 3**  
+> Past tense verbs in Greek have a strict rhythm: the stress **must** fall on the **third** syllable from the end. 
+> 
+> What happens if the word is too short? For example, the stem *γραψ-* plus the ending *-α* is only two syllables (*γρά-ψα*). 
+> 
+> To fix this, Greek glues an **έ-** to the front of the word so it has a third syllable to stress: **έ-γρα-ψα**. This is called the **Augment**. Notice how it magically disappears in the plural forms (*γρά-ψα-με*) because the word is finally long enough!
+
+> [!NOTE]
+> **Vocalic Augments (ή-)**  
+> If a verb already starts with a vowel (like **ε**λπίζω - to hope), it doesn't add an *έ-*. Instead, the starting vowel stretches into an **ή-** (e.g., **ή**λπιζα - I was hoping). 
 
 ---
 
 ## 3. Side-by-Side: Video vs. Photo
+
 Let's use the verb **παίζω** (I play).
-*   *Continuous Stem:* **παίζ-**
-*   *Simple Stem:* **παίξ-**
+- *Continuous Stem:* **παίζ-**
+- *Simple Stem:* **παίξ-**
 
-### A. The Imperfect (The Video)
-*   **Έπαιζα** τένις κάθε μέρα. (I used to play tennis every day).
-*   Use this for background info: "While I *was playing*, it started to rain."
+### A. The Imperfect (Continuous Stem)
+- **Έπαιζα** τένις κάθε μέρα. (I *used to play* tennis every day - Habit).
+- **Έπαιζα** όταν χτύπησε το τηλέφωνο. (I *was playing* when the phone rang - Background action).
 
-### B. The Aorist (The Photo)
-*   **Έπαιξα** τένις χθες. (I played tennis yesterday—once).
-*   Use this for specific, completed events: "I went to the park."
+### B. The Aorist (Simple Stem)
+- **Έπαιξα** τένις χθες. (I *played* tennis yesterday — once, completed).
+- Το Σάββατο **έπαιξα** καλά. (On Saturday I *played* well).
 
 ---
 
-## 4. The Absolute Irregulars
-These are the most common verbs in the past. You must memorize them. Notice how the first three have completely irregular 1-syllable stems, meaning they **do not** take the *έ-* augment in the Aorist (though they do in the Imperfect!).
+## 4. The absolute Irregulars
 
-1.  **βλέπω** (see) ➔ **είδα** (I saw)
-2.  **λέω** (say) ➔ **είπα** (I said)
-3.  **πάω** (go) ➔ **πήγα** (I went)
-4.  **θέλω** (want) ➔ **ήθελα** (I wanted) - *Uses Vocalic Augment!*
-5.  **ξέρω** (know) ➔ **ήξερα** (I knew) - *Uses Vocalic Augment!*
+These are the most common verbs in the past. You must memorize them immediately. Notice how their stems completely change shapeshift!
 
-> [!CAUTION]
-> **No "Photo" for Being & Having!**  
-> The verbs **έχω** (have) and **είμαι** (be) are what grammarians call **Defective Verbs**. This means they only exist in the Continuous (Imperfective) aspect. 
-> *   **έχω** ➔ **είχα** (I had)
-> *   **είμαι** ➔ **ήμουν(α)** (I was)
-> They **do not have** an Aorist (Photo) form. You cannot say "I was" or "I had" as a single, completed dot in time in Greek. 
+1. **βλέπω** (see) ➔ **είδα** (I saw)
+2. **λέω** (say) ➔ **είπα** (I said)
+3. **πηγαίνω / πάω** (go) ➔ **πήγα** (I went)
+4. **βρίσκω** (find) ➔ **βρήκα** (I found)
+5. **έρχομαι** (come) ➔ **ήρθα** (I came)
+
+### The "Defective" Verbs (No Photo Allowed!)
+The two most important verbs in Greek, **έχω** (have) and **είμαι** (be), are physically unable to form an Aorist (Photo) tense. They only exist as continuous states!
+
+- **έχω** ➔ **είχα** (I had)
+- **είμαι** ➔ **ήμουν(α)** (I was)
+
+*(You cannot say "I was" or "I had" as a single, momentary action in Greek).*
 
 ---
 
 ## 🎯 A2 Expansion Capstone
+
 Congratulations! You have completed the **A2 Stage**. You have mastered:
 
-*   [ ] Pluralization of all nouns and adjectives.
-*   [ ] The "Big Two" Verb Groups (B1 & B2).
-*   [ ] Verbal Aspect (Video vs. Photo) and the Subjunctive (**να**).
-*   [ ] Both Future tenses and the mechanics of the Simple Stem.
-*   [ ] Both Past tenses (Imperfect vs. Aorist) and the Augment rules.
+- [x] Pluralization of all nouns and adjectives.
+- [x] The "Big Two" Verb Groups (B1 & B2).
+- [x] Verbal Aspect (Video vs. Photo) and the Subjunctive (**να**).
+- [x] Both Future tenses and the mechanics of the Simple Stem.
+- [x] Both Past tenses (Imperfect vs. Aorist) and the "Rule of 3" for the Augment.
 
-**Practice Vocabulary:** [A2 Vocabulary: Time & Calendar](/lessons/vocabulary-time-calendar)
+**Practice Vocabulary:** [A2 Vocabulary: Routines & B-Group Verbs](/lessons/vocabulary-routines-hobbies)
 
-**Up Next:** [Unit 15: The Genitive Case (Possession)](/lessons/genitive-case)
+**Next module (B1 Intermediate):** [Unit 15: The Genitive Case (Possession)](/lessons/genitive-case)

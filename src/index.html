@@ -46,14 +46,7 @@
             <span id="logo-text">GREEK</span>
         </a>
         <div class="header-actions">
-            <button id="search-btn" popovertarget="search-drawer" class="btn-base btn-icon-only" title="Search Lessons">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                    stroke-linejoin="round">
-                    <circle cx="11" cy="11" r="8"></circle>
-                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-                </svg>
-            </button>
-            <button id="mode-switch-btn" class="btn-base btn-icon-only" title="Switch Mode">
+            <button id="mode-switch-btn" popovertarget="mode-menu" class="btn-base btn-icon-only" title="Switch Mode">
                 <span id="mode-label">G</span>
             </button>
             <button id="theme-toggle" class="btn-base btn-icon-only" title="Change Theme">
@@ -65,22 +58,23 @@
         </div>
         <div class="scroll-progress"></div>
     </header>
-    <div id="search-drawer" popover class="search-panel">
-        <div class="search-drawer-inner">
-            <div class="search-drawer-header">
-                <input type="text" id="global-search-input" class="global-search-input" placeholder="Search lessons..."
-                    autocomplete="off">
-                <button id="close-search" class="close-search-btn">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <line x1="18" y1="6" x2="6" y2="18"></line>
-                        <line x1="6" y1="6" x2="18" y2="18"></line>
-                    </svg>
-                </button>
-            </div>
-            <div id="global-search-results" class="global-search-results"></div>
+    <div id="mode-menu" popover class="dropdown-menu">
+        <div class="dropdown-list">
+            <button class="dropdown-item" data-mode="grammar">
+                <span>Grammar</span>
+                <span class="mode-key">G</span>
+            </button>
+            <button class="dropdown-item" data-mode="vocabulary">
+                <span>Lexis</span>
+                <span class="mode-key">L</span>
+            </button>
+            <button class="dropdown-item" data-mode="exercises">
+                <span>Practice</span>
+                <span class="mode-key">P</span>
+            </button>
         </div>
     </div>
+
     <main id="app"></main>
     <footer id="footer-root">
         <div id="footer-disclaimer">
