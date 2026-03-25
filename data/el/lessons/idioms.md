@@ -1,55 +1,73 @@
 # Unit 28: Idioms & Ancient Remnants
 
-To reach true fluency (B2/C1), you must understand the "ghosts" of the past. Modern Greek is filled with ancient expressions and colorful idioms that don't follow modern rules.
+Welcome to the absolute pinnacle of Greek grammar. To reach true, effortless fluency (B2/C1), you must understand the "ghosts" of the past. 
+
+Modern Greek is a living, breathing language, but it is built on thousands of years of history. It is filled with ancient expressions that don't follow modern rules, and colorful street idioms that make no literal sense.
 
 ---
 
-## 1. Ancient Dative Expressions
-Ancient Greek had a "Dative" case (for/to) that vanished in modern times, but these frozen phrases survived. You must learn them as whole blocks:
+## 1. Ancient Dative Expressions (The Ghosts)
 
-*   **Εν τω μεταξύ** (In the meantime).
-*   **Δόξα τω Θεώ** (Thank God / Glory to God).
-*   **Εν πάση περιπτώσει** (In any case / Anyway).
-*   **Τοις μετρητοίς** (In cash).
+Ancient Greek had a fourth noun case called the "Dative" (used for "to" or "for"). This case completely vanished in modern times—but a few specific phrases survived. 
+
+You cannot learn the grammar for these; you must simply memorize them as frozen blocks of vocabulary. You will hear them every day:
+
+- **Εν τω μεταξύ** (In the meantime / Meanwhile).
+- **Δόξα τω Θεώ** (Thank God / Glory to God).
+- **Εν πάση περιπτώσει** (In any case / Anyway).
+- **Τοις μετρητοίς** (In cash).
 
 ---
 
 ## 2. Advanced Prepositions (Genitive)
-While basic prepositions take the Accusative, formal/ancient ones used in news and business take the **Genitive**.
 
-*   **Λόγω** + Genitive (Due to): **Λόγω βροχής** (Due to rain).
-*   **Μέσω** + Genitive (Via): **Μέσω Αθηνών** (Via Athens).
-*   **Ενώπιον** + Genitive (Before / In front of): **Ενώπιον του νόμου** (Before the law).
+In Unit 5, you learned that almost all prepositions in modern Greek take the Accusative case (*από τον, με την*). 
+
+However, formal prepositions—the ones heavily used in the news, business, and politics—are ancient remnants. They stubbornly demand that the noun following them be in the **Genitive** case!
+
+- **Λόγω** + Genitive (Due to): **Λόγω βροχής** (Due to rain).
+- **Μέσω** + Genitive (Via / Through): **Μέσω Αθηνών** (Via Athens).
+- **Ενώπιον** + Genitive (Before / In front of): **Ενώπιον του δικαστηρίου** (Before the court).
+- **Εξαιτίας** + Genitive (Because of): **Εξαιτίας του νόμου** (Because of the law).
 
 ---
 
-## 3. Colorful Idioms
-These are phrases where the literal meaning is completely different from the actual meaning.
+## 3. Colorful Street Idioms
 
-*   **Έγινε της κακομοίρας!** (A disaster happened! / Hell broke loose!)
-*   **Χάνω τα λόγια μου.** (I am lost for words).
-*   **Πού το πας;** (What are you getting at? / Where are you going with this?)
-*   **Περαστικά!** (Get well soon! / May it pass!)
+If you translate these directly, you will be deeply confused. These are the idioms that make you sound like a local.
+
+- **Έγινε της κακομοίρας!** (A disaster happened! / All hell broke loose!) - *Literally: It became the bad-destiny woman's.*
+- **Χάνω τα λόγια μου.** (I am lost for words).
+- **Πού το πας;** (What are you getting at? / Where are you going with this in the conversation?).
+- **Σιγά τα λάχανα!** (Big deal! / Who cares!) - *Literally: Slowly the cabbages!*
+- **Βρέχει καρεκλοπόδαρα.** (It's raining cats and dogs) - *Literally: It's raining chair-legs!*
+- **Περαστικά!** (Get well soon! / May it pass!)
 
 ---
 
 ## 4. Compound "Lego" Words
-Greek builds new words by snapping smaller ones together with the letter **"ο"** as glue.
 
-*   **βιβλίο** (book) + **πωλείο** (shop) ➔ **βιβλιοπωλείο** (bookstore).
-*   **ψάρι** (fish) + **ταβέρνα** ➔ **ψαροταβέρνα** (fish tavern).
+Greek has a superpower: it builds new, massive words by snapping smaller words together. When it does this, it almost always uses the letter **"ο"** as the glue!
+
+If you know the two base words, you can instantly read the massive compound word:
+- **τόξο** (bow) + **βόλο** (shoot) ➔ **τοξοβόλος** (archer).
+- **ψάρι** (fish) + **ταβέρνα** (tavern) ➔ **ψαροταβέρνα** (fish tavern).
+- **βιβλίο** (book) + **πωλείο** (shop) ➔ **βιβλιοπωλείο** (bookstore).
 
 ---
 
-## 🎯 B2 Advanced Capstone
-Congratulations! You have navigated the complex waters of intermediate and advanced Greek grammar. You have mastered:
+## 🎯 B2 / C1 Capstone
 
-*   [x] Advanced Particles and Spoken Nuance.
-*   [x] Relative and Reflexive Pronouns.
-*   [x] Comparison of Adjectives.
-*   [x] Participles and Impersonal Verbs.
-*   [x] Formal Ancient Remnants.
+**Congratulations!** You have navigated the incredibly complex waters of intermediate and advanced Greek grammar. You have officially completed the Masterclass Curriculum. 
 
-**Practice Vocabulary:** [B2 Vocabulary: Beliefs, Relations & Society](/lessons/vocabulary-beliefs-society)
+You have mastered:
+- [x] Advanced Particles, Conversational Fillers & Softeners.
+- [x] Relative (*Που, ο οποίος*) and Reflexive (*Ο εαυτός μου*) Pronouns.
+- [x] Comparison of Adjectives (*Πιο* vs *-τερος*).
+- [x] Active and Passive Participles (*-οντας, -μένος*).
+- [x] The nuances of Impersonal Verbs (*Πρέπει*, *Μπορεί*, *Πρόκειται*).
+- [x] Formal Ancient Remnants and Advanced Compound Words.
 
-**Up Next:** [Level C: Proficiency (Dialogue & Literature)](/lessons/coming-soon)
+**Practice Vocabulary:** [C1 Vocabulary: Idioms & Society](/lessons/vocabulary-beliefs-society)
+
+**Next Step:** [Level C: Proficiency (Real-world Dialogue & Literature)](#)

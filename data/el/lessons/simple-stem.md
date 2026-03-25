@@ -1,85 +1,95 @@
 # Unit 12: Building the Simple Stem (Σ, Ξ, Ψ)
 
-To speak in the Future or the Subjunctive, you need the **Simple (Perfective) Stem**. This is the "Photo" stem, used for single, completed actions. Finding this stem is like a puzzle: you look at the ending of the verb's Continuous (Present) stem and swap it for a new one. 
+To speak dynamically in the Future or the Subjunctive, you need the **Simple (Perfective) Stem**. This is the "Photo" stem, used exclusively for single, completed actions. 
 
-There are three main "Cheat Codes" to master for Type A (First-Conjugation) verbs.
+Finding this stem is like a puzzle: you look at the last few letters of the verb's continuous stem, drop them, and swap them out for a new sound. 
 
----
-
-## 1. The "S" Group (Σ) ➔ Most common
-If the present stem ends in a dental consonant (like **-θω**), a nasal consonant (like **-νω**), the letter **-ζω**, or simply a **vowel** (like -ούω or -ύω), the stem usually changes to a **-σ-**.
-
-*   **διαβάζω** (read) ➔ **διαβάσ-**
-*   **κλείνω** (close) ➔ **κλείσ-**
-*   **νιώθω** (feel) ➔ **νιώσ-**
-*   **ακούω** (hear) ➔ **ακούσ-**
+There are three main "Cheat Codes" to master for regular Type A verbs.
 
 ---
 
-## 2. The "X" Group (Ξ) ➔ Throat sounds
+## 1. The "S" Group (Σ) ➔ The Most Common
+
+If the present tense verb ends in a dental consonant (like **-θω**), a nasal consonant (like **-νω**), a **vowel** (like -ούω), or most verbs ending in **-ζω**, the stem changes to a sharp **-σ-** (Sigma).
+
+- **διαβάζω** (read) ➔ **διαβάσ-**  *(θα διαβάσω)*
+- **κλείνω** (close) ➔ **κλείσ-** *(να κλείσω)*
+- **νιώθω** (feel) ➔ **νιώσ-** *(θα νιώσω)*
+- **ακούω** (hear) ➔ **ακούσ-** *(να ακούσω)*
+
+---
+
+## 2. The "X" Group (Ξ) ➔ The Throat Sounds
+
 If the verb ends in a velar "throat" sound like **-κω, -γω, -χω,** or **-σκω**, it explodes into a **-ξ-** (Xi). 
 
-*   **ανοίγω** (open) ➔ **ανοίξ-**
-*   **τρέχω** (run) ➔ **τρέξ-**
-*   **διδάσκω** (teach) ➔ **διδάξ-**
+- **ανοίγω** (open) ➔ **ανοίξ-** *(θα ανοίξω)*
+- **τρέχω** (run) ➔ **τρέξ-** *(να τρέξω)*
+- **διδάσκω** (teach) ➔ **διδάξ-** *(θα διδάξω)*
 
 > [!WARNING]
 > **The -ζω Exceptions!**  
-> While most verbs ending in -ζω go to the "S" group, some very common ones actually belong to this "X" group. You must memorize these:
-> *   **παίζω** (play) ➔ **παίξ-**
-> *   **αλλάζω** (change) ➔ **αλλάξ-**
-> *   **φωνάζω** (shout/call) ➔ **φωνάξ-**
-> *   **κοιτάζω** (look at) ➔ **κοιτάξ-**
+> While most verbs ending in -ζω go to the "S" group (like *διαβάζω -> διαβάσω*), some extremely common ones are rebels and belong to this "X" group. You must memorize these four:
+> - **παίζω** (play) ➔ **παίξ-** *(θα παίξω)*
+> - **αλλάζω** (change) ➔ **αλλάξ-** *(να αλλάξω)*
+> - **φωνάζω** (shout) ➔ **φωνάξ-** *(θα φωνάξω)*
+> - **κοιτάζω** (look) ➔ **κοιτάξ-** *(να κοιτάξω)*
 
 ---
 
-## 3. The "PS" Group (Ψ) ➔ Lip sounds
-If the verb ends in a labial "lip" sound like **-πω, -βω, -φω**, or **-πτω**, it explodes into a **-ψ-** (Psi).
+## 3. The "PS" Group (Ψ) ➔ The Lip Sounds
 
-*   **γράφω** (write) ➔ **γράψ-**
-*   **λείπω** (be absent) ➔ **λείψ-**
-*   **κρύβω** (hide) ➔ **κρύψ-**
+If the verb ends in a labial "lip" sound like **-πω, -βω, -φω**, or **-πτω**, it merges into a **-ψ-** (Psi).
+
+- **γράφω** (write) ➔ **γράψ-** *(θα γράψω)*
+- **λείπω** (be absent) ➔ **λείψ-** *(να λείψω)*
+- **κρύβω** (hide) ➔ **κρύψ-** *(θα κρύψω)*
 
 > [!TIP]
 > **The -εύω / -αύω Rule**  
-> When a verb ends in **-εύω** or **-αύω**, the 'υ' transforms into a lip sound! These verbs also take the **-ψ-** ending.
-> *   **δουλεύω** (work) ➔ **δουλέψ-**
-> *   **παύω** (stop) ➔ **πάψ-**
+> When a verb ends in **-εύω** or **-αύω**, the 'υ' is actually pronounced like an 'f' or 'v' (which are lip sounds). Therefore, these verbs also take the **-ψ-** ending!
+> - **δουλεύω** (work) ➔ **δουλέψ-** *(θα δουλέψω)*
+> - **χορεύω** (dance) ➔ **χορέψ-** *(να χορέψω)*
 
 ---
 
-## 4. Why does this matter?
-Now that you have the perfective stem (e.g., **γράψ-**), you simply add the standard present tense endings (-ω, -εις, -ει, etc.). You can use it for everything you learned in Units 10 and 11:
+## 4. Putting it to Work
 
-*   **Future (Θα):** Θα γράψω. (I will write—once).
-*   **Subjunctive (Να):** Θέλω να γράψω. (I want to write—once).
+Now that you have the Simple stem (e.g., **γράψ-**), you just attach the normal Present tense endings you already know (-ω, -εις, -ει, -ουμε, -ετε, -ουν). 
 
-> [!IMPORTANT]
-> **Stress Rule**  
-> For regular Type A verbs, the stress falls on the last syllable of the perfective stem (θα γρ**ά**ψω, να δι**α**βάσω).
+Combine this with the particles from the last two units, and you are speaking!
+- **Future:** **Θα** γράψω ένα βιβλίο. (I will write a book—once).
+- **Subjunctive:** Πρέπει **να** δουλέψω. (I must work—right now).
+
+*(Remember: the stress mark never moves! If it's on the 'ά' in γράφω, it stays on the 'ά' in γράψω).*
 
 ---
 
 ## 5. The "1-Syllable Rebels" (Irregulars)
-Some verbs are complete rebels. Their perfective stems shrink down to just a single consonant or syllable. Because the stem is so short, **the stress moves to the ending** (e.g., θα δ**ώ**, να π**ει**ς). 
 
-*   **βλέπω** (see) ➔ **δ-** (θα δώ)
-*   **λέω** (say) ➔ **π-** (θα πώ)
-*   **πίνω** (drink) ➔ **πι-** (θα πιώ)
-*   **βρίσκω** (find) ➔ **βρ-** (θα βρώ)
-*   **βγαίνω** (go out) ➔ **βγ-** (θα βγώ)
-*   **μπαίνω** (go in) ➔ **μπ-** (θα μπώ)
-*   **πάω** (go) ➔ **πα-** (θα πάω)
-*   **έρχομαι** (come) ➔ **ερθ-** (θα έρθω)
+Some verbs refuse to follow any rules. Their perfective stems shrink down to a tiny, single syllable or just one consonant! 
+
+Because the stem is so short, **the stress is forced onto the ending** (e.g., θα δ**ώ**, να π**εις**). These are the most common verbs in the language, so memorize them immediately:
+
+- **βλέπω** (see) ➔ **δ-** *(θα δώ / να δεις)*
+- **λέω** (say) ➔ **π-** *(θα πώ / να πεις)*
+- **πίνω** (drink) ➔ **πι-** *(θα πιώ / να πιέις)*
+- **βρίσκω** (find) ➔ **βρ-** *(θα βρώ)*
+- **βγαίνω** (go out) ➔ **βγ-** *(θα βγω)*
+- **μπαίνω** (go in) ➔ **μπ-** *(θα μπω)*
+- **πηγαίνω / πάω** (go) ➔ **πα-** *(θα πάω)*
+- **έρχομαι** (come) ➔ **ερθ-** *(θα έρθω)*
 
 ---
 
 ## 🎯 Unit 12 Mastery Checklist
-*   [ ] I can turn **διαβάζω** into **διαβάσ-** and **ακούω** into **ακούσ-** (The S Group).
-*   [ ] I can turn **ανοίγω** into **ανοίξ-**, and I know the exception **παίζω** ➔ **παίξ-** (The X Group).
-*   [ ] I can turn **γράφω** into **γράψ-** and **δουλεύω** into **δουλέψ-** (The PS Group).
-*   [ ] I have memorized the "1-Syllable Rebels" (**δώ, πώ, βρώ, πιώ, κτλ.**) and know their stress falls on the ending.
+
+- [ ] I can build the **-σ-** stem for words like *διαβάζω* and *κλείνω*.
+- [ ] I can build the **-ξ-** stem for throat sounds, and I remember the *παίζω/παίξω* exception.
+- [ ] I can build the **-ψ-** stem for lip sounds and *-εύω* verbs (like *δουλεύω -> δουλέψω*).
+- [ ] I can combine a Simple Stem with **θα** or **να** to make full sentences.
+- [ ] I have memorized the "1-Syllable Rebels" like **δώ, πώ, βρώ**.
 
 **Practice Vocabulary:** [A2 Vocabulary: Food & the Restaurant](/lessons/vocabulary-food-restaurant)
 
-**Up Next:** [Unit 13: Direct & Indirect Object Pronouns](/lessons/object-pronouns)
+**Next Lesson:** [Unit 13: Direct & Indirect Object Pronouns](/lessons/object-pronouns)

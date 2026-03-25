@@ -1,71 +1,92 @@
 # Unit 19: Voices, Moods & Special Forms
 
-Greek verbs are highly inflected, meaning they change their endings to express a complex system of grammatical categories. Today, we review two of the most important concepts—Voices and Moods—and introduce the "Special Forms" of the Greek verb.
+You have learned a massive amount of grammar. Before we move on to the final tenses, we need to zoom out and look at the "Matrix" of the Greek verb. 
+
+Every time a Greek person speaks, their brain unconsciously makes three choices: Aspect (Video/Photo), Voice, and Mood. Let's review the last two.
 
 ---
 
 ## 1. Voices (Οι Φωνές)
-Voice is the grammatical category that indicates the relationship between the subject and the action of the verb.
 
-*   **Ενεργητική Φωνή (Active Voice):** The subject is the initiator or performer of the action. 
-    *   *Εγώ πλένω το αυτοκίνητο.* (I wash the car).
-    *   *Η Ελένη ενοχλεί τον Μάρκο.* (Helen annoys Mark).
-*   **Παθητική Φωνή (Passive Voice):** The subject undergoes or is affected by the action, or acts upon itself (reflexive). 
-    *   *Εγώ πλένομαι.* (I am being washed / I wash myself).
-    *   *Ο Μάρκος ενοχλείται από την Ελένη.* (Mark is annoyed by Helen).
+Voice describes the relationship between the subject and the action.
+
+1. **Active Voice (Ενεργητική Φωνή):** The subject is actively performing the action.
+   *   *Εγώ πλένω το αυτοκίνητο.* (I wash the car).
+2. **Passive Voice (Παθητική Φωνή):** The subject is receiving the action, or doing it to themselves (reflexive). These verbs end in **-ομαι**.
+   *   *Εγώ πλένομαι.* (I am being washed / I wash myself).
 
 > [!TIP]
-> **Reminder: The Deponent Verbs**  
-> As we saw in Unit 18, not all verbs have both voices. Some verbs have passive endings but are entirely **active** in meaning. These are called Deponent verbs (e.g., *έρχομαι* - I come, *κοιμάμαι* - I sleep). 
+> **The Deponent Exception**  
+> Never forget the Deponent verbs from Unit 18 (e.g., *έρχομαι*). They wear a Passive disguise (-ομαι) but do purely Active work!
 
 ---
 
 ## 2. Moods (Οι Εγκλίσεις)
-Mood indicates the attitude of the speaker towards the action (whether it is a fact, a wish, or a command).
 
-*   **Οριστική (Indicative Mood):** Used for facts, reality, and making statements. It is characterized by the absence of the particles **να** or **ας**, and it is always negated by **δεν**. 
-    *   *Το παιδί παίζει.* (The child plays).
-    *   *Η Ειρήνη αγόρασε νέο αυτοκίνητο.* (Irene bought a new car).
-*   **Υποτακτική (Subjunctive Mood):** Used to express wishing, hoping, expecting, planning, and possibilities. It uses the same verb forms as the Indicative, but it is introduced by the particles **να** or **ας**, and it is ALWAYS negated by **μην**. 
-    *   *Θέλω να παίξω.* (I want to play).
-    *   *Ας φύγει.* (Let him/her go).
-*   **Προστακτική (Imperative Mood):** Used to give direct commands, orders, and requests to the hearer. 
-    *   *Διάβασε!* (Read!).
-    *   *Γράψε το γράμμα!* (Write the letter!).
+Mood simply means "Attitude." It shows how the speaker feels about reality. You have already learned all three moods!
+
+### A. The Indicative Mood (Facts & Reality)
+Used to state facts, describe real events, or ask factual questions.
+*   **The Particle:** None, or **θα** (for the future).
+*   **The Negation:** Always **Δεν**.
+*   *Το παιδί παίζει.* (The child plays).
+*   *Δεν θα πάω.* (I will not go).
+
+### B. The Subjunctive Mood (Wishes & Possibilities)
+Used for things that aren't reality *yet*: wants, needs, hopes, and expectations. 
+*   **The Particle:** Introduced by the magic words **να** or **ας**.
+*   **The Negation:** ALWAYS **Μην**.
+*   *Θέλω να παίξω.* (I want to play).
+*   *Ας μην φύγει.* (Let him not leave).
+
+### C. The Imperative Mood (Commands)
+Used to give direct orders or strong advice.
+*   **The Forms:** Only exists for "You" singular and plural.
+*   *Διάβασε!* (Read!).
 
 ---
 
-## 3. Special Forms (Participles & The Non-Finite Form)
-Greek verbs have a few invariant or special forms that do not behave like normal conjugated verbs.
+## 3. Special Forms (The Participles)
 
-### A. The Gerund / Active Participle (Η Μετοχή σε -οντας/-ώντας)
-This is an uninflected (frozen) verb form used as an adverb. It corresponds to the English "-ing" form when used to express manner, cause, or two actions happening at the same time.
+Sometimes, verbs stop acting like verbs and start acting like other words.
+
+### The Adverbial Gerund (-ώντας / -οντας)
+This frozen word acts like an adverb. It translates to the English "-ing" form when you want to say "while doing X". Because it's an adverb, it **never changes its shape**.
 *   It ends in **-οντας** (if the stress is on the stem) or **-ώντας** (if the stress is on the ending).
 *   *Ήρθε τρέχοντας.* (He came running).
-*   *Παίζοντας και γελώντας.* (Playing and laughing).
+*   *Έφυγε γελώντας.* (She left laughing).
 
-### B. The Passive Perfect Participle (Η Παθητική Μετοχή)
-Unlike the gerund, this participle acts exactly like an adjective and must perfectly agree with the noun in gender, number, and case. It indicates a completed state resulting from an action.
-*   It always ends in **-μένος, -μένη, -μένο**.
-*   *κουρασμένος* (tired).
-*   *Ένα καλά οργανωμένο συνέδριο.* (A well-organized conference).
+### The Passive Participle (-μένος, -μένη, -μένο)
+This word acts exactly like a chameleon **Adjective**. It describes a completed state that resulted from an action. It must fully agree with the noun in gender, number, and case!
+*   *Κουράζω* (I tire someone) ➔ **Κουρασμένος** (Tired).
+*   *Οργανώνω* (I organize) ➔ **Οργανωμένος** (Organized).
+*   *Μια κουρασμένη γυναίκα.* (A tired woman).
+
+---
+
+## 4. The "Infinitive" Myth
+
+English relies heavily on the infinitive (the dictionary form with "to", like "to play" or "to go"). 
 
 > [!WARNING]
-> **The "Infinitive" Myth**  
-> English relies heavily on the infinitive ("to play", "to go"). **Greek does not have an infinitive**. When you want to say "I want to play", you use the Subjunctive (*Θέλω να παίξω* - "I want that I play"). 
->
-> Greek only has a **Non-Finite form (Απαρέμφατο)**, which ends in **-ει** and looks identical to the 3rd person singular of the dependent. It is **never** used on its own; it is ONLY used directly after the auxiliary verb *έχω* to create the Perfect Tenses!
-*   *Έχω γράψει* (I have written).
-*   *Είχα χάσει* (I had lost).
+> **Greek has absolutely no infinitive.**  
+> When you want to say "I want to play", you must use the Subjunctive: *Θέλω να παίξω* (I want that I play).
+
+Greek only possesses a strange, frozen "Non-Finite" form (Απαρέμφατο) that always ends in **-ει**. **It is never used on its own.** Its only purpose in the entire language is to sit next to the verb *Έχω* (To Have) and build the Perfect Tenses!
+*   *έχω διαβάσ-**ει*** (I have read)
+
+We will learn exactly how to use this weird **-ει** word in the very next unit!
 
 ---
 
 ## 🎯 Unit 19 Mastery Checklist
-*   [ ] I understand the difference between Active Voice (doing) and Passive Voice (receiving).
-*   [ ] I know that the Indicative states facts (negated by **δεν**), while the Subjunctive expresses wishes/possibilities (negated by **μην**).
-*   [ ] I can recognize a Gerund (*τρέχοντας*) and a Passive Participle (*κουρασμένος*).
-*   [ ] I know that Greek has no true infinitive, and the form ending in **-ει** is only used to build perfect tenses with **έχω**.
+
+- [ ] I can explain the difference between Active and Passive Voice.
+- [ ] I know that the Indicative states facts (negated by **δεν**) and the Subjunctive expresses wishes (negated by **μην**).
+- [ ] I can recognize the "while doing" Gerund (*τρέχοντας*).
+- [ ] I can recognize the Adjective-like Passive Participle (*κουρασμένος*).
+- [ ] I understand that Greek has no true infinitive verb.
 
 **Practice Vocabulary:** [B1 Vocabulary: Abstract Concepts & Grammar](/lessons/vocabulary-abstract-concepts)
 
-**Up Next:** [Unit 20: The Perfect Tenses](/lessons/perfect-tenses)
+**Next Lesson:** [Unit 20: The Perfect Tenses (I have done)](/lessons/perfect-tenses)

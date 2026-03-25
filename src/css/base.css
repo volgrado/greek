@@ -3,6 +3,7 @@ html {
     /* Standard properties for Firefox/Future */
     scrollbar-width: thin;
     scrollbar-color: var(--muted-text) transparent;
+    overflow-x: hidden; /* 🛡️ Global safety: moved here to not break sticky in children of body */
 }
 
 /* Chrome, Safari, and Edge */
@@ -34,8 +35,7 @@ body {
     line-height: var(--line-height-base);
     -webkit-font-smoothing: antialiased;
     transition: background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow), fill var(--transition-slow);
-    overflow-x: hidden;
-    /* Global safety for mobile */
+    /* 🛡️ overflow-x: hidden moved to html to avoid breaking postion: sticky */
 }
 
 img {

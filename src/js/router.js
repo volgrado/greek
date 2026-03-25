@@ -3,6 +3,7 @@ import { I18N } from './config.js';
 import { fetchLessonHTML, prefetchNext } from './data.js';
 import { getFlatLessons, getLessonNavigation } from './lesson-utils.js';
 import { matchLessonPath } from './route-utils.js';
+import { KaraokePlayer } from './karaoke.js';
 
 
 const app = document.getElementById('app');
@@ -147,6 +148,15 @@ export const route = async (pathOverride = null) => {
 
                 state.markAsViewed(id);
                 prefetchNext(id);
+
+                state.markAsViewed(id);
+                prefetchNext(id);
+
+                // 🎤 Initialize Karaoke
+                const audioEl = app.querySelector('#reading-audio');
+                if (audioEl) {
+                    new KaraokePlayer(audioEl, app);
+                }
             } else {
                 const errorType = res ? res.error : 'NOT_FOUND';
                 const strings = I18N[state.currentLang];
@@ -172,7 +182,7 @@ export const route = async (pathOverride = null) => {
                 } else {
                     const backHref = window.navigation ? '/' : '#/';
                     app.innerHTML = `
-                        <div class="error-container p-8 text-center">
+                        <div class="error-container">
                             <h1 class="error-title mb-4">${strings.errorTitle}</h1>
                             <p class="error-message mb-8">${isConnError ? strings.errorOffline : strings.errorNotFound}</p>
                             <a href="${backHref}" class="btn-base">${strings.errorBack}</a>

@@ -1,12 +1,22 @@
-/* 📣 Premium Callouts (GitHub Style) */
+/* 📣 Premium Callouts (Glassmorphism Style) */
 .callout {
     margin: var(--space-8) 0;
     padding: var(--space-5) var(--space-6);
-    border-left: var(--space-1) solid var(--border);
-    background: var(--secondary-bg);
-    border-radius: 0 var(--radius-md) var(--radius-md) 0;
+    border: var(--border-width) solid var(--border);
+    border-left: calc(var(--space-1) * 1.5) solid var(--border);
+    background: color-mix(in srgb, var(--secondary-bg) 60%, transparent);
+    backdrop-filter: blur(var(--blur-md));
+    -webkit-backdrop-filter: blur(var(--blur-md));
+    border-radius: var(--radius-md);
     font-size: var(--text-base);
     line-height: var(--line-height-reading);
+    box-shadow: 0 8px 16px -4px color-mix(in srgb, var(--text) var(--p-overlay), transparent);
+    transition: transform var(--transition-normal), box-shadow var(--transition-normal);
+}
+
+.callout:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 24px -6px color-mix(in srgb, var(--text) var(--p-shadow), transparent);
 }
 
 .callout p:first-of-type {

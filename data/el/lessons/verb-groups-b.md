@@ -1,66 +1,76 @@
 # Unit 9: Verb Groups B1 & B2 (The Accented Verbs)
 
-In Unit 4, you learned Type A (First-Conjugation) verbs (like **κάνω**), where the accent is fixed on the stem. Now we meet **Type B (Second-Conjugation)**—verbs where the accent is on the very last vowel of the dictionary form (**-ώ**). 
+In Unit 4, you learned about Type A verbs (like **κάνω**). Their defining feature is that the accent stays stubbornly on the stem (κ**ά**νω, κ**ά**νεις). 
 
-These verbs are the "singers" of Greek; they have a distinct rhythm because the stress falls on the endings rather than the stem. They are split into two "vowel teams".
+Now, meet **Type B (The Second Conjugation)**. These are the "singers" of the Greek language. In these verbs, the stress shifts all the way to the end of the word, hitting the final vowels. Because the endings carry the accent, they sound entirely different. 
+
+Type B verbs are split into two teams: Team B1 and Team B2.
 
 ---
 
 ## 1. Team B1: The "Alpha" Lovers (-άω)
-These are the most common Type B verbs (known in grammar as Type A of the Second Conjugation). They are characterized by the **α** vowel in their endings. 
-*Examples:* **αγαπώ (αγαπάω), μιλάω, ρωτάω, ξυπνάω, γελάω**.
 
-| Pronoun | Ending | Example: μιλάω (speak) |
+This is the largest and most common group of Type B verbs. They are famous for their strong **"a" (Alpha)** sounds. 
+*Examples:* **αγαπάω** (I love), **μιλάω** (I speak), **ρωτάω** (I ask), **ξυπνάω** (I wake up).
+
+| Person | Ending | Example: μιλάω (speak) |
 | :--- | :--- | :--- |
-| (Εγώ) | **-άω / -ώ** | μιλάω / μιλώ |
-| (Εσύ) | **-άς** | μιλάς |
-| (Αυτός/ή/ό) | **-άει / -ά** | μιλάει / μιλά |
-| (Εμείς) | **-άμε / -ούμε** | μιλάμε / μιλούμε |
-| (Εσείς) | **-άτε** | μιλάτε |
-| (Αυτοί/ές/ά) | **-άνε / -ούν(ε)** | μιλάνε / μιλούν(ε) |
+| **(Εγώ)** | **-άω** | μιλ**άω** |
+| **(Εσύ)** | **-άς** | μιλ**άς** |
+| **(Αυτός/ή/ό)** | **-άει** | μιλ**άει** |
+| **(Εμείς)** | **-άμε** | μιλ**άμε** |
+| **(Εσείς)** | **-άτε** | μιλ**άτε** |
+| **(Αυτοί/ές/ά)** | **-άνε** | μιλ**άνε** |
 
 > [!TIP]
-> **Spoken vs. Written (Formal vs. Informal)**  
-> You will often see two sets of endings for these verbs. The endings **-άω, -άει, -άμε**, and **-άνε** are regarded as less formal and are extremely common in everyday spoken Greek. The alternative forms (**-ώ, -ά, -ούμε, -ούν**) are slightly more formal. For a natural, conversational feel, we recommend sticking to the **-άω** pattern as your default!
+> **Street Smart vs. Book Smart**  
+> If you look up these verbs in a formal dictionary, you will see them written as *αγαπώ* or *μιλώ*. Greek actually has two sets of endings for these verbs: a formal written set (-ώ, -άς, -ά, -ούμε, -άτε, -ούν) and a casual spoken set (-άω, -άς, -άει, -άμε, -άτε, -άνε). 
+> **To sound like a natural native speaker, stick to the -άω endings presented in the table above!** 
 
 ---
 
-## 2. Team B2: The "Oo" Lovers (-ώ)
-These verbs are less common but very important (known in grammar as Type B of the Second Conjugation). They lack the "Alpha" sound and instead use **-ει** and **-ου** sounds in their endings. 
-*Examples:* **μπορώ, ζω, τηλεφωνώ, οδηγώ, παρακαλώ**.
+## 2. Team B2: The "Epsilon/Iota" Lovers (-ώ)
 
-| Pronoun | Ending | Example: μπορώ (can) |
+This team is smaller, but it contains some of the most important verbs in the language, like **μπορώ** (I can) and **ζω** (I live). 
+
+Unlike Team B1, these verbs **never** use the "Alpha" sound. Instead, they rely on **-ει** and **-ου** sounds.
+
+| Person | Ending | Example: μπορώ (can) |
 | :--- | :--- | :--- |
-| (Εγώ) | **-ώ** | μπορώ |
-| (Εσύ) | **-είς** | μπορείς |
-| (Αυτός/ή/ό) | **-εί** | μπορεί |
-| (Εμείς) | **-ούμε** | μπορούμε |
-| (Εσείς) | **-είτε** | μπορείτε |
-| (Αυτοί/ές/ά) | **-ούν(ε)** | μπορούν(ε) |
+| **(Εγώ)** | **-ώ** | μπορ**ώ** |
+| **(Εσύ)** | **-είς** | μπορ**είς** |
+| **(Αυτός/ή/ό)** | **-εί** | μπορ**εί** |
+| **(Εμείς)** | **-ούμε** | μπορ**ούμε** |
+| **(Εσείς)** | **-είτε** | μπορ**είτε** |
+| **(Αυτοί/ές/ά)** | **-ούν** | μπορ**ούν** |
 
 > [!NOTE]
-> **Notice the Pattern!**   
-> Except for the first person "I" (**-ώ**) and the "We" and "They" forms, the B2 endings look exactly like the Type A (First-Conjugation) endings you learned in Unit 4 (**-εις, -ει, -ετε, -ουν**), but with an extra vowel "kick" and the **accent firmly placed on the ending**.
+> **The Type A Connection!**   
+> Look closely at the B2 endings. With the exception of "I" (**-ώ**), "We" (**-ούμε**), and "They" (**-ούν**), the endings are exactly the same as the regular Type A verbs you already know (**-εις, -ει, -ετε**)! The only difference is that for B2 verbs, you must loudly stress those ending vowels. 
 
 ---
 
-## 3. How to tell them apart?
-*   If a verb has an **-άω** version in the dictionary or in speech (like *μιλάω / μιλώ*), it's **B1**.
-*   If it **ONLY** ends in **-ώ** (like *μπορώ*), it's **B2** (you can never say "μποράω").
+## 3. How to Tell Them Apart?
 
-> [!WARNING]
-> **The "Crossover" Verbs**  
-> Greek is flexible! Some verbs can actually follow **either** Team B1 or Team B2. Verbs like **τηλεφωνώ** (telephone), **ακολουθώ** (follow), **προχωρώ** (proceed), and **συζητώ** (discuss) can be conjugated with B1 endings in casual speech (*τηλεφωνάω, συζητάμε*) or with B2 endings in more formal contexts (*τηλεφωνώ, συζητούμε*). When in doubt, B2 endings always sound more formal and polite for these crossover verbs.
+When you encounter a new verb that ends in an accented **-ώ**:
+1. Check if you can add an "a" to it. If the dictionary or a native speaker says *μιλάω* as well as *μιλώ*, it belongs to **Team B1**.
+2. If it sounds completely wrong with an "a" (you can *never* say μποράω or ζάω), it belongs to **Team B2**.
+
+> [!CAUTION]
+> **The Crossovers**  
+> Greek is flexible. A few verbs actually cross the border! Words like **τηλεφωνώ** (telephone) and **οδηγώ** (drive) can be conjugated just like B1 (*τηλεφωνάω, οδηγάνε*) in casual conversation, or like B2 (*τηλεφωνώ, οδηγούν*) in formal settings. 
+> When in doubt, you can't go wrong using the formal **B2** endings for these crossover words.
 
 ---
 
 ## 🎯 Unit 9 Mastery Checklist
-*   [ ] I know that B1 and B2 verbs always carry the stress on their endings, not the stem.
-*   [ ] I can conjugate **μιλάω** (B1) and **μπορώ** (B2) in the present tense.
-*   [ ] I know that B1 verbs use **-άμε** and **-άτε** for 'we' and 'you all', and that the **-άω** forms are more conversational.
-*   [ ] I recognize that B2 endings look like Type A endings but carry the stress on the final vowels.
-*   [ ] I am aware that some verbs can "cross over" between B1 and B2 depending on formality.
+
+- [ ] I understand that Type B verbs shift their accent to the ending, giving them a distinct rhythm.
+- [ ] I can confidently conjugate B1 verbs like **μιλάω**.
+- [ ] I know that using the **-άω** endings sounds much more natural and conversational than the formal **-ώ** endings.
+- [ ] I can conjugate B2 verbs like **μπορώ** and notice how their endings resemble Type A.
+- [ ] I know how to test whether a verb is B1 or B2 (the "Can I add an Alpha?" test).
 
 **Practice Vocabulary:** [A2 Vocabulary: Routines & B-Group Verbs](/lessons/vocabulary-routines-hobbies)
 
-**Up Next:** [Unit 10: The Subjunctive Mood (Intro to 'να')](/lessons/subjunctive-1)
+**Next Lesson:** [Unit 10: Verbal Aspect & The Subjunctive (Να)](/lessons/subjunctive-1)

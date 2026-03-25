@@ -6,7 +6,7 @@ import webbrowser
 from pathlib import Path
 import sys
 
-PORT = 8001
+PORT = 8002
 # The directory to serve, relative to the project root
 SERVE_DIR = "dist"
 

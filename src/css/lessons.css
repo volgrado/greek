@@ -156,6 +156,47 @@
     visibility: hidden;
 }
 
+
+/* 🎤 Karaoke Highlighting (Cinematic Illumination) */
+.reading-segment {
+    transition: transform var(--transition-normal);
+    padding: var(--space-3);
+    margin: var(--space-2) 0;
+}
+
+.reading-segment.karaoke-active {
+    transform: translateX(var(--space-1));
+}
+
+/* Dim all words in the active segment by default */
+.reading-segment.karaoke-active .k-word {
+    opacity: 0.4;
+    transition: opacity 0.2s ease, color 0.1s ease, text-shadow 0.2s ease;
+}
+
+/* visited words (optional: keep them dimmed or bring them back to life?)
+   Let's keep visited words at 100% but the ACTIVE word at accent color.
+*/
+.reading-segment.karaoke-active .k-word.word-visited {
+    opacity: 0.8;
+}
+
+.k-word {
+    display: inline-block;
+}
+
+.k-word.word-active {
+    opacity: 1 !important;
+    color: var(--accent);
+    text-shadow: 0 0 8px color-mix(in srgb, var(--accent) 30%, transparent);
+    transform: scale(1.05);
+}
+
+html.dark-mode .k-word.word-active {
+    color: #fff;
+    text-shadow: 0 0 12px var(--accent);
+}
+
 /* Mobile Tweaks */
 @media screen and (max-width: var(--breakpoint-mobile)) {
     .lesson-header h1 {

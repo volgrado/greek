@@ -15,15 +15,6 @@ export const loadData = async () => {
     }
 };
 
-export const loadSearchIndex = async () => {
-    // The search index is now embedded directly in the curriculum.json!
-    // This eliminates an entire network HTTP request on startup.
-    if (state.db && state.db.searchIndex) {
-        state.searchIndex = state.db.searchIndex;
-        state.invertedIndex = state.db.invertedIndex || {};
-    }
-};
-
 export const fetchLessonHTML = async (id) => {
     if (state.lessonCache[id]) return state.lessonCache[id];
     try {

@@ -1,71 +1,82 @@
 # Unit 27: Impersonal Verbs & Expressions
 
-Sometimes a sentence doesn't have a specific "person" doing the action (e.g., "It is raining" or "It is necessary"). In English, we use a dummy "it" as the subject. In Greek, we use Impersonal Verbs which have no subject and are permanently frozen in the 3rd Person Singular. 
+Sometimes an action happens, but nobody in particular is doing it. In English, we use a "dummy" subject to fix this: we say "**It** is raining," or "**It** is necessary."
 
-The most basic examples are weather verbs, like **βρέχει** (it is raining) and **χιονίζει** (it is snowing). But at the B2 level, impersonal verbs are used to express complex opinions, possibilities, and rules.
+Greek doesn't use dummy pronouns. Instead, it uses **Impersonal Verbs**. These verbs have no subject and are completely frozen in the **3rd Person Singular** (they end in **-ει** or **-εται**).
 
 ---
 
 ## 1. The Power Pair: Πρέπει & Μπορεί
-You’ve used these since A1, but now you must understand their advanced native nuances. Both verbs are almost always followed by the subjunctive particle **να**.
-*   **Πρέπει να...** (It is necessary that... / Must)
-*   **Μπορεί να...** (It is possible that... / Might / Maybe)
+
+The two most important impersonal verbs in the language are **πρέπει** (it must/ought) and **μπορεί** (it might/may). 
+
+They both force the next verb into the Subjunctive (*να*). At the B2 level, you must master their advanced conversational nuances.
 
 > [!WARNING]
 > **Μπορώ vs. Μπορεί**  
-> Remember that *μπορώ* can be conjugated when it means "ability", but stays frozen as *μπορεί* when it means "possibility".
-> *   **Μπορώ** να πάω. (I can go—I have the ability).
-> *   **Μπορεί** να πάω. (I might go—it is a possibility).
+> Never confuse the two! 
+> - **Μπορώ** (Conjugated) = Personal ability. *(e.g., Μπορώ να τρέξω - I have the ability to run).*
+> - **Μπορεί** (Frozen) = General possibility. *(e.g., Μπορεί να βρέξει - It might rain).*
 
-### Advanced B2 Nuances:
-**1. Probability:** Just like English, Greeks use **πρέπει να** (must) to express strong probability or deduction about the past, rather than just obligation!
-*   **Είδα φώτα. Πρέπει να έχουν γυρίσει.** (I saw lights. They *must have* returned).
+### B2 Nuance 1: Deductive "Must"
+Greeks use **Πρέπει να** not just for obligations, but to make strong deductions about reality (the equivalent of "They must have...").
+- Είδα φως στο σπίτι. **Πρέπει να** είναι εκεί. (I saw a light. They *must be* there).
+- **Πρέπει να** έχουν γυρίσει. (They *must have* returned).
 
-**2. The Negation Trap:** Where you put the negative particle with *μπορεί* changes the meaning completely!
-*   **Μπορεί να μην έχουν γυρίσει.** (They *may not* have returned).
-*   **Δεν μπορεί να έχουν γυρίσει.** (They *can't* have returned - It is impossible!).
+### B2 Nuance 2: The Negation Trap
+Where you place the negative word with *μπορεί* changes the meaning completely!
+- **Μπορεί να μην** έρθει. (He *might not* come - It's a 50/50 possibility).
+- **Δεν μπορεί να** έρθει. (He *cannot* come - He lacks the ability).
 
 ---
 
 ## 2. "It's not going to happen": Πρόκειται
-Along with *πρέπει*, one of the most common impersonal verbs in Greek is **πρόκειται** (to be about to / be in question). In everyday speech, it is heavily used in the negative to firmly state that something is simply not going to happen.
-*   **Δεν πρόκειται να φύγουμε σήμερα.** (We're *not going to / not about to* leave today).
-*   **Δεν πρόκειται να τον ξεχάσει.** (She is *not about to* forget him).
+
+The verb **πρόκειται** translates formally to "it is about to" or "the issue is about." But in everyday spoken Greek, it is fiercely used in the negative to state that something is simply *not going to happen*.
+
+- **Δεν πρόκειται** να φύγω! (I am *not about to / no way* will I leave!).
+- **Δεν πρόκειται** να τον ξεχάσει ποτέ. (She is *never going to* forget him).
 
 ---
 
-## 3. Essential Intermediate Verbs
-These verbs are frozen in the **-ει** or **-εται** forms and describe allowed actions, appearances, or values.
-*   **Απαγορεύεται** (It is forbidden): *Απαγορεύεται το κάπνισμα.*
-*   **Επιτρέπεται** (It is allowed): *Επιτρέπεται να μπεις.*
-*   **Φαίνεται** (It seems): *Φαίνεται ότι δεν την πιστεύουν.* (It seems that they do not believe her).
-*   **Πειράζει** (It matters / It bothers): *Τον πειράζει που του μιλάει απότομα.* (It bothers him that she speaks to him sharply).
-*   **Αξίζει** (It is worth): *Αξίζει να το δεις.* 
+## 3. Essential Verbs of Rules & States
+
+These verbs are entirely frozen in the **-ει** or **-εται** forms. They are heavily used to set rules or express opinions.
+
+- **Απαγορεύεται** (It is forbidden): *Απαγορεύεται το κάπνισμα.* (Smoking is forbidden).
+- **Επιτρέπεται** (It is allowed): *Επιτρέπεται να μπω;* (Is it allowed for me to come in?).
+- **Φαίνεται** (It seems): *Φαίνεται ότι θα βρέξει.* (It seems that it will rain).
+- **Αξίζει** (It is worth it): *Αξίζει να το δεις.* (It is worth seeing).
+- **Πειράζει** (It matters / bothers): Used constantly in questions! *Σε πειράζει αν καπνίσω;* (Does it bother you if I smoke?).
 
 > [!TIP]
 > **Native Secret: Impersonal "Έχει"**  
-> To say "There is" or "There are", Greeks colloquially use the frozen 3rd person singular verb **έχει** (literally "it has") instead of *υπάρχει*!
-*   **Έχει πολλούς ανθρώπους εκεί μέσα.** (*There are* a lot of people in there).
+> To say "There is" or "There are", textbook Greek teaches you the word *Υπάρχει*. But on the street, Greeks overwhelmingly just use the frozen word **Έχει** (literally "It has")!
+> - **Έχει** πολλούς ανθρώπους εδώ. (*There are* a lot of people here).
+> - Δεν **έχει** καθόλου ψωμί. (*There is* no bread at all).
 
 ---
 
 ## 4. Impersonal "Είναι" Expressions
-You can turn any adjective or noun into a command or observation by using **Είναι** (It is) followed by **να**, **ότι**, or **που**.
-*   **Είναι δύσκολο να...** (It is difficult to...)
-*   **Είναι πιθανόν να...** (It is likely that...).
-*   **Είναι φανερό ότι...** (It is obvious that...).
-*   **Είναι κρίμα που...** (It is a pity that...).
+
+You can take almost any adjective in the Greek language and turn it into a general observation or command by pairing it with **Είναι** (It is) and a linking word like **να** (to), **ότι** (that), or **που** (that/which).
+
+- **Είναι δύσκολο να** μάθεις κινέζικα. (It is difficult to learn Chinese).
+- **Είναι κρίμα που** έφυγες. (It is a pity that you left).
+- **Είναι φανερό ότι** λέει ψέματα. (It is obvious that he is lying).
+- **Είναι ώρα να** πηγαίνουμε. (It is time we get going).
 
 ---
 
 ## 🎯 Unit 27 Mastery Checklist
-*   [ ] I know that impersonal verbs are frozen in the 3rd person singular (-ει or -εται) and have no subject.
-*   [ ] I can use **Πρέπει να** to express probability ("they must have...").
-*   [ ] I understand the massive difference between **Δεν μπορεί να** (impossible) and **Μπορεί να μην** (may not).
-*   [ ] I can firmly deny something using **Δεν πρόκειται να...** (There's no way / Not about to...).
-*   [ ] I know the colloquial trick of using **Έχει** to mean "There is/are".
-*   [ ] I can use **Είναι** + Adjective + **να/ότι/που** to make impersonal observations.
+
+- [ ] I know that impersonal verbs are permanently frozen in the 3rd person singular (**-ει** or **-εται**).
+- [ ] I can use **Πρέπει να** to make a strong deduction (*Πρέπει να έφυγαν* - They must have left).
+- [ ] I totally understand the difference between **Μπορεί να μην** and **Δεν μπορεί να**.
+- [ ] I can fiercely deny something using **Δεν πρόκειται να...** (Not about to...).
+- [ ] I know the native trick of using **Έχει** to say "There is" or "There are".
+- [ ] I can build general observations using **Είναι + [Adjective] + να**.
 
 **Practice Vocabulary:** [B2 Vocabulary: Expressions, impersonal states & weather](/lessons/vocabulary-impersonal-weather)
 
-**Up Next:** [Unit 28: Idioms & Ancient Remnants](/lessons/idioms)
+**Next Lesson:** [Unit 28: Idioms & Ancient Remnants](/lessons/idioms)

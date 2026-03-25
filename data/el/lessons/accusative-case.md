@@ -1,101 +1,100 @@
 # Unit 5: The Accusative Case & Basic Prepositions
 
-In Unit 2, you learned that when a noun is the Object (receiving the action), it drops its final **-ς** (if masculine) and its article becomes **τον, την,** or **το**. 
+In Unit 2, you learned that Greek nouns change their shape depending on their role in the sentence. When a noun is the **target** of an action, it enters the **Accusative Case**.
 
-> [!IMPORTANT]
-> **The Masculine 'N'**  
-> We **always** keep the final **-ν** in the masculine article (**τον, στον, έναν**) in writing to avoid confusion with the neuter article (**το, στο, ένα**). This is true even if the next word starts with a soft sound!
-
-Now, we will see the Accusative Case in action through verbs and the "Big Three" prepositions.
-# Unit 5: The Accusative Case & Basic Prepositions
-
-In Unit 2, you learned that when a noun is the Object (receiving the action), it drops its final **-ς** (if masculine) and its article becomes **τον, την,** or **το**. 
-
-> [!IMPORTANT]
-> **The Masculine 'N'**  
-> We **always** keep the final **-ν** in the masculine article (**τον, στον, έναν**) in writing to avoid confusion with the neuter article (**το, στο, ένα**). This is true even if the next word starts with a soft sound!
-
-Now, we will see the Accusative Case in action through verbs and the "Big Three" prepositions.
+This case is the workhorse of conversational Greek. Whenever you see, have, want, or go to something, you will use the Accusative.
 
 ---
 
-## 1. Verbs that use the Accusative
-Most "action" (transitive) verbs require the direct object to be in the Accusative case.
+## 1. The Golden Rule of the Object
 
-- **Βλέπω τον Γιώργο.** (I see George).
-- **Έχω την τσάντα.** (I have the bag).
-- **Διαβάζω το βιβλίο.** (I read the book).
+If you want to say "I see George" (Βλέπω τον Γιώργο) or "I have the book" (Έχω το βιβλίο), the object receiving the action must transform:
+
+- **Masculine Nouns:** The article **ο** becomes **τον**. The noun drops its final **-ς**. *(Ο φίλος -> τον φίλο)*
+- **Feminine Nouns:** The article **η** becomes **τη(ν)**. The noun itself **does not change**. *(Η φίλη -> τη(ν) φίλη)*
+- **Neuter Nouns:** Total freebie! Both the article **το** and the noun remain **exactly the same**. *(Το βιβλίο -> το βιβλίο)*
+
+> [!IMPORTANT]
+> **The Masculine "N" Rule**  
+> In writing, we **always** keep the final **-ν** in the masculine article (**τον, έναν**). This prevents it from being confused with the neuter article (**το, ένα**). 
 
 > [!CAUTION]
-> **The "Mirror" Verb**  
-> Remember: The verb **Είμαι** (I am) is special. It acts as a linking verb (a mirror), so it takes a "subject predicate" and keeps everything in the **Nominative case** (ο, η, το). 
-> *   *Είμαι ο Γιώργος.* (I am George).
-> *   *Η Μαρία είναι γιατρός.* (Mary is a doctor).
+> **The "Mirror" Exception**  
+> Most verbs force the next noun into the Accusative case. But the verb **Είμαι** (To Be) acts like a mirror—it reflects the subject. Therefore, whatever comes after *Είμαι* stays in the Subject (Nominative) case!
+> - *Correct:* Είμαι **ο** Γιώργος. (I am George).
+> - *Wrong:* Είμαι *τον* Γιώργο.
 
 ---
 
-## 2. The Big Three Prepositions (σε, από, με)
-In Greek, almost all basic prepositions force the noun phrase that follows them into the Accusative case.
+## 2. The "Big Three" Prepositions
+
+Prepositions are tiny directional words like "to," "from," and "with." The three most important prepositions in Greek **force the noun that follows them into the Accusative case**.
 
 ### A. Σε (To / At / In / On)
-This word shows location in space or time, as well as direction. In Greek, we almost never say "σε" and "the" separately. The preposition *σε* obligatorily merges with the definite article into one word:
+This power-word covers almost all locations and destinations. In Greek, we almost never say "σε" and "the" separately. **They merge into a single super-word:**
 
-- σε + τον = **στον**
-- σε + την = **στη(ν)**
-- σε + το = **στο**
-*(And for plurals: στους, στις, στα)*.
+- σε + τον = **στον** (to the / at the - masculine)
+- σε + την = **στη(ν)** (to the / at the - feminine)
+- σε + το = **στο** (to the / at the - neuter)
 
-- *Example:* Πάω **στο** σινεμά. (I am going to the cinema).
-- *Example:* Το πιάτο είναι **στο** τραπέζι. (The plate is on the table).
+*Examples:*
+- Πάω **στο** σινεμά. (I am going to the cinema / I go to the cinema).
+- Το κινητό είναι **στο** τραπέζι. (The phone is on the table).
 
-### B. Από (From / Since / By)
-Used for origins, time, cause, and the agent of an action. It does not merge with the article in writing, but the article must still be in the Accusative.
+### B. Από (From / By)
+Used for origins or the starting point of time and space. Unlike *σε*, it does not physically merge with the article in writing, but it still forces the Accusative case.
 
 - Είμαι **από την** Ελλάδα. (I am from Greece).
-- Έρχομαι **από τον** γιατρό. (I am coming from the doctor).
 
 > [!TIP]
-> **Blend it!** Even though it's written separately, the final vowel of *από* is often optionally deleted before a definite article when speaking quickly. *Από την Αθήνα* sounds like "ap-tin Athina" (απ' την Αθήνα)!
+> **Blend it!** Even though *από* is written separately, Greeks speak fast. The final 'ο' of *από* is often swallowed before a vowel. "*Από την Αθήνα*" sounds like "*Ap-tin Athína*".
 
 ### C. Με (With)
-Used for company, instruments, means of transport, or manner.
+Used for company, instruments, or modes of transport.
 
-- Είμαι **με τη** Μαρία. (I am with Maria).
 - Θέλω καφέ **με** ζάχαρη. (I want coffee with sugar).
-- Θα πάμε **με το** λεωφορείο. (We will go by bus).
+- Πάμε **με το** λεωφορείο; (Are we going by bus?)
 
 ---
 
-## 3. Pronunciation: The Dropping 'N' & The Blending Sounds
-While the masculine articles (*τον, στον, έναν*) always keep their **-ν** in writing, the feminine words (*την, στην, μιαν*) and negative particles (*δεν, μην*) are more selective. 
+## 3. Pronunciation Masterclass: The Disappearing 'N'
 
-### The Dropping 'N' Rule:
-They only keep the **-ν** if the next word starts with:
-1.  A **vowel** (α, ε, η, ι, ο, υ, ω)
-2.  A **hard consonant** (κ, π, τ, ξ, ψ)
-3.  A **digraph** (μπ, ντ, γκ, τσ, τζ)
+While the masculine article (**τον, στον**) always keeps its **-ν** in writing, the feminine article (**την, στην**) is picky. 
 
-Otherwise, the 'ν' is normally deleted in both speech and writing.
-*   **Στη** δασκάλα (The teacher - drops before the soft 'δ')
-*   **Στην** πόρτα (The door - keeps before the hard 'π')
+### When to KEEP the 'N':
+You only keep the liquid 'ν' if the next word starts with a strong or open sound:
+1. **Any Vowel** (α, ε, η, ι, ο, υ, ω)
+2. **Hard Consonants** (κ, π, τ, ξ, ψ)
+3. **Double Consonants** (μπ, ντ, γκ, τσ, τζ)
 
-### The Blending Consonants Rule:
-When the final 'ν' (from either a masculine or feminine word) meets a hard consonant like **π, τ,** or **κ**, the sounds magically blend together!
+- **Στην** πόρτα (At the door - Kept because 'π' is hard).
+
+### When to DROP the 'N':
+If the next word starts with a soft, continuous sound (like β, δ, γ, φ, θ, χ, μ, ν, λ, ρ, σ, ζ), drop the 'ν' in both speech and writing!
+- **Στη** θάλασσα (At the sea).
+
+---
+
+## 4. The Blending Consonants (Speaking like a Native)
+
+When the final **'ν'** (from *τον, την, δεν*) crashes into a hard consonant (**κ, π, τ**), a phonetic magic trick happens!
+
 - **ν + π = mb:** *τον πατέρα* sounds like *to(m)-batéra*.
-- **ν + τ = nd:** *τον τρελό* sounds like *to(n)-dreló*.
-- **ν + κ = ng:** *τον κάλεσαν* sounds like *to(ng)-gálesan*.
+- **ν + τ = nd:** *στον τρελό* sounds like *sto(n)-dreló*.
+- **ν + κ = ng:** *την Κυριακή* sounds like *ti(ng)-giriakí*.
 
-*(If you aren't sure, it is usually safer to include the -ν in speech—native speakers will still understand you perfectly!)*
+*(Don't stress over this immediately. It happens naturally as you speed up your speech!)*
 
 ---
 
 ## 🎯 Unit 5 Mastery Checklist
-- [ ] I can use **βλέπω, έχω,** and **θέλω** with the correct Accusative articles.
-- [ ] I know that **σε + την = στην**, and can use **στον, στο, στους, στις, στα**.
-- [ ] I remember to drop the **-ς** for masculine nouns after **από** and **με**.
-- [ ] I know the rule for dropping or keeping the final **-ν** in feminine articles.
-- [ ] I understand how the final **-ν** blends with hard consonants to make mb, nd, and ng sounds.
 
-**Practice Vocabulary:** [A1 Vocabulary: Survival Phrases](/lessons/vocabulary-survival)
+- [ ] I can drop the final **-ς** from masculine nouns when they are the object.
+- [ ] I always keep the **-ν** in **τον** so I don't confuse masculine and neuter.
+- [ ] I know how to combine **σε** with articles to make **στον, στην, στο**.
+- [ ] I know to drop the feminine **-ν** before soft letters like θ, φ, or μ.
+- [ ] I can pronounce the *mb, nd, ng* blends when **ν** meets **π, τ, κ**.
 
-**Up Next:** [Unit 6: Adjectives & Agreement](/lessons/adjectives)
+**Practice Vocabulary:** [A1 Vocabulary: Essential Action Verbs](/lessons/vocabulary-action-verbs)
+
+**Next Lesson:** [Unit 6: Adjectives, Colors & Numbers](/lessons/adjectives)

@@ -34,24 +34,21 @@ export const updateUIStrings = () => {
     }
 
     if (modeLabel) {
-        // Show what the NEXT mode will be
+        // Show what the CURRENT mode is
         if (state.viewMode === 'grammar') {
-            modeLabel.textContent = strings.vocabulary?.toUpperCase() || "LEXIS";
+            modeLabel.textContent = strings.grammar?.toUpperCase() || "G";
         } else if (state.viewMode === 'vocabulary') {
-            modeLabel.textContent = strings.exercises?.toUpperCase() || "PRACTICE";
+            modeLabel.textContent = strings.vocabulary?.toUpperCase() || "L";
         } else {
-            modeLabel.textContent = strings.grammar?.toUpperCase() || "GRAMMAR";
+            modeLabel.textContent = strings.exercises?.toUpperCase() || "P";
         }
     }
 
     document.title = strings.title;
     const logoSymbol = getEl('logo-symbol');
     const logoText = getEl('logo-text');
-    const searchBtn = getEl('search-btn');
-
     if (logoText) logoText.textContent = strings.title;
     if (logoSymbol) logoSymbol.textContent = strings.symbol;
-    if (searchBtn) searchBtn.title = "Search Lessons";
 };
 
 export const resetProgress = (linkElement, routeFn) => {
@@ -115,17 +112,40 @@ export const initI18n = (routeFn) => {
     };
 
 
-    if (modeSwitchBtn) {
-        modeSwitchBtn.addEventListener('click', () => {
-            let nextMode;
-            if (state.viewMode === 'grammar') {
-                nextMode = 'vocabulary';
-            } else if (state.viewMode === 'vocabulary') {
-                nextMode = 'exercises';
-            } else {
-                nextMode = 'grammar';
+    const modeMenu = getEl('mode-menu');
+
+    if (modeSwitchBtn && modeMenu) {
+        // 1. Positioning & Collision Detection
+        modeMenu.addEventListener('beforetoggle', (e) => {
+            if (e.newState === 'open') {
+                const rect = modeSwitchBtn.getBoundingClientRect();
+                const menuWidth = 124; 
+                
+                // Align to right of button by default
+                let left = rect.right - menuWidth;
+                
+                // Collision detection: keep on screen
+                if (left < 16) left = 16;
+                if (left + menuWidth > window.innerWidth - 16) {
+                    left = window.innerWidth - menuWidth - 16;
+                }
+
+                modeMenu.style.left = `${left}px`;
+                modeMenu.style.top = `${rect.bottom + 4}px`;
+
+                // Highlight active item
+                modeMenu.querySelectorAll('.dropdown-item').forEach(item => {
+                    item.classList.toggle('active', item.dataset.mode === state.viewMode);
+                });
             }
-            handleModeSwitch(nextMode);
+        });
+
+        // 2. Selection Logic
+        modeMenu.querySelectorAll('.dropdown-item').forEach(item => {
+            item.addEventListener('click', () => {
+                handleModeSwitch(item.dataset.mode);
+                if (modeMenu.hidePopover) modeMenu.hidePopover();
+            });
         });
 
         // Sync updates from other tabs
