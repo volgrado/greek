@@ -10,3 +10,10 @@ greek_zero_app.zip
 greek_zero_app_v2.zip
 temp_browser_data/
 log/
+
+# Build artifacts
+dist/
+.wrangler/
+
+# Temporary exports
+full_curriculum.md

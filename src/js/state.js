@@ -108,27 +108,31 @@ class AppState {
         if (!this._data.db || !this._data.db.structure) return false;
 
         const lessons = this.getFlatLessons();
-        const cacheName = `${CONFIG.LESSON_CACHE_PREFIX}${this._data.currentLang}-${CONFIG.LESSON_CACHE_VERSION}`;
+        const lang = this._data.currentLang;
+        const cacheName = `${CONFIG.LESSON_CACHE_PREFIX}${lang}-${CONFIG.LESSON_CACHE_VERSION}`;
 
         try {
             const cache = await caches.open(cacheName);
             const keys = await cache.keys();
-            const cachedUrls = new Set(keys.map(k => new URL(k.url).pathname));
+            const cachedUrls = new Set(keys.map(k => new URL(k.url, location.origin).pathname));
 
             const requiredCount = lessons.length;
-            let foundCount = 0;
+            if (requiredCount === 0) return false;
 
-            const lessonsPath = '/public/data/' + this._data.currentLang + '/lessons/';
+            let foundCount = 0;
+            // Get the relative path from the app root
+            const lessonsPath = `/public/data/${lang}/lessons/`;
 
             for (const l of lessons) {
+                // Check if the HTML version is in the lesson cache
                 if (cachedUrls.has(lessonsPath + l.id + '.html')) {
                     foundCount++;
                 }
             }
 
-            const isFullyDownloaded = foundCount >= requiredCount && requiredCount > 0;
-            return isFullyDownloaded;
+            return foundCount >= requiredCount;
         } catch (e) {
+            console.error("[State] Check status failed", e);
             return false;
         }
     }
