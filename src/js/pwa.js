@@ -1,40 +1,77 @@
 import { state } from './state.js';
-import { I18N } from './config.js';
+import { I18N, CONFIG } from './config.js';
 
 
 export const initPWA = () => {
     const downloadToggle = document.getElementById('download-toggle');
+    const downloadStatusText = document.getElementById('download-status-text');
+
     if (downloadToggle) {
         downloadToggle.addEventListener('click', async () => {
             if (!state.db || !state.db.structure) return;
 
-            downloadToggle.style.opacity = '0.5';
-            if (downloadStatusText) downloadStatusText.textContent = "Downloading...";
+            downloadToggle.classList.add('is-loading');
+            downloadToggle.disabled = true;
 
             const lessons = state.getFlatLessons();
             const lang = state.currentLang;
-            const cacheName = `pwa-lessons-${lang}-v2`;
+            const lessonCacheName = `${CONFIG.LESSON_CACHE_PREFIX}${lang}-${CONFIG.LESSON_CACHE_VERSION}`;
+            const staticCacheName = CONFIG.APP_CACHE_NAME;
+
             const urlsToCache = lessons.map(l => `${I18N[lang].lessonsPath}${l.id}.html`);
+            
+            // Phase 1: Download Lessons
+            let count = 0;
+            const total = urlsToCache.length;
 
             try {
-                const cache = await caches.open(cacheName);
-                await cache.addAll(urlsToCache);
+                const lessonCache = await caches.open(lessonCacheName);
+                const staticCache = await caches.open(staticCacheName);
 
-                const oldIcon = downloadToggle.innerHTML;
-                const label = downloadToggle.querySelector('span');
-                const originalLabelText = label ? label.textContent : '';
+                for (const url of urlsToCache) {
+                    count++;
+                    if (downloadStatusText) downloadStatusText.textContent = `Downloading ${count}/${total}...`;
+                    
+                    // Fetch and cache the lesson
+                    const response = await fetch(url);
+                    if (response.ok) {
+                        await lessonCache.put(url, response.clone());
+                        
+                        // Phase 2: Scrape for media (Audio/VTT)
+                        const html = await response.text();
+                        const audioMatch = html.match(/src="([^"]+\.mp3)"/);
+                        if (audioMatch) {
+                            const audioUrl = audioMatch[1];
+                            const vttUrl = audioUrl.replace('.mp3', '.vtt');
+                            
+                            // Download audio and vtt into static cache
+                            try {
+                                const audioRes = await fetch(audioUrl);
+                                if (audioRes.ok) await staticCache.put(audioUrl, audioRes);
+                                
+                                const vttRes = await fetch(vttUrl);
+                                if (vttRes.ok) await staticCache.put(vttUrl, vttRes);
+                            } catch (err) {
+                                console.warn("Media download failed", audioUrl, err);
+                            }
+                        }
+                    }
+                }
 
-                downloadToggle.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>' + (label ? `<span>Done</span>` : '');
-                downloadToggle.style.opacity = '1';
+                if (downloadStatusText) downloadStatusText.textContent = "Offline Ready";
+                downloadToggle.classList.remove('is-loading');
+                downloadToggle.classList.add('is-done');
                 state.isDownloaded = true;
 
                 setTimeout(() => {
-                    downloadToggle.innerHTML = oldIcon;
+                    downloadToggle.classList.remove('is-done');
+                    downloadToggle.disabled = false;
                 }, 3000);
             } catch (e) {
                 console.error("Download failed", e);
-                downloadToggle.style.opacity = '1';
                 if (downloadStatusText) downloadStatusText.textContent = "Error";
+                downloadToggle.classList.remove('is-loading');
+                downloadToggle.disabled = false;
             }
         });
     }
@@ -63,13 +100,25 @@ export const initPWA = () => {
         });
     }
 
-    // Initial check needs to wait for DB schema to be loaded
-    const updateDownloadStatus = async () => {
+    const updateDownloadStatusUI = (isDownloaded) => {
+        if (!downloadToggle) return;
+        
+        if (isDownloaded) {
+            if (downloadStatusText) downloadStatusText.textContent = "Offline Ready";
+            downloadToggle.classList.add('is-done');
+        } else {
+            if (downloadStatusText) downloadStatusText.textContent = "";
+            downloadToggle.classList.remove('is-done');
+        }
+    };
+
+    // Check status whenever library or language changes
+    const runCheck = async () => {
         state.isDownloaded = await state.checkDownloadStatus();
     };
 
-    if (state.db) {
-        updateDownloadStatus();
-    }
-    state.subscribe('db', updateDownloadStatus);
+    if (state.db) runCheck();
+    state.subscribe('db', runCheck);
+    state.subscribe('currentLang', runCheck);
+    state.subscribe('isDownloaded', updateDownloadStatusUI);
 };

@@ -74,18 +74,27 @@ self.addEventListener('activate', (e) => {
 
 /**
  * Service Worker Fetch Event
- * Implements caching strategies for static and dynamic assets
+ * Implements caching strategies:
+ * - Fonts & Media: Cache-First
+ * - Static Assets: Stale-While-Revalidate
+ * - Lessons: Dynamic Cache-First with fallback
  * @param {FetchEvent} e 
  */
 self.addEventListener('fetch', (e) => {
-    // Font caching strategy for Google Fonts
-    if (e.request.url.startsWith('https://fonts.googleapis.com') ||
-        e.request.url.startsWith('https://fonts.gstatic.com')) {
+    const url = new URL(e.request.url);
+
+    // 1. Font & Media caching strategy (Cache-First)
+    if (url.origin === 'https://fonts.googleapis.com' || 
+        url.origin === 'https://fonts.gstatic.com' ||
+        url.pathname.includes('/assets/audio/') || 
+        url.pathname.includes('/assets/images/')) {
+        
         e.respondWith(
             caches.match(e.request).then(cached => {
                 return cached || fetch(e.request).then(response => {
                     const clone = response.clone();
-                    caches.open('pwa-fonts-v1').then(cache => cache.put(e.request, clone));
+                    const cacheName = url.origin.includes('fonts') ? 'pwa-fonts-v1' : CACHE_NAME;
+                    caches.open(cacheName).then(cache => cache.put(e.request, clone));
                     return response;
                 });
             })
@@ -93,8 +102,8 @@ self.addEventListener('fetch', (e) => {
         return;
     }
 
-    // Dynamic caching for lesson data (specifically HTML fragments in data folder)
-    if (e.request.url.includes('/data/') && e.request.url.includes('/lessons/')) {
+    // 2. Dynamic caching for lesson data (specifically HTML fragments in data folder)
+    if (url.pathname.includes('/data/') && url.pathname.includes('/lessons/')) {
         const lang = CONFIG.DEFAULT_LANG;
         const cacheName = `${CONFIG.LESSON_CACHE_PREFIX}${lang}-${CONFIG.LESSON_CACHE_VERSION}`;
 
@@ -127,7 +136,25 @@ self.addEventListener('fetch', (e) => {
         return;
     }
 
-    // Static assets strategy (cache first, fallback to network)
+    // 3. Static assets strategy (Stale-While-Revalidate)
+    // We serve from cache if available, but always fetch from network to update the cache.
+    const isStatic = STATIC_ASSETS.some(asset => url.pathname === asset || (asset === '/' && url.pathname === '/index.html'));
+    
+    if (isStatic) {
+        e.respondWith(
+            caches.open(CACHE_NAME).then(async (cache) => {
+                const cachedResponse = await cache.match(e.request);
+                const networkFetch = fetch(e.request).then((networkResponse) => {
+                    cache.put(e.request, networkResponse.clone());
+                    return networkResponse;
+                });
+                return cachedResponse || networkFetch;
+            })
+        );
+        return;
+    }
+
+    // Default: Cache First, Fallback to Network
     e.respondWith(
         caches.match(e.request, { ignoreSearch: true }).then((response) => response || fetch(e.request))
     );

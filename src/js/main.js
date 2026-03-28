@@ -21,4 +21,16 @@ document.addEventListener('DOMContentLoaded', () => {
     loadData().then(() => {
         route();
     });
+
+    // 🔌 Offline Status Monitoring
+    const offlineIndicator = document.getElementById('offline-indicator');
+    const updateOnlineStatus = () => {
+        if (offlineIndicator) {
+            offlineIndicator.hidden = navigator.onLine;
+        }
+    };
+
+    window.addEventListener('online', updateOnlineStatus);
+    window.addEventListener('offline', updateOnlineStatus);
+    updateOnlineStatus(); // Initial check
 });

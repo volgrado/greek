@@ -1,8 +1,11 @@
 :root {
     /* 🎨 1. Base Palette (Static Source Literals) */
     --bg-white: #ffffff;
+    --bg-rgb-white: 255, 255, 255;
     --bg-dark: #0f172a;
+    --bg-rgb-dark: 15, 23, 42;
     --bg-sepia: #f4ecd8;
+    --bg-rgb-sepia: 244, 236, 216;
     --text-dark: #111111;
     --text-white: #f1f5f9;
     --brand-accent: #4a90e2;
@@ -17,6 +20,7 @@
 
     /* Default Theme Aliases */
     --bg: var(--bg-white);
+    --bg-rgb: var(--bg-rgb-white);
     --text: var(--text-dark);
     --accent: var(--brand-accent);
     --card-bg: var(--bg);
@@ -123,6 +127,7 @@
 /* 🌙 Dark Mode Overrides */
 html.dark-mode {
     --bg: var(--bg-dark);
+    --bg-rgb: var(--bg-rgb-dark);
     --text: var(--text-white);
     --accent: var(--brand-accent-dark);
     --img-filter: grayscale(1) brightness(0.7) contrast(1.1);
@@ -137,6 +142,7 @@ html.dark-mode {
 /* 📜 Sepia Mode Overrides */
 html.sepia-mode {
     --bg: var(--bg-sepia);
+    --bg-rgb: var(--bg-rgb-sepia);
     --text: var(--text-dark);
     --accent: #8b5a2b; /* Warm brownish/bronze accent for Sepia */
     --img-filter: sepia(0.4) contrast(0.9) brightness(0.9);

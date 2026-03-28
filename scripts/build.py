@@ -320,6 +320,9 @@ def build_all():
     
     # 1. Clean and Prepare
     print("\n--- Initializing Build ---")
+    if dist_dir.exists():
+        print(f"Cleaning existing {dist_dir}...")
+        shutil.rmtree(dist_dir)
     dist_dir.mkdir(parents=True, exist_ok=True)
 
     # 2. Copy UI Assets from src/ and assets/
