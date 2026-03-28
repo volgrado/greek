@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greek</title>
+    <!-- Mobile App Settings -->
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/assets/icon.svg">
+    <!-- Fonts: Lora (Editorial), Inter (UI) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Lora:ital,wght@0,400;0,700;1,400&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="/style.css">
+
+    <!-- Speculation Rules API for instant navigation -->
+    <script type="speculationrules">
+    {
+      "prerender": [
+        {
+          "source": "list",
+          "urls": [],
+          "where": { "href_matches": "*/lessons/*" },
+          "eagerness": "moderate"
+        }
+      ]
+    }
+    </script>
+</head>
+
+<body>
+    <header class="root-nav">
+        <a href="/" class="logo">
+            <svg class="flag-logo" viewBox="0 0 27 18">
+                <rect class="flag-bg" width="27" height="18"/>
+                <path class="flag-stripes" fill="none" stroke-width="2" d="M5,0V11 M0,5H10 M10,3H27 M10,7H27 M0,11H27 M0,15H27"/>
+            </svg>
+            <span id="logo-text">GREEK</span>
+        </a>
+        <div class="header-actions">
+            <button id="mode-switch-btn" popovertarget="mode-menu" class="btn-base btn-icon-only" title="Switch Mode">
+                <span id="mode-label">G</span>
+            </button>
+            <button id="theme-toggle" class="btn-base btn-icon-only" title="Change Theme">
+                <svg id="theme-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <!-- Icon updated by Javascript -->
+                </svg>
+            </button>
+        </div>
+        <div class="scroll-progress"></div>
+    </header>
+    <div id="mode-menu" popover class="dropdown-menu">
+        <div class="dropdown-list">
+            <button class="dropdown-item" data-mode="grammar">
+                <span>Grammar</span>
+                <span class="mode-key">G</span>
+            </button>
+            <button class="dropdown-item" data-mode="vocabulary">
+                <span>Lexis</span>
+                <span class="mode-key">L</span>
+            </button>
+            <button class="dropdown-item" data-mode="exercises">
+                <span>Practice</span>
+                <span class="mode-key">P</span>
+            </button>
+        </div>
+    </div>
+
+    <main id="app">
+<div class="curriculum-container">
+<section class="curriculum-section" data-section-id="grammar-1">
+                <div class="section-header">
+                    <h2>1. A1 Foundations & Survival</h2>
+                    <span class="toggle-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </span>
+                </div>
+                <div class="section-content">
+                    <a href="/lessons/basics" class="curriculum-link">
+                        <span>1.1. Unit 1: The Greek Writing System Masterclass</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/nouns" class="curriculum-link">
+                        <span>1.2. Unit 2: The Basics of Nouns & Articles</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/verb-to-be" class="curriculum-link">
+                        <span>1.3. Unit 3: Being & Having</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/verbs" class="curriculum-link">
+                        <span>1.4. Unit 4: Regular Verbs & Negation (Type A)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/accusative-case" class="curriculum-link">
+                        <span>1.5. Unit 5: The Accusative Case & Basic Prepositions</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/adjectives" class="curriculum-link">
+                        <span>1.6. Unit 6: Adjectives, Colors & Numbers</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/interrogative-pronouns" class="curriculum-link">
+                        <span>1.7. Unit 7: Asking Questions</span>
+                        <span>→</span>
+                    </a>
+</div>
+</section>
+<section class="curriculum-section" data-section-id="grammar-2">
+                <div class="section-header">
+                    <h2>2. A2 Expansion & Daily Life</h2>
+                    <span class="toggle-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </span>
+                </div>
+                <div class="section-content">
+                    <a href="/lessons/plurals" class="curriculum-link">
+                        <span>2.1. Unit 8: Plural Nouns & Adjectives</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/verb-groups-b" class="curriculum-link">
+                        <span>2.2. Unit 9: Verb Groups B1 & B2 (The Accented Verbs)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/subjunctive-1" class="curriculum-link">
+                        <span>2.3. Unit 10: Verbal Aspect & The Subjunctive (Να)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/future-continuous" class="curriculum-link">
+                        <span>2.4. Unit 11: Future Tenses (Θα) & Aspect</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/simple-stem" class="curriculum-link">
+                        <span>2.5. Unit 12: Building the Simple Stem (Σ, Ξ, Ψ)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/object-pronouns" class="curriculum-link">
+                        <span>2.6. Unit 13: Direct & Indirect Object Pronouns (Weak Pronouns)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/aorist-past" class="curriculum-link">
+                        <span>2.7. Unit 14: The Past Tenses (Imperfect vs. Aorist)</span>
+                        <span>→</span>
+                    </a>
+</div>
+</section>
+<section class="curriculum-section" data-section-id="grammar-3">
+                <div class="section-header">
+                    <h2>3. B1 Intermediate Grammar</h2>
+                    <span class="toggle-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </span>
+                </div>
+                <div class="section-content">
+                    <a href="/lessons/genitive-case" class="curriculum-link">
+                        <span>3.1. Unit 15: The Genitive Case (Possession & Relationships)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/imperative" class="curriculum-link">
+                        <span>3.2. Unit 16: The Imperative Mood (Giving Orders)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/adverbs" class="curriculum-link">
+                        <span>3.3. Unit 17: Adverbs & Expressions of Manner</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/deponent-verbs" class="curriculum-link">
+                        <span>3.4. Unit 18: Passive Voice & Deponent Verbs (-ομαι)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/voices-moods" class="curriculum-link">
+                        <span>3.5. Unit 19: Voices, Moods & Special Forms</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/perfect-tenses" class="curriculum-link">
+                        <span>3.6. Unit 20: The Perfect Tenses (I have done)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/conditionals-1-2" class="curriculum-link">
+                        <span>3.7. Unit 21: Conditionals (The 'If' Clauses)</span>
+                        <span>→</span>
+                    </a>
+</div>
+</section>
+<section class="curriculum-section" data-section-id="grammar-4">
+                <div class="section-header">
+                    <h2>4. B2 Advanced Fluency</h2>
+                    <span class="toggle-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </span>
+                </div>
+                <div class="section-content">
+                    <a href="/lessons/particles" class="curriculum-link">
+                        <span>4.1. Unit 22: Advanced Particles & Spoken Expressions</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/relative-pronouns" class="curriculum-link">
+                        <span>4.2. Unit 23: Relative Pronouns (Who, Which, That)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/reflexive-pronouns" class="curriculum-link">
+                        <span>4.3. Unit 24: Reflexive Pronouns (Myself)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/adjective-comparison" class="curriculum-link">
+                        <span>4.4. Unit 25: Adjective Comparison (Better, Faster)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/participles" class="curriculum-link">
+                        <span>4.5. Unit 26: Active & Passive Participles (Οι Μετοχές)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/impersonal-verbs" class="curriculum-link">
+                        <span>4.6. Unit 27: Impersonal Verbs & Expressions</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/idioms" class="curriculum-link">
+                        <span>4.7. Unit 28: Idioms & Ancient Remnants</span>
+                        <span>→</span>
+                    </a>
+</div>
+</section>
+<section class="curriculum-section" data-section-id="grammar-5">
+                <div class="section-header">
+                    <h2>5. C1 Advanced syntax</h2>
+                    <span class="toggle-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </span>
+                </div>
+                <div class="section-content">
+                    <a href="/lessons/diminutives" class="curriculum-link">
+                        <span>5.1. Unit 29: Diminutives & Augmentatives (Υποκοριστικά & Μεγεθυντικά)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/compound-words" class="curriculum-link">
+                        <span>5.2. Unit 30: Compound Words & Prefixation</span>
+                        <span>→</span>
+                    </a>
+</div>
+</section>
+<section class="curriculum-section" data-section-id="grammar-6">
+                <div class="section-header">
+                    <h2>6. C2 Mastery</h2>
+                    <span class="toggle-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                    </span>
+                </div>
+                <div class="section-content">
+                    <a href="/lessons/ancient-remnants" class="curriculum-link">
+                        <span>6.1. Unit 31: Ancient Remnants & Formal Registers</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/genitive-absolute" class="curriculum-link">
+                        <span>6.2. Unit 32: Participles in the Genitive Absolute (Γενική Απόλυτη)</span>
+                        <span>→</span>
+                    </a>
+    <a href="/lessons/irregular-words" class="curriculum-link">
+                        <span>6.3. Unit 33: Irregular & Defective Words</span>
+                        <span>→</span>
+                    </a>
+</div>
+</section>
+</div>
+
+</main>
+    <footer id="footer-root">
+        <div id="footer-disclaimer">
+            <span id="footer-course-name">GREEK LANGUAGE COURSE</span> &middot; A1-C2 MASTERY
+            <div id="offline-indicator" class="offline-badge" hidden>Offline</div>
+        </div>
+
+        <div class="footer-actions">
+            <button id="download-toggle" class="footer-action-link">
+                <span id="footer-download-label">Download Offline</span>
+                <span id="download-status-text" class="status-meta">...</span>
+            </button>
+            <button id="clear-progress" class="footer-action-link warning">
+                <span id="footer-clear-label">Reset Progress</span>
+            </button>
+        </div>
+    </footer>
+    <template id="skeleton-template">
+        <div class="skeleton-loader">
+            <div class="skeleton-meta"></div>
+            <div class="skeleton-title"></div>
+            <div class="skeleton-line"></div>
+            <div class="skeleton-line"></div>
+            <div class="skeleton-line" style="width: 60%"></div>
+        </div>
+    </template>
+    <template id="error-template">
+        <div class="error-container">
+            <h1 class="error-title"></h1>
+            <p class="error-message"></p>
+            <div class="error-actions">
+                <button onclick="location.reload()" class="btn-base error-retry"></button>
+                <a href="/" class="btn-base error-back"></a>
+            </div>
+        </div>
+    </template>
+    <script type="module" src="/js/main.js?v=999"></script>
+</body>
+
+</html>

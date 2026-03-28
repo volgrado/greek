@@ -1,0 +1,46 @@
+/* Skeleton Loader */
+.skeleton-loader {
+    padding: var(--space-8) 0;
+    max-width: 100%;
+}
+
+.skeleton-meta,
+.skeleton-title,
+.skeleton-line {
+    background: var(--secondary-bg);
+    border-radius: var(--radius-sm);
+    margin-bottom: var(--space-6);
+    height: var(--space-4); /* 🚨 FIX: Default height for visibility */
+}
+
+.skeleton-meta,
+.skeleton-title,
+.skeleton-line {
+    background: linear-gradient(90deg,
+            var(--secondary-bg) 25%,
+            var(--card-bg) 50%,
+            var(--secondary-bg) 75%);
+    background-size: 200% 100%;
+    animation: skeleton-loading 1.5s infinite linear;
+}
+
+@keyframes skeleton-loading {
+    0% {
+        background-position: 200% 0;
+    }
+
+    100% {
+        background-position: -200% 0;
+    }
+}
+
+.skeleton-meta {
+    width: 40%;
+    height: var(--space-3);
+}
+
+.skeleton-title {
+    width: 80%;
+    height: var(--space-12);
+    margin-bottom: var(--space-12);
+}

@@ -1,0 +1,28 @@
+/* 📜 Genius Upgrade: Hardware-Accelerated Progress Bar */
+.scroll-progress {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: var(--space-1);
+    background: var(--accent);
+    /* Bright Blue accent */
+    transform-origin: left;
+    transform: scaleX(0);
+    z-index: calc(var(--z-header) + 1);
+    pointer-events: none;
+
+    /* Chrome/Edge 115+ Native Scroll-Driven Animation */
+    animation: grow-progress auto linear;
+    animation-timeline: scroll(root);
+}
+
+@keyframes grow-progress {
+    from {
+        transform: scaleX(0);
+    }
+
+    to {
+        transform: scaleX(1);
+    }
+}

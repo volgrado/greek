@@ -1,0 +1,102 @@
+/* 🔘 Buttons & Controls */
+.btn-base {
+    background: none;
+    border: var(--border-width) solid var(--border);
+    cursor: pointer;
+    padding: var(--space-2) var(--space-4);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all var(--transition-normal), border-color var(--transition-slow), background-color var(--transition-slow), color var(--transition-slow);
+    color: var(--text);
+    font-size: var(--text-sm);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: var(--ls-wide);
+}
+
+.btn-base:hover {
+    background: var(--hover-overlay);
+}
+
+.btn-base svg {
+    width: var(--space-4);
+    height: var(--space-4);
+    margin-right: var(--space-2);
+}
+
+/* Specific Button Variants */
+.btn-icon-only {
+    width: var(--space-10);
+    height: var(--space-10);
+    padding: 0;
+}
+
+.btn-icon-only svg {
+    margin: 0;
+}
+
+/* Cards & Content Blocks */
+.content-card {
+    border: var(--border-width) solid var(--border);
+    padding: var(--space-6);
+    margin-top: var(--space-8);
+    background: var(--card-bg);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: var(--space-6) auto;
+}
+
+.content-card h3 {
+    margin-top: 0;
+    border-bottom: var(--border-width) solid var(--border);
+    padding-bottom: var(--space-4);
+    margin-bottom: var(--space-6);
+}
+
+.content-grid {
+    display: grid;
+    gap: var(--space-6);
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, var(--measure-narrow)), 1fr));
+}
+
+.example-box {
+    border-left: var(--border-width) solid var(--border);
+    padding-left: var(--space-6);
+    margin: var(--space-8) 0;
+    font-style: italic;
+    color: var(--muted-text);
+}
+
+.info-box,
+.grammar-info {
+    background: var(--secondary-bg);
+    border: var(--border-width) solid var(--border);
+    padding: var(--space-6);
+    margin: var(--space-8) 0;
+    overflow-x: auto;
+    /* Handle inner tables/long text */
+}
+
+.info-box h3,
+.grammar-info h3 {
+    margin-top: 0;
+    font-size: var(--text-base);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-widest);
+}
+
+/* 🧭 View Toggle (Header) */
+#mode-switch-btn {
+    justify-content: center;
+}
+
+#mode-label {
+    font-weight: 800;
+    font-size: var(--text-xs);
+    letter-spacing: var(--ls-normal);
+}

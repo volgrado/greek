@@ -1,0 +1,40 @@
+.error-container {
+    padding: var(--space-20) var(--space-4);
+    text-align: center;
+    max-width: var(--measure-wide);
+    margin: 0 auto;
+}
+
+.error-title {
+    color: var(--error);
+    font-size: var(--text-4xl);
+    margin-bottom: var(--space-4);
+}
+
+.error-message {
+    color: var(--muted-text);
+    margin-bottom: var(--space-10);
+    font-family: var(--font-ui);
+    font-size: var(--text-base);
+    line-height: var(--line-height-reading);
+}
+
+.error-actions {
+    display: flex;
+    gap: var(--space-4);
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.error-retry {
+    background: var(--text) !important;
+    color: var(--bg) !important;
+    border: none;
+    padding: var(--space-3) var(--space-6) !important;
+}
+
+.error-back {
+    padding: var(--space-3) var(--space-6) !important;
+    text-decoration: none;
+    display: inline-block;
+}

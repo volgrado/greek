@@ -1,0 +1,86 @@
+h1,
+h2,
+h3 {
+    font-family: var(--font-ui);
+    font-weight: 800;
+    line-height: var(--line-height-heading);
+    letter-spacing: var(--ls-tight);
+    color: var(--text);
+    text-wrap: balance;
+    /* 🖋️ Genius Typograpy: Prevents awkward orphans in headings */
+}
+
+h1 {
+    font-size: clamp(var(--text-4xl), 8vw, var(--text-5xl));
+    margin-bottom: var(--space-2);
+    letter-spacing: var(--ls-tighter);
+    background: linear-gradient(135deg, var(--text) 10%, var(--accent) 90%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0px 4px 12px color-mix(in srgb, var(--accent) 15%, transparent);
+}
+
+h2 {
+    margin-top: var(--space-8);
+    font-size: var(--text-sm);
+    text-transform: uppercase;
+    letter-spacing: var(--ls-widest);
+    color: var(--muted-text);
+    border-top: var(--border-width) solid var(--border);
+    padding-top: var(--space-4);
+}
+
+h2:first-child,
+#app>h2:first-of-type,
+.curriculum-container section:first-child h2 {
+    border-top: none !important;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+h3 {
+    font-size: var(--text-lg);
+    letter-spacing: var(--ls-tight);
+    margin-top: var(--space-6);
+    margin-bottom: var(--space-2);
+}
+
+p,
+li,
+td {
+    text-wrap: pretty;
+    /* 🖋️ Genius Typograpy: Prevents single-word orphans at the end of paragraphs */
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: var(--border-width) solid var(--border);
+    transition: opacity var(--transition-normal), transform var(--transition-normal), background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow);
+}
+
+a:hover {
+    opacity: var(--opacity-hover);
+    border-bottom-width: var(--border-width-thick);
+}
+
+.greek,
+.lang-el {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    font-size: 1.15em;
+    font-weight: 500;
+    color: var(--text);
+    padding: 0 0.1em;
+}
+
+.spanish,
+.lang-es {
+    font-weight: 800;
+    font-family: var(--font-ui);
+}
+
+.meaning {
+    font-style: italic;
+    color: var(--muted-text);
+}
