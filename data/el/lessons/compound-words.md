@@ -4,6 +4,11 @@ Greek vocabulary is massive, but it's incredibly logical. Throughout its long hi
 
 Once you understand how the bricks connect, you can usually guess the meaning of a C1/C2 word even if you've never seen it before!
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the Greek "glue" (o), the stress shift for the Alpha Privative, and reversing actions with "Ξε-".
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/compound-words-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Greek "Glue": The letter Omikron (o)

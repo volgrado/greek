@@ -4,6 +4,11 @@ In Unit 2, you learned that Greek nouns change their shape depending on their ro
 
 This case is the workhorse of conversational Greek. Whenever you see, have, want, or go to something, you will use the Accusative.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the "Object Case," the masculine "N" rule, and the three fundamental prepositions: Σε, Από, and Με.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/accusative-case-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Golden Rule of the Object

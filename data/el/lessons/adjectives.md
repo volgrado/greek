@@ -4,6 +4,11 @@ In English, adjectives (words that describe things) are completely static. A "go
 
 In Greek, adjectives are **chameleons**. They must perfectly match the noun they are describing in **Gender**, **Number**, and **Case**. This powerful concept is called **Agreement**.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the "Chameleon Rule," agreement, and the invariant colors and numbers 1-10.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/adjectives-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Chameleon Rule

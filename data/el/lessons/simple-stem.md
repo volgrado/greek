@@ -2,6 +2,11 @@
 
 To speak dynamically in the Future or the Subjunctive, you need the **Simple (Perfective) Stem**. This is the "Photo" stem, used exclusively for single, completed actions. 
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on building the Simple Stem: the Σ-Group, Ξ-Group, Ψ-Group, and the 1-Syllable rebels like "dos" and "pes".
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/simple-stem-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 Finding this stem is like a puzzle: you look at the last few letters of the verb's continuous stem, drop them, and swap them out for a new sound. 
 
 There are three main "Cheat Codes" to master for regular Type A verbs.

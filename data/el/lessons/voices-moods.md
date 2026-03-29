@@ -4,6 +4,11 @@ You have learned a massive amount of grammar. Before we move on to the final ten
 
 Every time a Greek person speaks, their brain unconsciously makes three choices: Aspect (Video/Photo), Voice, and Mood. Let's review the last two.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the "Matrix" of the Greek verb: Active/Passive voices, the three Moods, and the adverbial gerund (-οντας).
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/voices-moods-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. Voices (Οι Φωνές)

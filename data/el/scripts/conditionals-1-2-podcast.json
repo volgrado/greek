@@ -1,0 +1,46 @@
+{
+    "id": "conditionals-1-2-grammar",
+    "title": "Unit 21: Conditionals - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 21 introduces Conditionals—the 'If-Then' sentences of Modern Greek. These structures are divided by their level of reality and likelihood. Athina, how do we typically express 'If' in spoken Greek?"
+        },
+        {
+            "voice": "gr",
+            "text": "Αν, εάν, ή άμα. Το 'άμα' είναι το πιο καθημερινό."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. We categorize conditionals into three types. Type 1 represents real-world possibilities. Athina, please provide an example of a Type 1 conditional."
+        },
+        {
+            "voice": "gr",
+            "text": "Αν βρέχει, δεν θα πάμε. Άμα τελειώσεις νωρίς, πάρε με τηλέφωνο."
+        },
+        {
+            "voice": "en",
+            "text": "Note that 'An' clauses are negated with 'Den'. Type 2 conditionals represent dreams or hypotheticals. These are formed by utilizing the Imperfect past tense on both sides of the comma. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Αν είχα λεφτά, θα αγόραζα ένα νησί. Θα αγόραζα σημαίνει 'I would buy'."
+        },
+        {
+            "voice": "en",
+            "text": "Finally, Type 3 conditionals express regret over past events that cannot be changed. These utilize the Past Perfect tense. However, in casual conversation, Greeks often utilize the Type 2 structure for past regrets. Athina, provide a formal Type 3 example."
+        },
+        {
+            "voice": "gr",
+            "text": "Αν είχα διαβάσει, θα είχα περάσει. Αλλά δεν διάβασα."
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our academic review of Unit 21. Developing a mastery of conditional balancing is a critical step towards advanced syntactic proficiency in Modern Greek."
+        }
+    ]
+}

@@ -4,6 +4,11 @@ Welcome to the **C1 Advanced Stage**. You now possess all the structural grammar
 
 To sound truly native, you must master the tiny, untranslatable words that Greeks constantly sprinkle into their speech. These are called **particles**. They add flavor, doubt, extreme sarcasm, or intense emotion to a sentence.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on softening questions with "Άραγε", using "Τάχα" for sarcasm, and the universal power of "Άντε".
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/particles-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. Curiosity & Doubt

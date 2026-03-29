@@ -1,6 +1,6 @@
 # Chapter 2: The Silver Key (Το Ασημένιο Κλειδί)
 
-<audio id="reading-audio" controls src="/assets/audio/chapter-02.mp3"></audio>
+<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-02.mp3"></audio>
 
 ![Nestoras at the hotel reception holding a silver key](/assets/images/chapter-2-hotel.png)
 

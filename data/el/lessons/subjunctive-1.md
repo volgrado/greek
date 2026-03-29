@@ -2,6 +2,11 @@
 
 Welcome to the great divide in the Greek language. To move from A1 to A2, you must understand a concept called **Aspect**. 
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the "Video vs. Photo" concept (Aspect), the subjunctive "Na" particle, and the rule of negation with Μην.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/subjunctive-1-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 English cares heavily about *when* an action happens (Past, Present, Future). Greek cares far more about *how* it happens. This concept is the key to unlocking the entire rest of the language.
 
 ---

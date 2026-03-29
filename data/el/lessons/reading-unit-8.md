@@ -1,6 +1,6 @@
 # Chapter 8: The Hidden Documents (Τα Κρυφά Έγγραφα)
 
-<audio id="reading-audio" controls src="/assets/audio/chapter-08.mp3"></audio>
+<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-08.mp3"></audio>
 
 ![Nestoras opening a secret drawer full of old documents and photographs](/assets/images/chapter-8-documents.png)
 

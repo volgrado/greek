@@ -1,0 +1,54 @@
+{
+    "id": "nouns-grammar",
+    "title": "Unit 2: Nouns and Articles - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome to Unit 2. In this podcast, we will discuss the foundational structure of Modern Greek nouns and their accompanying articles. Unlike English, Greek nouns are highly dynamic, as they possess grammatical gender, number, and case. Athina, what is the 'Golden Rule' regarding Greek vocabulary?"
+        },
+        {
+            "voice": "gr",
+            "text": "Ποτέ μην μαθαίνετε μια λέξη χωρίς το άρθρο της. Ο, η, ή το. Το άρθρο είναι η ταυτότητα της λέξης."
+        },
+        {
+            "voice": "en",
+            "text": "Exactly. The article is the noun's identification card. There are three genders in Greek: Masculine, Feminine, and Neuter. It is vital to note that grammatical gender is a categorical system and does not necessarily correspond to biological sex. Consider the words for boy and girl, which are both grammatically neuter. Athina, please provide examples for each gender."
+        },
+        {
+            "voice": "gr",
+            "text": "Αρσενικό: ο φίλος. Θηλυκό: η αγάπη. Ουδέτερο: το σπίτι."
+        },
+        {
+            "voice": "en",
+            "text": "We also have the indefinite articles, corresponding to the English 'a' or 'an'. These are also gender-specific."
+        },
+        {
+            "voice": "gr",
+            "text": "Ένας φίλος. Μια αγάπη. Ένα σπίτι."
+        },
+        {
+            "voice": "en",
+            "text": "Furthermore, we must introduce the concept of 'Cases'. A Greek noun changes its morphological structure depending on its syntactic role. When a noun is the subject, performing the action, it is in the Nominative Case. However, when it becomes the object, receiving the action, it enters the Accusative Case. Let us hear how a masculine noun transforms."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο πατέρας είναι εδώ. Βλέπω τον πατέρα."
+        },
+        {
+            "voice": "en",
+            "text": "Note that 'o pateras' becomes 'ton patera'—dropping the final 's' and changing the article. Neuter nouns, however, remain identical in both cases. Finally, a significant difference from English: in Greek, proper names always require a definite article. You do not simply say 'Maria'; you must say 'The Maria'."
+        },
+        {
+            "voice": "gr",
+            "text": "Η Μαρία είναι εδώ. Βλέπω τον Νίκο."
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our academic review of Unit 2. Accurate mastery of these articles and their various cases is essential for all future sentence construction. Continual practice is recommended."
+        }
+    ]
+}

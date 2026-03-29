@@ -1,6 +1,6 @@
 # Chapter 7: The Syntagma Interview (Η Συνέντευξη στο Σύνταγμα)
 
-<audio id="reading-audio" controls src="/assets/audio/chapter-07.mp3"></audio>
+<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-07.mp3"></audio>
 
 ![Nestoras asking a mysterious woman a question at Syntagma Square](/assets/images/chapter-7-syntagma.png)
 

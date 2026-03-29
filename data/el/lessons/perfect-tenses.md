@@ -4,6 +4,11 @@ If you made it through the Past tenses, you will find the Perfect tenses incredi
 
 You simply combine a **Helper Verb** ("To Have") with a **Frozen Action Word** (like "played" or "written").
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the Present vs. Past Perfect, the active (-ει) vs. passive (-εί) frozen forms, and the Pronoun Magnet rule.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/perfect-tenses-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Engine: The Helper Verb (Έχω)

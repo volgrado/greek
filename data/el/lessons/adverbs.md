@@ -4,6 +4,11 @@ In Unit 6, you learned that Adjectives are "chameleons"—they constantly change
 
 **Adverbs**, on the other hand, are the easiest words in the Greek language. They are completely "frozen." They exist to describe *how, where, when,* or *how much* an action happens, and they **never change their shape**.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the "-α" trick, the difference between "Πότε" and "Ποτέ", and the beauty of double negatives.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/adverbs-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. Adverbs of Manner: How? (Πώς;)

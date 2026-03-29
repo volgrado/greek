@@ -4,6 +4,11 @@ Greek is a language of intense emotion. You don't just drink a coffee; you drink
 
 To express these feelings of smallness, affection, or enormous size, Greek uses special suffixes attached to the stem of nouns. Mastering these suffixes is the key to sounding like a true native speaker!
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the universal "-άκι", gender-specific diminutives, and the augmentative "-αρος" used to make things sound completely massive!
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/diminutives-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Diminutives (Making things small, cute, or polite)

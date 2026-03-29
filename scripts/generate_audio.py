@@ -8,7 +8,7 @@ from pydub import AudioSegment
 # Configuration
 VOICE_EN = "en-AU-WilliamMultilingualNeural"
 VOICE_GR = "el-GR-NestorasNeural"
-ASSETS_DIR = Path("assets/audio")
+ASSETS_DIR = Path("assets/audio/chapters")
 ASSETS_DIR.mkdir(parents=True, exist_ok=True)
 
 def parse_vtt_time(vtt_time_str):

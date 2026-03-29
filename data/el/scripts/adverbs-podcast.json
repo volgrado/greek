@@ -1,0 +1,38 @@
+{
+    "id": "adverbs-grammar",
+    "title": "Unit 17: Adverbs and Expressions of Manner - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 17 addresses Adverbs—the frozen constituents of Modern Greek. Unlike adjectives, adverbs are morphological constants and do not require agreement. Athina, how can we transform a standard adjective into an adverb?"
+        },
+        {
+            "voice": "gr",
+            "text": "Αλλάζουμε την κατάληξη σε άλφα. Καλός – καλά. Γρήγορος – γρήγορα."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. This transformation is highly common for adverbs of manner. Additionally, we must categorize adverbs by their function: place, time, and quantity. Athina, please provide examples for location and chronology."
+        },
+        {
+            "voice": "gr",
+            "text": "Εδώ, εκεί. Σήμερα, αύριο, χθες. Και πάντα το 'ποτέ'."
+        },
+        {
+            "voice": "en",
+            "text": "Precisely. However, we must distinguish between 'Póte'—meaning 'When'—and 'Poté'—meaning 'Never'. Chronological accuracy depends entirely on correct accentual stress. Furthermore, consider the double negative construction."
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν πίνω ποτέ. Δεν θέλω καθόλου. Χρησιμοποιούμε δύο αρνήσεις."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. Double negatives are standard in Greek syntax. Lastly, adverbs of quantity—such as 'Polý' and 'Lígo'—must be used consistently to qualify verbal intensity. This concludes our academic overview of Unit 17. Mastery of these frozen forms provides essential syntactic anchors for Modern Greek."
+        }
+    ]
+}

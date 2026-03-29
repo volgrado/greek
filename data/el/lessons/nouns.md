@@ -4,6 +4,11 @@ Now that you can read Greek, it's time to start building sentences. In English, 
 
 In Greek, nouns are alive. They change their shape depending on three things: **Gender**, **Number**, and their **Case** (the role they play in the sentence).
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to the core concepts of gender, articles, and cases explained with native phonetic references.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/nouns-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 > [!IMPORTANT]
 > **The Golden Rule of Greek Vocabulary**  
 > **Never** learn a Greek noun by itself. Always memorize it with its definite article (the word for "the": **ο, η,** or **το**). The article is the noun's ID card—it tells you the noun's gender and warns you how it will behave in a sentence.

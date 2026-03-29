@@ -1,6 +1,6 @@
 # Chapter 9: The Identity of the Man (Η Ταυτότητα του Άντρα)
 
-<audio id="reading-audio" controls src="/assets/audio/chapter-09.mp3"></audio>
+<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-09.mp3"></audio>
 
 ![Nestoras looking at an old photograph of his grandfather in the museum basement](/assets/images/chapter-9-identity.png)
 

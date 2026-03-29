@@ -1,0 +1,46 @@
+{
+    "id": "simple-stem-grammar",
+    "title": "Unit 12: Building the Simple Stem - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 12 introduces the methodology for constructing the Simple, or Perfective, Stem in Modern Greek. This is the absolute foundation for all non-continuous tenses, including the Simple Future and the Subjunctive. Athina, what is the 'S-Group' rule for these stems?"
+        },
+        {
+            "voice": "gr",
+            "text": "Αν το ρήμα τελειώνει σε -νω, -θω ή -ζω, το θέμα αλλάζει σε σίγμα. Διαβάζω – διαβάσω. Κλείνω – κλείσω."
+        },
+        {
+            "voice": "en",
+            "text": "Precisely. The 'Sigma' stem is the most prevalent. Next, we have the 'X-Group', which applies to verbs ending in velar consonants—the 'throat' sounds. Athina, what are the transformations for 'X'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Τα ρήματα σε -κω, -γω, -χω ή -σκω αλλάζουν σε ξι. Ανοίγω – ανοίξω. Τρέχω – τρέξω."
+        },
+        {
+            "voice": "en",
+            "text": "It is noteworthy that certain extremely common '-zo' verbs—such as 'paizo'—are irregular and belong to the 'X-Group'. Athina, demonstrate the 'Psi' or 'PS-Group' for labial 'lip' sounds."
+        },
+        {
+            "voice": "gr",
+            "text": "Τα ρήματα σε -πω, -βω, -φω ή -εύω αλλάζουν σε ψι. Γράφω – γράψω. Δουλεύω – δουλέψω."
+        },
+        {
+            "voice": "en",
+            "text": "Lastly, we must address the monosyllabic irregular stems. These verbs are the most high-frequency in the Greek language. Athina, please state the stems for 'Vlepo' and 'Leo'."
+        },
+        {
+            "voice": "gr",
+            "text": "Βλέπω – δω. Λέω – πω. Πίνω – πιω. Βρίσκω – βρω. Πηγαίνω – πάω."
+        },
+        {
+            "voice": "en",
+            "text": "Note that because these stems are so brief, the lexical stress must shift to the ending. This concludes our academic overview of Unit 12. Mastering these stem transformations is a core requirement for grammatical dexterity in Modern Greek."
+        }
+    ]
+}

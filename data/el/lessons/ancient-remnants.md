@@ -12,6 +12,11 @@ In 1976, Demotic officially won and became the sole language of Greece. However,
 
 To achieve true C2 fluency, you must understand the "Ancient Remnants" that are still used in the news, literature, and formal speech today.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on frozen Dative phrases like "Εν τω μεταξύ", formal prepositions (Genitive), and the 3rd declension feminine nouns.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/ancient-remnants-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. Dative Expressions (The Lost Case)

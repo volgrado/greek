@@ -1,0 +1,46 @@
+{
+    "id": "future-continuous-grammar",
+    "title": "Unit 11: Future Tenses and Aspect - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 11 applies the concept of Verbal Aspect to the future tenses of Modern Greek. To formulate a future statement, we utilize the invariant particle 'Tha'. Athina, where is this particle positioned relative to the verb?"
+        },
+        {
+            "voice": "gr",
+            "text": "Το 'θα' μπαίνει πάντα ακριβώς πριν από το ρήμα. Θα παίζω, θα φάω."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. However, we must choose between the Continuous and Simple Future. The Continuous Future, utilizing the present stem, describes habitual actions or routines. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα διαβάζω κάθε μέρα. Είναι σαν ένα βίντεο που συνεχίζεται."
+        },
+        {
+            "voice": "en",
+            "text": "In contrast, the Simple Future utilizes the perfective stem to describe a single, completed event. This is the more common future form in daily discourse. It is vital to note that the past tense augment 'e'—is strictly prohibited in future constructions. Athina, please demonstrate the Simple Future."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα διαβάσω το βιβλίο αύριο. Θα γράψω ένα γράμμα."
+        },
+        {
+            "voice": "en",
+            "text": "Regarding negation, we utilize the particle 'Den' before 'Tha'. Also, observe the syntactic 'sandwich' formed when short object pronouns are present. They must be placed between the particle 'Tha' and the verb. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα το κάνω. Δεν θα σου το δώσω."
+        },
+        {
+            "voice": "en",
+            "text": "Finally, 'Tha' is frequently employed to express probability or logical supposition in the present tense, analogous to the English 'must be'. This concludes our academic review of Unit 11. Precise selection of aspect remains your primary syntactic challenge in these future paradigms."
+        }
+    ]
+}

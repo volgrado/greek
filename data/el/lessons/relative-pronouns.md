@@ -4,6 +4,11 @@ Relative pronouns are the glue that links two sentences together. Instead of sou
 
 In Greek, you have two tools for this: the easy, casual way, and the formal, precise way.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the frozen "Που" vs. the chameleon "Ο οποίος", and the "Echo Pronoun" trick for clarity.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/relative-pronouns-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Easy Way: Που

@@ -1,6 +1,6 @@
 # Chapter 13: The Way to the Temple (Ο Δρόμος για τον Ναό)
 
-<audio id="reading-audio" controls src="/assets/audio/chapter-13.mp3"></audio>
+<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-13.mp3"></audio>
 
 ![Nestoras standing at the port of Aegina asking a local for directions with the sea and hills in the background](/assets/images/chapter-13-directions.png)
 

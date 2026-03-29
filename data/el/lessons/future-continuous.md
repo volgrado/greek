@@ -2,6 +2,11 @@
 
 In Unit 10, you learned the magic of **Aspect** (The Video vs. The Photo). Now, we are going to apply that exact same logic to the future. 
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the Future particle "Θα", Continuous vs. Simple Future, and the "Pronoun Sandwich" rule.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/future-continuous-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 In English, we just say "I will play." Greek demands more precision: are you going to play regularly as a habit (a Video), or are you talking about one specific game tomorrow (a Photo)?
 
 ---

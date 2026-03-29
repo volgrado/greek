@@ -1,0 +1,38 @@
+{
+    "id": "diminutives-grammar",
+    "title": "Unit 29: Diminutives and Augmentatives - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 29 focuses on the emotional texture of Modern Greek: Diminutives and Augmentatives. These suffixes allow speakers to express size, affection, or familiarity. Athina, what is the universal 'tiny-maker'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Είναι το '-άκι'. Μετατρέπει τα πάντα σε ουδέτερα. Το σπίτι - το σπιτάκι, ο καφές - το καφεδάκι."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. This suffix is not just for size, but for politeness. However, we also have gender-specific diminutives, such as '-itsa' and '-oula' for feminine nouns. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Η μπύρα - η μπιρίτσα, η αδερφή - η αδερφούλα. Ακούγεται πολύ πιο φιλικό."
+        },
+        {
+            "voice": "en",
+            "text": "In contrast, augmentatives like '-aros' and '-ara' are utilized to express enormous size or admiration. Athina, demonstrate."
+        },
+        {
+            "voice": "gr",
+            "text": "Το σκυλί - ο σκύλαρος, το αυτοκίνητο - η αυτοκινητάρα. Είναι κάτι τεράστιο!"
+        },
+        {
+            "voice": "en",
+            "text": "Exactly. Lastly, we must observe how diminutives minimize imposition in requests or offers. This concludes our academic overview of Unit 29. Mastering these suffixes is essential for achieving a nuanced, native-like tone in Modern Greek."
+        }
+    ]
+}

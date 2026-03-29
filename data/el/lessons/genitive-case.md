@@ -2,6 +2,11 @@
 
 Welcome to the **B1 Intermediate Stage**. You’ve mastered Subjects (Nominative) and Objects (Accusative). Now, we enter the world of Ownership. 
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the Genitive case structures, the "Universal Plural (των)", and the Shifting Accent rule for possession.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/genitive-case-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 The Genitive case is the Greek equivalent of the English apostrophe "s" ('s) or the word "of". It is how you say "my friend's house" or "the color of the car."
 
 ---

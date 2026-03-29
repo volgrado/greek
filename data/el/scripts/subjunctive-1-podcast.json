@@ -1,0 +1,46 @@
+{
+    "id": "subjunctive-1-grammar",
+    "title": "Unit 10: Verbal Aspect and the Subjunctive - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 10 introduces the fundamental concept of 'Aspect' in Modern Greek. In contrast to English, which emphasizes the temporal dimension of 'When' an action occurs, Greek prioritizing 'How' the action is perceived. Athina, please define the difference between Continuous and Simple Aspect."
+        },
+        {
+            "voice": "gr",
+            "text": "Το βίντεο και η φωτογραφία. Το βίντεο είναι για διάρκεια ή συνήθεια. Η φωτογραφία είναι για μια συγκεκριμένη στιγμή."
+        },
+        {
+            "voice": "en",
+            "text": "Precisely. The 'Video vs. Photo' analogy is pedagogically sound. Almost every Greek verb possesses two stems: the Continuous and the Simple. We must also address the lack of an infinitive form. Instead, we utilize the 'Na' particle followed by a conjugated verb. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Θέλω να πάω. Μπορώ να βοηθήσω. Πρέπει να φύγω."
+        },
+        {
+            "voice": "en",
+            "text": "Note that 'Na' is always followed by a verb conjugated to the appropriate person. A critical rule of negation also applies here: verbs introduced by 'Na' or 'As' must be negated with 'Min' rather than 'Den'. Athina, please give us an example."
+        },
+        {
+            "voice": "gr",
+            "text": "Θέλω να μην έρθει. Ας μην μιλήσουμε γι' αυτό."
+        },
+        {
+            "voice": "en",
+            "text": "Lastly, regarding the selection of Aspect in the Subjunctive mood: we typically favor the Simple, or 'Photo' stem, as we are predominantly discussing specific, single actions. Athina, show us the contrast."
+        },
+        {
+            "voice": "gr",
+            "text": "Θέλω να παίζω, συνέχεια. Θέλω να παίξω, τώρα."
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our academic review of Unit 10. Mastery of Verbal Aspect is the single most important hurdle on the path to Advanced Greek proficiency."
+        }
+    ]
+}

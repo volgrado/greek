@@ -1,0 +1,38 @@
+{
+    "id": "reflexive-pronouns-grammar",
+    "title": "Unit 24: Reflexive Pronouns - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 24 explores the reflexive—the ways in which an action is directed back at its subject. In Modern Greek, we have three distinct morphological strategies. Athina, how do we formulate the 'myself' phrase?"
+        },
+        {
+            "voice": "gr",
+            "text": "Χρησιμοποιούμε τη φράση 'τον εαυτό μου'. Είναι ουσιαστικό. Αγαπώ τον εαυτό μου, προσέχω τον εαυτό σου."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. This noun phrase is used for psychological or emotional actions. However, for daily grooming or routine routines, we must utilize the Passive Voice. Athina, give examples."
+        },
+        {
+            "voice": "gr",
+            "text": "Ντύνομαι, χτενίζομαι, ξυρίζομαι. Δεν χρειάζεται το 'εαυτό'."
+        },
+        {
+            "voice": "en",
+            "text": "Indeed. Additionally, we must note the native habit of retaining the singular 'Eafto' even when referring to plural subjects. Athina, give an example."
+        },
+        {
+            "voice": "gr",
+            "text": "Πρέπει να προσέχουμε τον εαυτό μας. Όχι 'τους εαυτούς'."
+        },
+        {
+            "voice": "en",
+            "text": "Exactly. Lastly, we have the advanced prefix 'Auto-', which is heavily used in formal, academic, and journalistic discourse. This concludes our academic overview of Unit 24. Mastery of these reflexive distinctions is a prerequisite for sophisticated verbal performance."
+        }
+    ]
+}

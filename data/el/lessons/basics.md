@@ -4,6 +4,11 @@ Welcome to your first step toward mastering Greek. Forget everything you've hear
 
 This comprehensive guide is designed to take you from zero to reading Modern Greek fluently. We will break the alphabet down into manageable, logical groups. 
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's core concepts explained with native phonetic references.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/basics-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The 24 Letters

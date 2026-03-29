@@ -1,0 +1,38 @@
+{
+    "id": "ancient-remnants-grammar",
+    "title": "Unit 31: Ancient Remnants and Formal Registers - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 31 addresses the 'ghosts' of the past in Modern Greek: Ancient Remnants and Formal Registers. These elements survive from Katharevousa and influence official, journalistic, and academic discourse. Athina, what is the 'lost case' that survives in frozen phrases?"
+        },
+        {
+            "voice": "gr",
+            "text": "Η δοτική πτώση. Εν τω μεταξύ, Δόξα τω Θεώ, Εν πάση περιπτώσει. Είναι παγωμένες φράσεις."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. This dative case is indispensable for formal expression. Furthermore, certain ancient prepositions demand the Genitive case. Athina, provide examples."
+        },
+        {
+            "voice": "gr",
+            "text": "Λόγω, μέσω, ενώπιον, κατά. Όλα αυτά έχουν γενική μετά."
+        },
+        {
+            "voice": "en",
+            "text": "Indeed. We also have '3rd Declension' abstract nouns ending in '-si, -ksi, or -psi', which possess a formal '-eos' genitive singular. Athina, demonstrate the plural."
+        },
+        {
+            "voice": "gr",
+            "text": "Οι αποφάσεις – των αποφάσεων. Οι πόλεις – των πόλεων. Αυτό είναι το επίσημο."
+        },
+        {
+            "voice": "en",
+            "text": "Exactly. Lastly, we must observe how participles like 'endiaphéron' act as formal adjectives. This concludes our academic overview of Unit 31. Understanding these remnants is essential for achieving a C2 mastery of Modern Greek."
+        }
+    ]
+}

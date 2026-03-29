@@ -1,6 +1,6 @@
 # Chapter 5: The Museum Shadow (Η Σκιά στο Μουσείο)
 
-<audio id="reading-audio" controls src="/assets/audio/chapter-05.mp3"></audio>
+<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-05.mp3"></audio>
 
 ![Nestoras following a mysterious shadow in an ancient Greek museum](/assets/images/chapter-5-museum.png)
 

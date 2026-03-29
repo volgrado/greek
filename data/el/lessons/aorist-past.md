@@ -2,6 +2,11 @@
 
 Welcome to the capstone of the A2 Expansion stage. You’ve learned how to build stems and how to talk about the future. Now, we look back. 
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the Imperfect vs. Aorist, the "Rule of 3" for the augment (ε-), and the irregular past forms like "eida" and "eipa".
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/aorist-past-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 Just like the future, Greek forces you to choose between two ways to talk about the past: the **Video** and the **Photo**.
 
 > [!TIP]

@@ -1,0 +1,38 @@
+{
+    "id": "genitive-absolute-grammar",
+    "title": "Unit 32: Participles in the Genitive Absolute - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 32 addresses a 'secret' of formal Modern Greek: Participles in the Genitive Absolute. This ancient structure enables speakers to link two clauses with distinct subjects without using conjunctions. Athina, what is the 'formula' for this structure?"
+        },
+        {
+            "voice": "gr",
+            "text": "Χρησιμοποιούμε ένα ουσιαστικό σε γενική και μια μετοχή σε γενική πτώση. Θεού θέλοντος, των πραγμάτων εχόντων."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. This 'Absolute Bubble' is syntactic gold for formal discourse. However, one must recognize ancient active participles like ' θέλοντος' and 'όντος'. Athina, provide a common example."
+        },
+        {
+            "voice": "gr",
+            "text": "Καλώς εχόντων των πραγμάτων, θα τελειώσουμε αύριο. Είναι πολύ πιο δυνατό από το 'αν'."
+        },
+        {
+            "voice": "en",
+            "text": "Indeed. We also have formal passive participles featuring ancient reduplication, like 'dedoménos' or 'tetelesménos'. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Δεδομένων αυτών των πραγμάτων... Είναι για επίσημα έγγραφα και ειδήσεις."
+        },
+        {
+            "voice": "en",
+            "text": "Exactly. Lastly, we must observe how Genitive Absolute expressions like 'Mē génoito!' are utilized as emphatic idioms. This concludes our academic overview of Unit 32. Mastery of these structures is essential for achieving a C2 proficiency in Modern Greek."
+        }
+    ]
+}

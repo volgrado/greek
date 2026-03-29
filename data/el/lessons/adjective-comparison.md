@@ -2,6 +2,11 @@
 
 In Greek, just like in English, there are two ways to compare things (e.g., "tall" ➔ "taller"). You can use the easy "more" method, or you can use the specialized one-word "suffix" method.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the "Πιο" method vs. the "-τερος" suffix, the stress rule for comparison, and the "Absolute Superlative" (-τατος).
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/adjective-comparison-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Easy Way: The "Πιο" Method
