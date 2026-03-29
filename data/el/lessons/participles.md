@@ -4,6 +4,11 @@ A Participle is a verb dressed up in a costume. It stops acting like a normal ve
 
 Greek has two powerful participles you must master at the B2 level: the Active Participle (Gerund) and the Passive Perfect Participle.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on Active Gerunds (-οντας/-ώντας) and the Passive Participle suffix (-μένος), plus the spelling "cheat codes".
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/participles-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Active Participle ("While doing")

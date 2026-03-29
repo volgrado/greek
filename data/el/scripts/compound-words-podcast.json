@@ -1,0 +1,38 @@
+{
+    "id": "compound-words-grammar",
+    "title": "Unit 30: Compound Words and Prefixation - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 30 explores the modular nature of Modern Greek: Compound Words and Prefixation. New words are built like Lego bricks by snapping smaller units together. Athina, what is the 'glue' that connects these parts?"
+        },
+        {
+            "voice": "gr",
+            "text": "Είναι το γράμμα όμικρον. Βιβλίο και πωλώ - βιβλιοπωλείο. Μαχαίρι και πιρούνι - μαχαιροπίρουνο."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. This vocalic bridge is indispensable. Furthermore, we must master the Alpha Privative for negation. Athina, demonstrate the stress shift."
+        },
+        {
+            "voice": "gr",
+            "text": "Γνωστός - άγνωστος, πιθανός - απίθανος. Ο τόνος ανεβαίνει στην τρίτη συλλαβή."
+        },
+        {
+            "voice": "en",
+            "text": "Indeed. We also have prefixes like 'Kse-' for reversing actions and 'Ksana-' for repetition. Athina, what is the 'Action Combo' for opening and closing?"
+        },
+        {
+            "voice": "gr",
+            "text": "Ανοιγοκλείνω. Ή πηγαινοέρχομαι. Δύο ρήματα μαζί με το όμικρον."
+        },
+        {
+            "voice": "en",
+            "text": "Exactly. Lastly, we must observe how prefixes like 'Kata-' intensify adjectives. This concludes our academic overview of Unit 30. Mastering compounds is essential for expanding one's Modern Greek vocabulary efficiently."
+        }
+    ]
+}

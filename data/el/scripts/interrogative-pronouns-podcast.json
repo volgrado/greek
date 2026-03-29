@@ -1,0 +1,46 @@
+{
+    "id": "interrogative-pronouns-grammar",
+    "title": "Unit 7: Asking Questions - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 7 focuses on the formation of interrogatives in Modern Greek. In English, we utilize the question mark. However, in Greek, we use the semicolon (;) to indicate a query. Athina, please state the five principal fixed 'W' words."
+        },
+        {
+            "voice": "gr",
+            "text": "Τι, Πού, Πότε, Πώς, Γιατί. Αυτές οι λέξεις δεν αλλάζουν ποτέ."
+        },
+        {
+            "voice": "en",
+            "text": "Exactly. What, Where, When, How, and Why are invariant. We must also consider the variable question words, such as 'Poios'—meaning 'Who'—which acts exactly like a chameleon adjective. Athina, how do we ask whom we are seeing?"
+        },
+        {
+            "voice": "gr",
+            "text": "Ποιον βλέπεις; Χρησιμοποιούμε την αιτιατική."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. 'Poios' becomes 'Poion' in the Accusative. We must also observe the syntactic constraint regarding prepositions. In Greek, the preposition must strictly precede the interrogative. One cannot say 'Where are you from?' but rather 'From where are you?'"
+        },
+        {
+            "voice": "gr",
+            "text": "Από πού είσαι; Με ποιον μιλάς;"
+        },
+        {
+            "voice": "en",
+            "text": "Lastly, regarding Yes-No questions: the word order remains identical to a statement. The interrogative nature of the sentence is conveyed solely through rising intonational contour at its conclusion. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Ο Γιώργος είναι εδώ. Ο Γιώργος είναι εδώ;"
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our A1 foundation review. Consistent practice of these interrogative structures is essential for effective communication in Modern Greek."
+        }
+    ]
+}

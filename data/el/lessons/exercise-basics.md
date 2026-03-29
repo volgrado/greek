@@ -29,7 +29,7 @@ This exercise is divided into four fluency-building activities to move you from 
 Listen to the native speaker describing the scene. Your goal is to speak *at the exact same time*, mimicking the rhythm and speed.
 
 <audio controls>
-    <source src="/assets/audio/exercise-basics-model.mp3" type="audio/mpeg">
+    <source src="/assets/audio/exercises/exercise-basics-model.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
 

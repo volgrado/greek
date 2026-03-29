@@ -1,0 +1,46 @@
+{
+    "id": "object-pronouns-grammar",
+    "title": "Unit 13: Direct and Indirect Object Pronouns - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 13 focuses on 'Weak Pronouns'—the short, unstressed objects used in everyday Greek communication. These pronouns distinguish between the direct and the indirect object. Athina, please state the two relevant cases."
+        },
+        {
+            "voice": "gr",
+            "text": "Η αιτιατική για το άμεσο αντικείμενο και η γενική για το έμμεσο αντικείμενο."
+        },
+        {
+            "voice": "en",
+            "text": "Precisely. The Accusative case is for the direct target of the action, whereas the Genitive case represents the indirect receiver. For instance, 'Me vlepeis' versus 'Mou dineis'. Athina, please provide the pronouns for the first and second person."
+        },
+        {
+            "voice": "gr",
+            "text": "Με και μου. Σε και σου. Μας και σας."
+        },
+        {
+            "voice": "en",
+            "text": "Note that for 'Mas' and 'Sas'—we and you—the direct and indirect forms are identical. Regarding syntactic position: these pronouns must cling to the front of the verb. However, they are placed between particles like 'Tha', 'Na', and 'Den' and the verb itself. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα σου πω. Δεν σε ξέρω. Πρέπει να το κάνεις."
+        },
+        {
+            "voice": "en",
+            "text": "Crucially, in the imperative mood, the pronoun must shift to the final position of the verb. Furthermore, when stacking multiple pronouns, the indirect object must precede the direct object. Athina, provide a stacked example."
+        },
+        {
+            "voice": "gr",
+            "text": "Της το δίνω. Μου την δίνεις; Σ’ το λέω!"
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our academic review of Unit 13. Understanding the correct placement and case of weak pronouns is essential for achieving fluid conversational proficiency in Modern Greek."
+        }
+    ]
+}

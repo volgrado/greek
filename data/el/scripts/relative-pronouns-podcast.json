@@ -1,0 +1,38 @@
+{
+    "id": "relative-pronouns-grammar",
+    "title": "Unit 23: Relative Pronouns - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 23 addresses the 'glue' of Modern Greek sentence structure: Relative Pronouns. These words link clauses, enabling more sophisticated verbal expression. Athina, what is the 'easy way' to link these sentences?"
+        },
+        {
+            "voice": "gr",
+            "text": "Χρησιμοποιούμε το 'που'. Είναι παγωμένο, δεν αλλάζει ποτέ. Ο φίλος που είδα, η κοπέλα που ήρθε."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. 'Pou' is an invariant chameleon. However, to maintain clarity, Greeks often utilize an 'echo' pronoun. Athina, please provide an example."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο φίλος που του έδωσα το βιβλίο. Το 'του' δείχνει σε ποιον το έδωσα."
+        },
+        {
+            "voice": "en",
+            "text": "Indeed. A more formal alternative is 'O opoios', which must agree perfectly with the noun in gender, number, and case. This formal pronoun is heavily preferred when paired with prepositions. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Αυτοί είναι οι άνθρωποι από τους οποίους πήραμε τη βοήθεια. Πολύ πιο επίσημο."
+        },
+        {
+            "voice": "en",
+            "text": "Lastly, we must distinguish between 'Oti'—meaning 'That'—and 'O,ti', which translates to 'Whatever'. Note the mandatory comma in writing for 'Whatever'. This concludes our academic overview of Unit 23. Mastery of relative pronouns is essential for achieving syntactic flow in Modern Greek discourse."
+        }
+    ]
+}

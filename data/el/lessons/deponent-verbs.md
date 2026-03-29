@@ -4,6 +4,11 @@ Welcome to the other half of the Greek verb universe: **Type C Verbs**.
 
 These verbs do not end in **-ω**. They end in **-ομαι** (o-me). This special ending system is used for two very different things in Greek: **Deponent Verbs** and the **Passive Voice**.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on Deponent vs. Passive verbs, the first person plural accent shift, and the Past Passive suffixes (-στηκα, -φτηκα, -χτηκα).
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/deponent-verbs-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. What are Deponent Verbs?

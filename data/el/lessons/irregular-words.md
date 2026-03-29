@@ -2,6 +2,11 @@
 
 You have mastered the rules of Greek grammar. You know how to decline nouns, conjugate verbs, and build complex sentences. But every language has its rebels—words that refuse to follow the rules, and words that are "defective" (missing pieces!).
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this final podcast on "Gender-Bender" nouns (χρόνος/χρόνια), indeclinable loanwords, and the ancient command form of "I saw" (Ιδού).
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/irregular-words-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. Nouns with Multiple Personalities (Double Plurals)

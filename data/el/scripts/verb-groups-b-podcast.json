@@ -1,0 +1,46 @@
+{
+    "id": "verb-groups-b-grammar",
+    "title": "Unit 9: Verb Groups B1 and B2 - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 9 introduces the second conjugation of Modern Greek verbs, referred to as 'Type B'. Unlike 'Type A' verbs, where lexical stress remains fixed on the stem, 'Type B' verbs exhibit an accentual shift to the final syllable, resulting in a distinct phonetic profile. Athina, how do we identify 'Team B1'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Τα ρήματα της ομάδας Β1 καταλήγουν σε -άω. Αγαπάω, μιλάω, ρωτάω."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. They are defined by their Alpha-dominated paradigm. Although formal written registers occasionally use the contracted forms 'agapo' and 'milo', conversational Greek favors the '-ao' endings for maximum naturalness. Athina, please conjugate 'Milao'."
+        },
+        {
+            "voice": "gr",
+            "text": "Μιλάω, μιλάς, μιλάει, μιλάμε, μιλάτε, μιλάνε."
+        },
+        {
+            "voice": "en",
+            "text": "'Team B2' is a more restricted group, utilizing endings such as '-o' and '-is', yet maintaining stress on the final vowel. Athina, demonstrate the conjugation of 'Mporo'."
+        },
+        {
+            "voice": "gr",
+            "text": "Μπορώ, μπορείς, μπορεί, μπορούμε, μπορείτε, μπορούν."
+        },
+        {
+            "voice": "en",
+            "text": "Notice how the second and third person endings—'is' and 'i'—mirror the regular 'Type A' verbs, with the sole distinction of final vowel stress. We must accurately identify each verb as belonging to either B1 or B2 to ensure grammatical correctness."
+        },
+        {
+            "voice": "gr",
+            "text": "Θυμηθείτε το τεστ με το άλφα. Μιλάω – Ναι. Μποράω – Όχι."
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our academic review of Unit 9. The distinct prosodic rhythm of Type B verbs is a defining feature of native-sounding Greek and requires diligent auditory practice."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "adjective-comparison-grammar",
+    "title": "Unit 25: Adjective Comparison - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 25 addresses Adjective Comparison in Modern Greek. There are two primary morphological strategies for generating comparative and superlative forms. Athina, what is the 'easy way' to compare adjectives?"
+        },
+        {
+            "voice": "gr",
+            "text": "Χρησιμοποιούμε τη λέξη 'πιο'. Πιο μεγάλος, πιο ωραίος, πιο ακριβός."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. This 'Pio' method is most common in relaxed conversation. However, the specialized suffix '-teros, -tera, -tero' is preferred for more formal or elegant speech. Athina, please state the stress rule for this suffix."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο τόνος πρέπει να είναι πάντα στην τρίτη συλλαβή από το τέλος. Ψηλός – ψηλότερος. Νέος – νεότερος."
+        },
+        {
+            "voice": "en",
+            "text": "Exactly. Furthermore, to express the absolute superlative—meaning 'extremely'—we utilize the suffix '-tatos'. Athina, provide examples."
+        },
+        {
+            "voice": "gr",
+            "text": "Φθηνότατος, ακριβότατος, ωραιότατος."
+        },
+        {
+            "voice": "en",
+            "text": "Precisely. Lastly, we must account for high-frequency irregulars, such as 'Kalyteros', 'Cheiroteros', 'Megalyteros', and 'Mikroteros'. This concludes our academic review of Unit 25. Mastering these comparative paradigms is essential for articulating relative qualities in Modern Greek."
+        }
+    ]
+}

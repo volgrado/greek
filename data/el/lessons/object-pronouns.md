@@ -2,6 +2,11 @@
 
 In Unit 3, you learned the subject pronouns (Εγώ, Εσύ, κτλ.) and how Greeks usually drop them. 
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on Weak Pronouns, the difference between "Me" and "Mou", and the "Stacking Rule" (Person before Thing).
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/object-pronouns-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 Now, we need to talk about the **Object Pronouns**—the little words like "me," "him," or "it." These are the real stars of everyday Greek conversation. They are short, unstressed, and we call them **Weak Pronouns**.
 
 ---

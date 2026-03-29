@@ -1,0 +1,46 @@
+{
+    "id": "verbs-grammar",
+    "title": "Unit 4: Regular Verbs (Type A) - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 4 introduces the primary mechanism for action in the Greek language: Regular Verbs. Most Greek verbs are constructed using a static stem and a dynamic ending. In academic terms, we classify these based on their accentuation. Athina, how do we identify a 'Type A' verb?"
+        },
+        {
+            "voice": "gr",
+            "text": "Στα ρήματα τύπου Α, ο τόνος βρίσκεται πάντα πριν από την τελευταία συλλαβή. Για παράδειγμα: παίζω, κάνω, γράφω."
+        },
+        {
+            "voice": "en",
+            "text": "Precisely. If the accent does not fall on the final omega, it belongs to the first conjugation. To conjugate these verbs in the present tense, we follow a consistent paradigm of endings. Athina, please conjugate the verb 'Diavazo'—meaning 'to read'."
+        },
+        {
+            "voice": "gr",
+            "text": "Διαβάζω, διαβάζεις, διαβάζει, διαβάζουμε, διαβάζετε, διαβάζουν."
+        },
+        {
+            "voice": "en",
+            "text": "Note that the lexical stress remains fixed on the same syllable throughout the present tense paradigms. We must also address Negation. In English, we utilize the auxiliary 'do not'. In Greek, the process is significantly more streamlined."
+        },
+        {
+            "voice": "gr",
+            "text": "Απλά προσθέτουμε τη λέξη 'δεν' πριν από το ρήμα. Δεν παίζω. Δεν ξέρω."
+        },
+        {
+            "voice": "en",
+            "text": "It is imperative however to distinguish between 'Den' and 'Ochi'. 'Ochi' is a standalone response meaning 'No', while 'Den' is an adverb used exclusively for verbal negation. Furthermore, pay attention to the phonetic blending of 'Den' when followed by certain consonants. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Όταν το 'δεν' ακολουθείται από π, τ, ή κ, ακούγεται σαν μπ, ντ, γκ. Δεν πειράζει. Δεν ξέρω."
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our academic review of Unit 4. Memorizing the six verbal endings and mastering the placement of the negative particle 'Den' are your primary objectives for this session."
+        }
+    ]
+}

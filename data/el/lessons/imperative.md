@@ -2,6 +2,11 @@
 
 To give an order, a strong piece of advice, or a set of instructions, you use the **Imperative Mood**. Because you can only give an order directly to the person you are talking to, this mood only has two forms: "You" (informal singular) and "You All" (plural/formal).
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on simple vs. continuous commands, the "Big 6" irregulars, and the polite use of the particle "Για".
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/imperative-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 Just like everything else in Greek, **Aspect** rules the Imperative. You must choose between ordering a single action (a Photo) or an ongoing habit (a Video).
 
 ---

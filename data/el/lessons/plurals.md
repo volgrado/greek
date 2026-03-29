@@ -2,6 +2,11 @@
 
 Welcome to the **A2 Expansion Stage**! You’ve mastered the singular world. Now, it’s time to multiply everything.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on plural articles, the masculine "-oi" and "-ous" split, and the "Extra Syllable" rule for words like καφές.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/plurals-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 In English, making a plural is boring: you just add an "s" to the end of a noun. In Greek, the entire sentence must adapt. When a noun becomes plural, its **Article**, its **Ending**, and its **Adjective** must all change shape to match.
 
 ---

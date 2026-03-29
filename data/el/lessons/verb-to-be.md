@@ -2,6 +2,11 @@
 
 To build real sentences, you need verbs. If you only ever learn two verbs in Greek, make sure they are **Είμαι** (To Be) and **Έχω** (To Have). Together, they unlock hundreds of basic conversations and serve as the foundation for complex grammar later on.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on personal pronouns, the "Pro-Drop" rule, and the conjugation of the two most important verbs in Greek.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/verb-to-be-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Actors: Personal Pronouns

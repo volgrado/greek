@@ -1,0 +1,46 @@
+{
+    "id": "plurals-grammar",
+    "title": "Unit 8: Plural Nouns and Adjectives - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 8 marks the commencement of the A2 Expansion phase, focusing on the pluralization of Modern Greek nouns and adjectives. Unlike English, the entire noun phrase must transform to reflect plurality. Athina, please state the primary nominative plural article for masculine and feminine nouns."
+        },
+        {
+            "voice": "gr",
+            "text": "Το άρθρο 'οι' χρησιμοποιείται και στα αρσενικά και στα θηλυκά στην ονομαστική."
+        },
+        {
+            "voice": "en",
+            "text": "Precisely. Masculine nouns ending in '-os' become '-oi' in the Nominative, but undergo a further shift to '-ous' in the Accusative. Athina, demonstrate the masculine plural forms."
+        },
+        {
+            "voice": "gr",
+            "text": "Οι φίλοι, τους φίλους. Οι καλοί φίλοι, τους καλούς φίλους."
+        },
+        {
+            "voice": "en",
+            "text": "Observe the rhythmic consistency between the article and adjective. Neuter nouns, however, exhibit the most stability, using the article 'ta' in both cases. Athina, please provide plural examples for neuter nouns."
+        },
+        {
+            "voice": "gr",
+            "text": "Το βιβλίο, τα βιβλία. Το παιδί, τα παιδιά. Το μάθημα, τα μαθήματα."
+        },
+        {
+            "voice": "en",
+            "text": "Lastly, we must address the 'Extra Syllable' masculine nouns—those that expand with the suffix '-des' in the plural. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Ο καφές, οι καφέδες. Ο παπάς, οι παπάδες."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. This concludes our academic overview of Unit 8. Consistent mastery of these plural paradigms is essential for syntactic accuracy in more complex Modern Greek sentences."
+        }
+    ]
+}

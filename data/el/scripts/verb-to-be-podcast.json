@@ -1,0 +1,46 @@
+{
+    "id": "verb-to-be-grammar",
+    "title": "Unit 3: Being and Having - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "In Unit 3, we address the two most critical verbs in the Greek language: 'Eimai' and 'Echo'. These are the functional equivalents of the English verbs 'To Be' and 'To Have'. Before we examine their conjugation, we must review the personal pronouns. Athina, please enumerate the subjects."
+        },
+        {
+            "voice": "gr",
+            "text": "Εγώ, εσύ, αυτός, αυτή, αυτό. Εμείς, εσείς, αυτοί, αυτές, αυτά."
+        },
+        {
+            "voice": "en",
+            "text": "Note that 'Emis'—we—and 'Esis'—you plural—share a rhythmic consistency. A fundamental syntactic rule in Modern Greek is the 'Pro-Drop' phenomenon. Because the verb's morphological ending clearly identifies the subject, the personal pronouns are predominantly redundant. Greeks omit them in roughly ninety percent of instances. One only uses 'Ego' or 'Esi' for specific contrastive emphasis. Now, let us hear the conjugation of 'Eimai'."
+        },
+        {
+            "voice": "gr",
+            "text": "Είμαι, είσαι, είναι, είμαστε, είστε, είναι."
+        },
+        {
+            "voice": "en",
+            "text": "An interesting linguistic overlap occurs here: the third person singular and third person plural forms are identical. One must rely entirely on context. Next, the verb 'Echo', meaning 'To Have'."
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω, έχεις, έχει, έχουμε, έχετε, έχουν."
+        },
+        {
+            "voice": "en",
+            "text": "In informal registers, you may hear an additional vowel appended to the third person plural, resulting in 'echoune'. Both forms are grammatically acceptable. Furthermore, Greek utilizes the plural 'Esis' and its corresponding verb forms as a mark of formal respect toward strangers or authority figures, similar to the T-V distinction in other European languages."
+        },
+        {
+            "voice": "gr",
+            "text": "Έχεις χρόνο; Φιλικό. Έχετε χρόνο; Επίσημο."
+        },
+        {
+            "voice": "en",
+            "text": "Finally, regarding interrogatives: in Greek, the word order does not invert. A question is indicated purely through rising intonation at the conclusion of the utterance. This concludes our academic overview of Unit 3. Mastery of these 'Big Two' verbs is non-negotiable for further progress."
+        }
+    ]
+}

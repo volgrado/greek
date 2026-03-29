@@ -1,6 +1,6 @@
 # Chapter 10: The Search in the Attic (Η Αναζήτηση στη Σοφίτα)
 
-<audio id="reading-audio" controls src="/assets/audio/chapter-10.mp3"></audio>
+<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-10.mp3"></audio>
 
 ![Nestoras searching through an old attic with dust motes and sunlight beams](/assets/images/chapter-10-attic.png)
 

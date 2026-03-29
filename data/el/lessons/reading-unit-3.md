@@ -1,6 +1,6 @@
 # Chapter 3: Room 303 (Δωμάτιο 303)
 
-<audio id="reading-audio" controls src="/assets/audio/chapter-03.mp3"></audio>
+<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-03.mp3"></audio>
 
 ![Nestoras inside a dimly lit hotel room numbered 303](/assets/images/chapter-3-room.png)
 

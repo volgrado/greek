@@ -1,0 +1,62 @@
+{
+    "id": "basics-grammar",
+    "title": "Unit 1: The Greek Writing System - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome to the Grammar Podcast for Unit 1: The Greek Writing System Masterclass. In this session, we will examine the structural foundations of the Greek alphabet, focusing on phonetic consistency and the categorization of its 24 characters. I am joined by Athina, who will provide the native phonetic reference."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας. Είμαι η Αθηνά και θα σας βοηθήσω με την προφορά."
+        },
+        {
+            "voice": "en",
+            "text": "Let us begin with the primary classification: The Twins. These characters share a direct phonetic and visual correspondence with the Latin alphabet. Listen to the following examples."
+        },
+        {
+            "voice": "gr",
+            "text": "Α, Άλφα. Ε, Έψιλον. Ι, Ιώτα. Κ, Κάππα. Μ, Μι. Ν, Νι. Ο, Όμικρον. Τ, Ταυ. Ζ, Ζήτα."
+        },
+        {
+            "voice": "en",
+            "text": "Note the clinical precision of the consonants K and T. Unlike English, there is no aspiration. Continuing to the second category: The False Friends. These characters are visually deceptive. Pay close attention to Beta, which represents the voiced labiodental fricative 'V', and Rho, the alveolar tap 'R'."
+        },
+        {
+            "voice": "gr",
+            "text": "Β, Βήτα. Η, Ήτα. Ρ, Ρω. Χ, Χι. Υ, Ύψιλον."
+        },
+        {
+            "voice": "en",
+            "text": "The third category, The True Greeks, contains unique phonetic values such as Gamma, Delta, and Theta. These require specific articulatory positioning."
+        },
+        {
+            "voice": "gr",
+            "text": "Γ, Γάμμα. Δ, Δέλτα. Θ, Θήτα. Λ, Λάμδα. Ξ, Ξι. Π, Πι. Σ, Σίγμα. Φ, Φι. Ψ, Ψι. Ω, Ωμέγα."
+        },
+        {
+            "voice": "en",
+            "text": "A critical phonetic rule in Modern Greek is the prevalence of the 'ee' sound. There are six distinct orthographic representations for this single phoneme. Athina, please demonstrate."
+        },
+        {
+            "voice": "gr",
+            "text": "Ιώτα. Ήτα. Ύψιλον. Έψιλον-Ιώτα. Όμικρον-Ιώτα. Ύψιλον-Ιώτα."
+        },
+        {
+            "voice": "en",
+            "text": "Finally, we must address the Tonos, or the accent mark. This is the most vital component of Greek prosody, indicating the specific syllable that receives lexical stress. Without the Tonos, the semantic meaning of a word can often be lost."
+        },
+        {
+            "voice": "gr",
+            "text": "Το ταξίδι. Το αίνιγμα. Η Αθήνα."
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our academic overview of the Greek writing system. We recommend reviewing the written checklist in the masterclass documentation to ensure full phonetic retention. Thank you for listening."
+        }
+    ]
+}

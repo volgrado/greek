@@ -4,6 +4,11 @@ Sometimes an action happens, but nobody in particular is doing it. In English, w
 
 Greek doesn't use dummy pronouns. Instead, it uses **Impersonal Verbs**. These verbs have no subject and are completely frozen in the **3rd Person Singular** (they end in **-ει** or **-εται**).
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on "Πρέπει" vs. "Μπορεί", the "Πρόκειται" denial, and the native trick of using "Έχει" for "There is".
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/impersonal-verbs-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Power Pair: Πρέπει & Μπορεί

@@ -1,0 +1,46 @@
+{
+    "id": "adjectives-grammar",
+    "title": "Unit 6: Adjectives, Colors and Numbers - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 6 addresses the descriptive elements of Modern Greek: Adjectives, Colors, and cardinal Numbers. Unlike English, Greek adjectives are morphological 'chameleons'. They must maintain strict agreement with the noun they modify. Athina, what are the three variable dimensions for a Greek adjective?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γένος, αριθμός και πτώση. Το επίθετο πρέπει να συμφωνεί απόλυτα με το ουσιαστικό."
+        },
+        {
+            "voice": "en",
+            "text": "Indeed. Gender, number, and case. In the dictionary, adjectives are typically listed in their three-gender form. If a masculine noun is in the Accusative case, the describing adjective must also drop its final 's'. Athina, please demonstrate using the adjective 'Kalos'."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο καλός φίλος. Τον καλό φίλο. Η καλή φίλη. Το καλό παιδί."
+        },
+        {
+            "voice": "en",
+            "text": "Colors function as adjectives and follow the same rules of agreement. However, there are a few 'rebel' colors borrowed from foreign languages that remain immutable. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Το μπλε, το ροζ και το καφέ. Αυτά τα χρώματα δεν αλλάζουν ποτέ."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. Blue, pink, and brown are invariant. Finally, we must memorize the numbers one through ten. Crucially, the number 'one' acts as an adjective and must match the gender of the object being counted. Athina, please count to ten."
+        },
+        {
+            "voice": "gr",
+            "text": "Ένας, δύο, τρία, τέσσερα, πέντε, έξι, εφτά, οχτώ, εννέα, δέκα."
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our academic review of Unit 6. The principle of Adjectival Agreement is a cornerstone of Greek syntax and must be applied consistently to ensure grammatical accuracy."
+        }
+    ]
+}

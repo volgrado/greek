@@ -7,7 +7,7 @@
 > You are about to read the first chapter of *The Athens Enigma*. Nestoras has just arrived at the central station in Athens. He is not here for tourism; he is looking for an old family secret hidden in the chaotic, modern concrete jungle of the city. 
 > *Πρόκειται να διαβάσετε το πρώτο κεφάλαιο από το "Αίνιγμα της Αθήνας". Ο Νέστορας μόλις έφτασε στον κεντρικό σταθμό της Αθήνας. Δεν είναι εδώ για τουρισμό, αλλά για να ανακαλύψει ένα παλιό οικογενειακό μυστικό κρυμμένο στη ζούγκλα του τσιμέντου.*
 >
-> <audio id="reading-audio" controls src="/assets/audio/chapter-01.mp3" style="width: 100%; margin-top: 10px;"></audio>
+> <audio id="reading-audio" controls src="/assets/audio/chapters/chapter-01.mp3" style="width: 100%; margin-top: 10px;"></audio>
 > 
 > **Focus:**
 > - **Bold**: Special vowel combos (**ει, αι, οι, ου**)

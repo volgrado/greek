@@ -1,0 +1,46 @@
+{
+    "id": "aorist-past-grammar",
+    "title": "Unit 14: The Past Tenses - Grammar Podcast",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 14 addresses the two primary past tenses of Modern Greek: the Imperfect and the Aorist. These tenses are distinguished by their Verbal Aspect. Athina, please define the Imperfect tense."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο παρατατικός. Είναι το βίντεο του παρελθόντος. Έπαιζα, διάβαζα, έγραφα."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. Use the Imperfect for habits or ongoing actions. Conversely, the Aorist or Simple Past describes a single, completed event. This tense utilizes the perfective stem. Both tenses share identical past-tense endings. Athina, what is the 'Rule of Three' regarding past-tense verbs?"
+        },
+        {
+            "voice": "gr",
+            "text": "Στο παρελθόν, ο τόνος πρέπει να είναι πάντα στην τρίτη συλλαβή από το τέλος. Έγραψα, έγραψες, έγραψε. Αλλά γράψαμε."
+        },
+        {
+            "voice": "en",
+            "text": "Precisely. The augment 'E' is utilized solely to ensure the stress mark remains on the third syllable. When the word is sufficiently long, the augment is stripped. Furthermore, certain high-frequency verbs are entirely irregular in their past form. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Βλέπω – είδα. Λέω – είπα. Πηγαίνω – πήγα. Βρίσκω – βρήκα. Έρχομαι – ήρθα."
+        },
+        {
+            "voice": "en",
+            "text": "Finally, we must note that the verbs 'Echo' and 'Eime'—to have and to be—possess no 'photo' or simple aspect. They only occur as continuous states. Athina, please state their past forms."
+        },
+        {
+            "voice": "gr",
+            "text": "Είχα. Ήμουν."
+        },
+        {
+            "voice": "en",
+            "text": "This concludes our academic review of Unit 14. Mastery of the Aorist tense is critical for narrative competence in Modern Greek."
+        }
+    ]
+}

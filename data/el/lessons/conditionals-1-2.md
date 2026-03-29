@@ -5,6 +5,11 @@ Welcome to the end of the B1 Intermediate stage. You are about to unlock one of 
 In Greek grammar, the "If" half of the sentence is called the *Protasis*, and the "Then" half is the *Apodosis*. To master these, you just need to balance the tenses on both sides of the comma.
 
 > [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the three types of conditionals, the difference between "Αν" and "Άμα", and the shortcut natives use for past regrets.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/conditionals-1-2-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
+> [!TIP]
 > **How to say "If"**  
 > The standard and most common word for "If" is **Αν**. However, in spoken Greek, you will constantly hear **άμα** (which means "if" or "whenever"). In formal writing, you will see **εάν**.
 

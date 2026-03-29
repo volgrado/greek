@@ -2,6 +2,11 @@
 
 In Unit 4, you learned about Type A verbs (like **κάνω**). Their defining feature is that the accent stays stubbornly on the stem (κ**ά**νω, κ**ά**νεις). 
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the "singers" of Greek—Group B verbs—and the two teams: -άω and -ώ.
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/verb-groups-b-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 Now, meet **Type B (The Second Conjugation)**. These are the "singers" of the Greek language. In these verbs, the stress shifts all the way to the end of the word, hitting the final vowels. Because the endings carry the accent, they sound entirely different. 
 
 Type B verbs are split into two teams: Team B1 and Team B2.

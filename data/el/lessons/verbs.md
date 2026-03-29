@@ -2,6 +2,11 @@
 
 You’ve learned how to talk about people and things using nouns. Now it’s time to make things happen. Verbs are the engine of every Greek sentence. They change their shape to tell you exactly **who** is doing the action and **when** they are doing it.
 
+> [!TIP]
+> **Grammar Podcast** (Formal/Academic)
+> Listen to this unit's podcast on the anatomy of Greek verbs, the three verb teams, and the rules for negation with "Δεν" and "Όχι".
+> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/verbs-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
+
 ---
 
 ## 1. The Anatomy of a Greek Verb
