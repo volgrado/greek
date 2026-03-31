@@ -327,7 +327,7 @@ def build_all():
 
     # 2. Copy UI Assets from src/ and assets/
     src_dir = Path('src')
-    static_files = ['index.html', 'sw.js', 'manifest.json', 'style.css']
+    static_files = ['index.html', 'sw.js', 'manifest.json', 'style.css', '_redirects']
     for f in static_files:
         src_path = src_dir / f
         if src_path.exists():
