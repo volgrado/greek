@@ -100,7 +100,11 @@ export const route = async (pathOverride = null) => {
     } else if (window.navigation) {
         path = new URL(window.navigation.currentEntry.url).pathname;
     } else {
-        path = window.location.hash.slice(1) || '/';
+        // Fallback for older browsers: use real pathname or hash migration
+        path = window.location.pathname;
+        if (window.location.hash.startsWith('#/')) {
+            path = window.location.hash.slice(1);
+        }
     }
 
     // Normalize Github Pages or nested paths if needed (assuming root is '/')
