@@ -1,11 +1,11 @@
 /** 
  * GREEK PWA - Service Worker
  * Optimized for offline use and App Shell architecture.
- * v18 - Bulletproof Offline Fix
+ * v19 - Cache-First App Shell Stabilization
  */
 
 const CONFIG = {
-    APP_CACHE_NAME: 'greek-v18',
+    APP_CACHE_NAME: 'greek-v19',
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     DEFAULT_LANG: 'el'
@@ -56,9 +56,7 @@ self.addEventListener('install', (e) => {
         caches.open(CONFIG.APP_CACHE_NAME).then((cache) => {
             console.log('[SW] Caching static assets...');
             return cache.addAll(STATIC_ASSETS).catch(err => {
-                console.error('[SW] addAll failed! One of the assets is likely missing:', err);
-                // We'll still try to install by doing it one by one if it fails,
-                // but for now let's just log it.
+                console.error('[SW] addAll failed!', err);
                 throw err;
             });
         })
@@ -72,7 +70,6 @@ self.addEventListener('activate', (e) => {
         caches.keys().then((keyList) => {
             return Promise.all(keyList.map((key) => {
                 if (!WHITELIST.includes(key)) {
-                    console.log('[SW] Deleting old cache:', key);
                     return caches.delete(key);
                 }
             }));
@@ -83,46 +80,45 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
     const url = new URL(e.request.url);
 
-    // 0. App Shell: Navigation requests must survive offline
+    // 0. App Shell: Absolute Priority
     if (e.request.mode === 'navigate') {
-        e.respondWith(
-            fetch(e.request).catch(async () => {
-                console.log('[SW] Network failed for navigation. serving index.html shell...');
-                const cache = await caches.open(CONFIG.APP_CACHE_NAME);
-                // Try index.html first, then root / (standard PWA fallback)
-                const shell = await cache.match('/index.html', { ignoreSearch: true });
-                if (shell) return shell;
-                
-                const root = await cache.match('/', { ignoreSearch: true });
-                if (root) return root;
+        e.respondWith((async () => {
+            const cache = await caches.open(CONFIG.APP_CACHE_NAME);
+            
+            // Try to match the specific request or fall back to /index.html immediately
+            const cachedResponse = await cache.match(e.request, { ignoreSearch: true }) || 
+                                   await cache.match('/index.html', { ignoreSearch: true });
 
-                // Absolute fallback
-                return new Response('Offline: Resource not cached.', { 
-                    status: 200, 
-                    headers: {'Content-Type': 'text/html'} 
-                });
-            })
-        );
+            if (cachedResponse) {
+                // If we have a cached shell, return it immediately!
+                // We'll update it in the background for the next time.
+                fetch(e.request).then(res => {
+                    if (res.status === 200) cache.put(e.request, res.clone());
+                }).catch(() => {});
+                
+                return cachedResponse;
+            }
+
+            // Fallback to network if not in cache (first load)
+            return fetch(e.request).catch(() => {
+                return new Response('Offline: App shell not found.', { status: 200, headers: {'Content-Type': 'text/html'} });
+            });
+        })());
         return;
     }
 
-    // 1. Static Assets: Cache-First strategy for manifests and foundational UI
+    // 1. Static Assets: Cache-First (FOUNDATIONAL)
     const isStatic = STATIC_ASSETS.some(asset => url.pathname === asset || (asset === '/' && url.pathname === '/index.html'));
-    
     if (isStatic) {
         e.respondWith(
             caches.match(e.request, { ignoreSearch: true }).then(cached => {
-                // Return cache if we have it, otherwise fetch and cache it
                 return cached || fetch(e.request).then(response => {
                     if (response.status === 200) {
                         const clone = response.clone();
                         caches.open(CONFIG.APP_CACHE_NAME).then(cache => cache.put(e.request, clone));
                     }
                     return response;
-                }).catch(() => {
-                    // Fallback for JS/CSS if everything fails
-                    return new Response('', { status: 503 });
-                });
+                }).catch(() => new Response('', { status: 503 }));
             })
         );
         return;
@@ -148,27 +144,20 @@ self.addEventListener('fetch', (e) => {
         return;
     }
 
-    // 3. Lesson Data: Custom logic for HTML fragments
+    // 3. Lesson Data: Stale-While-Revalidate
     if (url.pathname.includes('/data/') && url.pathname.includes('/lessons/')) {
         const cacheName = `${CONFIG.LESSON_CACHE_PREFIX}${CONFIG.DEFAULT_LANG}-${CONFIG.LESSON_CACHE_VERSION}`;
         e.respondWith(
             caches.match(e.request, { ignoreSearch: true }).then(cached => {
-                return cached || fetch(e.request).then(response => {
-                    if (response.status === 200) {
-                        const clone = response.clone();
-                        caches.open(cacheName).then(cache => cache.put(e.request, clone));
+                const network = fetch(e.request).then(res => {
+                    if (res.status === 200) {
+                        const clone = res.clone();
+                        caches.open(cacheName).then(c => c.put(e.request, clone));
                     }
-                    return response;
-                }).catch(() => {
-                    // Return the "Offline lesson" UI fragment
-                    return new Response(`
-                        <div class="error-container p-8 text-center" style="font-family: var(--font-ui, sans-serif);">
-                            <h1>Offline</h1>
-                            <p>Lesson not downloaded yet.</p>
-                            <a href="/">Back</a>
-                        </div>
-                    `, { headers: { 'Content-Type': 'text/html' } });
-                });
+                    return res;
+                }).catch(() => null);
+
+                return cached || network || new Response('Offline', { status: 200 });
             })
         );
         return;
@@ -176,6 +165,6 @@ self.addEventListener('fetch', (e) => {
 
     // Default: Cache First
     e.respondWith(
-        caches.match(e.request, { ignoreSearch: true }).then(res => res || fetch(e.request).catch(() => new Response('', { status: 404 })))
+        caches.match(e.request, { ignoreSearch: true }).then(res => res || fetch(e.request))
     );
 });
