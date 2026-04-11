@@ -1,4 +1,4 @@
-// Imports removed for classic script compatibility
+import { state } from './state.js';
 
 const themeToggle = document.getElementById('theme-toggle');
 const themes = ['light', 'dark', 'sepia'];
@@ -9,7 +9,7 @@ const themeIcons = {
     sepia: '<path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path>' // Book
 };
 
-const applyTheme = (theme) => {
+export const applyTheme = (theme) => {
     document.documentElement.classList.remove('dark-mode', 'sepia-mode');
     if (theme !== 'light') {
         document.documentElement.classList.add(`${theme}-mode`);
@@ -18,7 +18,7 @@ const applyTheme = (theme) => {
     if (icon) icon.innerHTML = themeIcons[theme];
 };
 
-const initTheme = () => {
+export const initTheme = () => {
     // 1. Subscribe to changes via our new Proxy Signal
     state.subscribe('currentTheme', (theme) => {
         applyTheme(theme);

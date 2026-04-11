@@ -14,7 +14,7 @@
 /** 
  * i18n Configuration
  */
-const I18N = {
+export const I18N = {
     el: {
         label: 'EL',
         symbol: 'Ω',
@@ -42,8 +42,8 @@ const I18N = {
 /**
  * App global constants
  */
-const CONFIG = {
-    APP_CACHE_NAME: 'greek-v15',
+export const CONFIG = {
+    APP_CACHE_NAME: 'greek-v16',
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     SYNC_CHANNEL_NAME: 'greek_app_sync',

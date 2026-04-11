@@ -1,7 +1,8 @@
-// Imports removed for classic script compatibility
+import { state } from './state.js';
+import { I18N } from './config.js';
 
 
-const loadData = async () => {
+export const loadData = async () => {
     try {
         const r = await fetch(I18N[state.currentLang].dataFile);
         if (!r.ok) throw new Error('Data fetch failed');
@@ -14,7 +15,7 @@ const loadData = async () => {
     }
 };
 
-const fetchLessonHTML = async (id) => {
+export const fetchLessonHTML = async (id) => {
     if (state.lessonCache[id]) return state.lessonCache[id];
     try {
         const r = await fetch(`${I18N[state.currentLang].lessonsPath}${id}.html`);
@@ -31,7 +32,7 @@ const fetchLessonHTML = async (id) => {
     }
 };
 
-const prefetchNext = async (currentId) => {
+export const prefetchNext = async (currentId) => {
     const lessons = state.getFlatLessons();
     const idx = lessons.findIndex(l => l.id === currentId);
     if (idx !== -1 && idx < lessons.length - 1) {

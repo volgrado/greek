@@ -5,7 +5,7 @@
 
 // Inlined config for SW compatibility (Classic Script mode)
 const CONFIG = {
-    APP_CACHE_NAME: 'greek-v15',
+    APP_CACHE_NAME: 'greek-v16',
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     DEFAULT_LANG: 'el'

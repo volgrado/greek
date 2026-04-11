@@ -1,9 +1,14 @@
-// Imports removed for classic script compatibility
+import { state } from './state.js';
+import { I18N } from './config.js';
+import { fetchLessonHTML, prefetchNext } from './data.js';
+import { getFlatLessons, getLessonNavigation } from './lesson-utils.js';
+import { matchLessonPath } from './route-utils.js';
+import { KaraokePlayer } from './karaoke.js';
 
 
 const app = document.getElementById('app');
 
-const renderCurriculum = (container) => {
+export const renderCurriculum = (container) => {
     container.innerHTML = ''; // Clear container
 
     if (!state.db || !state.db.structure) return;
@@ -85,7 +90,7 @@ const renderCurriculum = (container) => {
 
 
 
-const route = async (pathOverride = null) => {
+export const route = async (pathOverride = null) => {
     if (!state.db) return;
 
     // Determine path based on Navigation API or Hash fallback
@@ -219,18 +224,18 @@ const route = async (pathOverride = null) => {
             const transition = document.startViewTransition(async () => {
                 await updateDOM();
             });
-            // Handle skipped transitions gracefully to prevent unhandled promise rejections
-            if (transition.finished) transition.finished.catch(() => {});
-            if (transition.ready) transition.ready.catch(() => {});
+            // Handle skipped transitions gracefully to avoid unhandled rejections in console
+            transition.finished.catch(() => {});
+            transition.ready.catch(() => {});
         } catch (e) {
-            await updateDOM(); // Fallback if API completely rejects
+            await updateDOM();
         }
     } else {
         await updateDOM();
     }
 };
 
-const initRouter = () => {
+export const initRouter = () => {
     // 🧭 Genius Migration: If we have a hash from the old system, migrate to clean URLs
     if (window.navigation && window.location.hash.startsWith('#/')) {
         const cleanPath = window.location.hash.slice(1);
