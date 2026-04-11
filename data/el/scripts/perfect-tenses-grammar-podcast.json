@@ -1,0 +1,66 @@
+{
+    "id": "perfect-tenses-grammar",
+    "title": "Unit 20 Hyper-Exhaustive Masterclass: The Perfect Tenses (I have done)",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 20: The Perfect Tenses. If you’ve made it through the Past tenses... you will find today’s lesson incredibly easy. Modern Greek builds these tenses almost exactly like English... with a helper verb and a frozen action word. I'm William... and here with me is Athina. Athina... who is the 'Helper' in this tense?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! The helper is the verb 'É-kho'... to have. In the Perfect tenses... 'É-kho' does all the heavy lifting. It tells you WHO is doing the action and WHEN. The main verb itself just sits there... frozen in time."
+        },
+        {
+            "voice": "en",
+            "text": "So 'É-kho' handles the person and the time. Athina... give us the Present and Past forms of our helper."
+        },
+        {
+            "voice": "gr",
+            "text": "Present: Έχω... έχεις... έχει. Έχουμε... έχετε... έχουν. And Past: Είχα... είχες... είχε. Είχαμε... είχατε... είχαν. You pick the helper based on the timeline you want."
+        },
+        {
+            "voice": "en",
+            "text": "Timeline picked. Now... what about that 'Frozen Word'? We call it the 'A-pa-rrém-pha-to'. How do we build it?"
+        },
+        {
+            "voice": "gr",
+            "text": "You start with the Simple Stem from Unit 12. For active verbs... you add the ending '-ei'. Listen: 'thia-vá-zo' becomes 'thia-vá-sei'... 'ghrá-pho' becomes 'ghráp-sei'. The ending is unstressed... it’s very light. But! For Passive verbs... the ending '-eée' is loud and stressed! 'Koe-má-mai' becomes 'koe-mee-theée'."
+        },
+        {
+            "voice": "en",
+            "text": "Light for active... loud for passive. 'Ghráp-sei' vs 'Koe-mee-theée'. And we have those tiny 1-syllable rebels again. 'Thee'... 'pee'... 'vree'."
+        },
+        {
+            "voice": "gr",
+            "text": "Ακριβώς. 'É-kho theée'... I have seen. 'É-kho peée'... I have said. Now... let's assemble them. 'É-kho thia-vá-sei'... I have read. This matters right now. 'Eée-kha thia-vá-sei'... I had read. This was the past before the past."
+        },
+        {
+            "voice": "en",
+            "text": "And the Future Perfect? 'I will have finished'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Just add our future particle 'Tha'! 'Tha é-kho te-le-oée-sei mékh-ri áv-ri-o'... I will have finished by tomorrow."
+        },
+        {
+            "voice": "en",
+            "text": "It’s a perfect assembly line. But there’s a 'Pronoun Magnet' rule we must follow. If we have a little word like 'it'... where does it go?"
+        },
+        {
+            "voice": "gr",
+            "text": "The pronoun always jumps to the front of the whole engine. It clings to 'É-kho'! You never say 'have read it'... you say 'IT have read'. 'TO é-kho thia-vá-sei'. 'Then TO é-kho ká-nei'. I haven't done it."
+        },
+        {
+            "voice": "en",
+            "text": "The pronoun jumps over the action word. You have now completed the exhaustive Masterclass for Unit 20. You can have done... had done... and will have done. You have mastered the Perfect tenses and the frozen word. Review the travel and life experiences vocabulary to see these tenses in action. Excellent work... we’ll see you in Unit 21... where we tackle the Conditionals... the 'If' clauses."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Τα λέμε στο επόμενο μάθημα."
+        }
+    ]
+}

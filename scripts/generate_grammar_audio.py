@@ -6,6 +6,12 @@ from pathlib import Path
 from pydub import AudioSegment
 import sys
 
+# Ensure stdout/stderr handle UTF-8 correctly for Windows consoles
+if sys.stdout.encoding.lower() != 'utf-8':
+    import io
+    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+
 # Configuration
 ASSETS_DIR = Path("assets/audio/podcasts")
 ASSETS_DIR.mkdir(parents=True, exist_ok=True)
@@ -21,7 +27,7 @@ async def generate_podcast_audio(script_path):
     
     combined_voice = AudioSegment.silent(duration=0)
     
-    temp_dir = Path("temp_audio")
+    temp_dir = Path(f"temp_{podcast_id}")
     temp_dir.mkdir(exist_ok=True)
     
     print(f"Generating Podcast Content: {data.get('title', podcast_id)}...")
@@ -93,8 +99,14 @@ async def generate_podcast_audio(script_path):
     
     # Cleanup temp files
     for f in temp_dir.glob("*.mp3"):
-        os.remove(f)
-    temp_dir.rmdir()
+        try:
+            os.remove(f)
+        except Exception as e:
+            print(f"Warning: Could not remove temp file {f}: {e}")
+    try:
+        temp_dir.rmdir()
+    except Exception as e:
+        print(f"Warning: Could not remove temp directory {temp_dir}: {e}")
     
     print(f"SUCCESS: Generated {output_file}")
 

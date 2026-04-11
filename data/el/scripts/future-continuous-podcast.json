@@ -1,6 +1,6 @@
 {
     "id": "future-continuous-grammar",
-    "title": "Unit 11: Future Tenses and Aspect - Grammar Podcast",
+    "title": "Unit 11 Hyper-Exhaustive Masterclass: Future Tenses (Θα) & Aspect",
     "voices": {
         "en": "en-AU-WilliamMultilingualNeural",
         "gr": "el-GR-AthinaNeural"
@@ -8,39 +8,59 @@
     "script": [
         {
             "voice": "en",
-            "text": "Unit 11 applies the concept of Verbal Aspect to the future tenses of Modern Greek. To formulate a future statement, we utilize the invariant particle 'Tha'. Athina, where is this particle positioned relative to the verb?"
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 11: Future Tenses and Aspect. In Unit 10, we learned the magic of 'Aspect'... that choice between the Video and the Photo. Now... we are going to apply that exact same logic to the future. I'm William... and here with me is Athina. Athina... how do we say 'will' in Greek?"
         },
         {
             "voice": "gr",
-            "text": "Το 'θα' μπαίνει πάντα ακριβώς πριν από το ρήμα. Θα παίζω, θα φάω."
+            "text": "Γεια σας! In Greek, the future is incredibly simple. We use one tiny magic word: 'Tha'. Just put it right in front of your verb. 'Tha paí-zo'... 'I will play'."
         },
         {
             "voice": "en",
-            "text": "Correct. However, we must choose between the Continuous and Simple Future. The Continuous Future, utilizing the present stem, describes habitual actions or routines. Athina?"
+            "text": "No new endings to learn... just a prefix. But... remember the 'Pronoun Sandwich' rule. If you want to say 'I will do IT'... you have to sandwich the pronoun between 'Tha' and the verb. Right, Athina?"
         },
         {
             "voice": "gr",
-            "text": "Θα διαβάζω κάθε μέρα. Είναι σαν ένα βίντεο που συνεχίζεται."
+            "text": "Correct. 'Tha TO ká-no'. 'Tha SOU TO thó-so'... I will give it to you. The 'Tha' loves to stay close to the verb, but the short pronouns are the only things allowed to jump in the middle."
         },
         {
             "voice": "en",
-            "text": "In contrast, the Simple Future utilizes the perfective stem to describe a single, completed event. This is the more common future form in daily discourse. It is vital to note that the past tense augment 'e'—is strictly prohibited in future constructions. Athina, please demonstrate the Simple Future."
+            "text": "A little pronoun filling! Now... let’s look at our two lenses again. 'Tha paí-zo'... and 'Tha paí-xo'. Athina... which is which?"
         },
         {
             "voice": "gr",
-            "text": "Θα διαβάσω το βιβλίο αύριο. Θα γράψω ένα γράμμα."
+            "text": "Listen to the difference: 'Tha thi-a-vá-zo kár-the mé-ra'... I will be reading every day... that is a habit, a 'Video'. But... 'Tha thi-a-vá-so to vi-vleé-o áv-ri-o'... I will read the book tomorrow... just once. That is a snapshot, a 'Photo'."
         },
         {
             "voice": "en",
-            "text": "Regarding negation, we utilize the particle 'Den' before 'Tha'. Also, observe the syntactic 'sandwich' formed when short object pronouns are present. They must be placed between the particle 'Tha' and the verb. Athina?"
+            "text": "And just like with 'Na'... 90% of your daily conversation will use that 'Photo' lens... the Simple Future. But beware the 'Augment Trap'! We haven't learned the Past yet... but many students mistakenly add an 'e' sound to the future. Is that allowed?"
         },
         {
             "voice": "gr",
-            "text": "Θα το κάνω. Δεν θα σου το δώσω."
+            "text": "NEVER! The 'e-' sound... the augment... is strictly for the past. If you say 'Tha é-ghrap-sa'... it sounds completely wrong. It must be... 'Tha ghráp-so'. Strip away the 'e'!"
         },
         {
             "voice": "en",
-            "text": "Finally, 'Tha' is frequently employed to express probability or logical supposition in the present tense, analogous to the English 'must be'. This concludes our academic review of Unit 11. Precise selection of aspect remains your primary syntactic challenge in these future paradigms."
+            "text": "Got it. No 'e' in the future. Now... negation. In Unit 10, we learned that 'Na' uses 'Meen'. Does 'Tha' also use 'Meen'?"
+        },
+        {
+            "voice": "gr",
+            "text": "No! 'Tha' is a regular statement about the future, so it stays with our old friend 'Den'. 'Den tha paí-xo'. 'Den tha sou to thó-so'."
+        },
+        {
+            "voice": "en",
+            "text": "Final masterclass secret: The Probability Trick. Greeks love to use 'Tha' even when we aren't talking about the future! Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Yes! We use 'Tha' to mean 'must be' or 'probably'. If someone knocks on the door, we say: 'Tha eé-nai o Yór-ghos'. It must be George! Or if someone is late: 'Tha é-phee-ghan'. They probably left."
+        },
+        {
+            "voice": "en",
+            "text": "So 'Tha' is the future... AND the guess. You’ve now mastered the Future tense and reinforced the power of Aspect. You can now plan... promise... and suppose. Excellent work... and see you in Unit 12... where we finally learn how to build those Simple stems."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Τα λέμε στο επόμενο μάθημα."
         }
     ]
 }

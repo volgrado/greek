@@ -1,0 +1,58 @@
+{
+    "id": "deponent-verbs-grammar",
+    "title": "Unit 18 Hyper-Exhaustive Masterclass: Deponent Verbs & The Passive Voice",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 18: Deponent Verbs and the Passive Voice. We are entering the other half of the Greek verb universe: Type C. These are verbs that don't end in '-o'... they end in '-o-mai'. This system is a bit like a double-agent... it has two very different meanings. I'm William... and here with me is Athina. Athina... what is a 'Deponent' verb?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! A deponent verb is a verb wearing a disguise. It looks passive... it sounds passive... but its meaning is completely active. You cannot say 'er-kho'... you must say 'éer-kho-mai' for 'I come'. They simply don't have an active form!"
+        },
+        {
+            "voice": "en",
+            "text": "It’s their only form. And some are 'Semi-Deponents'. They look passive in the present... like 'éer-kho-mai'... but when they jump into the past... they drop the mask. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Yes! 'Éer-kho-mai' becomes 'eé-rtha' in the past. It takes a normal active ending. Same for 'ghée-no-mai', I become... it becomes 'é-ghi-na' in the past. They are masters of disguise."
+        },
+        {
+            "voice": "en",
+            "text": "Fascinating. Now... let’s conjugate this 'mask'. The Present tense endings for Type C. Athina... take us through 'εer-kho-mai'."
+        },
+        {
+            "voice": "gr",
+            "text": "Εγώ έρχομαι... Εσύ έρχεσαι... Αυτός έρχεται. Εμείς ερχόμαστε... Εσείς έρχεστε... Αυτοί έρχονται. Did you hear the accent shift in 'we'? Er-khó-mas-te! The stress has to move one syllable to the right."
+        },
+        {
+            "voice": "en",
+            "text": "It moves for balance. And we have a 'Street Smart' alternative for 'You all'. Greeks often say 'er-khó-sas-te' instead of 'eér-khes-te'. Both are perfect. Now... let's talk about the 'True Passive'. When we do something to ourselves... or when something is done TO us."
+        },
+        {
+            "voice": "gr",
+            "text": "This is very common. 'Plé-no to av-to-kée-nee-to'... I wash the car. But 'Plée-no-mai'... I wash myself. Or... 'To vi-vleée-o thia-vá-ze-tai a-pó ton Yór-gho'... The book is read BY George. We use 'a-pó' to show the performer."
+        },
+        {
+            "voice": "en",
+            "text": "So 'a-pó' is 'by'. And finally... the Past Passive. This is where those 'Cheat Codes' from Unit 12 come back to haunt us. The '-ee-ka' marker. Athina... show us the explosion of endings."
+        },
+        {
+            "voice": "gr",
+            "text": "If the verb is in the S-Group... it becomes '-stee-ka' or '-thee-ka'. 'E-toi-má-zo' becomes 'e-toi-má-stee-ka'... I got ready. If it’s a Lip sound... it’s '-phtee-ka'. 'Krý-vo' becomes 'krý-phtee-ka'... I hid. And if it's a Throat sound... it’s '-khtee-ka'. 'A-noée-gho' becomes 'a-noée-khtee-ka'... I was opened."
+        },
+        {
+            "voice": "en",
+            "text": "Sigma becomes Stee-ka... Psi becomes Phtee-ka... Xi becomes Khtee-ka. It’s phonetic logic at its best. You have now completed the exhaustive Masterclass for Unit 18. You can handle the double-agents of the Greek language... you can conjugate passive endings... and you know why the accent shifts in 'er-khó-mas-te'. Review the deponent verbs vocabulary to practice these masks. Excellent work... we’ll see you in Unit 19: Voices, Moods and Special Forms."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Τα λέμε στο επόμενο μάθημα."
+        }
+    ]
+}

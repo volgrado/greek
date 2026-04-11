@@ -1,6 +1,6 @@
 {
     "id": "genitive-case-grammar",
-    "title": "Unit 15: The Genitive Case - Grammar Podcast",
+    "title": "Unit 15 Hyper-Exhaustive Masterclass: The Genitive Case (Possession)",
     "voices": {
         "en": "en-AU-WilliamMultilingualNeural",
         "gr": "el-GR-AthinaNeural"
@@ -8,39 +8,59 @@
     "script": [
         {
             "voice": "en",
-            "text": "Unit 15 introduces the Genitive Case, the primary indicator of possession in Modern Greek. This case is the equivalent of the English 's' or the 'of' preposition. Athina, how is the possessive structure typically formulated?"
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 15: The Genitive Case. This marks your entry into the B1 Intermediate Stage. You’ve mastered the Subject and the Object... and now... we enter the world of Ownership. I'm William... and here with me is Athina. Athina... how does a Greek person express that something belongs to someone else?"
         },
         {
             "voice": "gr",
-            "text": "Ο σκύλος του Γιώργου. Το σπίτι της Μαρίας."
+            "text": "Γεια σας! In English... you have the apostrophe 'S'... like 'George’s dog'. But in Greek... we don’t have that. We always say 'The dog of the George'. Both the item and the owner need their articles. 'O ský-los tou Yór-ghou'."
         },
         {
             "voice": "en",
-            "text": "Correct. We always utilize the structure: 'The Item' followed by 'of the Owner'. Regarding pluralisation, the definite article 'Ton' is used universally regardless of gender. Athina, please provide plural examples."
+            "text": "So it's always 'The Item... of the Owner'. And the article for the owner must change to the Genitive form. Athina... what are the articles for possession?"
         },
         {
             "voice": "gr",
-            "text": "Των φίλων. Των γυναικών. Των παιδιών."
+            "text": "For Masculine and Neuter owners... it is 'TOU'. For Feminine owners... it is 'TEES'. But in the plural... it is the easiest rule in the whole language! Every owner... no matter the gender... uses the article 'TON'. And every noun ends in '-on'. 'Ton phee-lón'... of the friends. 'Ton ghi-ne-kón'... of the women."
         },
         {
             "voice": "en",
-            "text": "Regarding noun morphology: masculine nouns ending in '-os' typically change to '-ou', while feminines add an '-s'. Neuter nouns ending in '-ma' expand into '-matos'. Athina?"
+            "text": "The 'Universal Plural' '-on'. If only everything were that simple. Now... let’s look at the singular noun endings. Masculine nouns in '-os' change to '-ou'. But what about those '-as' and '-ees' names... like 'Pa-té-ras'?"
         },
         {
             "voice": "gr",
-            "text": "Το μάθημα – του μαθήματος. Το πρόβλημα – του προβλήματος."
+            "text": "They simply drop the final 'S'! It looks exactly like the Accusative we learned in Unit 5. 'O pa-té-ras' becomes 'tou pa-té-ra'. Feminine nouns... however... do the opposite. They ALWAYS add an 'S'! 'Ee Ma-ree-a' becomes 'tees Ma-ree-as'."
         },
         {
             "voice": "en",
-            "text": "It is also critical to note the accentual shift. If a word is stressed on the third syllable from the end, the Genitive case frequently forces the stress one syllable to the right. Athina?"
+            "text": "Feminines add 'S'... Masculines drop 'S'. And then we have the Neuters. '-o' to '-ou' is easy. But what about '-i' and '-ma' words?"
         },
         {
             "voice": "gr",
-            "text": "Ο άνθρωπος – του ανθρώπου. Το θέατρο – του θεάτρου."
+            "text": "They are more energetic! 'To pai-thee' becomes 'tou pai-thee-oú'... with a loud stress on the end. And the '-ma' words... like 'ma-thee-ma'... bulk up by adding an extra syllable. It becomes... 'tou ma-theée-ma-tos'."
         },
         {
             "voice": "en",
-            "text": "Lastly, the Genitive also expresses indirect objects and content relationships, as seen in the phrase 'A glass of water'. This concludes our B1 Intermediate review of Unit 15. Mastering the Genitive case is essential for articulating ownership and relationships in Modern Greek."
+            "text": "It’s a rhythmic expansion. But wait... there’s a massive pronunciation secret in our lesson. The 'Shifting Accent'. What happens when the ending is 'too heavy'?"
+        },
+        {
+            "voice": "gr",
+            "text": "This is vital for your accent. If a word stretches too long... like 'án-thro-pos'... person... the stress is forced to move one syllable to the right! It becomes... 'an-thró-pou'. 'Ó-no-ma'... name... becomes... 'o-nó-ma-tos'. You must move the punch!"
+        },
+        {
+            "voice": "en",
+            "text": "Move the punch... or it sounds wrong. Finally... our '-os' traps. Neuter '-os' nouns like 'lá-thos'... and Feminine '-os' nouns like 'meth-o-thos'."
+        },
+        {
+            "voice": "gr",
+            "text": "Be careful! 'To lá-thos' becomes 'tou lá-thous'. And 'ee mé-tho-thos' takes the masculine ending '-ou'... 'tees me-thó-thou'... because it is wearing masculine clothes. It guards its feminine article though!"
+        },
+        {
+            "voice": "en",
+            "text": "The Genitive case is about relationships. Ownership... creators... measurements... even contents like 'a glass of water'. You have now completed the exhaustive Masterclass for Unit 15. You have the keys to B1 Intermediate Greek. Review the possessions vocabulary to see these owners in action. Excellent work... we’ll see you in Unit 16: The Imperative Mood... or how to give orders."
+        },
+        {
+            "voice": "gr",
+            "text": "Πολύ καλή δουλειά! Τα λέμε στο επόμενο μάθημα."
         }
     ]
 }

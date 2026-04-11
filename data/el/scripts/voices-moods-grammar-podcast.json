@@ -1,0 +1,58 @@
+{
+    "id": "voices-moods-grammar",
+    "title": "Unit 19 Hyper-Exhaustive Masterclass: Voices, Moods & Special Forms",
+    "voices": {
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 19: Voices, Moods and Special Forms. You have learned a massive amount of grammar. But today... we need to zoom out and look at the 'Matrix' of the Greek verb. Every time a Greek person speaks... their brain is making three choices: Aspect... Voice... and Mood. I'm William... and here with me is Athina. Athina... what are the two 'Voices' of Greek?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! Voice describes who is doing what to whom. We have the 'Active' voice... where the subject does the action... like 'Plée-no to av-to-kée-nee-to'. And we have the 'Passive' voice... where the subject receives the action... or does it to themselves. 'Plée-no-mai'. Passive verbs always end in '-o-mai'."
+        },
+        {
+            "voice": "en",
+            "text": "And never forget those sneaky 'Deponents' like 'Éer-kho-mai'... they look passive but they are active double-agents. Now... Mood. Mood is all about 'Attitude'. Athina... walk us through the three moods of Greek."
+        },
+        {
+            "voice": "gr",
+            "text": "First... the 'Indicative'. This is for facts and reality. We negate it with 'Den'. Second... 'Subjunctive'. This is for wishes... hopes... and needs. This is the mood of 'Na' and 'As'... and we ALWAYS negate it with 'Meen'. And finally... 'Imperative'. This is the mood of the boss! Giving direct orders... like 'Thi-á-va-se!'."
+        },
+        {
+            "voice": "en",
+            "text": "Indicative is fact... Subjunctive is 'what if'. Now... sometimes verbs stop acting like verbs. Let's look at the 'Special Forms'. First... the Gerund. Athina... how do we say 'while doing something'?"
+        },
+        {
+            "voice": "gr",
+            "text": "We use the 'Frozen' adverb ending '-on-tas' or '-ón-tas'. It never changes its shape. Listen: 'Eér-the tré-khon-tas'... He came running. 'É-phee-ghe ghel-ón-tas'... She left laughing. It’s perfect for describing HOW the action happened."
+        },
+        {
+            "voice": "en",
+            "text": "It’s like an adverbial -ing. And then... we have the 'Passive Participle'. These act like adjectives. Athina... give us an example."
+        },
+        {
+            "voice": "gr",
+            "text": "Words like 'Kou-ras-mé-nos'... tired. Or 'Or-gha-no-mé-nos'... organized. These are chameleons! They must match the gender... number... and case of the person they describe. 'Mée-a kou-ras-mé-nee ghi-né-ka'... A tired woman."
+        },
+        {
+            "voice": "en",
+            "text": "They follow all our Unit 6 Chameleon rules. Finally... the 'Infinitive' myth. In English... we have 'to go'... 'to see'. In Greek?"
+        },
+        {
+            "voice": "gr",
+            "text": "Greek has absolutely no infinitive. None. We use 'Na' instead. 'Thé-lo na páo'... I want that I go. But! We do have a strange... frozen word ending in '-ei'. We call it the 'A-pa-rrém-pha-to'. It has only ONE job in the whole language: to sit next to the verb 'To Have' and build the Perfect tenses."
+        },
+        {
+            "voice": "en",
+            "text": "'É-kho thia-vá-sei'... I have read. That tiny '-ei' word is our secret weapon for the next unit. You have now completed the exhaustive Masterclass for Unit 19. You can see the Matrix of the Greek verb... you know the moods... the voices... the frozen adverbs... and the chameleon participles. Review the abstract concepts vocabulary to see these patterns in use. Excellent work... we’ll see you in Unit 20: The Perfect Tenses... I HAVE done."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Τα λέμε στο επόμενο μάθημα."
+        }
+    ]
+}
