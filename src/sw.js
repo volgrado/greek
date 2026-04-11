@@ -5,7 +5,7 @@
 
 // Inlined config for SW compatibility (Classic Script mode)
 const CONFIG = {
-    APP_CACHE_NAME: 'greek-v14',
+    APP_CACHE_NAME: 'greek-v15',
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     DEFAULT_LANG: 'el'
@@ -95,7 +95,9 @@ self.addEventListener('fetch', (e) => {
     if (e.request.mode === 'navigate') {
         e.respondWith(
             fetch(e.request).catch(() => {
-                return caches.match('/index.html') || caches.match('/');
+                return caches.match('/index.html').then(response => {
+                    return response || caches.match('/');
+                });
             })
         );
         return;
