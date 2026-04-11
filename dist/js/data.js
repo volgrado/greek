@@ -4,7 +4,7 @@ import { I18N } from './config.js';
 
 export const loadData = async () => {
     try {
-        const r = await fetch(`${I18N[state.currentLang].dataFile}?v=${Date.now()}`);
+        const r = await fetch(I18N[state.currentLang].dataFile);
         if (!r.ok) throw new Error('Data fetch failed');
         state.db = await r.json();
     } catch (e) {

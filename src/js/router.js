@@ -101,7 +101,7 @@ export const route = async (pathOverride = null) => {
         path = new URL(window.navigation.currentEntry.url).pathname;
     } else {
         // Fallback for older browsers: use real pathname or hash migration
-        path = window.location.pathname;
+        path = window.location.pathname || '/';
         if (window.location.hash.startsWith('#/')) {
             path = window.location.hash.slice(1);
         }
