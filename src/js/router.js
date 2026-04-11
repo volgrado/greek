@@ -215,9 +215,16 @@ const route = async (pathOverride = null) => {
     };
 
     if (document.startViewTransition) {
-        document.startViewTransition(async () => {
-            await updateDOM();
-        });
+        try {
+            const transition = document.startViewTransition(async () => {
+                await updateDOM();
+            });
+            // Handle skipped transitions gracefully to prevent unhandled promise rejections
+            if (transition.finished) transition.finished.catch(() => {});
+            if (transition.ready) transition.ready.catch(() => {});
+        } catch (e) {
+            await updateDOM(); // Fallback if API completely rejects
+        }
     } else {
         await updateDOM();
     }
