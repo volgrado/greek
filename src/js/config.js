@@ -43,7 +43,7 @@ export const I18N = {
  * App global constants
  */
 export const CONFIG = {
-    APP_CACHE_NAME: 'greek-v16',
+    APP_CACHE_NAME: 'greek-v17',
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     SYNC_CHANNEL_NAME: 'greek_app_sync',

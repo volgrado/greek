@@ -5,7 +5,7 @@
 
 // Inlined config for SW compatibility (Classic Script mode)
 const CONFIG = {
-    APP_CACHE_NAME: 'greek-v16',
+    APP_CACHE_NAME: 'greek-v17',
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     DEFAULT_LANG: 'el'
@@ -95,9 +95,9 @@ self.addEventListener('fetch', (e) => {
     if (e.request.mode === 'navigate') {
         e.respondWith(
             fetch(e.request).catch(() => {
-                return caches.match('/index.html').then(response => {
-                    return response || caches.match('/');
-                });
+                return caches.match('/index.html', { ignoreSearch: true }).then(response => {
+                    return response || caches.match('/', { ignoreSearch: true });
+                }).then(res => res || new Response('Offline', { status: 503, statusText: 'Service Unavailable' }));
             })
         );
         return;
@@ -110,13 +110,14 @@ self.addEventListener('fetch', (e) => {
         url.pathname.includes('/assets/images/')) {
         
         e.respondWith(
-            caches.match(e.request).then(cached => {
+            caches.match(e.request, { ignoreSearch: true }).then(cached => {
                 return cached || fetch(e.request).then(response => {
+                    if (!response || response.status !== 200 || response.type !== 'basic') return response;
                     const clone = response.clone();
                     const cacheName = url.origin.includes('fonts') ? 'pwa-fonts-v1' : CONFIG.APP_CACHE_NAME;
                     caches.open(cacheName).then(cache => cache.put(e.request, clone));
                     return response;
-                });
+                }).catch(() => new Response('', { status: 503, statusText: 'Service Unavailable' }));
             })
         );
         return;
@@ -129,12 +130,14 @@ self.addEventListener('fetch', (e) => {
 
         e.respondWith((async () => {
             const cache = await caches.open(cacheName);
-            let response = await cache.match(e.request);
+            let response = await cache.match(e.request, { ignoreSearch: true });
 
             if (!response) {
                 try {
                     response = await fetch(e.request);
-                    cache.put(e.request, response.clone());
+                    if (response && response.status === 200) {
+                        cache.put(e.request, response.clone());
+                    }
                 } catch (error) {
                     return new Response(`
                         <div class="error-container p-8 text-center" style="font-family: var(--font-ui, sans-serif); display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; background: var(--bg, #fff); color: var(--text, #000);">
@@ -157,18 +160,28 @@ self.addEventListener('fetch', (e) => {
     }
 
     // 3. Static assets strategy (Stale-While-Revalidate)
-    // We serve from cache if available, but always fetch from network to update the cache.
     const isStatic = STATIC_ASSETS.some(asset => url.pathname === asset || (asset === '/' && url.pathname === '/index.html'));
     
     if (isStatic) {
         e.respondWith(
             caches.open(CONFIG.APP_CACHE_NAME).then(async (cache) => {
-                const cachedResponse = await cache.match(e.request);
+                const cachedResponse = await cache.match(e.request, { ignoreSearch: true });
                 const networkFetch = fetch(e.request).then((networkResponse) => {
-                    cache.put(e.request, networkResponse.clone());
+                    if (networkResponse && networkResponse.status === 200) {
+                        cache.put(e.request, networkResponse.clone());
+                    }
                     return networkResponse;
-                });
-                return cachedResponse || networkFetch;
+                }).catch(() => null);
+
+                if (cachedResponse) {
+                    return cachedResponse;
+                }
+                
+                return networkFetch.then(res => res || new Response('', { 
+                    status: 503, 
+                    statusText: 'Service Unavailable',
+                    headers: new Headers({'Content-Type': 'application/javascript'}) 
+                }));
             })
         );
         return;
@@ -176,6 +189,8 @@ self.addEventListener('fetch', (e) => {
 
     // Default: Cache First, Fallback to Network
     e.respondWith(
-        caches.match(e.request, { ignoreSearch: true }).then((response) => response || fetch(e.request))
+        caches.match(e.request, { ignoreSearch: true }).then((response) => {
+            return response || fetch(e.request).catch(() => new Response('', { status: 503, statusText: 'Service Unavailable' }));
+        })
     );
 });
