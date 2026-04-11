@@ -3,7 +3,7 @@
  * Uses sentence-level VTT data and linear interpolation for word-level highlights.
  */
 
-export class KaraokePlayer {
+class KaraokePlayer {
     constructor(audioElement, containerElement) {
         this.audio = audioElement;
         this.container = containerElement;

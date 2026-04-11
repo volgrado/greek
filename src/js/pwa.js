@@ -1,8 +1,7 @@
-import { state } from './state.js';
-import { I18N, CONFIG } from './config.js';
+// Imports removed for classic script compatibility
 
 
-export const initPWA = () => {
+const initPWA = () => {
     const downloadToggle = document.getElementById('download-toggle');
     const downloadStatusText = document.getElementById('download-status-text');
 

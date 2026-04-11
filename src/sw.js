@@ -5,7 +5,7 @@
 
 // Inlined config for SW compatibility (Classic Script mode)
 const CONFIG = {
-    APP_CACHE_NAME: 'greek-v13',
+    APP_CACHE_NAME: 'greek-v14',
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     DEFAULT_LANG: 'el'
@@ -32,16 +32,17 @@ const STATIC_ASSETS = [
     '/css/lessons.css',
     '/css/errors.css',
     '/css/transitions.css',
-    '/js/main.js',
     '/js/config.js',
-    '/js/state.js',
-    '/js/data.js',
-    '/js/theme.js',
-    '/js/i18n.js',
-    '/js/router.js',
-    '/js/pwa.js',
     '/js/lesson-utils.js',
     '/js/route-utils.js',
+    '/js/state.js',
+    '/js/theme.js',
+    '/js/i18n.js',
+    '/js/data.js',
+    '/js/karaoke.js',
+    '/js/router.js',
+    '/js/pwa.js',
+    '/js/main.js',
     '/manifest.json',
     '/assets/icon.svg',
     '/public/data/el/curriculum.json'
