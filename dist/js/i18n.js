@@ -1,11 +1,9 @@
-import { state } from './state.js';
-import { I18N } from './config.js';
-import { loadData } from './data.js';
+// Imports removed for classic script compatibility
 
 // Element selection helpers (using dynamic lookups to avoid nulls at module load time)
 const getEl = (id) => document.getElementById(id);
 
-export const updateUIStrings = () => {
+const updateUIStrings = () => {
     const langLabel = getEl('lang-label');
     const themeToggle = getEl('theme-toggle');
     const footerRoot = getEl('footer-root');
@@ -51,7 +49,7 @@ export const updateUIStrings = () => {
     if (logoSymbol) logoSymbol.textContent = strings.symbol;
 };
 
-export const resetProgress = (linkElement, routeFn) => {
+const resetProgress = (linkElement, routeFn) => {
     const strings = I18N[state.currentLang];
     const clearLabel = linkElement.querySelector('span') || linkElement;
     if (clearLabel.textContent === strings.resetProgress) {
@@ -77,7 +75,7 @@ export const resetProgress = (linkElement, routeFn) => {
     }, 1500);
 };
 
-export const initI18n = (routeFn) => {
+const initI18n = (routeFn) => {
     // 1. Subscribe to changes via our new Proxy Signal
     state.subscribe('currentLang', async (lang) => {
         localStorage.setItem('lang', lang);

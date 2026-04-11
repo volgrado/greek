@@ -1,14 +1,9 @@
-import { state } from './state.js';
-import { I18N } from './config.js';
-import { fetchLessonHTML, prefetchNext } from './data.js';
-import { getFlatLessons, getLessonNavigation } from './lesson-utils.js';
-import { matchLessonPath } from './route-utils.js';
-import { KaraokePlayer } from './karaoke.js';
+// Imports removed for classic script compatibility
 
 
 const app = document.getElementById('app');
 
-export const renderCurriculum = (container) => {
+const renderCurriculum = (container) => {
     container.innerHTML = ''; // Clear container
 
     if (!state.db || !state.db.structure) return;
@@ -90,7 +85,7 @@ export const renderCurriculum = (container) => {
 
 
 
-export const route = async (pathOverride = null) => {
+const route = async (pathOverride = null) => {
     if (!state.db) return;
 
     // Determine path based on Navigation API or Hash fallback
@@ -228,7 +223,7 @@ export const route = async (pathOverride = null) => {
     }
 };
 
-export const initRouter = () => {
+const initRouter = () => {
     // 🧭 Genius Migration: If we have a hash from the old system, migrate to clean URLs
     if (window.navigation && window.location.hash.startsWith('#/')) {
         const cleanPath = window.location.hash.slice(1);

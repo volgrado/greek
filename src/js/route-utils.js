@@ -9,7 +9,7 @@
  * @param {string} path - The path to match.
  * @returns {Object|null} Match object with { id } or null.
  */
-export const matchLessonPath = (path) => {
+const matchLessonPath = (path) => {
     if (!path) return null;
 
     // Use URLPattern if available (modern browsers and SW environments)
