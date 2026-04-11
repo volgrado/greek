@@ -3,5 +3,9 @@
   "compatibility_date": "2026-02-11",
   "assets": {
     "directory": "./dist"
-  }
+  },
+  "routes": [
+    { "pattern": "schemas.work", "custom_domain": true },
+    { "pattern": "www.schemas.work", "custom_domain": true }
+  ]
 }
