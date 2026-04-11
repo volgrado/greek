@@ -1,6 +1,6 @@
 {
     "id": "object-pronouns-grammar",
-    "title": "Unit 13: Direct and Indirect Object Pronouns - Grammar Podcast",
+    "title": "Unit 13 Hyper-Exhaustive Masterclass: Direct & Indirect Object Pronouns",
     "voices": {
         "en": "en-AU-WilliamMultilingualNeural",
         "gr": "el-GR-AthinaNeural"
@@ -8,39 +8,59 @@
     "script": [
         {
             "voice": "en",
-            "text": "Unit 13 focuses on 'Weak Pronouns'—the short, unstressed objects used in everyday Greek communication. These pronouns distinguish between the direct and the indirect object. Athina, please state the two relevant cases."
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 13: Direct and Indirect Object Pronouns. In Unit 3, we learned the subject pronouns like 'E-ghó'... and how Greeks usually drop them. But today... we meet the real stars of everyday conversation. The little words for 'me'... 'him'... or 'it'. We call them Weak Pronouns. I'm William... and here with me is Athina. Athina... why do we call them 'weak'?"
         },
         {
             "voice": "gr",
-            "text": "Η αιτιατική για το άμεσο αντικείμενο και η γενική για το έμμεσο αντικείμενο."
+            "text": "Γεια σας! We call them weak because they are short... unstressed... and they cannot stand alone. They are like parasites... they must cling to a verb to survive. But before we use them... we must know if the person is the 'Direct Target' or the 'Indirect Receiver'."
         },
         {
             "voice": "en",
-            "text": "Precisely. The Accusative case is for the direct target of the action, whereas the Genitive case represents the indirect receiver. For instance, 'Me vlepeis' versus 'Mou dineis'. Athina, please provide the pronouns for the first and second person."
+            "text": "This is the big distinction. If I say 'Do you see me?'... I am the direct target. That's the Accusative case. But if I say 'Give the coffee TO me'... I am the receiver. In Greek... you don't need the word 'to'... you just use the Genitive case. Athina... show us the difference between 'Me' and 'To Me'."
         },
         {
             "voice": "gr",
-            "text": "Με και μου. Σε και σου. Μας και σας."
+            "text": "Listen carefully. 'Me'... is 'Me'. 'To Me'... is 'Mou'. 'Se'... is 'You'. 'To You'... is 'Sou'. 'Ton'... is 'Him'. 'Tou'... is 'To Him'."
         },
         {
             "voice": "en",
-            "text": "Note that for 'Mas' and 'Sas'—we and you—the direct and indirect forms are identical. Regarding syntactic position: these pronouns must cling to the front of the verb. However, they are placed between particles like 'Tha', 'Na', and 'Den' and the verb itself. Athina?"
+            "text": "One vowel change... and the whole meaning shifts. But wait... what about 'Us' and 'You all'? 'Mas' and 'Sas'?"
         },
         {
             "voice": "gr",
-            "text": "Θα σου πω. Δεν σε ξέρω. Πρέπει να το κάνεις."
+            "text": "These are our favorites! They are 'Freebies'. 'Mas' means both 'Us' and 'To Us'. 'Sas' means 'You all' and 'To You all'. No need to change anything!"
         },
         {
             "voice": "en",
-            "text": "Crucially, in the imperative mood, the pronoun must shift to the final position of the verb. Furthermore, when stacking multiple pronouns, the indirect object must precede the direct object. Athina, provide a stacked example."
+            "text": "I love a freebie. Now... let's talk about the 'Clingy Rule'. Where do these pronouns sit in a sentence? In English... they come after the verb. 'I see HIM'. But in Greek?"
         },
         {
             "voice": "gr",
-            "text": "Της το δίνω. Μου την δίνεις; Σ’ το λέω!"
+            "text": "Always strictly BEFORE the verb! 'Ton vlé-po'. 'Se a-gha-pó'. They must be first. And if you use particles like 'Tha' for the future... or 'Den' for no... the pronoun jumps right in the middle."
         },
         {
             "voice": "en",
-            "text": "This concludes our academic review of Unit 13. Understanding the correct placement and case of weak pronouns is essential for achieving fluid conversational proficiency in Modern Greek."
+            "text": "The 'Particle Sandwich'. 'Den SE kksé-ro'... I don't know you. 'Tha SOU po'... I will tell you. But wait... there is a huge 'Command Exception' in our lesson. If I’m giving an order... like 'Tell me!'... what happens?"
+        },
+        {
+            "voice": "gr",
+            "text": "If it is a command... the pronoun is forced to move to the very END of the verb. It becomes a tail! 'Mou to les' for a statement... but... 'Pes mou to!' for a command. Tell it to me!"
+        },
+        {
+            "voice": "en",
+            "text": "From front to back. And what about 'Stacking'? If I want to say 'I give it to her'... I need two pronouns. What is the Greek order of operations?"
+        },
+        {
+            "voice": "gr",
+            "text": "Greek is very polite: the Person always comes before the Thing. Indirect before Direct. 'Tees to thée-no'... 'I give IT... TO HER'. The 'Tees' for her comes first. And a native secret: if you say 'Sou to' for 'to you it'... we blend it into a single sharp 's-to'!"
+        },
+        {
+            "voice": "en",
+            "text": "S'to léo! I am telling it to you. You have now completed the exhaustive Masterclass for Unit 13. You can target people... receive gifts... stack pronouns like a pro... and even handle the command exceptions. Review the shopping and clothes vocabulary to practice these object pronouns. Excellent work... we’ll see you in Unit 14... where we dive into the Past."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Τα λέμε στο επόμενο μάθημα."
         }
     ]
 }

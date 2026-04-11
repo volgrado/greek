@@ -83,6 +83,16 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
     const url = new URL(e.request.url);
 
+    // 0. App Shell: Handle navigation requests by serving index.html
+    if (e.request.mode === 'navigate') {
+        e.respondWith(
+            fetch(e.request).catch(() => {
+                return caches.match('/index.html');
+            })
+        );
+        return;
+    }
+
     // 1. Font & Media caching strategy (Cache-First)
     if (url.origin === 'https://fonts.googleapis.com' || 
         url.origin === 'https://fonts.gstatic.com' ||

@@ -1,6 +1,6 @@
 {
     "id": "simple-stem-grammar",
-    "title": "Unit 12: Building the Simple Stem - Grammar Podcast",
+    "title": "Unit 12 Hyper-Exhaustive Masterclass: Building the Simple Stem (Σ, Ξ, Ψ)",
     "voices": {
         "en": "en-AU-WilliamMultilingualNeural",
         "gr": "el-GR-AthinaNeural"
@@ -8,39 +8,67 @@
     "script": [
         {
             "voice": "en",
-            "text": "Unit 12 introduces the methodology for constructing the Simple, or Perfective, Stem in Modern Greek. This is the absolute foundation for all non-continuous tenses, including the Simple Future and the Subjunctive. Athina, what is the 'S-Group' rule for these stems?"
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 12: Building the Simple Stem. This is the 'Puzzle' unit. To speak dynamically in the Future or the Subjunctive... you need the Simple Stem. The 'Photo' stem. You can't just guess it... you have to build it. I'm William... and here with me is Athina. Athina... how do we find these 'Cheat Codes'?"
         },
         {
             "voice": "gr",
-            "text": "Αν το ρήμα τελειώνει σε -νω, -θω ή -ζω, το θέμα αλλάζει σε σίγμα. Διαβάζω – διαβάσω. Κλείνω – κλείσω."
+            "text": "Γεια σας! It’s all about the sound at the end of the stem. We have three main groups: the S-Group... the X-Group... and the PS-Group. Sigma... Xi... and Psi."
         },
         {
             "voice": "en",
-            "text": "Precisely. The 'Sigma' stem is the most prevalent. Next, we have the 'X-Group', which applies to verbs ending in velar consonants—the 'throat' sounds. Athina, what are the transformations for 'X'?"
+            "text": "Let's start with the most common... the 'S' Group. If a verb ends in a dental sound like 'TH'... 'N'... or most 'Z' sounds... or even a vowel... it turns into a sharp 'S'. Athina... give us an example."
         },
         {
             "voice": "gr",
-            "text": "Τα ρήματα σε -κω, -γω, -χω ή -σκω αλλάζουν σε ξι. Ανοίγω – ανοίξω. Τρέχω – τρέξω."
+            "text": "Listen to 'thi-a-vá-zo'... to read. The 'Z' becomes 'S'... 'thi-a-vá-so'. Or 'kleée-no'... to close. It becomes 'kleée-so'. 'A-koó-o'... to hear... becomes 'a-koó-so'. Simple and sharp."
         },
         {
             "voice": "en",
-            "text": "It is noteworthy that certain extremely common '-zo' verbs—such as 'paizo'—are irregular and belong to the 'X-Group'. Athina, demonstrate the 'Psi' or 'PS-Group' for labial 'lip' sounds."
+            "text": "Sharp sounds. Next is the 'X' Group... the 'Throat' sounds. If a verb ends in 'K'... 'G'... 'KH'... or 'SK'... it explodes into a 'Xi'. Athina?"
         },
         {
             "voice": "gr",
-            "text": "Τα ρήματα σε -πω, -βω, -φω ή -εύω αλλάζουν σε ψι. Γράφω – γράψω. Δουλεύω – δουλέψω."
+            "text": "Exactly. 'A-noée-gho'... to open... becomes 'a-noée-xo'. 'Tré-kho'... to run... becomes 'tré-xo'. 'Thi-thás-ko'... to teach... becomes 'thi-thá-xo'. It’s an explosive 'X' sound."
         },
         {
             "voice": "en",
-            "text": "Lastly, we must address the monosyllabic irregular stems. These verbs are the most high-frequency in the Greek language. Athina, please state the stems for 'Vlepo' and 'Leo'."
+            "text": "But wait... I see some 'Z' rebels in this group. Like 'paí-zo'?"
         },
         {
             "voice": "gr",
-            "text": "Βλέπω – δω. Λέω – πω. Πίνω – πιω. Βρίσκω – βρω. Πηγαίνω – πάω."
+            "text": "Yes! You must memorize these four 'Z' rebels. They belong to the 'X' group: 'Paí-zo'... 'al-lá-zo'... 'pho-ná-zo'... and 'koi-tá-zo'. They all take the 'Xi' sound. 'Paée-xo'... 'al-lá-xo'... 'pho-ná-xo'... 'koi-tá-xo'."
         },
         {
             "voice": "en",
-            "text": "Note that because these stems are so brief, the lexical stress must shift to the ending. This concludes our academic overview of Unit 12. Mastering these stem transformations is a core requirement for grammatical dexterity in Modern Greek."
+            "text": "Rebels indeed. Finally... the 'PS' Group. The 'Lip' sounds. 'P'... 'V'... 'F'... and 'PT'. They merge into a 'Psi'. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Yes. 'Ghrá-pho'... to write... becomes 'ghráp-so'. 'Krý-vo'... to hide... becomes 'krýp-so'. And don't forget the '-e-vo' verbs... like 'thou-lé-vo'. Even though it looks like an 'E-V-O'... it sounds like a lip sound... so it also becomes 'thou-lép-so'."
+        },
+        {
+            "voice": "en",
+            "text": "Merging into a 'Psi'. Now... how do we put these to work? We just attach the normal greetings we know, right?"
+        },
+        {
+            "voice": "gr",
+            "text": "Exactly. Once you have the stem 'ghráp-'... you just add the endings. 'Tha ghráp-so'... I will write. 'Pré-pi na thou-lép-so'... I must work. The accent mark stays exactly where it was in the present tense."
+        },
+        {
+            "voice": "en",
+            "text": "And finally... the '1-Syllable Rebels'. These are the most common verbs in the language... and they don't follow any rules at all!"
+        },
+        {
+            "voice": "gr",
+            "text": "These are irregular but vital. 'Vlé-po'... to see... shrinks to just 'tho'. 'Lé-o'... to say... becomes 'po'. 'Pée-no'... to drink... becomes 'pyo'. Because they are so short... the stress is forced onto the ending! 'Tha thó'... 'Tha pó'... 'Tha pyo'."
+        },
+        {
+            "voice": "en",
+            "text": "They are tiny but mighty! You have now mastered the 'Cheat Codes' of the Greek language. You can now build any 'Photo' stem you need to. Combining this with 'Na' and 'Tha'... you are now speaking with real Greek logic. Excellent work... and see you in Unit 13... where we meet the Object Pronouns."
+        },
+        {
+            "voice": "gr",
+            "text": "Πολύ καλή δουλειά! Τα λέμε στο επόμενο μάθημα."
         }
     ]
 }

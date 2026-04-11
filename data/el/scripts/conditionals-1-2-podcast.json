@@ -1,6 +1,6 @@
 {
     "id": "conditionals-1-2-grammar",
-    "title": "Unit 21: Conditionals - Grammar Podcast",
+    "title": "Unit 21 Hyper-Exhaustive Masterclass: Conditionals (The 'If' Clauses)",
     "voices": {
         "en": "en-AU-WilliamMultilingualNeural",
         "gr": "el-GR-AthinaNeural"
@@ -8,39 +8,51 @@
     "script": [
         {
             "voice": "en",
-            "text": "Unit 21 introduces Conditionals—the 'If-Then' sentences of Modern Greek. These structures are divided by their level of reality and likelihood. Athina, how do we typically express 'If' in spoken Greek?"
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 21: Conditionals. This unit marks the end of our B1 Intermediate stage. You are about to unlock one of the most powerful structures in any language: 'If... then'. In Greek grammar... we call this balancing the tenses. I'm William... and here with me is Athina. Athina... how do we say 'If' in Greek?"
         },
         {
             "voice": "gr",
-            "text": "Αν, εάν, ή άμα. Το 'άμα' είναι το πιο καθημερινό."
+            "text": "Γεια σας! The most common word is 'An'. But if you are on the street... you will constantly hear 'Á-ma'. And in a very formal book... you might see 'E-án'. They all mean 'If'. To build a sentence... you just have to balance the two halves."
         },
         {
             "voice": "en",
-            "text": "Correct. We categorize conditionals into three types. Type 1 represents real-world possibilities. Athina, please provide an example of a Type 1 conditional."
+            "text": "Let’s start with Type 1: The Real World. This is for facts... plans... or warnings that are very likely to happen. Athina... give us a real scenario."
         },
         {
             "voice": "gr",
-            "text": "Αν βρέχει, δεν θα πάμε. Άμα τελειώσεις νωρίς, πάρε με τηλέφωνο."
+            "text": "Listen to the balance: 'An vré-khei... then tha pá-me pa-ra-lée-a'. If it rains... we will not go to the beach. We use the Present or Future for the 'If' half... and the Future or a Command for the 'Then' half."
         },
         {
             "voice": "en",
-            "text": "Note that 'An' clauses are negated with 'Den'. Type 2 conditionals represent dreams or hypotheticals. These are formed by utilizing the Imperfect past tense on both sides of the comma. Athina?"
+            "text": "And remember a small trap: if you want to say 'If it DOESN'T rain'... you must use 'Den'. Clause starting with 'An' are always negated with our strong friend 'Den'. Now... let's move to Type 2: The Unreal. Dreams... hypotheses... and impossible present situations."
         },
         {
             "voice": "gr",
-            "text": "Αν είχα λεφτά, θα αγόραζα ένα νησί. Θα αγόραζα σημαίνει 'I would buy'."
+            "text": "To create distance from reality... we push both verbs one step backward into the past! We use the Imperfect past on both sides. Listen: 'An eé-kha le-ph-tá... tha a-ghó-ra-za é-na nee-seée'. If I had money... I would buy an island. Notice how 'Tha' plus the past tense magically becomes 'Would'!"
         },
         {
             "voice": "en",
-            "text": "Finally, Type 3 conditionals express regret over past events that cannot be changed. These utilize the Past Perfect tense. However, in casual conversation, Greeks often utilize the Type 2 structure for past regrets. Athina, provide a formal Type 3 example."
+            "text": "A very useful trick! So 'Tha é-pa-k-sa' means 'I would play'. Now... Type 3: The Regret. How do we talk about things that never happened in the past... and it's too late now?"
         },
         {
             "voice": "gr",
-            "text": "Αν είχα διαβάσει, θα είχα περάσει. Αλλά δεν διάβασα."
+            "text": "We push the verbs even further back... into the Pluperfect from Unit 20. 'An eé-kha thia-vá-sei... tha eé-kha pe-rá-sei'. If I had studied... I would have passed. It’s heavy... it’s formal... and it's full of regret."
         },
         {
             "voice": "en",
-            "text": "This concludes our academic review of Unit 21. Developing a mastery of conditional balancing is a critical step towards advanced syntactic proficiency in Modern Greek."
+            "text": "But wait... I hear Greeks taking a shortcut on the street. They don't use that long Pluperfect for regrets... do they?"
+        },
+        {
+            "voice": "gr",
+            "text": "Exactly! In casual conversation... we just use the 'Type 2' structure for the past too. We say 'An er-khó-soun'... If you came... instead of 'An eé-khes éer-thei'... If you had come. The context does the work for us!"
+        },
+        {
+            "voice": "en",
+            "text": "The context is king. You have now completed the exhaustive Masterclass for Unit 21... and with it... the entire B1 Intermediate Stage. You can now express ownership... give commands... use adverbs... handle passive verbs... and navigate complex 'if-then' logic. You have officially reached the threshold of Advanced Greek. Review the travel and life experiences vocabulary to see these conditionals in action. Excellent work... we’ll see you in the Advanced module... Unit 22: Advanced Particles."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Τα καταφέρατε. Ραντεβού στην επόμενη ενότητα."
         }
     ]
 }

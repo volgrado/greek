@@ -1,6 +1,6 @@
 {
     "id": "accusative-case-grammar",
-    "title": "Unit 5: The Accusative Case and Prepositions - Grammar Podcast",
+    "title": "Unit 5 Hyper-Exhaustive Masterclass: The Accusative Case & Basic Prepositions",
     "voices": {
         "en": "en-AU-WilliamMultilingualNeural",
         "gr": "el-GR-AthinaNeural"
@@ -8,39 +8,75 @@
     "script": [
         {
             "voice": "en",
-            "text": "In Unit 5, we explore the Accusative Case, which is the primary tool for identifying the direct object of a sentence. In Modern Greek, when a noun is the recipient of an action, its morphological structure must shift. Athina, please reiterate the transformation rules for each gender."
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 5: The Accusative Case and Basic Prepositions. If you want to actually speak Greek... you must master this case. It is the workhorse of the language. Whenever you want... see... have... or go to something... you are using the Accusative. I'm William... and here with me is Athina. Athina... why do we call this the 'Object Case'?"
         },
         {
             "voice": "gr",
-            "text": "Στα αρσενικά, το άρθρο 'ο' γίνεται 'τον' και χάνουμε το τελικό 'ς'. Στα θηλυκά, το άρθρο 'η' γίνεται 'την'. Τα ουδέτερα παραμένουν ίδια."
+            "text": "Γεια σας! We call it that because the noun is the target... the object... of the action. And just like we saw in Unit 2... when a noun becomes the target... it changes its shape. But not all nouns are the same!"
         },
         {
             "voice": "en",
-            "text": "It is critical to observe the 'Masculine Nu' rule: in formal writing, we always retain the final 'N' in the masculine article 'ton' to distinguish it from the neuter 'to'. Furthermore, we must address the 'Mirror Exception' regarding the verb 'Eimai'. Athina?"
+            "text": "Let’s look at the transformations. Masculine nouns are the most active here. 'O phí-los'... the friend... becomes 'ton phí-lo'. Athina... what happened to the 'S'?"
         },
         {
             "voice": "gr",
-            "text": "Το ρήμα 'είμαι' δεν χρησιμοποιεί αιτιατική. Λέμε 'Είμαι ο Γιώργος', όχι 'τον Γιώργο'."
+            "text": "It vanished! Masculine nouns ALWAYS drop that final 'S' when they are the object. And the article changes from 'o' to 'ton'. Listen: Βλέπω τον Γιώργο. I see George. No 'S' at the end of George!"
         },
         {
             "voice": "en",
-            "text": "Next, we examine the three fundamental prepositions: 'Se', 'Apo', and 'Me'. These prepositions govern the Accusative Case. Pay special attention to 'Se', which frequently merges with the definite article to form a single phonetic unit. Athina, please demonstrate the 'Se' combinations."
+            "text": "And Feminine nouns? They are a bit more secretive."
         },
         {
             "voice": "gr",
-            "text": "Στον, στην, στο. Για παράδειγμα: Πάω στο σινεμά. Πάω στην Αθήνα."
+            "text": "Correct. The noun ending doesn't change at all... only the article! 'Ee phí-lee' becomes 'tee phí-lee'. And Neuter nouns? They are a freebie. 'To vi-vlee-o' stays 'to vi-vlee-o' whether it's the subject OR the object."
         },
         {
             "voice": "en",
-            "text": "Finally, we must master the elision of the feminine 'nu'. This depends entirely on the succeeding phonetic environment. We retain the 'nu' before vowels and hard consonants, while dropping it before soft, continuous sounds. Athina, give us a clear example."
+            "text": "But wait... I've noticed a 'Mirror Exception'. If I say 'I am George'... I'm not doing something TO George. I AM George."
         },
         {
             "voice": "gr",
-            "text": "Λέμε 'Στην πόρτα', αλλά 'Στη θάλασσα'."
+            "text": "Exactly! The verb 'EE-me'... to be... acts like a mirror. It reflects the subject. So we NEVER use the Accusative after 'EE-me'. We say 'Ee-me o Yór-ghos'... NOT 'ton Yór-gho'. Use the dictionary form here."
         },
         {
             "voice": "en",
-            "text": "This concludes our academic overview of Unit 5. A robust understanding of these case transformations and prepositional rules is required for accurate Greek syntax. Proceed to the practice exercises to reinforce these concepts."
+            "text": "Now... let's talk about the 'Big Three' prepositions. These little words force whatever follows them into the Accusative. The first is 'Se'... meaning to... at... in... or on. And in Greek... 'Se' loves to merge with the article. Athina... perform the merge."
+        },
+        {
+            "voice": "gr",
+            "text": "Σε + τον = στον... σε + την = στην... σε + το = στο. Listen: Πάω στο σινεμά... I am going to the cinema. Το κινητό είναι στο τραπέζι... The phone is on the table."
+        },
+        {
+            "voice": "en",
+            "text": "The merge is mandatory in speech. Then we have 'A-pó'... from... and 'Me'... with. These don't merge in writing... but they certainly blend in speech. Athina... show us the 'A-pó' blend."
+        },
+        {
+            "voice": "gr",
+            "text": "Greeks speak fast! When 'A-pó' meets a vowel... we swallow the 'O'. 'A-pó teen A-thée-na' sounds like 'Ap-teen A-thée-na'. It’s a smooth transition."
+        },
+        {
+            "voice": "en",
+            "text": "Now... for the true 'Masterclass' level: The Disappearing 'N'. When do we keep the 'N' in 'teen' or 'steen'... and when do we drop it? This confuses everyone."
+        },
+        {
+            "voice": "gr",
+            "text": "It’s a phonetic rule. We KEEP the 'N' before any vowel... or strong sounds like K, P, T... or double sounds like MB or NT. But! If the next word starts with a soft sound... like 'TH', 'F', or 'V'... we drop the 'N' in both speech and writing! Listen: Στην πόρτα... but... Στη θάλασσα."
+        },
+        {
+            "voice": "en",
+            "text": "Hear the difference? 'Stin porta'... keep the N because 'P' is hard. 'Sti thalassa'... drop it because 'TH' is soft. And when you DO keep the 'N' in front of a hard sound... it creates a blending magic trick. Athina... show us the 'MB', 'ND', and 'NG' sounds."
+        },
+        {
+            "voice": "gr",
+            "text": "When 'N' meets 'P'... it sounds like 'MB'. 'Ton pa-té-ra' sounds like 'tom-ba-té-ra'. When 'N' meets 'T'... it’s 'ND'. 'Ston tre-ló' sounds like 'ston-dre-ló'. It makes the language flow like music."
+        },
+        {
+            "voice": "en",
+            "text": "It really does. You have now completed the exhaustive Masterclass for Unit 5. You can handle the most common case in Greek... you can navigate prepositions... and you know when to drop that elusive 'N'. Review the action verbs to see these objects in action. Excellent work... we’ll see you in Unit 6: Adjectives, Colors and Numbers."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Τα λέμε στο επόμενο μάθημα."
         }
     ]
 }
