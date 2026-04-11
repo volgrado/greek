@@ -1,11 +1,11 @@
 /** 
  * GREEK PWA - Service Worker
  * Optimized for offline use and App Shell architecture.
- * v19 - Cache-First App Shell Stabilization
+ * v20 - Master Shell Fallback Fix (SPA Sub-path support)
  */
 
 const CONFIG = {
-    APP_CACHE_NAME: 'greek-v19',
+    APP_CACHE_NAME: 'greek-v20',
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     DEFAULT_LANG: 'el'
@@ -54,11 +54,8 @@ self.addEventListener('install', (e) => {
     self.skipWaiting();
     e.waitUntil(
         caches.open(CONFIG.APP_CACHE_NAME).then((cache) => {
-            console.log('[SW] Caching static assets...');
-            return cache.addAll(STATIC_ASSETS).catch(err => {
-                console.error('[SW] addAll failed!', err);
-                throw err;
-            });
+            console.log('[SW] Caching static assets v20...');
+            return cache.addAll(STATIC_ASSETS);
         })
     );
 });
@@ -80,34 +77,48 @@ self.addEventListener('activate', (e) => {
 self.addEventListener('fetch', (e) => {
     const url = new URL(e.request.url);
 
-    // 0. App Shell: Absolute Priority
+    // 0. App Shell: SPA Navigation Fallback for ANY sub-path
     if (e.request.mode === 'navigate') {
         e.respondWith((async () => {
             const cache = await caches.open(CONFIG.APP_CACHE_NAME);
             
-            // Try to match the specific request or fall back to /index.html immediately
-            const cachedResponse = await cache.match(e.request, { ignoreSearch: true }) || 
-                                   await cache.match('/index.html', { ignoreSearch: true });
+            // 1. Try exact URL match (e.g. for / or /index.html)
+            let response = await cache.match(e.request, { ignoreSearch: true });
+            
+            // 2. ABSOLUTE GLOBAL FALLBACK: if we are on /lessons/x, we must return the master index.html
+            // We use the full URL to ensure matching succeeds regardless of current path.
+            if (!response) {
+                const shellUrl = new URL('/index.html', self.location.origin).href;
+                response = await cache.match(shellUrl, { ignoreSearch: true });
+            }
 
-            if (cachedResponse) {
-                // If we have a cached shell, return it immediately!
-                // We'll update it in the background for the next time.
+            // 3. Last resort: try just '/'
+            if (!response) {
+                const rootUrl = new URL('/', self.location.origin).href;
+                response = await cache.match(rootUrl, { ignoreSearch: true });
+            }
+
+            if (response) {
+                // Background update the cache for the specific URL being requested
                 fetch(e.request).then(res => {
                     if (res.status === 200) cache.put(e.request, res.clone());
                 }).catch(() => {});
                 
-                return cachedResponse;
+                return response;
             }
 
-            // Fallback to network if not in cache (first load)
+            // If absolutely nothing is in cache, try network and fallback to a string
             return fetch(e.request).catch(() => {
-                return new Response('Offline: App shell not found.', { status: 200, headers: {'Content-Type': 'text/html'} });
+                return new Response('Offline: App shell not found.', { 
+                    status: 200, 
+                    headers: {'Content-Type': 'text/html'} 
+                });
             });
         })());
         return;
     }
 
-    // 1. Static Assets: Cache-First (FOUNDATIONAL)
+    // 1. Static Assets: Cache-First
     const isStatic = STATIC_ASSETS.some(asset => url.pathname === asset || (asset === '/' && url.pathname === '/index.html'));
     if (isStatic) {
         e.respondWith(
@@ -157,7 +168,7 @@ self.addEventListener('fetch', (e) => {
                     return res;
                 }).catch(() => null);
 
-                return cached || network || new Response('Offline', { status: 200 });
+                return cached || network || new Response('Offline Content Non-existent.', { status: 200 });
             })
         );
         return;
