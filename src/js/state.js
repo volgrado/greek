@@ -1,4 +1,5 @@
-// Imports removed for classic script compatibility
+import { getFlatLessons } from './lesson-utils.js';
+import { CONFIG } from './config.js';
 
 class AppState {
     constructor() {
@@ -141,4 +142,4 @@ class AppState {
     }
 }
 
-const state = new AppState();
+export const state = new AppState();

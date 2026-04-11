@@ -9,7 +9,7 @@
  * @param {string} [viewMode] - Optional view mode (grammar, vocabulary, etc.)
  * @returns {Array} List of lesson objects with section and chapter info.
  */
-const getFlatLessons = (structure, viewMode = null) => {
+export const getFlatLessons = (structure, viewMode = null) => {
     if (!structure) return [];
 
     // If viewMode is provided, pick that branch if possible
@@ -36,7 +36,7 @@ const getFlatLessons = (structure, viewMode = null) => {
  * @param {string} lessonId - The ID of the lesson to generate navigation for.
  * @returns {Object} { metaHTML, navHTML, prev, next, current }
  */
-const getLessonNavigation = (flatLessons, lessonId) => {
+export const getLessonNavigation = (flatLessons, lessonId) => {
     const currentIndex = flatLessons.findIndex(l => l.id === lessonId);
     
     if (currentIndex === -1) {
