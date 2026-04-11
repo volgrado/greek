@@ -159,7 +159,7 @@ self.addEventListener('fetch', (e) => {
     
     if (isStatic) {
         e.respondWith(
-            caches.open(CACHE_NAME).then(async (cache) => {
+            caches.open(CONFIG.APP_CACHE_NAME).then(async (cache) => {
                 const cachedResponse = await cache.match(e.request);
                 const networkFetch = fetch(e.request).then((networkResponse) => {
                     cache.put(e.request, networkResponse.clone());
