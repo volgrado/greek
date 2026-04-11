@@ -77,7 +77,7 @@ export const initPWA = () => {
     }
 
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js', { type: 'module' }).then(reg => {
+        navigator.serviceWorker.register('/sw.js').then(reg => {
             // Service Worker registered successfully.
 
             // If there's a waiting SW, let's force it to activate (optional safety, but skipWaiting in SW is better)

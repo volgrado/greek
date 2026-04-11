@@ -1,11 +1,18 @@
-import { getFlatLessons, getLessonNavigation } from './js/lesson-utils.js';
-import { matchLessonPath } from './js/route-utils.js';
-import { CONFIG, I18N } from './js/config.js';
+/** 
+ * GREEK PWA - Service Worker
+ * Optimized for offline use and App Shell architecture.
+ */
 
-/** @type {string} */
-const CACHE_NAME = CONFIG.APP_CACHE_NAME;
-/** @type {string[]} */
-const LESSON_CACHES = Object.keys(I18N).map(lang => `${CONFIG.LESSON_CACHE_PREFIX}${lang}-${CONFIG.LESSON_CACHE_VERSION}`);
+// Inlined config for SW compatibility (Classic Script mode)
+const CONFIG = {
+    APP_CACHE_NAME: 'greek-v12',
+    LESSON_CACHE_PREFIX: 'pwa-lessons-',
+    LESSON_CACHE_VERSION: 'v2',
+    DEFAULT_LANG: 'el'
+};
+
+const I18N_LANGS = ['el'];
+const LESSON_CACHES = I18N_LANGS.map(lang => `${CONFIG.LESSON_CACHE_PREFIX}${lang}-${CONFIG.LESSON_CACHE_VERSION}`);
 
 const STATIC_ASSETS = [
     '/',
@@ -48,7 +55,7 @@ const STATIC_ASSETS = [
 self.addEventListener('install', (e) => {
     self.skipWaiting();
     e.waitUntil(
-        caches.open(CACHE_NAME).then((cache) => cache.addAll(STATIC_ASSETS))
+        caches.open(CONFIG.APP_CACHE_NAME).then((cache) => cache.addAll(STATIC_ASSETS))
     );
 });
 
@@ -59,7 +66,7 @@ self.addEventListener('install', (e) => {
  */
 self.addEventListener('activate', (e) => {
     e.waitUntil(self.clients.claim());
-    const WHITELIST = [CACHE_NAME, 'pwa-fonts-v1', ...LESSON_CACHES];
+    const WHITELIST = [CONFIG.APP_CACHE_NAME, 'pwa-fonts-v1', ...LESSON_CACHES];
     e.waitUntil(
         caches.keys().then((keyList) => {
             return Promise.all(keyList.map((key) => {
@@ -87,7 +94,7 @@ self.addEventListener('fetch', (e) => {
     if (e.request.mode === 'navigate') {
         e.respondWith(
             fetch(e.request).catch(() => {
-                return caches.match('/index.html');
+                return caches.match('/index.html') || caches.match('/');
             })
         );
         return;
@@ -103,7 +110,7 @@ self.addEventListener('fetch', (e) => {
             caches.match(e.request).then(cached => {
                 return cached || fetch(e.request).then(response => {
                     const clone = response.clone();
-                    const cacheName = url.origin.includes('fonts') ? 'pwa-fonts-v1' : CACHE_NAME;
+                    const cacheName = url.origin.includes('fonts') ? 'pwa-fonts-v1' : CONFIG.APP_CACHE_NAME;
                     caches.open(cacheName).then(cache => cache.put(e.request, clone));
                     return response;
                 });
