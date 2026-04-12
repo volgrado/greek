@@ -1,0 +1,66 @@
+{
+    "id": "adjectives-grammar",
+    "title": "Unit 6 Hyper-Exhaustive Masterclass: Adjectives, Colors & Numbers",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 6: Adjectives, Colors and Numbers. In English... adjectives are static. A 'good' boy... a 'good' girl. The word never changes. But in Greek... adjectives are chameleons. They must match their nouns perfectly in Gender... Number... and Case. This is called 'Agreement'. I'm William... and here is Athina. Athina... how does this agreement sound in a real sentence?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! To achieve agreement... the adjective often rhymes with the article and the noun! Listen to the 'os' group: Ο καλός φίλος. The 'ee' group: Η καλή φίλη. And the 'o' group: Το καλό παιδί."
+        },
+        {
+            "voice": "en",
+            "text": "Hear that? 'O ka-lós phí-los'. It's a perfect rhyme. But what happens when we move these into the Object case... the Accusative we learned in Unit 5?"
+        },
+        {
+            "voice": "gr",
+            "text": "They hunt in packs! Just like masculine nouns drop their 'S' when they are the object... the masculine adjective must do the same. 'O ka-lós phí-los' becomes 'ton ka-ló phí-lo'. The 'S' vanishes from both words!"
+        },
+        {
+            "voice": "en",
+            "text": "So they always stay in sync. Now... let's apply this to the world of colors. Colors are just adjectives! Athina... give us the primary colors."
+        },
+        {
+            "voice": "gr",
+            "text": "Κόκκινος... red. Μαύρος... black. Πράσινος... green. These all behave like 'ka-lós'. You would say 'to kók-ki-no mée-lo'... the red apple... using the neuter ending to match the apple."
+        },
+        {
+            "voice": "en",
+            "text": "But wait... there’s a group of 'Rebel Colors' in our lesson. They refuse to change their shape!"
+        },
+        {
+            "voice": "gr",
+            "text": "Yes! Colors borrowed from other languages like 'Mple' for Blue... 'Roz' for Pink... and 'Ka-phé' for Brown. They are invariant. You say 'o mple ou-ra-nós'... 'ee mple thá-las-sa'... 'to mple av-to-kée-nee-to'. They never change!"
+        },
+        {
+            "voice": "en",
+            "text": "If you're feeling lazy... just describe everything as blue! Finally... let’s talk numbers. From one to ten. Athina... take us through them."
+        },
+        {
+            "voice": "gr",
+            "text": "Ένας... Δύο... Τρία... Τέσσερα... Πέντε... Έξι... Εφτά... Οχτώ... Εννέα... Δέκα."
+        },
+        {
+            "voice": "en",
+            "text": "Wait... I recognize that first one. 'É-nas'... 'Mée-a'... 'É-na'. It’s exactly the same as the indefinite articles we learned in Unit 2! It’s 'One man'... 'One woman'... 'One child'."
+        },
+        {
+            "voice": "gr",
+            "text": "Ακριβώς. The number ONE is a chameleon too. It must match the gender of what you are counting. And a little secret: the numbers Three and Four... 'Trée-a' and 'Tés-se-ra'... also have different forms for masculine and feminine... but for now... just learn the basic counting forms."
+        },
+        {
+            "voice": "en",
+            "text": "Focus on 1 to 10 for now. You have now completed the exhaustive Masterclass for Unit 6. You can now describe the world in color... count your change... and ensure your sentences are in perfect agreement. Review the mastery checklist and practice with the colors and numbers vocabulary. Excellent work... we’ll see you in Unit 7: Asking Questions."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Τα λέμε στο επόμενο μάθημα."
+        }
+    ]
+}

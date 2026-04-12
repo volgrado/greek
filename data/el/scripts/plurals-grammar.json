@@ -1,0 +1,74 @@
+{
+    "id": "plurals-grammar",
+    "title": "Unit 8 Hyper-Exhaustive Masterclass: Plural Nouns & Adjectives",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 8: Plural Nouns and Adjectives. You’ve mastered the singular world. Now... it’s time to multiply everything. In English... making a plural is boring... you just add an 'S'. But in Greek... the entire sentence must adapt. I'm William... and here with me is Athina. Athina... how does a Greek person think about 'more than one'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! In Greek... when a noun becomes plural... its Article... its Ending... and even the Adjective describing it must all change shape together. We call it 'The Multiply Rule'. Let's start with the most active group: the Masculine nouns."
+        },
+        {
+            "voice": "en",
+            "text": "Masculine nouns are hyperactive. They have two different sets of endings in the plural... depending on whether they are the Subject or the Object. Athina... show us the 'ee' versus 'oos' split."
+        },
+        {
+            "voice": "gr",
+            "text": "Listen to the rhyme. When they do the action... the article is 'EE' and the ending is 'EE'. 'Ee ka-loée phée-lee'... the good friends. But! When they receive the action... the article is 'TOOS' and the ending is 'OOS'. 'Toos ka-loós phee-loós'. Both are plural... but the sound tells you their role."
+        },
+        {
+            "voice": "en",
+            "text": "So 'ee' for subjects... 'toos' for objects. And wait... there's a group called the 'Extra Syllable' nouns? This sounds like a gym workout."
+        },
+        {
+            "voice": "gr",
+            "text": "It is! Common words like 'ka-phés'... coffee... or 'pa-pás'... priest... bulk up in the plural. They add the extra syllable 'thes'. 'O ka-phés' becomes... 'ee ka-phé-thes'. 'O pa-pás' becomes... 'ee pa-pá-thes'. It’s very rhythmic."
+        },
+        {
+            "voice": "en",
+            "text": "I can hear the rhythm. Now... Feminine nouns. They seem a bit more relaxed about all this."
+        },
+        {
+            "voice": "gr",
+            "text": "Much friendlier. The noun ending '-es' stays exactly the same for both the subject and the object. Only the article flips. 'EE mee-té-res' for the subject... and 'TEES mee-té-res' for the object. But! Watch out for the 'Masked Feminines'."
+        },
+        {
+            "voice": "en",
+            "text": "You mean words like 'ee o-thós'... the street? We learned in Unit 2 that they look masculine."
+        },
+        {
+            "voice": "gr",
+            "text": "Exactly. They keep their mask in the plural too. They take masculine endings... 'ee o-thoée'... 'tees o-thoós'... but they strictly guard their feminine articles. They are masculine on the outside... but feminine in the heart!"
+        },
+        {
+            "voice": "en",
+            "text": "Masterful. And finally... the Neuter nouns. The stable group."
+        },
+        {
+            "voice": "gr",
+            "text": "Neuter plurals always use the article 'TA'. Endings change logically: '-o' becomes '-a'... 'vi-vlee-o' -> 'vi-vlee-a'. '-i' becomes '-ia'... 'pai-thée' -> 'pai-theé-a'. And my favorites... the '-ma' words... they grow into '-ma-ta'. 'Má-thee-ma' -> 'Ma-theée-ma-ta'."
+        },
+        {
+            "voice": "en",
+            "text": "But there's an 'Ultimate Trap' for Neuters, isn't there? The '-os' words like 'lá-thos'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Yes. This is the biggest mistake for students. Neuter words ending in '-os'... like 'to lá-thos'... mistake... or 'to thá-sos'... forest... do NOT use the '-a' ending. They drop the '-os' and add '-ee'. 'Ta lá-thee'... 'Ta thá-see'. Do not confuse them with masculine nouns!"
+        },
+        {
+            "voice": "en",
+            "text": "Got it. Neuter '-os' goes to '-ee'. You have now completed the exhaustive Masterclass for Unit 8. You can pluralize anything... you know the 'thes' gym workout... and you’ve avoided the 'lá-thos' trap. Every part of your sentence is now in full agreement. Review the routines and hobbies vocabulary to see these plurals in action. Excellent work... we’ll see you in Unit 9: The Verb Groups B1 and B2."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Τα λέμε στο επόμενο μάθημα."
+        }
+    ]
+}

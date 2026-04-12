@@ -1,0 +1,74 @@
+{
+    "id": "compound-words-grammar",
+    "title": "Unit 30 Hyper-Exhaustive Masterclass: Compound Words & Prefixation",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 42: Compound Words. Modern Greek is like a Lego set. It loves taking two or three words and snapping them together to create something entirely new. I'm Ava, and I'm joined by Athina. Athina... is it true that a Greek word can be literally as long as a sentence?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! Historically, yes! Ancient Greek had some famous long words. Today, we keep it a bit more practical, but compounding is still our favorite way to create new meanings. We call them 'Sýn-the-tes lé-kse-is'—put-together words."
+        },
+        {
+            "voice": "en",
+            "text": " 'Put-together words'. Let's look at the mechanics. When we combine two words, we often use a 'connecting vowel'. Usually an 'o'. Athina, show us with 'Sea' and 'Wolf'."
+        },
+        {
+            "voice": "gr",
+            "text": "Take 'Thá-las-sa' (sea) and 'Lý-kos' (wolf). We drop the feminine ending of sea, add an 'o', and we get: 'Tha-las-só-ly-kos'. An old sea dog, or a sea wolf! Notice the stress moved to the connecting vowel."
+        },
+        {
+            "voice": "en",
+            "text": "That’s a key point. The stress often shifts in compound words to keep the rhythm. What about describing people? Like a 'Red-head'?"
+        },
+        {
+            "voice": "gr",
+            "text": " 'Kók-ki-no' (red) + 'Ma-lyá' (hair). We get: 'Kok-ki-no-mál-lees'. A red-headed man. Or 'Ga-la-no-má-tees'... a blue-eyed person. 'Ga-la-nó' (light blue) + 'Má-ti' (eye)."
+        },
+        {
+            "voice": "en",
+            "text": "It’s very descriptive. There are also many common prefixes that we use every day. 'Syn-', 'Poly-', 'Gyro-'."
+        },
+        {
+            "voice": "gr",
+            "text": "Yes! 'Syn-' means together. 'Syn-er-ghá-zo-mai'... I work together, I cooperate. 'Po-lý-' means many. 'Po-ly-ka-toi-kée-a'... the apartment blocks you see everywhere in Athens. Literally, 'many-living' places."
+        },
+        {
+            "voice": "en",
+            "text": "And 'Gy-ro-' means around. Like 'Gy-ro-sko-pee-o' for gyroscope, or 'Gy-ró-phi-lou'... around the world? Athina, what about the most famous Greek food?"
+        },
+        {
+            "voice": "gr",
+            "text": " 'Gy-ros'! It means 'turn' or 'circle'. When the meat turns on the spit, it’s doing a 'gý-ros'. It’s not a compound in itself, but it’s the root of so many! 'Gy-rée-zō'... I return."
+        },
+        {
+            "voice": "en",
+            "text": "Pro Tip: If you see a long word that looks scary, try to 'snap' it into two pieces. Usually, the first half is a description and the second half is the core noun. Athina, are there any 'rebel' compound words?"
+        },
+        {
+            "voice": "gr",
+            "text": "Some compounds keep their two stresses! Like 'Pa-i-dó-po-lis'. But mostly, they merge into one single rhythmic unit. It’s what gives Greek its 'flow'."
+        },
+        {
+            "voice": "en",
+            "text": "It’s a language of construction. This concludes Unit 42. You now have the blueprints to build your own Greek vocabulary. Excellent work."
+        },
+        {
+            "voice": "gr",
+            "text": "Μπράβο σας! Συνεχίζουμε δυνατά. Γεια σας!"
+        },
+        {
+            "voice": "en",
+            "text": "Excellent work. We’ll see you in Unit 43."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
+        }
+    ]
+}

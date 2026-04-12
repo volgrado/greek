@@ -1,0 +1,74 @@
+{
+    "id": "nouns-grammar",
+    "title": "Unit 2 Hyper-Exhaustive Masterclass: The Basics of Nouns & Articles",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 2: The Basics of Nouns and Articles. In English... a car is always a car. It doesn't care if it's the subject or the object. But in Greek... nouns are alive. They change their shape... they have genders... and they insist on matching their articles perfectly. Athina... where do we start with these 'living' nouns?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! We start with the 'ID card'. Every Greek noun belongs to one of three categories: Masculine, Feminine, or Neuter. But listen carefully... grammatical gender has nothing to do with being male or female. For example... the word for girl... 'kor-ée-tsi'... and the word for boy... 'a-ghó-ri'... are BOTH grammatically neuter!"
+        },
+        {
+            "voice": "en",
+            "text": "That's a huge point. Don't look for logic... look for endings! Athina... what are the typical 'ending signals' for each gender?"
+        },
+        {
+            "voice": "gr",
+            "text": "For Masculine... look for '-os', '-as', or '-ees'. Like 'o phí-los'. For Feminine... look for '-a' or '-ee'. Like 'ee a-ghá-pee'. And for Neuter... look for '-o', '-ee', or '-ma'. Like 'to spée-ti' or 'to má-thee-ma'."
+        },
+        {
+            "voice": "en",
+            "text": "But wait... I see a 'Warning' in our lesson about the '-os' ending. It's usually masculine... but not always?"
+        },
+        {
+            "voice": "gr",
+            "text": "Correct. This is why you MUST learn the article first! Some '-os' words are feminine... like 'ee o-thós', the street. And some are neuter... like 'to lá-thos', the mistake. The article 'o', 'ee', or 'to' is your only true guide."
+        },
+        {
+            "voice": "en",
+            "text": "So... the 'Golden Rule' is: Never learn a noun without its article. Now... what if we want to say 'a' or 'an'... the indefinite article?"
+        },
+        {
+            "voice": "gr",
+            "text": "We have three of those too! 'É-nas' for masculine... 'mee-a' for feminine... and 'é-na' for neuter. But here is a native secret: if you see 'mee-a' written as one syllable... 'mya'... it's just a quick 'a'. If it's written as 'mee-a' with an accent... you are emphasizing the number ONE."
+        },
+        {
+            "voice": "en",
+            "text": "Fascinating. Now... let's talk about the 'Shape-Shifting'. The Cases. A noun changes when it moves from being the Subject... to being the Object. In the 'Nominative Case'... the dictionary form... everything is normal. But what happens in the 'Accusative Case', when the noun is the target of the action?"
+        },
+        {
+            "voice": "gr",
+            "text": "This is where masculine nouns are very active! 'O pa-té-ras'... the father... drops his final 'S' and his article becomes 'ton'. It becomes... 'ton pa-té-ra'. Feminine nouns are shy... the noun stays the same... but the article changes from 'ee' to 'teen'. And Neuter nouns? They are perfectly static. They don't change at all!"
+        },
+        {
+            "voice": "en",
+            "text": "So... 'to pai-thée' stays 'to pai-thée'. But there's a rule about that 'N' in 'teen', isn't there?"
+        },
+        {
+            "voice": "gr",
+            "text": "Yes! The 'Disappearing Nu'. We keep the 'N' in 'teen' only if the next word starts with a vowel or a hard sound like K, P, or T. Otherwise... we drop it. We say 'tee thef-té-ra'... but... 'teen á-nee-ksee'."
+        },
+        {
+            "voice": "en",
+            "text": "One more 'Masterclass' secret before we go. In English... we just say 'Maria is here'. But in Greek... that's illegal! You MUST use the article for names. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Ακριβώς! We say 'EE Ma-ré-a ee-nai e-thó'. 'The Maria is here'. Or... 'O Yór-ghos'. 'The George'. We even use articles for abstract ideas like 'fear'... 'O phó-vos'."
+        },
+        {
+            "voice": "en",
+            "text": "So... in Greek... everything needs a handle... an article to carry it. You've now completed the exhaustive dive into Unit 2. You understand gender... you can transform subjects into objects... and you know why Maria is 'The Maria'. Review the family and people vocabulary to practice these rules. Excellent work... and we will see you in Unit 3: Being and Having."
+        },
+        {
+            "voice": "gr",
+            "text": "Πολύ καλή δουλειά! Τα λέμε στο επόμενο μάθημα."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "verbs-grammar",
+    "title": "Unit 4 Hyper-Exhaustive Masterclass: Regular Verbs & Negation (Type A)",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 4: Regular Verbs and Negation. You’ve learned how to describe the world with nouns and adjectives. Now... it’s time to make things happen. Verbs are the engine of every Greek sentence. They don't just tell you the action... they tell you exactly WHO is doing it and WHEN. I'm William, and with me is Athina. Athina... how is a Greek verb built?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! Think of a Greek verb as a puzzle with two pieces: the stem... and the ending. Take the verb 'to play': παίζω. 'Paíz-' is the stem... it carries the meaning. And '-o' is the ending... it tells you the person and the time."
+        },
+        {
+            "voice": "en",
+            "text": "In a dictionary... almost every verb ends in '-o'. That means 'I' am doing the action right now. But before we conjugate... we have to pick our team. Greek verbs play for three different 'teams' or conjugations. Athina... how do we identify 'Type A' verbs... our focus for today?"
+        },
+        {
+            "voice": "gr",
+            "text": "It’s all about the accent mark. For Type A verbs... the accent falls on the stem... anywhere BEFORE the final '-o'. Listen: παίζω... κάνω... γράφω. If the accent is on the very last letter... like 'a-gha-pó'... that’s a different team entirely."
+        },
+        {
+            "voice": "en",
+            "text": "So Type A verbs have 'Stress-Free Stress'. The accent mark stays stubbornly on the stem and NEVER moves in the present tense. This makes them very predictable. Athina... let’s conjugate the verb 'thi-a-vá-zo'... to read or study. Please conjugate it slowly for our listeners."
+        },
+        {
+            "voice": "gr",
+            "text": "Εγώ διαβάζω... Εσύ διαβάζεις... Αυτός διαβάζει. Εμείς διαβάζουμε... Εσείς διαβάζετε... Αυτοί διαβάζουν. Ή... διαβάζουνε."
+        },
+        {
+            "voice": "en",
+            "text": "Wait... I heard that extra 'e' at the end of the last one. 'Thi-a-vá-zun-e'. Is that a mistake?"
+        },
+        {
+            "voice": "gr",
+            "text": "Not at all! In spoken Greek... we often add that extra 'e' to the 3rd person plural. It makes the sentence flow more smoothly. 'Thi-a-vá-zun' and 'Thi-a-vá-zun-e' are both perfect."
+        },
+        {
+            "voice": "en",
+            "text": "It’s just an optional 'relaxed' ending. Now... let's learn how to say 'No'. This is a common trap for beginners. In English... we need helper words like 'do not'. In Greek... we just have one word: 'Den'. Athina... how do we use it?"
+        },
+        {
+            "voice": "gr",
+            "text": "Just drop 'Den' right before the verb. Παίζω... I play. Δεν παίζω... I don't play. It is that simple. But! Do not confuse 'Den' with 'O-khi'. 'O-khi' is the answer to a question. 'Den' is for the action."
+        },
+        {
+            "voice": "en",
+            "text": "So if someone asks... 'Do you play?'... you answer 'O-khi'... and then follow up with 'Den paí-zo'. But there is one last 'Masterclass' secret about 'Den'. The 'vowel crash'. What happens when 'Den' meets a hard consonant?"
+        },
+        {
+            "voice": "gr",
+            "text": "This is a phonetic magic trick. When the 'N' of 'Den' crashes into letters like P, T, or K... they blend to create a B, D, or G sound. Listen carefully: 'Den pi-rá-zi' sounds like 'dem-bi-rrá-zi'. 'Den kksé-ro' sounds like 'den-gzé-ro'. It’s an automatic reflex for native speakers."
+        },
+        {
+            "voice": "en",
+            "text": "It’s like the 'N' prepares your mouth for the next letter. 'Dem-birazi'. Practice saying that to sound truly native. You have now mastered the basics of the Greek engine... the Type A verbs. You can conjugate... you can negate... and you can blend sounds like a pro. Review the vocabulary list for action verbs to see these rules in play. Excellent work... we’ll see you in Unit 5: The Accusative Case."
+        },
+        {
+            "voice": "gr",
+            "text": "Πολύ καλά! Τα λέμε στο επόμενο μάθημα."
+        }
+    ]
+}
