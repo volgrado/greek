@@ -1,38 +1,92 @@
 {
     "id": "adverbs-grammar",
-    "title": "Unit 17 Hyper-Exhaustive Masterclass: Adverbs & Expressions of Manner",
+    "title": "Unit 17 Learn Greek Grammar Masterclass: Adverbs & Expressions of Manner",
+    "curriculum_id": "unit-17-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Unit 17 addresses Adverbs—the frozen constituents of Modern Greek. Unlike adjectives, adverbs are morphological constants and do not require agreement. Athina, how can we transform a standard adjective into an adverb?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 17: Adverbs. In Unit 6... we learned adjectives. They describe 'Who'. Today... we learn adverbs. They describe 'How'. 'Quickly'... 'Slowly'... 'Well'. I'm William... and here with me is Athina. Athina... how do we build an adverb?"
         },
         {
             "voice": "gr",
-            "text": "Αλλάζουμε την κατάληξη σε άλφα. Καλός – καλά. Γρήγορος – γρήγορα."
+            "text": "Γεια σας!"
         },
         {
-            "voice": "en",
-            "text": "Correct. This transformation is highly common for adverbs of manner. Additionally, we must categorize adverbs by their function: place, time, and quantity. Athina, please provide examples for location and chronology."
-        },
-        {
-            "voice": "gr",
-            "text": "Εδώ, εκεί. Σήμερα, αύριο, χθες. Και πάντα το 'ποτέ'."
-        },
-        {
-            "voice": "en",
-            "text": "Precisely. However, we must distinguish between 'Póte'—meaning 'When'—and 'Poté'—meaning 'Never'. Chronological accuracy depends entirely on correct accentual stress. Furthermore, consider the double negative construction."
+            "voice": "gr_en",
+            "text": "It is the easiest rule in Greek! Just take the adjective and change the ending to an 'a'."
         },
         {
             "voice": "gr",
-            "text": "Δεν πίνω ποτέ. Δεν θέλω καθόλου. Χρησιμοποιούμε δύο αρνήσεις."
+            "text": "Καλός – καλά. Γρήγορος – γρήγορα. Ωραία."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Well... quickly... beautifully. They never change! Adverbs are indeclinable. They are the same for everyone."
         },
         {
             "voice": "en",
-            "text": "Correct. Double negatives are standard in Greek syntax. Lastly, adverbs of quantity—such as 'Polý' and 'Lígo'—must be used consistently to qualify verbal intensity. This concludes our academic overview of Unit 17. Mastery of these frozen forms provides essential syntactic anchors for Modern Greek."
+            "text": "And don't forget the adverbs of time and place. The bricks of conversation."
+        },
+        {
+            "voice": "gr",
+            "text": "Εδώ, εκεί. Σήμερα, αύριο, χθες."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Here, there. Today, tomorrow, yesterday."
+        },
+        {
+            "voice": "en",
+            "text": "Now... we have a very important stress test. Athina, explain the difference between 'when' and 'never'."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Listen closely to the accent."
+        },
+        {
+            "voice": "gr",
+            "text": "Πότε;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "With the stress at the start... means 'When?'. But..."
+        },
+        {
+            "voice": "gr",
+            "text": "Ποτέ."
+        },
+        {
+            "voice": "gr_en",
+            "text": "With the stress at the end... means 'Never'."
+        },
+        {
+            "voice": "en",
+            "text": "One little accent mark changes a question into a lifetime commitment! And speaking of 'never'... Greek uses double negatives, right?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes! In English, you say 'I don't drink anything'. In Greek, we say 'I don't drink nothing'!"
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν πίνω ποτέ. Δεν θέλω καθόλου."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I don't drink never. I don't want not at all. Two negatives make a very strong Greek 'No'!"
+        },
+        {
+            "voice": "en",
+            "text": "Double the negative... double the power! This unit has provided you with essential syntactic anchors. You now have the 'How', the 'When', and the 'Where'. Excellent work... we'll see you in the next unit."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
         }
     ]
 }

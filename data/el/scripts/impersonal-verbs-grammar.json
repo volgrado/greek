@@ -1,74 +1,192 @@
 {
     "id": "impersonal-verbs-grammar",
-    "title": "Unit 27 Hyper-Exhaustive Masterclass: Impersonal Verbs & Expressions",
+    "title": "Unit 27 Learn Greek Grammar Masterclass: Impersonal Verbs & Expressions",
+    "curriculum_id": "unit-27-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 38: Impersonal Verbs. These are the verbs of 'It'. In English, we say 'It rains' or 'It seems'. In Greek, these verbs are powerful because they set the mood for the whole sentence. I'm Ava, and I'm joined by Athina. Athina... why do these verbs only have one single form?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 27: Impersonal Verbs. These are the verbs of 'It'. In English, we say 'It rains' or 'It seems'. In Greek, these verbs are powerful because they set the mood for the whole sentence. I'm William, and I'm joined by Athina. Athina... why do these verbs only have one single form?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! These are 'A-pró-sō-pa rhée-ma-ta'. Impersonal. They don't have a person (I, you, he) because the 'Subject' is the situation itself, or the action that follows. They are always in the third person singular."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "These are"
+        },
+        {
+            "voice": "gr",
+            "text": "Απρόσωπα ρήματα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Impersonal. They don't have a person (I, you, he) because the 'Subject' is the situation itself, or the action that follows. They are always in the third person singular."
         },
         {
             "voice": "en",
-            "text": "Let's start with the king of all impersonal verbs. 'Prée-pei'. Must."
+            "text": "Let's start with the king of all impersonal verbs."
         },
         {
             "voice": "gr",
-            "text": "Exactly. 'Prée-pei na fý-ghou-me'... it must that we leave. You don't say 'I must', 'You must' in the verb itself. 'Prée-pei' stays static, and 'Na fý-ghou-me' tells us who is doing the leaving."
+            "text": "Πρέπει."
         },
         {
             "voice": "en",
-            "text": "It’s very efficient. 'Prée-pei na'... followed by the subjunctive. What about 'Chrei-á-ze-tai'?"
+            "text": "Must."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly."
         },
         {
             "voice": "gr",
-            "text": " 'Khrei-á-ze-tai' means 'It is needed'. 'Khrei-á-ze-tai pe-ris-só-te-ros khró-nos'... more time is needed. It’s passive in form but impersonal in usage."
+            "text": "Πρέπει να φύγουμε..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "it must that we leave. You don't say 'I must', 'You must' in the verb itself."
+        },
+        {
+            "voice": "gr",
+            "text": "Πρέπει"
+        },
+        {
+            "voice": "gr_en",
+            "text": "stays static, and"
+        },
+        {
+            "voice": "gr",
+            "text": "Να φύγουμε"
+        },
+        {
+            "voice": "gr_en",
+            "text": "tells us who is doing the leaving."
+        },
+        {
+            "voice": "en",
+            "text": "It’s very efficient."
+        },
+        {
+            "voice": "gr",
+            "text": "Πρέπει να..."
+        },
+        {
+            "voice": "en",
+            "text": "followed by the subjunctive. What about"
+        },
+        {
+            "voice": "gr",
+            "text": "Χρειάζεται;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "It means 'It is needed'."
+        },
+        {
+            "voice": "gr",
+            "text": "Χρειάζεται περισσότερος χρόνος..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "more time is needed. It’s passive in form but impersonal in usage."
         },
         {
             "voice": "en",
             "text": "Now, let's look at the weather. In English, we use 'It'. In Greek, the verb just stands alone."
         },
         {
-            "voice": "gr",
-            "text": "Yes! 'Vré-khei'... it rains. 'Khio-née-zei'... it snows. 'Phi-sá-ei'... it blows (it's windy). You don't need a subject. The action is the subject."
-        },
-        {
-            "voice": "en",
-            "text": "What about 'Fai-ne-tai' and 'Ghée-ne-tai'?"
+            "voice": "gr_en",
+            "text": "Yes!"
         },
         {
             "voice": "gr",
-            "text": " 'Faí-ne-tai' means 'It seems'. 'Faí-ne-tai ó-ti tha vré-khei'... it seems that it will rain. 'Ghée-ne-tai' means 'It is possible' or 'It can happen'. 'Dhen ghée-ne-tai!'... it’s impossible!"
+            "text": "Βρέχει... Χιονίζει... Φυσάει."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It rains. It snows. It blows (it's windy). You don't need a subject. The action is the subject."
         },
         {
             "voice": "en",
-            "text": "Pro Tip: Impersonal verbs often act as 'anchors' for the rest of the sentence. They introduce a possibility, a necessity, or a state. Athina, are there any that use the Genitive pronoun?"
+            "text": "What about"
         },
         {
             "voice": "gr",
-            "text": "Yes! 'Mou a-rée-sei'. It pleases to me. In English, we say 'I like it', but in Greek, it’s impersonal: 'It is pleasing to me'. 'Sou a-rée-sei o ka-fés?'... is the coffee pleasing to you?"
+            "text": "Φαίνεται"
         },
         {
             "voice": "en",
-            "text": "It’s a different perspective on reality. Instead of being the actor, you are the person the 'pleasing' is happening to. This concludes Unit 38. Master these anchors, and you'll navigate Greek sentences with ease."
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Γίνεται;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "The first means 'It seems'."
+        },
+        {
+            "voice": "gr",
+            "text": "Φαίνεται ότι θα βρέξει..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "it seems that it will rain."
+        },
+        {
+            "voice": "gr",
+            "text": "Γίνεται"
+        },
+        {
+            "voice": "gr_en",
+            "text": "means 'It is possible' or 'It can happen'."
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν γίνεται!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "it’s impossible!"
+        },
+        {
+            "voice": "en",
+            "text": "Pro Tip: Impersonal verbs often act as 'anchors' for the rest of the sentence. Athina, are there any that use the Genitive pronoun?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes!"
+        },
+        {
+            "voice": "gr",
+            "text": "Μου αρέσει."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It pleases to me. In English, we say 'I like it', but in Greek, it’s impersonal: 'It is pleasing to me'."
+        },
+        {
+            "voice": "gr",
+            "text": "Σου αρέσει ο καφές;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is the coffee pleasing to you?"
+        },
+        {
+            "voice": "en",
+            "text": "It’s a different perspective on reality. This concludes Unit 27. Master these anchors, and you'll navigate Greek sentences with ease."
         },
         {
             "voice": "gr",
             "text": "Μπράβο! Σιγά σιγά όλα γίνονται. Γεια σας!"
-        },
-        {
-            "voice": "en",
-            "text": "Excellent work. We’ll see you in Unit 39."
-        },
-        {
-            "voice": "gr",
-            "text": "Γεια σας!"
         }
     ]
 }

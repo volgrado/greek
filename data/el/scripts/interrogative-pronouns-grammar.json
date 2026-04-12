@@ -1,66 +1,212 @@
 {
     "id": "interrogative-pronouns-grammar",
-    "title": "Unit 7 Hyper-Exhaustive Masterclass: Asking Questions",
+    "title": "Unit 7 Learn Greek Grammar Masterclass: Interrogative Pronouns and Adverbs",
+    "curriculum_id": "unit-7-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 7: Asking Questions. You now have the nouns... the verbs... and the adjectives. The final step in your A1 foundation is learning how to ask for what you want. I'm William... and here with me is Athina. Athina... what is the very first rule of asking a question in Greek?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 7: Interrogative Pronouns and Adverbs. To have a real conversation... you need to be able to ask questions. Who... What... Where... Why... and When. In Greek... some of these are simple... and one of them is a shape-shifter that confuses every student. I'm William... and here with me is Athina. Athina... what are the 'Big Five' question words?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! The first rule is visual. In Greek... we never use the English question mark. Instead... our question mark looks exactly like an English semicolon! If you see a dot over a comma... like this... ; ... it means a question is being asked. Listen: Τι κάνεις;... How are you?"
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Let’s start with the static ones. These never change their shape."
+        },
+        {
+            "voice": "gr",
+            "text": "Πού..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for Where."
+        },
+        {
+            "voice": "gr",
+            "text": "Πότε..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for When."
+        },
+        {
+            "voice": "gr",
+            "text": "Πώς..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for How."
+        },
+        {
+            "voice": "gr",
+            "text": "Γιατί..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for Why. And remember..."
+        },
+        {
+            "voice": "gr",
+            "text": "Γιατί"
+        },
+        {
+            "voice": "gr_en",
+            "text": "also means 'Because'! You use the same word for the question and the answer."
         },
         {
             "voice": "en",
-            "text": "It’s a bit of a brain-teaser at first. Now... let’s look at the 'W' words. We have two groups: the 'Fixed' words and the 'Chameleons'. Athina... give us the five solid blocks that never change."
+            "text": "That's convenient. Question:"
         },
         {
             "voice": "gr",
-            "text": "Τι... What. Πού... Where. Πότε... When. Πώς... How. And Γιατί... Why. These five words are steady. They remain the same no matter what you are asking about."
+            "text": "Γιατί;"
         },
         {
             "voice": "en",
-            "text": "But wait... I noticed in Unit 1 we learned that 1-syllable words don't get accent marks. So why do 'Poó' and 'Pos' have them? Is that a 'Secret'?"
+            "text": "Answer:"
         },
         {
             "voice": "gr",
-            "text": "Yes! It’s a secret to avoid confusion. 'Poó' with an accent means 'Where'. 'Pou' without an accent means 'who' or 'which'. Same for 'Pos'. The accent is there to tell you: 'I am a question!'."
+            "text": "Γιατί..."
         },
         {
             "voice": "en",
-            "text": "It’s a visual signal. Now... let’s meet the 'Chameleons'. These words must match the gender... number... and case of the person or thing you are hunting for. The biggest one is 'Pyos'... Who or Which. Athina?"
+            "text": "something something. Now... let’s talk about the tricky ones. 'Who' and 'What'."
+        },
+        {
+            "voice": "gr_en",
+            "text": "This is the shape-shifter."
         },
         {
             "voice": "gr",
-            "text": "Exactly. 'Pyos' is for a man... 'Py-a' for a woman... 'Py-o' for a child. And if you are asking 'WHOM' do you see... the object of the action... it becomes 'Pyon'. Listen: Ποιον βλέπεις;... Whom do you see? It drops the 'S' and adds an 'N'... just like the nouns in Unit 5."
+            "text": "Ποιος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It means 'Who'... but it also means 'Which'. And because it’s an interrogative pronoun... it MUST agree with the gender of the person you are asking about."
+        },
+        {
+            "voice": "gr",
+            "text": "Ποιος..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for a man."
+        },
+        {
+            "voice": "gr",
+            "text": "Ποια..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for a woman."
+        },
+        {
+            "voice": "gr",
+            "text": "Ποιο..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for a thing."
         },
         {
             "voice": "en",
-            "text": "It follows the Accusative rules. And the same goes for 'How much'... 'Pó-sos'. 'Pó-so ká-neí'... How much does it cost? Or 'Pó-sa pai-theé-a'... How many children? Now... let’s talk rules. In English... we often end a question with a preposition. 'Where are you from?'. Can we do that in Greek?"
+            "text": "So if I see a woman in the distance and want to ask 'Who is she?'... I must use"
         },
         {
             "voice": "gr",
-            "text": "NEVER! In Greek... the preposition must always come strictly FIRST. You cannot say 'Where are you from'. You must say 'From where are you'. Από πού είσαι;... Me pyon mee-lás;... With whom are you speaking?"
+            "text": "Ποια;"
+        },
+        {
+            "voice": "gr",
+            "text": "Ακριβώς!"
+        },
+        {
+            "voice": "gr",
+            "text": "Ποια είναι αυτή;"
         },
         {
             "voice": "en",
-            "text": "Preposition first... always. And what about Yes or No questions? In English... we flip the order. 'He is'... becomes... 'Is he?'. In Greek?"
+            "text": "But wait... there’s a shortcut. I've heard Greeks say"
         },
         {
             "voice": "gr",
-            "text": "We don’t flip anything! The word order stays exactly the same. You simply raise the pitch of your voice on the very last word. 'O Yór-ghos ee-nai e-thó'... is a statement. 'O Yór-ghos ee-nai e-thó;'... is a question. Only your voice changes."
+            "text": "Τι."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes!"
+        },
+        {
+            "voice": "gr",
+            "text": "Τι"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is the universal 'What'. It never changes gender. You can use it for almost anything."
+        },
+        {
+            "voice": "gr",
+            "text": "Τι κάνεις;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "... 'What are you doing?'."
+        },
+        {
+            "voice": "gr",
+            "text": "Τι είναι αυτό;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "... 'What is this?'."
         },
         {
             "voice": "en",
-            "text": "It’s all in the intonation. Congratulations! You have now completed the exhaustive Masterclass for Unit 7... and with it... your entire A1 Grammar Foundation. You can read... conjugate... describe... and ask anything. Review the question words vocabulary and take a moment to celebrate this milestone. Excellent work... we’ll see you in the next module... Unit 8: Plural Nouns and Adjectives."
+            "text": "So"
         },
         {
             "voice": "gr",
-            "text": "Συγχαρητήρια! Είστε πλέον έτοιμοι για το επίπεδο Α2. Γεια σας!"
+            "text": "Τι"
+        },
+        {
+            "voice": "en",
+            "text": "is your best friend when you’re in a hurry. Now... one last 'Masterclass' secret about 'Who'. What happens in the Accusative case?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "It follows the noun rules! If you are asking 'Whom' do you see... the"
+        },
+        {
+            "voice": "gr",
+            "text": "ς"
+        },
+        {
+            "voice": "gr_en",
+            "text": "drops and we add an"
+        },
+        {
+            "voice": "gr",
+            "text": "ν."
+        },
+        {
+            "voice": "gr",
+            "text": "Ποιον βλέπεις;"
+        },
+        {
+            "voice": "en",
+            "text": "It’s perfectly consistent with everything we learned in Unit 5. This has been a short but essential unit. You can now navigate the world... ask for directions... find people... and understand the 'Why' behind it all. Practice these five words tonight. Excellent work... we’ll see you in Unit 8: Possession and the Genitive Case."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
         }
     ]
 }

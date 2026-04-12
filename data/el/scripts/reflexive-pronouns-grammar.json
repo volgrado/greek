@@ -1,26 +1,60 @@
 {
     "id": "reflexive-pronouns-grammar",
-    "title": "Unit 24 Hyper-Exhaustive Masterclass: Reflexive Pronouns (Myself)",
+    "title": "Unit 24 Learn Greek Grammar Masterclass: Reflexive Pronouns (Myself, Yourself)",
+    "curriculum_id": "unit-24-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 37: Reflexive Pronouns. In English, we say 'myself', 'yourself', 'himself'. In Greek, we have one core word to do all that work. I'm Ava, and I'm joined by Athina. Athina... who is this mysterious character we use for reflexive actions?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 24: Reflexive Pronouns. In English, we say 'myself', 'yourself', 'himself'. In Greek, we have one core word to do all that work. I'm William, and I'm joined by Athina. Athina... who is this mysterious character we use for reflexive actions?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! His name is 'O e-af-tós mou'. Literally... 'The self of mine'. We treat our 'self' like a separate masculine noun that we own."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "His name is"
+        },
+        {
+            "voice": "gr",
+            "text": "Ο εαυτός μου."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Literally... 'The self of mine'. We treat our 'self' like a separate masculine noun that we own."
         },
         {
             "voice": "en",
-            "text": " 'The self of mine'. That’s actualy very deep. So instead of just a pronoun, it’s a noun-phrase. How do we say 'I see myself'?"
+            "text": " 'The self of mine'. That’s actually very deep. So instead of just a pronoun, it’s a noun-phrase. How do we say 'I see myself'?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "We use"
         },
         {
             "voice": "gr",
-            "text": "We use 'Vlé-pō' (I see) + the Object form of 'E-af-tós'. 'Vlé-pō ton e-af-tó mou'. 'Ton e-af-tó' is the Accusative form because it’s the object of the seeing."
+            "text": "Βλέπω"
+        },
+        {
+            "voice": "gr_en",
+            "text": "+ the Object form of"
+        },
+        {
+            "voice": "gr",
+            "text": "Εαυτός."
+        },
+        {
+            "voice": "gr",
+            "text": "Βλέπω τον εαυτό μου."
+        },
+        {
+            "voice": "gr_en",
+            "text": "is the Accusative form because it’s the object of the seeing."
         },
         {
             "voice": "en",
@@ -28,39 +62,91 @@
         },
         {
             "voice": "gr",
-            "text": " 'Prée-pei na fron-tée-zeis ton e-af-tó sou'. Notice that only the possessive pronoun at the end changes to 'sou' (yours). The word 'E-af-tós' stays the same for everyone."
+            "text": "Πρέπει να φροντίζεις τον εαυτό σου."
         },
         {
-            "voice": "en",
-            "text": "So it’s 'ton e-af-tó mou', 'sou', 'tou'... 'mas', 'sas', 'tous'. It’s very consistent. But Athina, what happens if the 'Self' is the one doing the possession? Like 'My self's problem'?"
+            "voice": "gr_en",
+            "text": "Notice that only the possessive pronoun at the end changes to"
         },
         {
             "voice": "gr",
-            "text": "Then we put 'E-af-tós' in the Genitive! 'To pró-vlee-ma tou e-af-toú mou'. The problem of my self. It sounds a bit formal, but it’s perfectly correct."
+            "text": "σου."
+        },
+        {
+            "voice": "gr_en",
+            "text": "The word"
+        },
+        {
+            "voice": "gr",
+            "text": "Εαυτός"
+        },
+        {
+            "voice": "gr_en",
+            "text": "stays the same for everyone."
+        },
+        {
+            "voice": "en",
+            "text": "So it’s"
+        },
+        {
+            "voice": "gr",
+            "text": "τον εαυτό μου, σου, του... μας, σας, τους."
+        },
+        {
+            "voice": "en",
+            "text": "It’s very consistent. But Athina, what happens if the 'Self' is the one doing the possession? Like 'My self's problem'?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Then we put"
+        },
+        {
+            "voice": "gr",
+            "text": "Εαυτός"
+        },
+        {
+            "voice": "gr_en",
+            "text": "in the Genitive!"
+        },
+        {
+            "voice": "gr",
+            "text": "Το πρόβλημα του εαυτού μου."
+        },
+        {
+            "voice": "gr_en",
+            "text": "The problem of my self. It sounds a bit formal, but it’s perfectly correct."
         },
         {
             "voice": "en",
             "text": "Now... pro tip: We often use reflexive pronouns with verbs that don't have a deponent or passive form to mean 'doing it to oneself'. Instead of a passive verb, we use Active + Reflexive."
         },
         {
+            "voice": "gr_en",
+            "text": "Correct."
+        },
+        {
             "voice": "gr",
-            "text": "Correct. 'Ka-ta-la-vaí-nō ton e-af-tó mou'... I understand myself. You wouldn't use a passive form there. It’s the most direct way to express self-reflection."
+            "text": "Καταλαβαίνω τον εαυτό μου..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I understand myself. You wouldn't use a passive form there. It’s the most direct way to express self-reflection."
         },
         {
             "voice": "en",
-            "text": "It’s like having a mirror in your grammar. This concludes Unit 37. You now know how to talk about the most important person in your life: yourself!"
+            "text": "It’s like having a mirror in your grammar. This concludes Unit 24. You now know how to talk about the most important person in your life: yourself!"
         },
         {
             "voice": "gr",
-            "text": "Αγαπάτε τον εαυτό σας! Love yourselves! Τα λέμε στο εóμενο μάθημα. Γεια σας!"
+            "text": "Αγαπάτε τον εαυτό σας!"
         },
         {
-            "voice": "en",
-            "text": "Excellent work. We’ll see you in Unit 38."
+            "voice": "gr_en",
+            "text": "Love yourselves!"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας!"
+            "text": "Τα λέμε στο επόμενο μάθημα. Γεια σας!"
         }
     ]
 }

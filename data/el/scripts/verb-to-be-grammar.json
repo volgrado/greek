@@ -1,18 +1,40 @@
 {
     "id": "verb-to-be-grammar",
-    "title": "Unit 3 Hyper-Exhaustive Masterclass: Being & Having",
+    "title": "Unit 3 Learn Greek Grammar Masterclass: Being and Having",
+    "curriculum_id": "unit-3-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 3: Being and Having. To build real sentences in Greek... you need verbs. And if you only ever learn two verbs... they should be 'EE-me' for 'To Be'... and 'É-kho' for 'To Have'. They are the keys to a thousand conversations. Athina... where do we start with these building blocks?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 3: Being and Having. To build real sentences in Greek... you need verbs. And if you only ever learn two verbs... they should be"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! Before we meet the verbs... we must meet the actors. The Personal Pronouns. This is how we say 'I'... 'You'... 'He'... and so on. Let's learn them clearly."
+            "text": "Είμαι"
+        },
+        {
+            "voice": "en",
+            "text": "for 'To Be'... and"
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω"
+        },
+        {
+            "voice": "en",
+            "text": "for 'To Have'. They are the keys to a thousand conversations. Athina... where do we start with these building blocks?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Before we meet the verbs... we must meet the actors. The Personal Pronouns. This is how we say 'I'... 'You'... 'He'... and so on. Let's learn them clearly."
         },
         {
             "voice": "en",
@@ -20,67 +42,279 @@
         },
         {
             "voice": "gr",
-            "text": "Εγώ (e-ghó) for I. Εσύ (e-sí) for you. Αυτός, Αυτή, Αυτό (af-tós, af-tí, af-tó) for He... She... and It."
+            "text": "Εγώ..."
         },
         {
-            "voice": "en",
-            "text": "I noticed that 'af-tós' and his friends share the same endings as the nouns we learned in Unit 2... 'os', 'ee', 'o'. It’s all very consistent. Now... what about the groups? The 'We'... the 'You all'... and 'They'?"
+            "voice": "gr_en",
+            "text": "for I."
         },
         {
             "voice": "gr",
-            "text": "Listen to the rhyme: Εμείς (e-mís) for we. Εσείς (e-sís) for you. And for they... we have Αυτοί, Αυτές, Αυτά (af-tí, af-tés, af-tá). If 'e-mís' and 'e-sís' sound confusing... just remember they rhyming perfectly."
+            "text": "Εσύ..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for you."
+        },
+        {
+            "voice": "gr",
+            "text": "Αυτός, Αυτή, Αυτό..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for He... She... and It."
+        },
+        {
+            "voice": "en",
+            "text": "I noticed that"
+        },
+        {
+            "voice": "gr",
+            "text": "Αυτός"
+        },
+        {
+            "voice": "en",
+            "text": "and his friends share the same endings as the nouns we learned in Unit 2..."
+        },
+        {
+            "voice": "gr",
+            "text": "-ος, -η, -ο."
+        },
+        {
+            "voice": "en",
+            "text": "It’s all very consistent. Now... what about the groups? The 'We'... the 'You all'... and 'They'?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Listen to the rhyme:"
+        },
+        {
+            "voice": "gr",
+            "text": "Εμείς..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for we."
+        },
+        {
+            "voice": "gr",
+            "text": "Εσείς..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for you. And for they... we have"
+        },
+        {
+            "voice": "gr",
+            "text": "Αυτοί, Αυτές, Αυτά."
+        },
+        {
+            "voice": "gr_en",
+            "text": "If those sound confusing... just remember they rhyme perfectly."
         },
         {
             "voice": "en",
             "text": "Now... this next point is one of the biggest 'Masterclass' tips. The 'Pro-Drop' rule. In English... we HAVE to say 'I' am a student. But in Greek? Athina?"
         },
         {
+            "voice": "gr_en",
+            "text": "In Greek... we drop the pronoun 90% of the time! You don't need"
+        },
+        {
             "voice": "gr",
-            "text": "In Greek... we drop the pronoun 90% of the time! You don't need 'e-ghó' because the ending of the verb already tells everyone it is YOU. If you say 'e-ghó eée-me'... you are being very emphatic... like saying... 'I specifically am the one'. Normally... just say 'eée-me e-thó'... 'I am here'."
+            "text": "εγώ"
+        },
+        {
+            "voice": "gr_en",
+            "text": "because the ending of the verb already tells everyone it is YOU. If you say"
+        },
+        {
+            "voice": "gr",
+            "text": "εγώ είμαι..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "you are being very emphatic... like saying... 'I specifically am the one'. Normally... just say"
+        },
+        {
+            "voice": "gr",
+            "text": "είμαι εδώ..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "'I am here'."
         },
         {
             "voice": "en",
-            "text": "Drop the pronouns to sound like a native. Got it. Now... let's conjugate our two champions. First: 'EE-me'... to be. This is used for identity... location... and states of being. Athina... take it away."
+            "text": "Drop the pronouns to sound like a native. Got it. Now... let's conjugate our two champions. First:"
         },
         {
             "voice": "gr",
-            "text": "Είμαι (eée-me)... Είσαι (eée-se)... Είναι (eée-ne). Είμαστε (eée-mas-te)... Είστε (eée-ste)... Είναι (eée-ne)."
+            "text": "Είμαι..."
         },
         {
             "voice": "en",
-            "text": "Wait... 'eée-ne' was both 'he is' AND 'they are'? That's a 'Caution' in our lesson."
+            "text": "to be. This is used for identity... location... and states of being. Athina... take it away."
         },
         {
             "voice": "gr",
-            "text": "Yes! 'Είναι' handles both. You will always know which one it is because of the context... and because of the nouns that follow it. Don't worry... it becomes natural very fast."
+            "text": "Είμαι... Είσαι... Είναι."
+        },
+        {
+            "voice": "gr",
+            "text": "Είμαστε... Είστε... Είναι."
         },
         {
             "voice": "en",
-            "text": "And now... 'É-kho'... to have. Possession... age... family. This one is very regular but has a 'street' secret."
+            "text": "Wait..."
         },
         {
             "voice": "gr",
-            "text": "Έχω... έχεις... έχει. Έχουμε... έχετε... έχουν. But in the street... we often add an extra 'e' sound to 'é-khoun'. It becomes... 'é-khou-ne'. Both are correct... but 'é-khou-ne' is more relaxed."
+            "text": "Είναι"
         },
         {
             "voice": "en",
-            "text": "Try to use 'é-khou-ne' when you're talking with friends. Now... what about the 'Respect' system? In English, 'You' is always 'You'. But in Greek... if I'm talking to my boss... or a stranger?"
+            "text": "was both 'he is' AND 'they are'? That's a 'Caution' in our lesson."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes!"
         },
         {
             "voice": "gr",
-            "text": "Never use 'e-sí'! Use the plural form 'e-sís' and the plural verb 'ée-ste' or 'é-khe-te'. Even if you are only talking to ONE person. It’s like 'Usted' in Spanish or 'Vous' in French. It shows respect and distance."
+            "text": "Είναι"
+        },
+        {
+            "voice": "gr_en",
+            "text": "handles both. You will always know which one it is because of the context... and because of the nouns that follow it. Don't worry... it becomes natural very fast."
+        },
+        {
+            "voice": "en",
+            "text": "And now..."
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω..."
+        },
+        {
+            "voice": "en",
+            "text": "to have. Possession... age... family. This one is very regular but has a 'street' secret."
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω... έχεις... έχει. Έχουμε... έχετε... έχουν."
+        },
+        {
+            "voice": "gr_en",
+            "text": "But in the street... we often add an extra 'e' sound to "
+        },
+        {
+            "voice": "gr",
+            "text": "έχουν."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "έχουνε."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Both are correct... but"
+        },
+        {
+            "voice": "gr",
+            "text": "έχουνε"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is more relaxed."
+        },
+        {
+            "voice": "en",
+            "text": "Try to use"
+        },
+        {
+            "voice": "gr",
+            "text": "έχουνε"
+        },
+        {
+            "voice": "en",
+            "text": "when you're talking with friends. Now... what about the 'Respect' system? In English, 'You' is always 'You'. But in Greek... if I'm talking to my boss... or a stranger?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Never use"
+        },
+        {
+            "voice": "gr",
+            "text": "εσύ!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Use the plural form"
+        },
+        {
+            "voice": "gr",
+            "text": "εσείς"
+        },
+        {
+            "voice": "gr_en",
+            "text": "and the plural verb"
+        },
+        {
+            "voice": "gr",
+            "text": "είστε"
+        },
+        {
+            "voice": "gr_en",
+            "text": "or"
+        },
+        {
+            "voice": "gr",
+            "text": "έχετε."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Even if you are only talking to ONE person. It’s like 'Usted' in Spanish or 'Vous' in French. It shows respect and distance."
         },
         {
             "voice": "en",
             "text": "And finally... asking a question. How do we turn 'You have the book' into 'Do you have the book?'"
         },
         {
+            "voice": "gr_en",
+            "text": "No helper words! No 'Do' or 'Does'. Just raise your voice at the end."
+        },
+        {
             "voice": "gr",
-            "text": "No helper words! No 'Do' or 'Does'. Just raise your voice at the end. 'É-kheis to vi-vlee-o'... becomes... 'É-kheis to vi-vlee-o;'. And remember... write it with a semicolon!"
+            "text": "Έχεις το βιβλίο..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "Έχεις το βιβλίο;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "And remember... write it with a semicolon!"
         },
         {
             "voice": "en",
-            "text": "You have successfully completed the exhaustive Unit 3 Masterclass. You now have the verbs to say who you are... what you have... and how to treat a stranger with respect. Review the everyday objects and places vocabulary to test your 'É-kho' skills. Excellent work... we’ll see you in Unit 4: The Engine Room of Greek Verbs."
+            "text": "You have successfully completed the Learn Greek Grammar Masterclass for Unit 3. You now have the verbs to say who you are... what you have... and how to treat a stranger with respect. Review the everyday objects and places vocabulary to test your"
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω"
+        },
+        {
+            "voice": "en",
+            "text": "skills. Excellent work... we’ll see you in Unit 4: The Engine Room of Greek Verbs."
         },
         {
             "voice": "gr",

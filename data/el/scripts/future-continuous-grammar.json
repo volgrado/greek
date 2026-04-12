@@ -1,62 +1,236 @@
 {
     "id": "future-continuous-grammar",
-    "title": "Unit 11 Hyper-Exhaustive Masterclass: Future Tenses (Θα) & Aspect",
+    "title": "Unit 11 Learn Greek Grammar Masterclass: Future Tenses (Θα) and Aspect",
+    "curriculum_id": "unit-11-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 11: Future Tenses and Aspect. In Unit 10, we learned the magic of 'Aspect'... that choice between the Video and the Photo. Now... we are going to apply that exact same logic to the future. I'm William... and here with me is Athina. Athina... how do we say 'will' in Greek?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 11: Future Tenses and Aspect. In Unit 10, we learned the magic of 'Aspect'... that choice between the Video and the Photo. Now... we are going to apply that exact same logic to the future. I'm William... and here with me is Athina. Athina... how do we say 'will' in Greek?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! In Greek, the future is incredibly simple. We use one tiny magic word: 'Tha'. Just put it right in front of your verb. 'Tha paí-zo'... 'I will play'."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "In Greek, the future is incredibly simple. We use one tiny magic word:"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Just put it right in front of your verb."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα παίζω... Θα τραγουδάω."
         },
         {
             "voice": "en",
             "text": "No new endings to learn... just a prefix. But... remember the 'Pronoun Sandwich' rule. If you want to say 'I will do IT'... you have to sandwich the pronoun between 'Tha' and the verb. Right, Athina?"
         },
         {
-            "voice": "gr",
-            "text": "Correct. 'Tha TO ká-no'. 'Tha SOU TO thó-so'... I will give it to you. The 'Tha' loves to stay close to the verb, but the short pronouns are the only things allowed to jump in the middle."
-        },
-        {
-            "voice": "en",
-            "text": "A little pronoun filling! Now... let’s look at our two lenses again. 'Tha paí-zo'... and 'Tha paí-xo'. Athina... which is which?"
+            "voice": "gr_en",
+            "text": "Correct."
         },
         {
             "voice": "gr",
-            "text": "Listen to the difference: 'Tha thi-a-vá-zo kár-the mé-ra'... I will be reading every day... that is a habit, a 'Video'. But... 'Tha thi-a-vá-so to vi-vleé-o áv-ri-o'... I will read the book tomorrow... just once. That is a snapshot, a 'Photo'."
+            "text": "Θα το κάνω. Θα σου το δώσω..."
         },
         {
-            "voice": "en",
-            "text": "And just like with 'Na'... 90% of your daily conversation will use that 'Photo' lens... the Simple Future. But beware the 'Augment Trap'! We haven't learned the Past yet... but many students mistakenly add an 'e' sound to the future. Is that allowed?"
-        },
-        {
-            "voice": "gr",
-            "text": "NEVER! The 'e-' sound... the augment... is strictly for the past. If you say 'Tha é-ghrap-sa'... it sounds completely wrong. It must be... 'Tha ghráp-so'. Strip away the 'e'!"
-        },
-        {
-            "voice": "en",
-            "text": "Got it. No 'e' in the future. Now... negation. In Unit 10, we learned that 'Na' uses 'Meen'. Does 'Tha' also use 'Meen'?"
+            "voice": "gr_en",
+            "text": "I will give it to you. The"
         },
         {
             "voice": "gr",
-            "text": "No! 'Tha' is a regular statement about the future, so it stays with our old friend 'Den'. 'Den tha paí-xo'. 'Den tha sou to thó-so'."
+            "text": "Θα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "loves to stay close to the verb, but the short pronouns are the only things allowed to jump in the middle."
         },
         {
             "voice": "en",
-            "text": "Final masterclass secret: The Probability Trick. Greeks love to use 'Tha' even when we aren't talking about the future! Athina?"
+            "text": "A little pronoun filling! Now... let’s look at our two lenses again."
         },
         {
             "voice": "gr",
-            "text": "Yes! We use 'Tha' to mean 'must be' or 'probably'. If someone knocks on the door, we say: 'Tha eé-nai o Yór-ghos'. It must be George! Or if someone is late: 'Tha é-phee-ghan'. They probably left."
+            "text": "Θα παίζω"
         },
         {
             "voice": "en",
-            "text": "So 'Tha' is the future... AND the guess. You’ve now mastered the Future tense and reinforced the power of Aspect. You can now plan... promise... and suppose. Excellent work... and see you in Unit 12... where we finally learn how to build those Simple stems."
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα παίξω."
+        },
+        {
+            "voice": "en",
+            "text": "Athina... which is which?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Listen to the difference:"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα διαβάζω κάθε μέρα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I will be reading every day... that is a habit, a 'Video'. But..."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα διαβάσω το βιβλίο αύριο..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I will read the book tomorrow... just once. That is a snapshot, a 'Photo'."
+        },
+        {
+            "voice": "en",
+            "text": "And just like with"
+        },
+        {
+            "voice": "gr",
+            "text": "Να..."
+        },
+        {
+            "voice": "en",
+            "text": "90% of your daily conversation will use that 'Photo' lens... the Simple Future. But beware the 'Augment Trap'! We haven't learned the Past yet... but many students mistakenly add an 'e' sound to the future. Is that allowed?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "NEVER! The 'e-' sound... the augment... is strictly for the past. If you say..."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα έγραψα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "it sounds completely wrong. It must be..."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα γράψω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Strip away the 'e'!"
+        },
+        {
+            "voice": "en",
+            "text": "Got it. No 'e' in the future. Now... negation. In Unit 10, we learned that"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "en",
+            "text": "uses"
+        },
+        {
+            "voice": "gr",
+            "text": "Μην."
+        },
+        {
+            "voice": "en",
+            "text": "Does"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "en",
+            "text": "also use"
+        },
+        {
+            "voice": "gr",
+            "text": "Μην?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "No!"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is a regular statement about the future, so it stays with our old friend"
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν."
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν θα παίξω. Δεν θα σου το δώσω."
+        },
+        {
+            "voice": "en",
+            "text": "Final masterclass secret: The Probability Trick. Greeks love to use"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "en",
+            "text": "even when we aren't talking about the future! Athina?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes! We use"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "to mean 'must be' or 'probably'. If someone knocks on the door, we say:"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα είναι ο Γιώργος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It must be George! Or if someone is late:"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα έφυγαν."
+        },
+        {
+            "voice": "gr_en",
+            "text": "They probably left."
+        },
+        {
+            "voice": "en",
+            "text": "So"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "en",
+            "text": "is the future... AND the guess. You’ve now mastered the Future tense and reinforced the power of Aspect. You can now plan... promise... and suppose. Excellent work... and see you in Unit 12... where we finally learn how to build those Simple stems."
         },
         {
             "voice": "gr",

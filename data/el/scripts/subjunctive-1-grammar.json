@@ -1,54 +1,312 @@
 {
     "id": "subjunctive-1-grammar",
-    "title": "Unit 10 Hyper-Exhaustive Masterclass: Verbal Aspect & The Subjunctive (Να)",
+    "title": "Unit 10 Learn Greek Grammar Masterclass: Verbal Aspect and The Subjunctive (Να)",
+    "curriculum_id": "unit-10-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 10: Verbal Aspect and The Subjunctive. This is what we call 'The Great Divide'. To move from basic A1 to real A2 fluency... you must master the concept of 'Aspect'. In English... we care about 'When'. In Greek... we care about 'How'. I'm William... and here with me is Athina. Athina... explain the 'Video vs. Photo' concept."
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 10: Verbal Aspect and The Subjunctive. This is what we call 'The Great Divide'. To move from basic A1 to real A2 fluency... you must master the concept of 'Aspect'. In English... we care about 'When'. In Greek... we care about 'How'. I'm William... and here with me is Athina. Athina... explain the 'Video vs. Photo' concept."
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! To think like a Greek... you must choose between two lenses for every action. Either you are watching a 'Video'... which is the Continuous Aspect... or you are taking a 'Photo'... which is the Simple Aspect."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "To think like a Greek... you must choose between two lenses for every action. Either you are watching a 'Video'... which is the Continuous Aspect... or you are taking a 'Photo'... which is the Simple Aspect."
         },
         {
             "voice": "en",
             "text": "A 'Video' is for habits... routines... or things happening right now. Like 'I play every day'. But a 'Photo' is a single snapshot. A completed event. Like 'I want to play once'. And because of this... almost every verb in Greek has TWO different faces. Two stems. Athina?"
         },
         {
-            "voice": "gr",
-            "text": "Correct. You already know the 'Continuous' stem... like 'paíz-'. In the next unit... we will learn the 'Simple' stem... like 'paíx-'. But first... we need to learn the magic word 'NA' that brings these stems to life."
-        },
-        {
-            "voice": "en",
-            "text": "Greek has no infinitive. You cannot say 'I want to go'. You must say 'I want THAT I go'. 'Thé-lo na páo'. Athina... when do we use this 'Na' particle?"
+            "voice": "gr_en",
+            "text": "Correct. You already know the 'Continuous' stem... like"
         },
         {
             "voice": "gr",
-            "text": "Always after verbs of desire... ability... or necessity. After 'Thé-lo'... I want. After 'Mpo-ró'... I can. And after 'Pré-pi'... I must. We also use 'Na' to give commands or make wishes... like 'Na pro-sé-kheis!'... Take care!"
+            "text": "παίζ-."
         },
         {
-            "voice": "en",
-            "text": "So 'Na' is the bridge. And we have a bonus magic word... 'As'. Like 'As pá-me!'... 'Let's go!'... or 'As phée-ghi'... 'Let him go'. But Athina... both 'Na' and 'As' share an unbreakable rule about saying 'No'. What is it?"
-        },
-        {
-            "voice": "gr",
-            "text": "This is the 'Golden Rule' of negation. Never use 'Den' with 'Na' or 'As'. We have a special negative partner called 'Meen'. 'Thé-lo na MEEN ér-thei'... I want him NOT to come. 'As MEEN mee-leée-sou-me'... Let's NOT talk. 'Den' is for regular statements... 'Meen' is for 'Na' and 'As'."
-        },
-        {
-            "voice": "en",
-            "text": "Partner 'Meen' for 'Na'. Now... let's bring it all together. Since 'Na' is followed by a verb... you must choose your lens. The Video or the Photo. Athina... what is the secret of the 90% rule?"
+            "voice": "gr_en",
+            "text": "In the next unit... we will learn the 'Simple' stem... like"
         },
         {
             "voice": "gr",
-            "text": "The secret is that 90% of the time... in the Subjunctive... you will use the 'Photo' lens! If you say 'Thé-lo na paée-zo'... it sounds like you want to be playing forever as a continuous habit. But if you say 'Thé-lo na paée-kso'... you want to play a specific game right now. Usually... we want specific things!"
+            "text": "παίξ-."
+        },
+        {
+            "voice": "gr_en",
+            "text": "But first... we need to learn the magic word 'NA' that brings these stems to life."
+        },
+        {
+            "voice": "gr",
+            "text": "Να."
         },
         {
             "voice": "en",
-            "text": "So... the Simple Stem is the king of the Subjunctive. You have now completed the exhaustive Masterclass for Unit 10. You’ve crossed the Great Divide... you understand the Video and the Photo lenses... and you can link verbs with 'Na' and negate them with 'Meen'. Review the food and restaurant vocabulary to see these rules in a real setting. Excellent work... we’ll see you in Unit 11: Future Tenses."
+            "text": "Greek has no infinitive. You cannot say 'I want to go'. You must say 'I want THAT I go'."
+        },
+        {
+            "voice": "gr",
+            "text": "Θέλω να πάω."
+        },
+        {
+            "voice": "en",
+            "text": "Athina... when do we use this"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "en",
+            "text": "particle?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Always after verbs of desire... ability... or necessity. After"
+        },
+        {
+            "voice": "gr",
+            "text": "θέλω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I want. After"
+        },
+        {
+            "voice": "gr",
+            "text": "μπορώ..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I can. And after"
+        },
+        {
+            "voice": "gr",
+            "text": "πρέπει..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I must. We also use"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "gr_en",
+            "text": "to give commands or make wishes... like:"
+        },
+        {
+            "voice": "gr",
+            "text": "Να προσέχεις!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Take care!"
+        },
+        {
+            "voice": "en",
+            "text": "So"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "en",
+            "text": "is the bridge. And we have a bonus magic word..."
+        },
+        {
+            "voice": "gr",
+            "text": "Ας."
+        },
+        {
+            "voice": "en",
+            "text": "Like"
+        },
+        {
+            "voice": "gr",
+            "text": "Ας πάμε!"
+        },
+        {
+            "voice": "en",
+            "text": "... 'Let's go!'... or"
+        },
+        {
+            "voice": "gr",
+            "text": "Ας φύγει..."
+        },
+        {
+            "voice": "en",
+            "text": "... 'Let him go'. But Athina... both"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Ας"
+        },
+        {
+            "voice": "en",
+            "text": "share an unbreakable rule about saying 'No'. What is it?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "This is the 'Golden Rule' of negation. Never use"
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν"
+        },
+        {
+            "voice": "gr_en",
+            "text": "with"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "gr_en",
+            "text": "or"
+        },
+        {
+            "voice": "gr",
+            "text": "Ας."
+        },
+        {
+            "voice": "gr_en",
+            "text": "We have a special negative partner called"
+        },
+        {
+            "voice": "gr",
+            "text": "Μην."
+        },
+        {
+            "voice": "gr",
+            "text": "Θέλω να μην έρθει..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I want him NOT to come."
+        },
+        {
+            "voice": "gr",
+            "text": "Ας μην μιλήσουμε..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Let's NOT talk."
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is for regular statements..."
+        },
+        {
+            "voice": "gr",
+            "text": "Μην"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is for"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "gr_en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Ας."
+        },
+        {
+            "voice": "en",
+            "text": "Partner"
+        },
+        {
+            "voice": "gr",
+            "text": "Μην"
+        },
+        {
+            "voice": "en",
+            "text": "for"
+        },
+        {
+            "voice": "gr",
+            "text": "Να."
+        },
+        {
+            "voice": "en",
+            "text": "Now... let's bring it all together. Since"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "en",
+            "text": "is followed by a verb... you must choose your lens. The Video or the Photo. Athina... what is the secret of the 90% rule?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "The secret is that 90% of the time... in the Subjunctive... you will use the 'Photo' lens! If you say"
+        },
+        {
+            "voice": "gr",
+            "text": "θέλω να παίζω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "it sounds like you want to be playing forever as a continuous habit. But if you say"
+        },
+        {
+            "voice": "gr",
+            "text": "θέλω να παίξω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "you want to play a specific game right now. Usually... we want specific things!"
+        },
+        {
+            "voice": "en",
+            "text": "So... the Simple Stem is the king of the Subjunctive. You have now completed the exhaustive Masterclass for Unit 10. You’ve crossed the Great Divide... you understand the Video and the Photo lenses... and you can link verbs with"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "en",
+            "text": "and negate them with"
+        },
+        {
+            "voice": "gr",
+            "text": "Μην."
+        },
+        {
+            "voice": "en",
+            "text": "Review the food and restaurant vocabulary to see these rules in a real setting. Excellent work... we’ll see you in Unit 11: Future Tenses."
         },
         {
             "voice": "gr",

@@ -1,47 +1,60 @@
 import subprocess
 import os
 from pathlib import Path
-
-# The files we just expanded (all short files under 2MB)
-TARGET_SCRIPTS = [
-    "adjective-comparison-podcast.json", # Unit 25
-    "deponent-verbs-podcast.json",       # Unit 26
-    "conditionals-1-2-podcast.json",     # Unit 31
-    "irregular-words-podcast.json",      # Unit 33
-    "diminutives-podcast.json",           # Unit 34
-    "participles-podcast.json",          # Unit 35
-    "particles-podcast.json",            # Unit 36
-    "reflexive-pronouns-podcast.json",   # Unit 37
-    "impersonal-verbs-podcast.json",     # Unit 38
-    "relative-pronouns-podcast.json",    # Unit 39
-    "genitive-absolute-podcast.json",    # Unit 40
-    "compound-words-podcast.json",       # Unit 42
-    "ancient-remnants-podcast.json",     # Unit 43
-    "idioms-podcast.json"                # Unit 47
-]
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 SCRIPTS_DIR = Path("data/el/scripts")
 GEN_SCRIPT = Path("scripts/generate_grammar_audio.py")
 
-def batch_generate():
-    for script_name in TARGET_SCRIPTS:
-        script_path = SCRIPTS_DIR / script_name
-        if not script_path.exists():
-            print(f"Warning: {script_name} not found. Skipping.")
-            continue
-            
-        print(f"\n" + "="*50)
-        print(f"BATCH GENERATING: {script_name}")
-        print("="*50 + "\n")
+def generate_single_script(script_path):
+    print(f"[{script_path.name}] Starting generation...")
+    try:
+        # Run the generation script
+        subprocess.run(["python", str(GEN_SCRIPT), str(script_path)], check=True, capture_output=True, text=True)
+        print(f"[{script_path.name}] SUCCESS: Audio generated.")
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"[{script_path.name}] ERROR: Generation failed.\nSTDOUT: {e.stdout}\nSTDERR: {e.stderr}")
+        return False
+    except Exception as e:
+        print(f"[{script_path.name}] ANOMALY: {e}")
+        return False
+
+def batch_generate_parallel(max_workers=2):
+    # Find all 33 grammar scripts
+    target_scripts = list(SCRIPTS_DIR.glob("*-grammar.json"))
+    
+    if not target_scripts:
+        print("No script files found matching *-grammar.json!")
+        return
+
+    print(f"Found {len(target_scripts)} scripts. Starting parallel generation with {max_workers} workers...\n")
+
+    # Use ThreadPoolExecutor to run generations concurrently
+    success_count = 0
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        # Submit all tasks
+        future_to_script = {executor.submit(generate_single_script, script): script for script in target_scripts}
         
-        try:
-            # Run the generation script
-            subprocess.run(["python", str(GEN_SCRIPT), str(script_path)], check=True)
-            print(f"SUCCESS: {script_name} completed.")
-        except subprocess.CalledProcessError as e:
-            print(f"ERROR: Generation failed for {script_name}: {e}")
-        except Exception as e:
-            print(f"ANOMALY: {e}")
+        # As they complete, process results
+        for future in as_completed(future_to_script):
+            script = future_to_script[future]
+            try:
+                success = future.result()
+                if success:
+                    success_count += 1
+            except Exception as exc:
+                print(f"[{script.name}] generated an exception: {exc}")
+                
+    print(f"\nBatch generation complete! Successfully generated {success_count} / {len(target_scripts)} podcasts.")
 
 if __name__ == "__main__":
-    batch_generate()
+    # Ensure stdout/stderr are UTF-8 in terminal
+    import sys
+    import io
+    if sys.stdout.encoding != 'utf-8':
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    if sys.stderr.encoding != 'utf-8':
+        sys.stderr = io.TextIOWrapper(sys.stderr.buffer, encoding='utf-8')
+        
+    batch_generate_parallel(max_workers=10)

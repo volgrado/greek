@@ -1,66 +1,104 @@
 {
     "id": "genitive-absolute-grammar",
-    "title": "Unit 32 Hyper-Exhaustive Masterclass: Participles in the Genitive Absolute (Γενική Απόλυτη)",
+    "title": "Unit 32 Learn Greek Grammar Masterclass: Participles in the Genitive Absolute (Γενική Απόλυτη)",
+    "curriculum_id": "unit-32-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 40: The Genitive Absolute. This is high-level territory. In earlier units, we learned the Genitive for possession. But today, we use it to build sophisticated, independent clauses. I'm Ava, and I'm joined by Athina. Athina... why does this structure sound so 'literary'?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 32: The Genitive Absolute. This is high-level territory. In earlier units, we learned the Genitive for possession. But today, we use it to build sophisticated, independent clauses. I'm William, and I'm joined by Athina. Athina... why does this structure sound so 'literary'?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! The 'Genitive Absolute' is a gift from our Ancient Greek heritage. It’s a way to describe a background action that is 'independent' from the main sentence. It makes your Greek sound mature and academic."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "The 'Genitive Absolute' is a gift from our Ancient Greek heritage. It’s a way to describe a background action that is 'independent' from the main sentence. It makes your Greek sound mature and academic."
         },
         {
             "voice": "en",
-            "text": "Academic and mature... exactly what we want at Unit 40. The formula is: a Participle in the Genitive + a Noun or Pronoun in the Genitive. Athina, show us how it works with a simple scene. 'When the sun had risen...'"
+            "text": "Academic and mature... exactly what we want at this level. The formula is: a Participle in the Genitive plus a Noun or Pronoun in the Genitive. Athina, show us how it works with a simple scene. 'When the sun had risen...'"
+        },
+        {
+            "voice": "gr_en",
+            "text": "In standard Greek, you might say"
         },
         {
             "voice": "gr",
-            "text": "In standard Greek, you might say 'Ó-tan a-né-tei-le o ée-li-os'. But in the Genitive Absolute, we say: 'Tou ee-lí-ou a-na-tei-lán-tos'. Both the sun (ee-lí-ou) and the having-risen (a-na-tei-lán-tos) are in the Genitive."
+            "text": "Όταν ανέτειλε ο ήλιος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "But in the Genitive Absolute, we say:"
+        },
+        {
+            "voice": "gr",
+            "text": "Του ηλίου ανατείλαντος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Both the sun and the 'having-risen' are in the Genitive."
         },
         {
             "voice": "en",
-            "text": " 'Tou ee-lí-ou a-na-tei-lán-tos'. It’s like saying 'The sun having risen...'. It sets the stage for the rest of the sentence. What happens after that?"
+            "text": "It’s like saying 'The sun having risen...'. It sets the stage for the rest of the sentence. What happens after that?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Then you say the main action."
         },
         {
             "voice": "gr",
-            "text": "Then you say the main action. 'Tou ee-lí-ou a-na-tei-lán-tos... fí-gha-me'. The sun having risen... we left. Notice that 'we' (fí-gha-me) has nothing to do with the sun grammatically. The sun is 'Absolute'—it stands alone."
+            "text": "Του ηλίου ανατείλαντος... φύγαμε."
+        },
+        {
+            "voice": "gr_en",
+            "text": "The sun having risen... we left. Notice that 'we' has nothing to do with the sun grammatically. The sun is 'Absolute'—it stands alone."
         },
         {
             "voice": "en",
-            "text": "That’s why it’s called 'Absolute'. It’s an independent background event. Athina, do we use this in daily conversation?"
+            "text": "That’s why it’s called 'Absolute'. Athina, do we use this in daily conversation?"
         },
         {
-            "voice": "gr",
-            "text": "Not really! If you say this at the supermarket, people might look at you like you are a poet from the 19th century. But in news reports, formal speeches, or literature... it is everywhere. It’s very elegant."
+            "voice": "gr_en",
+            "text": "Not really! If you say this at the supermarket, people might look at you like you are a poet from the 19th century. But in news reports... formal speeches... or literature... it is everywhere."
         },
         {
             "voice": "en",
-            "text": "Pro Tip: Think of it as a 'Time Marker'. It tells the listener 'While this was happening' or 'After this happened'. It saves you from using 'Ó-tan' or 'E-pō-dé' over and over again. Athina, are there common phrases that use this?"
+            "text": "Pro Tip: Think of it as a 'Time Marker'. It tells the listener 'While this was happening' or 'After this happened'. Athina, are there common phrases that use this?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes! We use it for things like 'God willing'."
         },
         {
             "voice": "gr",
-            "text": "Yes! 'Dou-theí-sēs ef-kai-rée-as'... opportunity having been given. 'Ka-vōs eí-pa-me'... as we said. Actually, 'vle-pón-tas kai ká-non-tas' is a similar structure but in the active. The Genitive version is the 'Master' level of this logic."
+            "text": "Θεού θέλοντος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Or 'Time permitting'."
+        },
+        {
+            "voice": "gr",
+            "text": "Καιρού επιτρέποντος."
         },
         {
             "voice": "en",
             "text": "It’s about control over the language’s cadence. If you can use a Genitive Absolute correctly, you have officially reached the elite level of Greek syntax."
         },
         {
-            "voice": "gr",
+            "voice": "gr_en",
             "text": "Exactly. Don't let the endings scare you. It’s just Genitive meeting Genitive to tell a story."
         },
         {
-            "voice": "en",
-            "text": "Excellent work. This concludes our review of Unit 40. You are now writing like the masters. We’ll see you in Unit 41."
-        },
-        {
             "voice": "gr",
-            "text": "Γεια σας!"
+            "text": "Μπράβο σας! Τα λέμε στο επόμενο μάθημα. Γεια σας!"
         }
     ]
 }

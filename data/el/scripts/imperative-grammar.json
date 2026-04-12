@@ -1,38 +1,100 @@
 {
     "id": "imperative-grammar",
-    "title": "Unit 16 Hyper-Exhaustive Masterclass: The Imperative Mood (Giving Orders)",
+    "title": "Unit 16 Learn Greek Grammar Masterclass: The Imperative Mood (Commands)",
+    "curriculum_id": "unit-16-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Unit 16 explores the Imperative Mood, utilize for issuing directives, academic advice, or specific instructions in Modern Greek. This mood is restricted to the second person, singular and plural. Athina, how does Verbal Aspect influence our choice of command?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 16: The Imperative Mood. This is how we give orders... make requests... and offer advice. In Greek... just like the future and the subjunctive... the Imperative is dominated by Aspect. Continuous orders... or Simple orders. I'm William... and here with me is Athina. Athina... why does a Greek command feel so different?"
         },
         {
             "voice": "gr",
-            "text": "Πρέπει να διαλέξουμε ανάμεσα στη φωτογραφία και το βίντεο. Γράψε μια φορά, ή γράφε συνέχεια."
+            "text": "Γεια σας!"
         },
         {
-            "voice": "en",
-            "text": "Indeed. Simple commands utilize the perfective stem, while continuous commands employ the present stem. We must also consider the 'Big Six' irregular commands which are highly frequent in conversational Greek. Athina, please state these imperatives."
-        },
-        {
-            "voice": "gr",
-            "text": "Πες, Δες, Βρες, Πιες, Έλα, Πήγαινε. Αυτά είναι τα πιο κοινά."
-        },
-        {
-            "voice": "en",
-            "text": "Exactly. Say, Look, Find, Drink, Come, and Go. Regarding negation, one cannot use the Imperative. Instead, we must utilize the Subjunctive particle 'Min'. Athina, demonstrate a negative command."
+            "voice": "gr_en",
+            "text": "A command implies urgency. But sometimes it implies a process. For 'Simple' commands... the ones we use 90% of the time... we use the Simple Stem that you learned. For 'Continuous' commands... like 'Keep writing'... we use the Present Stem. Let's look at the singular form for 'writing'."
         },
         {
             "voice": "gr",
-            "text": "Μην κλείσεις την πόρτα. Μην τρέχεις."
+            "text": "Γράφε... Γράψε."
         },
         {
             "voice": "en",
-            "text": "Lastly, the particle 'Gia' can be employed to soften the directive and provide a more natural, encouraging tone. This concludes our academic review of Unit 16. Structural mastery of imperatives is essential for effective interaction in Greek social contexts."
+            "text": "'Ghrá-phe' versus 'Ghráp-se'. What's the difference?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "'Ghrá-phe'... means 'Keep writing!' or 'Write regularly!'. 'Ghráp-se'... means 'Write it down now!'. It’s a single event."
+        },
+        {
+            "voice": "en",
+            "text": "And the plural? If I'm speaking to a group or being formal?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "For the plural... we use different endings."
+        },
+        {
+            "voice": "gr",
+            "text": "Γράφετε... Γράψτε."
+        },
+        {
+            "voice": "en",
+            "text": "I heard a 'TE' at the end. That sounds like the normal plural ending. But 'Ghráp-ste' has a 'S-T-E'. That's the 'Masterclass' secret... the 'ste' ending for simple commands."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly. Now... what about the 'Big Rebels'? These are the ones you use every day. 'Come'... 'Go'... 'Give'... 'Wait'. Athina... give us the short list."
+        },
+        {
+            "voice": "gr",
+            "text": "Έλα... Πήγαινε... Δώσε... Περίμενε."
+        },
+        {
+            "voice": "en",
+            "text": "They are short... sharp... and vital. And finally... the negative command. 'Don't do it!'."
+        },
+        {
+            "voice": "gr_en",
+            "text": "In Greek... you cannot use the Imperative to say 'No'. You must use"
+        },
+        {
+            "voice": "gr",
+            "text": "Μην"
+        },
+        {
+            "voice": "gr_en",
+            "text": "+ the Subjunctive."
+        },
+        {
+            "voice": "gr",
+            "text": "Μην κλείσεις την πόρτα... Μην τρέχεις."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Don't close the door. Don't run. We never use the negative Imperative. It doesn't exist!"
+        },
+        {
+            "voice": "en",
+            "text": "A-ha!"
+        },
+        {
+            "voice": "gr",
+            "text": "Μην"
+        },
+        {
+            "voice": "en",
+            "text": "+ Subjunctive = Don't. You have now mastered the art of leadership in Greek. You can command... advise... and forbid. Practice with the 'Kitchen Commands' worksheet. Excellent work... we'll see you in Unit 17."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
         }
     ]
 }

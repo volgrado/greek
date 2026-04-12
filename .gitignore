@@ -16,6 +16,8 @@ Thumbs.db
 greek_zero_app.zip
 greek_zero_app_v2.zip
 temp_browser_data/
+temp_*/
+audit_report.txt
 log/
 
 # Build artifacts

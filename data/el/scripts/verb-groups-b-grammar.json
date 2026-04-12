@@ -1,74 +1,264 @@
 {
     "id": "verb-groups-b-grammar",
-    "title": "Unit 9 Hyper-Exhaustive Masterclass: Verb Groups B1 & B2 (The Accented Verbs)",
+    "title": "Unit 9 Learn Greek Grammar Masterclass: Verb Groups B1 & B2 (The Accented Verbs)",
+    "curriculum_id": "unit-9-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 9: Verb Groups B1 and B2. In Unit 4, we learned about the steady workers... the Type A verbs like 'ká-no'. But today... we meet the 'Singers' of the Greek language. Type B. I'm William... and here with me is Athina. Athina... why are these verbs so musical?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 9: Verb Groups B1 and B2. In Unit 4, we learned about the steady workers... the Type A verbs like"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! We call them 'singers' because in these verbs... the stress shifts all the way to the end of the word. It hits the final vowels! Because the endings carry the accent... they sound entirely different. We split them into two teams: Team B1 and Team B2."
+            "text": "κάνω."
+        },
+        {
+            "voice": "en",
+            "text": "But today... we meet the 'Singers' of the Greek language. Type B. I'm William... and here with me is Athina. Athina... why are these verbs so musical?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "We call them 'singers' because in these verbs... the stress shifts all the way to the end of the word. It hits the final vowels! Because the endings carry the accent... they sound entirely different. We split them into two teams: Team B1 and Team B2."
         },
         {
             "voice": "en",
             "text": "Let’s start with the big one. Team B1... The 'Alpha' Lovers. These verbs are famous for their strong 'a' sound. Athina... give us some 'Alpha' favorites."
         },
         {
+            "voice": "gr_en",
+            "text": "Listen for the Alpha:"
+        },
+        {
             "voice": "gr",
-            "text": "Listen for the Alpha: Αγαπάω... I love. Μιλάω... I speak. Ρωτάω... I ask. Ξυπνάω... I wake up. Can you hear the rhythm of the end?"
+            "text": "Αγαπάω... Μιλάω... Ρωτάω... Ξυπνάω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I love. I speak. I ask. I wake up. Can you hear the rhythm of the end?"
         },
         {
             "voice": "en",
-            "text": "It’s very distinct. Athina... let’s conjugate 'mi-lá-o', to speak. Please do it slowly."
+            "text": "It’s very distinct. Athina... let’s conjugate"
         },
         {
             "voice": "gr",
-            "text": "Μιλάω... μιλάς... μιλάει. Μιλάμε... μιλάτε... μιλάνε. It’s almost like a chant."
+            "text": "μιλάω,"
         },
         {
             "voice": "en",
-            "text": "It really is. But wait... I have a 'Street Smart' tip in our guide. In a formal dictionary... I see 'mi-ló' or 'a-gha-pó'. Why the difference?"
+            "text": "to speak. Please do it slowly."
         },
         {
             "voice": "gr",
-            "text": "This is a key secret. Greek has two sets of endings for these verbs. A formal, bookish set... '-ó', '-ás', '-á'... and a casual, spoken set... '-áo', '-ás', '-á-ei'. If you want to sound like a natural native on the street... stick to the '-áo' endings we just practiced! 'Mi-lá-o' sounds much more Greek than 'mi-ló'."
+            "text": "Μιλάω... μιλάς... μιλάει. Μιλάμε... μιλάτε... μιλάνε."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It’s almost like a chant."
         },
         {
             "voice": "en",
-            "text": "Street Smart wins again. Now... let's move to Team B2... The 'Epsilon and Iota' Lovers. These are smaller... but they contain massive verbs like 'mpo-ró', I can... and 'zo', I live. Athina... take us through 'mpo-ró'."
+            "text": "It really is. But wait... I have a 'Street Smart' tip in our guide. In a formal dictionary... I see"
         },
         {
             "voice": "gr",
-            "text": "Μπορώ... μπορείς... μπορεί. Μπορούμε... μπορείτε... μπορούν. Notice... there is NO Alpha sound here."
+            "text": "μιλώ"
         },
         {
             "voice": "en",
-            "text": "Wait a minute. Those endings... '-ees', '-ee', '-e-te'... they look exactly like the Type A endings we learned in Unit 4."
+            "text": "or"
         },
         {
             "voice": "gr",
-            "text": "Good eye! They ARE the same endings. The only difference is that for B2 verbs... you must loudly stress those ending vowels. 'Paí-zees' vs 'Mpo-reís'. It’s the same spelling... but a completely different energy."
+            "text": "αγαπώ."
         },
         {
             "voice": "en",
-            "text": "Same shape... different punch. Now... how do we know which team a verb belongs to? If I see a new verb ending in '-ó'... is there a test?"
+            "text": "Why the difference?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "This is a key secret. Greek has two sets of endings for these verbs. A formal, bookish set..."
         },
         {
             "voice": "gr",
-            "text": "Yes! The 'Alpha Test'. Check if you can add an 'a' to the end. If 'mi-lá-o' sounds right... it’s Team B1. If 'mpo-rá-o' sounds completely wrong... it’s B2! And remember... some verbs are 'Crossovers'."
+            "text": "-ώ, -άς, -ά..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "and a casual, spoken set..."
+        },
+        {
+            "voice": "gr",
+            "text": "-άω, -άς, -άει."
+        },
+        {
+            "voice": "gr_en",
+            "text": "If you want to sound like a natural native on the street... stick to the"
+        },
+        {
+            "voice": "gr",
+            "text": "-άω"
+        },
+        {
+            "voice": "gr_en",
+            "text": "endings we just practiced!"
+        },
+        {
+            "voice": "gr",
+            "text": "Μιλάω"
+        },
+        {
+            "voice": "gr_en",
+            "text": "sounds much more Greek than"
+        },
+        {
+            "voice": "gr",
+            "text": "μιλώ."
         },
         {
             "voice": "en",
-            "text": "Crossovers? Like 'ti-le-pho-nó' for telephone... or 'o-thee-ghó' to drive?"
+            "text": "Street Smart wins again. Now... let's move to Team B2... The 'Epsilon and Iota' Lovers. These are smaller... but they contain massive verbs like"
         },
         {
             "voice": "gr",
-            "text": "Exactly. They can use either set! You can say 'ti-le-pho-ná-o' with friends... or 'ti-le-pho-nó' in a business meeting. When in doubt... use the B2 endings for these words. They never fail."
+            "text": "μπορώ,"
+        },
+        {
+            "voice": "en",
+            "text": "I can... and"
+        },
+        {
+            "voice": "gr",
+            "text": "ζω,"
+        },
+        {
+            "voice": "en",
+            "text": "I live. Athina... take us through"
+        },
+        {
+            "voice": "gr",
+            "text": "μπορώ."
+        },
+        {
+            "voice": "gr",
+            "text": "Μπορώ... μπορείς... μπορεί. Μπορούμε... μπορείτε... μπορούν."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Notice... there is NO Alpha sound here."
+        },
+        {
+            "voice": "en",
+            "text": "Wait a minute. Those endings..."
+        },
+        {
+            "voice": "gr",
+            "text": "-εις, -ει, -ετε..."
+        },
+        {
+            "voice": "en",
+            "text": "they look exactly like the Type A endings we learned in Unit 4."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Good eye! They ARE the same endings. The only difference is that for B2 verbs... you must loudly stress those ending vowels."
+        },
+        {
+            "voice": "gr",
+            "text": "Παίζεις"
+        },
+        {
+            "voice": "gr_en",
+            "text": "versus"
+        },
+        {
+            "voice": "gr",
+            "text": "Μπορείς."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It’s the same spelling... but a completely different energy."
+        },
+        {
+            "voice": "en",
+            "text": "Same shape... different punch. Now... how do we know which team a verb belongs to? If I see a new verb ending in"
+        },
+        {
+            "voice": "gr",
+            "text": "-ώ..."
+        },
+        {
+            "voice": "en",
+            "text": "is there a test?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes! The 'Alpha Test'. Check if you can add an 'a' to the end. If"
+        },
+        {
+            "voice": "gr",
+            "text": "μιλάω"
+        },
+        {
+            "voice": "gr_en",
+            "text": "sounds right... it’s Team B1. If"
+        },
+        {
+            "voice": "gr",
+            "text": "μποράω"
+        },
+        {
+            "voice": "gr_en",
+            "text": "sounds completely wrong... it’s B2! And remember... some verbs are 'Crossovers'."
+        },
+        {
+            "voice": "en",
+            "text": "Crossovers? Like"
+        },
+        {
+            "voice": "gr",
+            "text": "τηλεφωνώ"
+        },
+        {
+            "voice": "en",
+            "text": "for telephone... or"
+        },
+        {
+            "voice": "gr",
+            "text": "οδηγώ"
+        },
+        {
+            "voice": "en",
+            "text": "to drive?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly. They can use either set! You can say"
+        },
+        {
+            "voice": "gr",
+            "text": "τηλεφωνάω"
+        },
+        {
+            "voice": "gr_en",
+            "text": "with friends... or"
+        },
+        {
+            "voice": "gr",
+            "text": "τηλεφωνώ"
+        },
+        {
+            "voice": "gr_en",
+            "text": "in a business meeting. When in doubt... use the B2 endings for these words. They never fail."
         },
         {
             "voice": "en",

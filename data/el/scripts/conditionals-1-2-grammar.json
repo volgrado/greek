@@ -1,78 +1,172 @@
 {
     "id": "conditionals-1-2-grammar",
-    "title": "Unit 21 Hyper-Exhaustive Masterclass: Conditionals (The 'If' Clauses)",
+    "title": "Unit 21 Learn Greek Grammar Masterclass: Conditionals (The 'If' Clauses)",
+    "curriculum_id": "unit-21-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 31: Conditionals. These are our 'If-Then' sentences. In Greek, we have different formulas depending on whether we are talking about something likely... or something purely imaginary. I'm Ava, and here is Athina. Athina... how do we say 'If' in Greek?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 21: Conditionals. These are our 'If-Then' sentences. In Greek, we have different formulas depending on whether we are talking about something likely... or something purely imaginary. I'm William, and here is Athina. Athina... how do we say 'If' in Greek?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! The magic word is 'An'. Just two letters. Α-Ν. 'An'. It’s the gateway to all our conditions."
+            "text": "Γεια σας!"
         },
         {
-            "voice": "en",
-            "text": " 'An'. Simple enough. Let’s look at Type 1: The Real Condition. This is for things that are actually likely to happen. If I have money, I will buy it. If it rains, I’ll stay home. Athina, what’s the formula?"
-        },
-        {
-            "voice": "gr",
-            "text": "For Type 1, the 'An' clause usually uses the Present or Future. 'An ékhō leftá'... If I have money. Then, the result follows in the Future or Imperative. 'Tha to a-go-rá-sō'... I will buy it."
-        },
-        {
-            "voice": "en",
-            "text": "So 'An ékhō leftá, tha to a-go-rá-sō'. It’s very logical. What if I want to give a command? If you see him, tell him the truth."
+            "voice": "gr_en",
+            "text": "The magic word is"
         },
         {
             "voice": "gr",
-            "text": " 'An ton deis... pes tou teen a-lée-thei-a'. We use 'An' with the Subjunctive or Future, and follow with the Imperative 'Pes tou'. It works just like English logic."
+            "text": "Αν."
         },
         {
             "voice": "en",
-            "text": "Now... things get interesting. Type 2: The Unreal Condition. This is for dreaming. If I WERE rich (but I’m not)... I WOULD buy a yacht. Athina, the formula changes here."
+            "text": "Simple enough. Let’s look at Type 1: The Real Condition. This is for things that are actually likely to happen. 'If I have money, I will buy it'. Athina, what’s the formula?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "For Type 1, the 'An' clause usually uses the Present or Future."
         },
         {
             "voice": "gr",
-            "text": "Yes. This is where we use the 'Imperfect' tense... the continuous past we learned in Unit 20. The 'An' side uses the Imperfect: 'An ee-moun ploú-si-os'... If I were rich."
+            "text": "Αν έχω λεφτά..."
         },
         {
-            "voice": "en",
-            "text": "And the result side? In English, we use 'would'. In Greek, we use our friend 'Tha'... but combined with the Imperfect."
-        },
-        {
-            "voice": "gr",
-            "text": "Exactly. 'Tha a-go-rá-za é-na ská-phos'. I would buy a boat. 'An ee-moun ploú-si-os, tha a-go-rá-za é-na ská-phos'. Notice we use 'Tha' + 'A-go-rá-za' (Imperfect), not the future form."
-        },
-        {
-            "voice": "en",
-            "text": "Pro Tip: Think of 'Tha' + Imperfect as the equivalent of 'Would' + Verb. Let's try another one. If I had time, I would sleep more."
+            "voice": "gr_en",
+            "text": "If I have money. Then, the result follows in the Future or Imperative."
         },
         {
             "voice": "gr",
-            "text": " 'An éi-kha khró-no... tha ko-mó-moun pe-ris-só-te-ro'. 'Ei-kha' and 'ko-mó-moun' are both in the continuous past. They create that 'hypothetical' atmosphere."
+            "text": "Θα το αγοράσω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I will buy it."
         },
         {
             "voice": "en",
-            "text": "It’s like you’re using the past to distance yourself from reality. Now... Athina, can we mix them? What if the condition is in the past but the result is now?"
+            "text": "So"
         },
         {
             "voice": "gr",
-            "text": "We can! But mostly, stick to these two patterns first. Type 1 for 'Probably will' and Type 2 for 'Probably won't'. Also... remember that 'An' can sometimes be followed by 'Na' in very specific archaic contexts, but for now, just stick to 'An' + the verb."
+            "text": "Αν έχω λεφτά, θα το αγοράσω."
         },
         {
             "voice": "en",
-            "text": "Keep it clean. 'An' for 'If'. Type 1 for reality, Type 2 for dreams. You’ve now mastered the logic of Greek possibilities. Excellent work, everyone."
+            "text": "It’s very logical. What if I want to give a command? 'If you see him, tell him the truth'."
+        },
+        {
+            "voice": "gr",
+            "text": "Αν τον δεις... πες του την αλήθεια."
+        },
+        {
+            "voice": "gr_en",
+            "text": "We use 'An' with the Subjunctive or Future, and follow with the Imperative"
+        },
+        {
+            "voice": "gr",
+            "text": "Πες του."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It works just like English logic."
+        },
+        {
+            "voice": "en",
+            "text": "Now... things get interesting. Type 2: The Unreal Condition. This is for dreaming. 'If I WERE rich (but I’m not)... I WOULD buy a yacht'. Athina, the formula changes here."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes. This is where we use the 'Imperfect' tense... the continuous past we learned. The 'An' side uses the Imperfect."
+        },
+        {
+            "voice": "gr",
+            "text": "Αν ήμουν πλούσιος..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "If I were rich."
+        },
+        {
+            "voice": "en",
+            "text": "And the result side? In English, we use 'would'. In Greek, we use our friend"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "en",
+            "text": "but combined with the Imperfect."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα αγόραζα ένα σκάφος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I would buy a boat."
+        },
+        {
+            "voice": "gr",
+            "text": "Αν ήμουν πλούσιος, θα αγόραζα ένα σκάφος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Notice we use"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "+"
+        },
+        {
+            "voice": "gr",
+            "text": "Αγόραζα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "which is the Imperfect form, not the future form."
+        },
+        {
+            "voice": "en",
+            "text": "Pro Tip: Think of"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "en",
+            "text": "+ Imperfect as the equivalent of 'Would' + Verb. Let's try another one. 'If I had time, I would sleep more'."
+        },
+        {
+            "voice": "gr",
+            "text": "Αν είχα χρόνο... θα κοιμόμουν περισσότερο."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Both verbs are in the continuous past. They create that 'hypothetical' atmosphere."
+        },
+        {
+            "voice": "en",
+            "text": "It’s like you’re using the past to distance yourself from reality. Type 1 for reality, Type 2 for dreams. You’ve now mastered the logic of Greek possibilities. Excellent work, everyone."
         },
         {
             "voice": "gr",
             "text": "Μπράβο σας! Ο δρόμος είναι ανοιχτός. Τα λέμε σύντομα!"
-        },
-        {
-            "voice": "en",
-            "text": "This concludes Unit 31. Go out there and dream in Greek. Ya sas!"
         }
     ]
 }

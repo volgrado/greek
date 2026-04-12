@@ -1,86 +1,264 @@
 {
     "id": "irregular-words-grammar",
-    "title": "Unit 33 Hyper-Exhaustive Masterclass: Irregular & Defective Words",
+    "title": "Unit 33 Learn Greek Grammar Masterclass: Irregular and Defective Words",
+    "curriculum_id": "unit-33-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the final Hyper-Exhaustive Grammar Masterclass for Unit 33: Irregular and Defective Words. This is the finish line. We’ve fought through Cases, Tenses, and Aspects... and today, we tackle the rebels of the Greek language. The words that looked at the rulebook and decided to throw it away. I'm Ava, and for one last time, I'm joined by our native expert, Athina. Athina... how does it feel to be at the end of the journey?"
+            "text": "Welcome... to the final Learn Greek Grammar Masterclass for Unit 33: Irregular and Defective Words. This is the finish line. We’ve fought through Cases, Tenses, and Aspects... and today, we tackle the rebels of the Greek language. The words that looked at the rulebook and decided to throw it away. I'm William, and for one last time, I'm joined by our native expert, Athina. Athina... how does it feel to be at the end of the journey?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! Honestly, I am so proud of everyone. Greek is ancient and complex, but once you reach this level, you start to see the beauty in its imperfections. These 'Irregular' words aren't just mistakes; they are fossils. They are pieces of history that survived while everything else changed."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Honestly, I am so proud of everyone. Greek is ancient and complex, but once you reach this level, you start to see the beauty in its imperfections. These 'Irregular' words aren't just mistakes; they are fossils. They are pieces of history that survived while everything else changed."
         },
         {
             "voice": "en",
-            "text": "Fossils... I love that. Let's dig into our first group: The Gender Benders. These are masculine nouns ending in 'os' that... for some reason... become Neuter in the plural. Athina, give us the most famous one."
+            "text": "Fossils... I love that. Let's dig into our first group: The Gender Benders. These are masculine nouns ending in"
         },
         {
             "voice": "gr",
-            "text": "The classic example is 'O khró-nos'. Masculine singular: The time or the year. But when we talk about many years, we don't say 'oi khró-noi'. We say 'ta khró-nia'. It switches to Neuter! Listen: 'Péra-san pol-lá khró-nia'... many years have passed."
+            "text": "-ος"
         },
         {
             "voice": "en",
-            "text": "Wait... 'Pol-lá khró-nia'... that sounds like a Neuter plural adjective and a Neuter plural noun. So the 'rhyme' we learned in Unit 6 still works, but only because the noun itself changed gender?"
+            "text": "that... for some reason... become Neuter in the plural. Athina, give us the most famous one."
+        },
+        {
+            "voice": "gr_en",
+            "text": "The classic example is"
         },
         {
             "voice": "gr",
-            "text": "Exactly. Another one is 'O ló-ghos'. In the singular, it’s a reason or a word. But in the plural... it has two lives! If you mean 'reasons', you stay masculine: 'oi ló-ghoi'. But if you mean 'spoken words' or 'speech'... it becomes plural Neuter: 'ta ló-ghia'. It’s a semantic split!"
+            "text": "Ο χρόνος."
         },
         {
-            "voice": "en",
-            "text": "So if I want to tell someone 'Your words are beautiful', I say 'Ta ló-ghia sou ee-nai ō-rai-a'. Fascinating. Now... let's talk about the complete outsiders. Group 2: The Indeclinables. These words are like visitors who never change their clothes. Athina... who are these rebels?"
-        },
-        {
-            "voice": "gr",
-            "text": "These are usually loanwords from French or English. Words like 'To a-san-sér'... the elevator. 'To s-por'... the sport. 'Ee t-zaz'... jazz. No matter if they are the Subject, Object, or Genitive... the word stays exactly the same. Only the article changes to tell you the case."
-        },
-        {
-            "voice": "en",
-            "text": "So 'To a-san-sér' is both 'The elevator is here' and 'I see the elevator'. In English, that sounds normal... but in Greek, where everything usually declines, it feels like cheating!"
+            "voice": "gr_en",
+            "text": "Masculine singular: The time or the year. But when we talk about many years, we don't say"
         },
         {
             "voice": "gr",
-            "text": "It is a little bit! But look out for feminine names too. Many names like 'Ee Elé-nee' or 'Ee Ma-rée-a' used to decline more in the past... but today, many speakers keep them simple in the Accusative. However... proper grammar still appreciates the 'n' in some contexts. But for loanwords? Zero change. Guaranteed."
+            "text": "οι χρόνοι."
         },
         {
-            "voice": "en",
-            "text": "Pro Tip: If you're stuck and don't know the declension... maybe just say it in English and hope it’s a loanword! Just kidding. Let's move to Section 3: The Defective Verbs. These are verbs that are... well... missing parts. Specifically, they lack the 'Simple' or 'Perfective' aspect we learned in Unit 13. Athina, why are they broken?"
-        },
-        {
-            "voice": "gr",
-            "text": "They aren't broken; they are just 'Continuous' by nature. Take the verb 'A-née-kō'... to belong. You can only 'be belonging' to something. It doesn't have a 'momentary' version. There is no Aorist. You can't say 'I belonged once for a second' in a simple way. The same goes for 'Ksé-rō'... to know."
-        },
-        {
-            "voice": "en",
-            "text": "Aha! So you can't use the Simple Future 'Tha' or the Simple Subjunctive 'Na' with a new stem... because the stem doesn't exist. You always use the Present stem. 'Tha ksé-rō'... I will know (continuously). 'Prée-pei na ksé-re-te'... you must know."
+            "voice": "gr_en",
+            "text": "We say"
         },
         {
             "voice": "gr",
-            "text": "Perfect. And then there are the 'Impersonal' verbs. They only exist in the third person singular. 'Prée-pei'... it must. 'He-yá-ze-tai'... it is needed. 'Faí-ne-tai'... it seems. They have no 'I' or 'You' forms."
+            "text": "τα χρόνια."
         },
         {
-            "voice": "en",
-            "text": "Finally... let’s look at the 'Relics'. The words that come straight from Ancient Greek but are still used in daily idioms. Like 'I-doú'. Athina... explain this one."
-        },
-        {
-            "voice": "gr",
-            "text": " 'I-doú' means 'Behold!'. We have a very famous saying: 'I-doú ee Ró-dos, i-doú kai to pée-dee-ma'. Behold Rhodes, behold the jump! It means: 'Don't just talk about it, show me what you can do!'. It comes from an old fable about an athlete who boasted about a jump he made in Rhodes... so his friends said 'Well, imagine you are in Rhodes now... and jump!'"
-        },
-        {
-            "voice": "en",
-            "text": "I love that. 'Show me the jump'. Well, listeners... you have made the jump. You have officially completed the Hyper-Exhaustive Masterclass series for Modern Greek Grammar. From the first 'Ál-pha' to the most obscure 'Defective Verb'... you have covered it all."
+            "voice": "gr_en",
+            "text": "It switches to Neuter! Listen:"
         },
         {
             "voice": "gr",
-            "text": "Συγχαρητήρια! Congratulations! You have the foundation now to speak, read, and understand this beautiful language. Don't stop here. The grammar is the skeleton... now you need to add the muscles and the skin by practicing every day."
+            "text": "Πέρασαν πολλά χρόνια..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "many years have passed."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Wait... 'Πολλά χρόνια'... that sounds like a Neuter plural adjective and a Neuter plural noun. So the 'rhyme' we learned in Unit 6 still works, but only because the noun itself changed gender?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly. Another one is"
+        },
+        {
+            "voice": "gr",
+            "text": "Ο λόγος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "In the singular, it’s a reason or a word. But in the plural... it has two lives! If you mean 'reasons', you stay masculine:"
+        },
+        {
+            "voice": "gr",
+            "text": "οι λόγοι."
+        },
+        {
+            "voice": "gr_en",
+            "text": "But if you mean 'spoken words' or 'speech'... it becomes plural Neuter:"
+        },
+        {
+            "voice": "gr",
+            "text": "τα λόγια."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It’s a semantic split!"
         },
         {
             "voice": "en",
-            "text": "Excellent work. This concludes Unit 33, and this concludes our series. It has been an honor to guide you through the concrete jungle of Athens and the complex landscape of its grammar. Go out there and use it. Ya sas!"
+            "text": "So if I want to tell someone 'Your words are beautiful', I say:"
+        },
+        {
+            "voice": "gr",
+            "text": "Τα λόγια σου είναι ωραία."
+        },
+        {
+            "voice": "en",
+            "text": "Fascinating. Now... let's talk about the complete outsiders. Group 2: The Indeclinables. These words are like visitors who never change their clothes. Athina... who are these rebels?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "These are usually loanwords from French or English. Words like"
+        },
+        {
+            "voice": "gr",
+            "text": "Το ασανσέρ..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "the elevator."
+        },
+        {
+            "voice": "gr",
+            "text": "Το σπορ..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "the sport."
+        },
+        {
+            "voice": "gr",
+            "text": "Η τζαζ..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "jazz. No matter if they are the Subject, Object, or Genitive... the word stays exactly the same. Only the article changes to tell you the case."
+        },
+        {
+            "voice": "en",
+            "text": "In English, that sounds normal... but in Greek, where everything usually declines, it feels like cheating!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "It is a little bit! But look out for feminine names too. Many names like"
+        },
+        {
+            "voice": "gr",
+            "text": "Η Ελένη"
+        },
+        {
+            "voice": "gr_en",
+            "text": "or"
+        },
+        {
+            "voice": "gr",
+            "text": "Η Μαρία"
+        },
+        {
+            "voice": "gr_en",
+            "text": "used to decline more in the past... but today, many speakers keep them simple in the Accusative. For loanwords? Zero change. Guaranteed."
+        },
+        {
+            "voice": "en",
+            "text": "Pro Tip: If you're stuck and don't know the declension... maybe just say it in English and hope it’s a loanword! Just kidding. Let's move to Section 3: The Defective Verbs. These are verbs that are... well... missing parts. Athina, why are they broken?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "They aren't broken; they are just 'Continuous' by nature. Take the verb"
+        },
+        {
+            "voice": "gr",
+            "text": "Ανήκω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to belong. You can only 'be belonging' to something. It doesn't have a 'momentary' version. There is no Aorist. The same goes for"
+        },
+        {
+            "voice": "gr",
+            "text": "Ξέρω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to know."
+        },
+        {
+            "voice": "en",
+            "text": "Aha! So you can't use the Simple Future with a new stem... because the stem doesn't exist. You always use the Present stem."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα ξέρω..."
+        },
+        {
+            "voice": "en",
+            "text": "I will know."
+        },
+        {
+            "voice": "gr",
+            "text": "Πρέπει να ξέρετε..."
+        },
+        {
+            "voice": "en",
+            "text": "you must know."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Perfect. And then there are the 'Impersonal' verbs. They only exist in the third person singular."
+        },
+        {
+            "voice": "gr",
+            "text": "Πρέπει... Χρειάζεται... Φαίνεται."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It must. It is needed. It seems. They have no 'I' or 'You' forms."
+        },
+        {
+            "voice": "en",
+            "text": "Finally... let’s look at the 'Relics'. The words that come straight from Ancient Greek but are still used in daily idioms. Like"
+        },
+        {
+            "voice": "gr",
+            "text": "Ιδού."
+        },
+        {
+            "voice": "en",
+            "text": "Athina... explain this one."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It means 'Behold!'. We have a very famous saying:"
+        },
+        {
+            "voice": "gr",
+            "text": "Ιδού η Ρόδος, ιδού και το πήδημα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Behold Rhodes, behold the jump! It means: 'Don't just talk about it, show me what you can do!'"
+        },
+        {
+            "voice": "en",
+            "text": "I love that. 'Show me the jump'. Well, listeners... you have made the jump. You have officially completed the Learn Greek Grammar Masterclass series for Modern Greek Grammar."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Congratulations! You have the foundation now to speak, read, and understand this beautiful language. Practice every day."
+        },
+        {
+            "voice": "en",
+            "text": "Excellent work. This concludes Unit 33. Go out there and use it. Ya sas!"
         },
         {
             "voice": "gr",

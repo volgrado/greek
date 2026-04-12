@@ -1,46 +1,108 @@
 {
     "id": "voices-moods-grammar",
-    "title": "Unit 19 Hyper-Exhaustive Masterclass: Voices, Moods & Special Forms",
+    "title": "Unit 19 Learn Greek Grammar Masterclass: Voices, Moods & Special Forms",
+    "curriculum_id": "unit-19-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Unit 19 explores the 'Matrix' of the Modern Greek verb, focusing on Voice, Mood, and non-finite forms. Athina, what is the fundamental distinction between the Active and Passive Voice?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 19: Voices, Moods and Special Forms. We have come a long way. We have learned how to act... how to be acted upon... and how to command. In this unit... we bring it all together. I'm William... and here with me is Athina. Athina... what is the fundamental distinction between the Active and Passive Voice?"
         },
         {
             "voice": "gr",
-            "text": "Ενεργητική και παθητική φωνή. Εγώ πλένω το αυτοκίνητο, ή εγώ πλένομαι."
+            "text": "Γεια σας!"
         },
         {
-            "voice": "en",
-            "text": "Correct. We also have the three primary moods: Indicative, Subjunctive, and Imperative. Athina, specify the negation rules for these moods."
-        },
-        {
-            "voice": "gr",
-            "text": "Στην οριστική χρησιμοποιούμε 'δεν'. Στην υποτακτική και την προστακτική χρησιμοποιούμε πάντα 'μην'."
-        },
-        {
-            "voice": "en",
-            "text": "Exactly. Furthermore, we must address the special adverbial gerund and the passive participle. Athina, state the suffix for the adverbial gerund."
+            "voice": "gr_en",
+            "text": "In Greek, the line is very clear. Active is when you do it. Passive is when it’s done to you... or when you do it to yourself!"
         },
         {
             "voice": "gr",
-            "text": "-οντας ή -ώντας. Ήρθε τρέχοντας, έφυγε γελώντας. Είναι σαν το αγγλικό 'ing'."
+            "text": "Εγώ πλένω το αυτοκίνητο... ή εγώ πλένομαι."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I wash the car... or I wash myself. The ending changes completely."
         },
         {
             "voice": "en",
-            "text": "Regarding the passive participle: it functioning as an adjective and must undergo full agreement. Lastly, we must clarify the role of the 'Aparemfato'—the non-finite verb form. Athina, does Greek possess a true infinitive?"
+            "text": "And the 'Moods'? In English, we mostly talk about moods when we're grumpy. But in Greek, they are settings for reality. Athina, what about the negation rules?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "This is vital! In the Indicative mood... for simple facts... we use one word. For the Subjunctive and Imperative... for desires and commands... we use another."
         },
         {
             "voice": "gr",
-            "text": "Όχι, δεν υπάρχει απαρέμφατο. Το χρησιμοποιούμε μόνο με το 'έχω' για τους παρακείμενους χρόνους."
+            "text": "Δεν... Μην."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Never mix them up!"
         },
         {
             "voice": "en",
-            "text": "Correct. This concludes our academic overview of Unit 19. Mastering these structural choices is essential for advanced linguistic performance in Modern Greek."
+            "text": "Exactly. Fact equals"
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν."
+        },
+        {
+            "voice": "en",
+            "text": "Desire or Command equals"
+        },
+        {
+            "voice": "gr",
+            "text": "Μην."
+        },
+        {
+            "voice": "en",
+            "text": "Now, let’s talk about a special 'Action' form... the Gerund. In English, it’s the '-ing' ending. I came running. Athina... how do we say that?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "We use the endings"
+        },
+        {
+            "voice": "gr",
+            "text": "-οντας ή -ώντας."
+        },
+        {
+            "voice": "gr",
+            "text": "Ήρθε τρέχοντας... έφυγε γελώντας."
+        },
+        {
+            "voice": "gr_en",
+            "text": "He came running... he left laughing. It’s an adverbial form, so it never changes for person or number. It’s very stable."
+        },
+        {
+            "voice": "en",
+            "text": "Zero declension! That’s music to my ears. Finally, the big question. Does Greek have a true infinitive? Like 'to be' or 'to run'?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "No! Common Greek lost the infinitive centuries ago. We use 'Na' + the verb. The only tiny remnant is the one we use for the Perfect tenses."
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω γράψει."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I have written. Outside of that... the infinitive is dead."
+        },
+        {
+            "voice": "en",
+            "text": "Fascinating. This unit is the master overview. You now see the whole map. You aren't just memorizing endings anymore... you are choosing rooms and lenses. Excellent work... we'll see you in the next unit."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
         }
     ]
 }

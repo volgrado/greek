@@ -1,46 +1,124 @@
 {
     "id": "perfect-tenses-grammar",
-    "title": "Unit 20 Hyper-Exhaustive Masterclass: The Perfect Tenses (I have done)",
+    "title": "Unit 20 Learn Greek Grammar Masterclass: Perfect Tenses (I have Done)",
+    "curriculum_id": "unit-20-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Unit 20 addresses the Perfect Tenses in Modern Greek. These constructions mirror the English 'have done' and 'had done' structures. Athina, what is the 'helper verb' used in these tenses?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 20: Perfect Tenses. In English... we say 'I have eaten'... 'I had seen'. This implies an action that is completed... but has a connection to the present. In Greek... we build this using a helper verb and a very special piece of the verb. I'm William... and here with me is Athina. Athina... what is the helper verb for the Perfect?"
         },
         {
             "voice": "gr",
-            "text": "Έχω και είχα. Το 'έχω' για τον παρακείμενο, το 'είχα' για τον υπερσυντέλικο."
+            "text": "Γεια σας!"
         },
         {
-            "voice": "en",
-            "text": "Exactly. The helper verb 'Echo'—in its present or past form—is the only part that conjugates. It is combined with a frozen non-finite form called the 'Aparemfato'. Athina, how do we build this suffix?"
-        },
-        {
-            "voice": "gr",
-            "text": "Χρησιμοποιούμε το -ει. Έχω διαβάσει, έχω γράψει, έχω ανοίξει."
-        },
-        {
-            "voice": "en",
-            "text": "Correct. However, for passive and deponent verbs, the ending is a stressed '-ei'. Athina, please provide examples."
+            "voice": "gr_en",
+            "text": "The helper verb is always"
         },
         {
             "voice": "gr",
-            "text": "Έχω χαθεί. Έχω κοιμηθεί. Ο τόνος είναι πάντα στο τέλος."
+            "text": "Έχω"
         },
         {
-            "voice": "en",
-            "text": "It's also important to note the position of weak object pronouns. They must be placed immediately before the helper verb, creating a more integrated verbal phrase. Athina?"
+            "voice": "gr_en",
+            "text": "for the Present Perfect and"
         },
         {
             "voice": "gr",
-            "text": "Το έχω διαβάσει. Της είχε μιλήσει. Δεν το έχω κάνει."
+            "text": "Είχα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for the Past Perfect. But we don't just add a random form of the main verb. We add a frozen ending."
         },
         {
             "voice": "en",
-            "text": "Finally, the addition of the future particle 'Tha' allows for the construction of the Future Perfect. This concludes our academic overview of Unit 20. Consistent mastery of these perfect paradigms is essential for articulating completed actions in Modern Greek."
+            "text": "How do we build it?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "It’s very easy. You take the Simple Stem... the 'Snapshot' stem... and you add the ending"
+        },
+        {
+            "voice": "gr",
+            "text": "-ει."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It never changes! It’s invincible."
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω γράψει."
+        },
+        {
+            "voice": "en",
+            "text": "I have written. Only the helper verb changes. So if I want to say 'We have written'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Έχουμε γράψει."
+        },
+        {
+            "voice": "en",
+            "text": "The"
+        },
+        {
+            "voice": "gr",
+            "text": "γράψει"
+        },
+        {
+            "voice": "en",
+            "text": "stays exactly the same. What about for passive or deponent verbs?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Then the ending is stressed at the end."
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω κοιμηθεί. Έχω χαθεί."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I have slept. I have been lost."
+        },
+        {
+            "voice": "en",
+            "text": "And the 'Pronoun Sandwich'?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "The pronouns must sit before the helper verb."
+        },
+        {
+            "voice": "gr",
+            "text": "Το έχω διαβάσει. Της είχε μιλήσει."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I have read it. He had spoken to her."
+        },
+        {
+            "voice": "en",
+            "text": "Now... a native secret. Do Greeks use the Perfect tense as much as English speakers do?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Actually... no! In daily conversation... we usually just use the Aorist. Instead of 'I have eaten'... we just say 'I ate'. But if you want to emphasize that something is finished right NOW... use the Perfect."
+        },
+        {
+            "voice": "en",
+            "text": "This has been a very efficient lesson. You now have the tools to talk about finished life experiences and completed tasks. Practice with the 'Life Achievements' checklist. Excellent work... we'll see you in the next unit."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
         }
     ]
 }
