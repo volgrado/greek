@@ -1,0 +1,46 @@
+{
+    "id": "perfect-tenses-grammar",
+    "title": "Unit 20 Hyper-Exhaustive Masterclass: The Perfect Tenses (I have done)",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Unit 20 addresses the Perfect Tenses in Modern Greek. These constructions mirror the English 'have done' and 'had done' structures. Athina, what is the 'helper verb' used in these tenses?"
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω και είχα. Το 'έχω' για τον παρακείμενο, το 'είχα' για τον υπερσυντέλικο."
+        },
+        {
+            "voice": "en",
+            "text": "Exactly. The helper verb 'Echo'—in its present or past form—is the only part that conjugates. It is combined with a frozen non-finite form called the 'Aparemfato'. Athina, how do we build this suffix?"
+        },
+        {
+            "voice": "gr",
+            "text": "Χρησιμοποιούμε το -ει. Έχω διαβάσει, έχω γράψει, έχω ανοίξει."
+        },
+        {
+            "voice": "en",
+            "text": "Correct. However, for passive and deponent verbs, the ending is a stressed '-ei'. Athina, please provide examples."
+        },
+        {
+            "voice": "gr",
+            "text": "Έχω χαθεί. Έχω κοιμηθεί. Ο τόνος είναι πάντα στο τέλος."
+        },
+        {
+            "voice": "en",
+            "text": "It's also important to note the position of weak object pronouns. They must be placed immediately before the helper verb, creating a more integrated verbal phrase. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Το έχω διαβάσει. Της είχε μιλήσει. Δεν το έχω κάνει."
+        },
+        {
+            "voice": "en",
+            "text": "Finally, the addition of the future particle 'Tha' allows for the construction of the Future Perfect. This concludes our academic overview of Unit 20. Consistent mastery of these perfect paradigms is essential for articulating completed actions in Modern Greek."
+        }
+    ]
+}

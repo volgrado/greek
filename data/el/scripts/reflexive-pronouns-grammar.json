@@ -1,0 +1,66 @@
+{
+    "id": "reflexive-pronouns-grammar",
+    "title": "Unit 24 Hyper-Exhaustive Masterclass: Reflexive Pronouns (Myself)",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 37: Reflexive Pronouns. In English, we say 'myself', 'yourself', 'himself'. In Greek, we have one core word to do all that work. I'm Ava, and I'm joined by Athina. Athina... who is this mysterious character we use for reflexive actions?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! His name is 'O e-af-tós mou'. Literally... 'The self of mine'. We treat our 'self' like a separate masculine noun that we own."
+        },
+        {
+            "voice": "en",
+            "text": " 'The self of mine'. That’s actualy very deep. So instead of just a pronoun, it’s a noun-phrase. How do we say 'I see myself'?"
+        },
+        {
+            "voice": "gr",
+            "text": "We use 'Vlé-pō' (I see) + the Object form of 'E-af-tós'. 'Vlé-pō ton e-af-tó mou'. 'Ton e-af-tó' is the Accusative form because it’s the object of the seeing."
+        },
+        {
+            "voice": "en",
+            "text": "What if I wanted to say 'You should take care of yourself'?"
+        },
+        {
+            "voice": "gr",
+            "text": " 'Prée-pei na fron-tée-zeis ton e-af-tó sou'. Notice that only the possessive pronoun at the end changes to 'sou' (yours). The word 'E-af-tós' stays the same for everyone."
+        },
+        {
+            "voice": "en",
+            "text": "So it’s 'ton e-af-tó mou', 'sou', 'tou'... 'mas', 'sas', 'tous'. It’s very consistent. But Athina, what happens if the 'Self' is the one doing the possession? Like 'My self's problem'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Then we put 'E-af-tós' in the Genitive! 'To pró-vlee-ma tou e-af-toú mou'. The problem of my self. It sounds a bit formal, but it’s perfectly correct."
+        },
+        {
+            "voice": "en",
+            "text": "Now... pro tip: We often use reflexive pronouns with verbs that don't have a deponent or passive form to mean 'doing it to oneself'. Instead of a passive verb, we use Active + Reflexive."
+        },
+        {
+            "voice": "gr",
+            "text": "Correct. 'Ka-ta-la-vaí-nō ton e-af-tó mou'... I understand myself. You wouldn't use a passive form there. It’s the most direct way to express self-reflection."
+        },
+        {
+            "voice": "en",
+            "text": "It’s like having a mirror in your grammar. This concludes Unit 37. You now know how to talk about the most important person in your life: yourself!"
+        },
+        {
+            "voice": "gr",
+            "text": "Αγαπάτε τον εαυτό σας! Love yourselves! Τα λέμε στο εóμενο μάθημα. Γεια σας!"
+        },
+        {
+            "voice": "en",
+            "text": "Excellent work. We’ll see you in Unit 38."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
+        }
+    ]
+}

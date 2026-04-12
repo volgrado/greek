@@ -1,0 +1,74 @@
+{
+    "id": "deponent-verbs-grammar",
+    "title": "Unit 18 Hyper-Exhaustive Masterclass: Passive Voice & Deponent Verbs (-ομαι)",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 26: Deponent Verbs. In Unit 25, we learned how to compare things. But today, we tackle a group of verbs that are masters of disguise. They use Passive endings, but they have Active meanings. I'm Ava, and I'm joined by Athina. Athina... why do these verbs wear a 'Passive' mask?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! Historically, these verbs usually describe things that happen 'to you' or 'within you'. Even if you are the one doing the action, there is an internal or reflexive element. We call them 'A-po-the-ti-ká'... Deponent. They have 'deposed' or set aside their active forms."
+        },
+        {
+            "voice": "en",
+            "text": "Set aside their active forms... interesting. So, even though they end in '-o-mai', '-e-sai', '-e-tai'... we translate them as normal active verbs. Let’s look at the most common one. 'I am coming'."
+        },
+        {
+            "voice": "gr",
+            "text": "Exactly. 'Ér-kho-mai'. It ends in '-o-mai', which looks like passive. But you aren't 'being come'... you are just coming! 'Ér-kho-mai sto spée-ti'... I am coming home."
+        },
+        {
+            "voice": "en",
+            "text": "What about 'I am becoming'?"
+        },
+        {
+            "voice": "gr",
+            "text": " 'Ghée-no-mai'. Again, a passive ending for a very active-feeling verb. 'Ghée-no-mai ka-lý-te-ros'... I am becoming better. Notice we use the comparative we just learned!"
+        },
+        {
+            "voice": "en",
+            "text": "See? It all connects. Now... Athina, many of these verbs are about emotions. Feelings that happen inside the soul."
+        },
+        {
+            "voice": "gr",
+            "text": "Yes! This is the most natural group. 'Fo-vá-mai'... I fear. 'Ly-pá-mai'... I am sorry. 'Khoi-ró-ma-stee'... we are glad. You don't 'fear' something actively like you kick a ball. Fear is something that fills your state of being. That’s why the passive voice feels right to a Greek brain."
+        },
+        {
+            "voice": "en",
+            "text": "That’s a deep insight. It’s an internal state. What about physical states, like sleeping or wishing?"
+        },
+        {
+            "voice": "gr",
+            "text": "Exactly the same. 'Koi-má-mai'... I sleep. 'Ef-kho-mai'... I wish. 'Ar-née-mai'... I refuse. These reflect an internal decision or state of the body."
+        },
+        {
+            "voice": "en",
+            "text": "Pro Tip: When you see a verb ending in '-o-mai', don't immediately think 'is being done'. Check if it's one of our Deponent friends first. Athina, what happens when we put these into the Past or Future? Do they keep their passive disguise?"
+        },
+        {
+            "voice": "gr",
+            "text": "Yes! They stay in the passive track. The future of 'Ér-kho-mai' is 'Tha ér-thō'... which uses the passive subjunctive stem. The past is 'Ήρ-θα' (Éer-tha). They are rebels throughout their whole conjugation."
+        },
+        {
+            "voice": "en",
+            "text": "So if you've mastered Group B passive endings in Unit 22... you've already mastered the mechanics of Deponent verbs. You just have to remember their meanings are active."
+        },
+        {
+            "voice": "gr",
+            "text": "Precisely. Don't be afraid of the '-o-mai'. It’s just how some of our most important verbs like to talk. Σας εύχομαι καλή μελέτη!"
+        },
+        {
+            "voice": "en",
+            "text": " 'Ef-kho-mai ka-lée me-lé-tee'! I wish you good study. Athina used a deponent verb right there. Excellent work today. We’ll see you in Unit 27."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
+        }
+    ]
+}

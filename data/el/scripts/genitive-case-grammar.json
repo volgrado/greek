@@ -1,0 +1,66 @@
+{
+    "id": "genitive-case-grammar",
+    "title": "Unit 15 Hyper-Exhaustive Masterclass: The Genitive Case (Possession & Relationships)",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 15: The Genitive Case. This marks your entry into the B1 Intermediate Stage. You’ve mastered the Subject and the Object... and now... we enter the world of Ownership. I'm William... and here with me is Athina. Athina... how does a Greek person express that something belongs to someone else?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! In English... you have the apostrophe 'S'... like 'George’s dog'. But in Greek... we don’t have that. We always say 'The dog of the George'. Both the item and the owner need their articles. 'O ský-los tou Yór-ghou'."
+        },
+        {
+            "voice": "en",
+            "text": "So it's always 'The Item... of the Owner'. And the article for the owner must change to the Genitive form. Athina... what are the articles for possession?"
+        },
+        {
+            "voice": "gr",
+            "text": "For Masculine and Neuter owners... it is 'TOU'. For Feminine owners... it is 'TEES'. But in the plural... it is the easiest rule in the whole language! Every owner... no matter the gender... uses the article 'TON'. And every noun ends in '-on'. 'Ton phee-lón'... of the friends. 'Ton ghi-ne-kón'... of the women."
+        },
+        {
+            "voice": "en",
+            "text": "The 'Universal Plural' '-on'. If only everything were that simple. Now... let’s look at the singular noun endings. Masculine nouns in '-os' change to '-ou'. But what about those '-as' and '-ees' names... like 'Pa-té-ras'?"
+        },
+        {
+            "voice": "gr",
+            "text": "They simply drop the final 'S'! It looks exactly like the Accusative we learned in Unit 5. 'O pa-té-ras' becomes 'tou pa-té-ra'. Feminine nouns... however... do the opposite. They ALWAYS add an 'S'! 'Ee Ma-ree-a' becomes 'tees Ma-ree-as'."
+        },
+        {
+            "voice": "en",
+            "text": "Feminines add 'S'... Masculines drop 'S'. And then we have the Neuters. '-o' to '-ou' is easy. But what about '-i' and '-ma' words?"
+        },
+        {
+            "voice": "gr",
+            "text": "They are more energetic! 'To pai-thee' becomes 'tou pai-thee-oú'... with a loud stress on the end. And the '-ma' words... like 'ma-thee-ma'... bulk up by adding an extra syllable. It becomes... 'tou ma-theée-ma-tos'."
+        },
+        {
+            "voice": "en",
+            "text": "It’s a rhythmic expansion. But wait... there’s a massive pronunciation secret in our lesson. The 'Shifting Accent'. What happens when the ending is 'too heavy'?"
+        },
+        {
+            "voice": "gr",
+            "text": "This is vital for your accent. If a word stretches too long... like 'án-thro-pos'... person... the stress is forced to move one syllable to the right! It becomes... 'an-thró-pou'. 'Ó-no-ma'... name... becomes... 'o-nó-ma-tos'. You must move the punch!"
+        },
+        {
+            "voice": "en",
+            "text": "Move the punch... or it sounds wrong. Finally... our '-os' traps. Neuter '-os' nouns like 'lá-thos'... and Feminine '-os' nouns like 'meth-o-thos'."
+        },
+        {
+            "voice": "gr",
+            "text": "Be careful! 'To lá-thos' becomes 'tou lá-thous'. And 'ee mé-tho-thos' takes the masculine ending '-ou'... 'tees me-thó-thou'... because it is wearing masculine clothes. It guards its feminine article though!"
+        },
+        {
+            "voice": "en",
+            "text": "The Genitive case is about relationships. Ownership... creators... measurements... even contents like 'a glass of water'. You have now completed the exhaustive Masterclass for Unit 15. You have the keys to B1 Intermediate Greek. Review the possessions vocabulary to see these owners in action. Excellent work... we’ll see you in Unit 16: The Imperative Mood... or how to give orders."
+        },
+        {
+            "voice": "gr",
+            "text": "Πολύ καλή δουλειά! Τα λέμε στο επόμενο μάθημα."
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": "interrogative-pronouns-grammar",
+    "title": "Unit 7 Hyper-Exhaustive Masterclass: Asking Questions",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 7: Asking Questions. You now have the nouns... the verbs... and the adjectives. The final step in your A1 foundation is learning how to ask for what you want. I'm William... and here with me is Athina. Athina... what is the very first rule of asking a question in Greek?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! The first rule is visual. In Greek... we never use the English question mark. Instead... our question mark looks exactly like an English semicolon! If you see a dot over a comma... like this... ; ... it means a question is being asked. Listen: Τι κάνεις;... How are you?"
+        },
+        {
+            "voice": "en",
+            "text": "It’s a bit of a brain-teaser at first. Now... let’s look at the 'W' words. We have two groups: the 'Fixed' words and the 'Chameleons'. Athina... give us the five solid blocks that never change."
+        },
+        {
+            "voice": "gr",
+            "text": "Τι... What. Πού... Where. Πότε... When. Πώς... How. And Γιατί... Why. These five words are steady. They remain the same no matter what you are asking about."
+        },
+        {
+            "voice": "en",
+            "text": "But wait... I noticed in Unit 1 we learned that 1-syllable words don't get accent marks. So why do 'Poó' and 'Pos' have them? Is that a 'Secret'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Yes! It’s a secret to avoid confusion. 'Poó' with an accent means 'Where'. 'Pou' without an accent means 'who' or 'which'. Same for 'Pos'. The accent is there to tell you: 'I am a question!'."
+        },
+        {
+            "voice": "en",
+            "text": "It’s a visual signal. Now... let’s meet the 'Chameleons'. These words must match the gender... number... and case of the person or thing you are hunting for. The biggest one is 'Pyos'... Who or Which. Athina?"
+        },
+        {
+            "voice": "gr",
+            "text": "Exactly. 'Pyos' is for a man... 'Py-a' for a woman... 'Py-o' for a child. And if you are asking 'WHOM' do you see... the object of the action... it becomes 'Pyon'. Listen: Ποιον βλέπεις;... Whom do you see? It drops the 'S' and adds an 'N'... just like the nouns in Unit 5."
+        },
+        {
+            "voice": "en",
+            "text": "It follows the Accusative rules. And the same goes for 'How much'... 'Pó-sos'. 'Pó-so ká-neí'... How much does it cost? Or 'Pó-sa pai-theé-a'... How many children? Now... let’s talk rules. In English... we often end a question with a preposition. 'Where are you from?'. Can we do that in Greek?"
+        },
+        {
+            "voice": "gr",
+            "text": "NEVER! In Greek... the preposition must always come strictly FIRST. You cannot say 'Where are you from'. You must say 'From where are you'. Από πού είσαι;... Me pyon mee-lás;... With whom are you speaking?"
+        },
+        {
+            "voice": "en",
+            "text": "Preposition first... always. And what about Yes or No questions? In English... we flip the order. 'He is'... becomes... 'Is he?'. In Greek?"
+        },
+        {
+            "voice": "gr",
+            "text": "We don’t flip anything! The word order stays exactly the same. You simply raise the pitch of your voice on the very last word. 'O Yór-ghos ee-nai e-thó'... is a statement. 'O Yór-ghos ee-nai e-thó;'... is a question. Only your voice changes."
+        },
+        {
+            "voice": "en",
+            "text": "It’s all in the intonation. Congratulations! You have now completed the exhaustive Masterclass for Unit 7... and with it... your entire A1 Grammar Foundation. You can read... conjugate... describe... and ask anything. Review the question words vocabulary and take a moment to celebrate this milestone. Excellent work... we’ll see you in the next module... Unit 8: Plural Nouns and Adjectives."
+        },
+        {
+            "voice": "gr",
+            "text": "Συγχαρητήρια! Είστε πλέον έτοιμοι για το επίπεδο Α2. Γεια σας!"
+        }
+    ]
+}

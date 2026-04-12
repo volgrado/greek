@@ -1,0 +1,66 @@
+{
+    "id": "participles-grammar",
+    "title": "Unit 26 Hyper-Exhaustive Masterclass: Active & Passive Participles (Οι Μετοχές)",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 35: Participles. These are the 'Verbal Adjectives'. Words like 'running', 'broken', or 'tired'. In Greek, they come in two flavors: Active and Passive. I'm Ava, and I'm joined by Athina. Athina... why are active participles so 'stable'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! The Active Participles are wonderful because they are indeclinable. They never change their ending! They always end in '-on-tas' or '-ōn-tas'."
+        },
+        {
+            "voice": "en",
+            "text": "Indeclinable... that’s music to my ears. So if I want to say 'running', I take the verb 'Tré-khō' and make it 'Tré-khon-tas'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Exactly. 'Eer-the tré-khon-tas'... he came running. 'Ír-than tré-khon-tas'... they came running. The word 'Tré-khon-tas' stays exactly the same, whether it's one person or many."
+        },
+        {
+            "voice": "en",
+            "text": "That’s perfect for describing 'how' an action is done. But what about the other kind? The Passive Participles. These are the ones that describe a state, like 'tired'."
+        },
+        {
+            "voice": "gr",
+            "text": "Ah, these are more 'traditional'. They end in '-mé-nos'. 'Kou-ra-smé-nos' (tired), 'Ghra-mmé-nos' (written), 'A-noigh-mé-nos' (opened). And because they act like adjectives, they MUST match the noun in gender and case."
+        },
+        {
+            "voice": "en",
+            "text": "So 'Ee pór-ta ee-nai a-noigh-mé-nee'... the door is opened. 'To spée-ti ee-nai ghra-mmé-no'... the house is written (maybe in a deed?). They rhyme with their subjects."
+        },
+        {
+            "voice": "gr",
+            "text": "Correct. We use these all the time as adjectives. 'En-a kou-ra-smé-no pai-dée'... a tired child. They behave exactly like the 'Ka-lós' group we learned way back in Unit 6."
+        },
+        {
+            "voice": "en",
+            "text": "Pro Tip: If you want to describe 'while doing something', use '-on-tas'. If you want to describe the 'result' of something, use '-mé-nos'. Athina, what’s the difference between '-on-tas' with an 'o' and '-on-tas' with an 'ōmega'?"
+        },
+        {
+            "voice": "gr",
+            "text": "It’s a spelling rule! If the stress is on the 'o', we use omikron: 'Tré-khon-tas'. If the stress is earlier, we use ōmega: 'Ghrá-phon-tas' (writing). But the sound is the same!"
+        },
+        {
+            "voice": "en",
+            "text": "It’s all about where the beat falls. This concludes Unit 35. You now know how to add movement and state to your Greek. Excellent work."
+        },
+        {
+            "voice": "gr",
+            "text": "Μπράβο! Τα λέμε στο επόμενο μάθημα. Γεια σας!"
+        },
+        {
+            "voice": "en",
+            "text": "Excellent work. We’ll see you in Unit 36."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
+        }
+    ]
+}

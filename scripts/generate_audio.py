@@ -6,10 +6,50 @@ from pathlib import Path
 from pydub import AudioSegment
 
 # Configuration
-VOICE_EN = "en-AU-WilliamMultilingualNeural"
-VOICE_GR = "el-GR-NestorasNeural"
+VOICE_EN = "en-US-AvaMultilingualNeural"  # "Voz inglesa buena"
+VOICE_GR = "el-GR-AthinaNeural"           # Default Greek voice
 ASSETS_DIR = Path("assets/audio/chapters")
 ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+
+def split_text_by_language(text):
+    """
+    Splits text into segments of Greek and Non-Greek (Latin) scripts.
+    Returns a list of (voice_type, text_segment) tuples.
+    """
+    if not text: return []
+    tokens = re.findall(r'[\u0370-\u03FF\s\.,!\?;:·]+|[^\u0370-\u03FF]+', text)
+    segments = []
+    for token in tokens:
+        if not token.strip(): continue
+        if re.search(r'[\u0370-\u03FF]', token):
+            segments.append(('gr', token.strip()))
+        else:
+            segments.append(('en', token.strip()))
+    return segments
+
+async def generate_segmented_audio(text, default_voice, temp_base_name):
+    """Generates audio for mixed-language text by splitting segments."""
+    segments = split_text_by_language(text)
+    combined = AudioSegment.silent(duration=0)
+    
+    for i, (lang, segment_text) in enumerate(segments):
+        voice = VOICE_GR if lang == 'gr' else VOICE_EN
+        temp_file = f"{temp_base_name}_{i}.mp3"
+        
+        subprocess.run([
+            "python", "-m", "edge_tts", 
+            "--voice", voice, 
+            "--text", segment_text, 
+            "--write-media", temp_file
+        ], check=True)
+        
+        segment_audio = AudioSegment.from_mp3(temp_file)
+        if i > 0:
+            combined += AudioSegment.silent(duration=200)
+        combined += segment_audio
+        os.remove(temp_file)
+        
+    return combined
 
 def parse_vtt_time(vtt_time_str):
     """Converts VTT timestamp (HH:MM:SS.mmm) to milliseconds."""
@@ -36,18 +76,25 @@ async def generate_chapter_audio(chapter_id, en_text, gr_text):
     output_mp3 = ASSETS_DIR / f"{chapter_id}.mp3"
     output_vtt = ASSETS_DIR / f"{chapter_id}.vtt"
 
-    # 1. Generate English Prompt using CLI
+    # 1. & 2. Generate English and Greek audio with segmentation
     print(f"Generating English prompt for {chapter_id}...")
-    subprocess.run(["python", "-m", "edge_tts", "--voice", VOICE_EN, "--text", en_text, "--write-media", temp_en_mp3], check=True)
+    audio_en = await generate_segmented_audio(en_text, VOICE_EN, "temp_en")
     
-    # 2. Generate Greek Story with VTT using CLI
-    print(f"Generating Greek story and VTT for {chapter_id}...")
-    subprocess.run(["python", "-m", "edge_tts", "--voice", VOICE_GR, "--text", gr_text, "--write-media", temp_gr_mp3, "--write-subtitles", temp_gr_vtt], check=True)
+    print(f"Generating Greek story for {chapter_id}...")
+    audio_gr = await generate_segmented_audio(gr_text, VOICE_GR, "temp_gr")
+    
+    # Generate VTT for subtitles (full Greek text is usually preferred for simplicity here, 
+    # but we could segment this too if needed. For now, we generate one VTT from the Greek voice pass).
+    subprocess.run([
+        "python", "-m", "edge_tts", 
+        "--voice", VOICE_GR, 
+        "--text", gr_text, 
+        "--write-media", "temp_gr_dummy.mp3", 
+        "--write-subtitles", temp_gr_vtt
+    ], check=True)
+    if os.path.exists("temp_gr_dummy.mp3"): os.remove("temp_gr_dummy.mp3")
 
     # 3. Process Audio (Merge)
-    audio_en = AudioSegment.from_mp3(temp_en_mp3)
-    audio_gr = AudioSegment.from_mp3(temp_gr_mp3)
-    
     # Add a small silence between them
     silence = AudioSegment.silent(duration=1000)
     full_audio = audio_en + silence + audio_gr

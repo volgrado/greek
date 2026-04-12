@@ -1,0 +1,78 @@
+{
+    "id": "adjective-comparison-grammar",
+    "title": "Unit 25 Hyper-Exhaustive Masterclass: Adjective Comparison (Better, Faster)",
+    "voices": {
+        "en": "en-US-AvaMultilingualNeural",
+        "gr": "el-GR-AthinaNeural"
+    },
+    "script": [
+        {
+            "voice": "en",
+            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 25: Adjective Comparison. In English, we just add 'er' or 'more'. Higher... more beautiful. But in Greek, we have two distinct systems: the 'Easy Way' and the 'Formal Way'. I'm Ava, and I'm joined by Athina. Athina... why does Greek need two ways to say 'bigger'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας! It’s all about the 'flavor' of your speech. In daily life, we are practical. We use 'Pio'. But if we want to sound precise, academic, or just elegant, we use the special suffix '-teros'. It’s like the difference between saying 'it's cooler' and 'it's more sophisticated'!"
+        },
+        {
+            "voice": "en",
+            "text": "The 'Sophisticated' Suffix. Let's start there. Strategy 1: The Synthetic form. We take the adjective and add '-teros', '-tera', and '-tero'. But Athina... there's a strict rule about where the stress goes, right?"
+        },
+        {
+            "voice": "gr",
+            "text": "Yes! This is the most important part. No matter where the stress was in the original word... in the comparative form, it MUST jump to the third syllable from the end. We call this 'Proparoxytone'. Listen: Ψηλός... becomes Ψη-λό-τε-ρος. The stress is now on the 'LO'."
+        },
+        {
+            "voice": "en",
+            "text": "So 'Psē-lós' for tall... 'psē-ló-te-ros' for taller. It has a beautiful rhythm. What about 'Né-os' (young)?"
+        },
+        {
+            "voice": "gr",
+            "text": " 'Né-os' becomes 'Ne-ó-te-ros'. 'O-raí-os' (beautiful) becomes 'O-rai-ó-te-ros'. It’s very consistent once you get the hang of it."
+        },
+        {
+            "voice": "en",
+            "text": "Now... let's talk about the 'Easy Way'. Strategy 2: The Analytic form. This is for when you're at the taverna and you just want a 'bigger' salad."
+        },
+        {
+            "voice": "gr",
+            "text": "Exactly. You just put the word 'Pio' before the adjective. 'Pio me-ghá-los'... bigger. 'Pio fthē-nós'... cheaper. 'Pio ka-lós'... better. It works for every adjective in the language. No endings to learn!"
+        },
+        {
+            "voice": "en",
+            "text": "Simple and effective. But move we to the Superlative. When something isn't just bigger... it's the BIGGEST. In Greek, we have 'Relative' and 'Absolute' superlatives. Athina... what's the difference?"
+        },
+        {
+            "voice": "gr",
+            "text": " 'Relative' is comparing to a group. 'O pio me-ghá-los stath-mós'... the biggest station. You just add the definite article 'O, ee, to' before the 'Pio' form. But 'Absolute' is when something is 'extremely' something. For that, we use the suffix '-tatos'."
+        },
+        {
+            "voice": "en",
+            "text": " '-tatos'! I've heard this one. 'Ō-rai-ó-ta-tos'... absolutely beautiful. 'Phthē-nó-ta-tos'... incredibly cheap."
+        },
+        {
+            "voice": "gr",
+            "text": "Exactly. It's a very 'fancy' way to express extreme qualities. Now... we must address the 'V.I.P.s'. The Irregulars. The adjectives that change their whole personality when they compare."
+        },
+        {
+            "voice": "en",
+            "text": "Let's hear the big four. Good, Bad, Big, and Small."
+        },
+        {
+            "voice": "gr",
+            "text": " 'Ka-lós' (Good) becomes 'Ka-lý-te-ros'. 'Ka-kós' (Bad) becomes 'Khei-ró-te-ros'. 'Me-ghá-los' (Big) becomes 'Me-gha-lý-te-ros'. And 'Mi-krós' (Small) becomes 'Mi-kró-te-ros'. You MUST memorize these. They are everywhere!"
+        },
+        {
+            "voice": "en",
+            "text": "So 'Ka-lý-te-ros' for better... not 'Ka-ló-te-ros'. Master these four, and you've mastered 90% of irregular Greek comparisons. Pro Tip: Use 'Pio' when you're unsure, but use the suffixes if you want to impress your Greek mother-in-law."
+        },
+        {
+            "voice": "gr",
+            "text": "Haha! Correct. Just remember the stress rule for the suffixes, and you will sound like a native. Σας περιμένω στο επόμενο μάθημα!"
+        },
+        {
+            "voice": "en",
+            "text": "Excellent work. You now have the power of comparison. We’ll see you in the next deep dive. Ya sas!"
+        }
+    ]
+}
