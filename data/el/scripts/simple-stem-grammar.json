@@ -1,70 +1,364 @@
 {
     "id": "simple-stem-grammar",
-    "title": "Unit 12 Hyper-Exhaustive Masterclass: Building the Simple Stem (Σ, Ξ, Ψ)",
+    "title": "Unit 12 Learn Greek Grammar Masterclass: Building the Simple Stem (Σ, Ξ, Ψ)",
+    "curriculum_id": "unit-12-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 12: Building the Simple Stem. This is the 'Puzzle' unit. To speak dynamically in the Future or the Subjunctive... you need the Simple Stem. The 'Photo' stem. You can't just guess it... you have to build it. I'm William... and here with me is Athina. Athina... how do we find these 'Cheat Codes'?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 12: Building the Simple Stem. This is the 'Puzzle' unit. To speak dynamically in the Future or the Subjunctive... you need the Simple Stem. The 'Photo' stem. You can't just guess it... you have to build it. I'm William... and here with me is Athina. Athina... how do we find these 'Cheat Codes'?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! It’s all about the sound at the end of the stem. We have three main groups: the S-Group... the X-Group... and the PS-Group. Sigma... Xi... and Psi."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "It’s all about the sound at the end of the stem. We have three main groups: the S-Group... the X-Group... and the PS-Group. Sigma... Xi... and Psi."
+        },
+        {
+            "voice": "gr",
+            "text": "Σίγμα, Ξι, και Ψι."
         },
         {
             "voice": "en",
-            "text": "Let's start with the most common... the 'S' Group. If a verb ends in a dental sound like 'TH'... 'N'... or most 'Z' sounds... or even a vowel... it turns into a sharp 'S'. Athina... give us an example."
+            "text": "Let's start with the most common... the 'S' Group. If a verb ends in a dental sound like"
         },
         {
             "voice": "gr",
-            "text": "Listen to 'thi-a-vá-zo'... to read. The 'Z' becomes 'S'... 'thi-a-vá-so'. Or 'kleée-no'... to close. It becomes 'kleée-so'. 'A-koó-o'... to hear... becomes 'a-koó-so'. Simple and sharp."
+            "text": "θ, ν,"
         },
         {
             "voice": "en",
-            "text": "Sharp sounds. Next is the 'X' Group... the 'Throat' sounds. If a verb ends in 'K'... 'G'... 'KH'... or 'SK'... it explodes into a 'Xi'. Athina?"
+            "text": "or most"
         },
         {
             "voice": "gr",
-            "text": "Exactly. 'A-noée-gho'... to open... becomes 'a-noée-xo'. 'Tré-kho'... to run... becomes 'tré-xo'. 'Thi-thás-ko'... to teach... becomes 'thi-thá-xo'. It’s an explosive 'X' sound."
+            "text": "ζ"
         },
         {
             "voice": "en",
-            "text": "But wait... I see some 'Z' rebels in this group. Like 'paí-zo'?"
+            "text": "sounds... or even a vowel... it turns into a sharp 'S'."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Athina... give us an example."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Listen to"
         },
         {
             "voice": "gr",
-            "text": "Yes! You must memorize these four 'Z' rebels. They belong to the 'X' group: 'Paí-zo'... 'al-lá-zo'... 'pho-ná-zo'... and 'koi-tá-zo'. They all take the 'Xi' sound. 'Paée-xo'... 'al-lá-xo'... 'pho-ná-xo'... 'koi-tá-xo'."
+            "text": "διαβάζω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to read. The"
+        },
+        {
+            "voice": "gr",
+            "text": "ζ"
+        },
+        {
+            "voice": "gr_en",
+            "text": "becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "σ... διαβάσω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Or"
+        },
+        {
+            "voice": "gr",
+            "text": "κλείνω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to close. It becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "κλείσω. Ακούω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to hear... becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "ακούσω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Simple and sharp."
         },
         {
             "voice": "en",
-            "text": "Rebels indeed. Finally... the 'PS' Group. The 'Lip' sounds. 'P'... 'V'... 'F'... and 'PT'. They merge into a 'Psi'. Athina?"
+            "text": "Sharp sounds. Next is the 'X' Group... the 'Throat' sounds. If a verb ends in"
         },
         {
             "voice": "gr",
-            "text": "Yes. 'Ghrá-pho'... to write... becomes 'ghráp-so'. 'Krý-vo'... to hide... becomes 'krýp-so'. And don't forget the '-e-vo' verbs... like 'thou-lé-vo'. Even though it looks like an 'E-V-O'... it sounds like a lip sound... so it also becomes 'thou-lép-so'."
+            "text": "κ, γ, χ,"
+        },
+        {
+            "voice": "en",
+            "text": "or"
+        },
+        {
+            "voice": "gr",
+            "text": "σκ..."
+        },
+        {
+            "voice": "en",
+            "text": "it explodes into a 'Xi'. Athina?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly."
+        },
+        {
+            "voice": "gr",
+            "text": "Ανοίγω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to open... becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "ανοίξω. Τρέχω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to run... becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "τρέξω. Διδάσκω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to teach... becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "διδάξω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It’s an explosive 'X' sound."
+        },
+        {
+            "voice": "en",
+            "text": "But wait... I see some"
+        },
+        {
+            "voice": "gr",
+            "text": "ζ"
+        },
+        {
+            "voice": "en",
+            "text": "rebels in this group. Like"
+        },
+        {
+            "voice": "gr",
+            "text": "παίζω?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes! You must memorize these four"
+        },
+        {
+            "voice": "gr",
+            "text": "ζ"
+        },
+        {
+            "voice": "gr_en",
+            "text": "rebels. They belong to the 'X' group:"
+        },
+        {
+            "voice": "gr",
+            "text": "Παίζω... αλλάζω... φωνάζω... και κοιτάζω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "They all take the 'Xi' sound."
+        },
+        {
+            "voice": "gr",
+            "text": "Παίξω... αλλάξω... φωνάξω... κοιτάξω."
+        },
+        {
+            "voice": "en",
+            "text": "Rebels indeed. Finally... the 'PS' Group. The 'Lip' sounds."
+        },
+        {
+            "voice": "gr",
+            "text": "π, β, φ,"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "πτ."
+        },
+        {
+            "voice": "en",
+            "text": "They merge into a 'Psi'. Athina?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes."
+        },
+        {
+            "voice": "gr",
+            "text": "Γράφω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to write... becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "γράψω. Κρύβω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to hide... becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "κρύψω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "And don't forget the"
+        },
+        {
+            "voice": "gr",
+            "text": "-εύω"
+        },
+        {
+            "voice": "gr_en",
+            "text": "verbs... like"
+        },
+        {
+            "voice": "gr",
+            "text": "δουλεύω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Even though it looks different... it also becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "δουλέψω."
         },
         {
             "voice": "en",
             "text": "Merging into a 'Psi'. Now... how do we put these to work? We just attach the normal greetings we know, right?"
         },
         {
+            "voice": "gr_en",
+            "text": "Exactly. Once you have the stem"
+        },
+        {
             "voice": "gr",
-            "text": "Exactly. Once you have the stem 'ghráp-'... you just add the endings. 'Tha ghráp-so'... I will write. 'Pré-pi na thou-lép-so'... I must work. The accent mark stays exactly where it was in the present tense."
+            "text": "γράψ-..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "you just add the endings."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα γράψω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I will write."
+        },
+        {
+            "voice": "gr",
+            "text": "Πρέπει να δουλέψω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I must work. The accent mark stays exactly where it was in the present tense."
         },
         {
             "voice": "en",
             "text": "And finally... the '1-Syllable Rebels'. These are the most common verbs in the language... and they don't follow any rules at all!"
         },
         {
+            "voice": "gr_en",
+            "text": "These are irregular but vital."
+        },
+        {
             "voice": "gr",
-            "text": "These are irregular but vital. 'Vlé-po'... to see... shrinks to just 'tho'. 'Lé-o'... to say... becomes 'po'. 'Pée-no'... to drink... becomes 'pyo'. Because they are so short... the stress is forced onto the ending! 'Tha thó'... 'Tha pó'... 'Tha pyo'."
+            "text": "Βλέπω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to see... shrinks to just"
+        },
+        {
+            "voice": "gr",
+            "text": "δω. Λέω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to say... becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "πω. Πίνω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to drink... becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "πιω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Because they are so short... the stress is forced onto the ending!"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα δω... Θα πω... Θα πιω."
         },
         {
             "voice": "en",
-            "text": "They are tiny but mighty! You have now mastered the 'Cheat Codes' of the Greek language. You can now build any 'Photo' stem you need to. Combining this with 'Na' and 'Tha'... you are now speaking with real Greek logic. Excellent work... and see you in Unit 13... where we meet the Object Pronouns."
+            "text": "They are tiny but mighty! You have now mastered the 'Cheat Codes' of the Greek language. You can now build any 'Photo' stem you need to. Combining this with"
+        },
+        {
+            "voice": "gr",
+            "text": "Να"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα..."
+        },
+        {
+            "voice": "en",
+            "text": "you are now speaking with real Greek logic. Excellent work... and see you in Unit 13... where we meet the Object Pronouns."
         },
         {
             "voice": "gr",

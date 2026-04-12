@@ -1,58 +1,352 @@
 {
     "id": "genitive-case-grammar",
-    "title": "Unit 15 Hyper-Exhaustive Masterclass: The Genitive Case (Possession & Relationships)",
+    "title": "Unit 15 Learn Greek Grammar Masterclass: The Genitive Case (Possession and Relationships)",
+    "curriculum_id": "unit-15-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 15: The Genitive Case. This marks your entry into the B1 Intermediate Stage. You’ve mastered the Subject and the Object... and now... we enter the world of Ownership. I'm William... and here with me is Athina. Athina... how does a Greek person express that something belongs to someone else?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 15: The Genitive Case. This marks your entry into the B1 Intermediate Stage. You’ve mastered the Subject and the Object... and now... we enter the world of Ownership. I'm William... and here with me is Athina. Athina... how does a Greek person express that something belongs to someone else?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! In English... you have the apostrophe 'S'... like 'George’s dog'. But in Greek... we don’t have that. We always say 'The dog of the George'. Both the item and the owner need their articles. 'O ský-los tou Yór-ghou'."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "In English... you have the apostrophe 'S'... like 'George’s dog'. But in Greek... we don’t have that. We always say 'The dog of the George'. Both the item and the owner need their articles. Like:"
+        },
+        {
+            "voice": "gr",
+            "text": "Ο σκύλος του Γιώργου."
         },
         {
             "voice": "en",
             "text": "So it's always 'The Item... of the Owner'. And the article for the owner must change to the Genitive form. Athina... what are the articles for possession?"
         },
         {
+            "voice": "gr_en",
+            "text": "For Masculine and Neuter owners... it is"
+        },
+        {
             "voice": "gr",
-            "text": "For Masculine and Neuter owners... it is 'TOU'. For Feminine owners... it is 'TEES'. But in the plural... it is the easiest rule in the whole language! Every owner... no matter the gender... uses the article 'TON'. And every noun ends in '-on'. 'Ton phee-lón'... of the friends. 'Ton ghi-ne-kón'... of the women."
+            "text": "Του."
+        },
+        {
+            "voice": "gr_en",
+            "text": "For Feminine owners... it is"
+        },
+        {
+            "voice": "gr",
+            "text": "Της."
+        },
+        {
+            "voice": "gr_en",
+            "text": "But in the plural... it is the easiest rule in the whole language! Every owner... no matter the gender... uses the article"
+        },
+        {
+            "voice": "gr",
+            "text": "Των."
+        },
+        {
+            "voice": "gr_en",
+            "text": "And every noun ends in"
+        },
+        {
+            "voice": "gr",
+            "text": "-ων."
+        },
+        {
+            "voice": "gr",
+            "text": "Των φίλων... Των γυναικών."
         },
         {
             "voice": "en",
-            "text": "The 'Universal Plural' '-on'. If only everything were that simple. Now... let’s look at the singular noun endings. Masculine nouns in '-os' change to '-ou'. But what about those '-as' and '-ees' names... like 'Pa-té-ras'?"
+            "text": "The 'Universal Plural'"
         },
         {
             "voice": "gr",
-            "text": "They simply drop the final 'S'! It looks exactly like the Accusative we learned in Unit 5. 'O pa-té-ras' becomes 'tou pa-té-ra'. Feminine nouns... however... do the opposite. They ALWAYS add an 'S'! 'Ee Ma-ree-a' becomes 'tees Ma-ree-as'."
+            "text": "-ων."
         },
         {
             "voice": "en",
-            "text": "Feminines add 'S'... Masculines drop 'S'. And then we have the Neuters. '-o' to '-ou' is easy. But what about '-i' and '-ma' words?"
+            "text": "If only everything were that simple. Now... let’s look at the singular noun endings. Masculine nouns in"
         },
         {
             "voice": "gr",
-            "text": "They are more energetic! 'To pai-thee' becomes 'tou pai-thee-oú'... with a loud stress on the end. And the '-ma' words... like 'ma-thee-ma'... bulk up by adding an extra syllable. It becomes... 'tou ma-theée-ma-tos'."
+            "text": "-ος"
+        },
+        {
+            "voice": "en",
+            "text": "change to"
+        },
+        {
+            "voice": "gr",
+            "text": "-ου."
+        },
+        {
+            "voice": "en",
+            "text": "But what about those"
+        },
+        {
+            "voice": "gr",
+            "text": "-ας"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "-ης"
+        },
+        {
+            "voice": "en",
+            "text": "names... like"
+        },
+        {
+            "voice": "gr",
+            "text": "Πατέρας;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "They simply drop the final"
+        },
+        {
+            "voice": "gr",
+            "text": "ς!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "It looks exactly like the Accusative we learned in Unit 5."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο πατέρας... Του πατέρα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Feminine nouns... however... do the opposite. They ALWAYS add an"
+        },
+        {
+            "voice": "gr",
+            "text": "ς!"
+        },
+        {
+            "voice": "gr",
+            "text": "Η Μαρία... Της Μαρίας."
+        },
+        {
+            "voice": "en",
+            "text": "Feminines add"
+        },
+        {
+            "voice": "gr",
+            "text": "Σ..."
+        },
+        {
+            "voice": "en",
+            "text": "Masculines drop"
+        },
+        {
+            "voice": "gr",
+            "text": "Σ."
+        },
+        {
+            "voice": "en",
+            "text": "And then we have the Neuters."
+        },
+        {
+            "voice": "gr",
+            "text": "-ο"
+        },
+        {
+            "voice": "en",
+            "text": "to"
+        },
+        {
+            "voice": "gr",
+            "text": "-ου"
+        },
+        {
+            "voice": "en",
+            "text": "is easy. But what about"
+        },
+        {
+            "voice": "gr",
+            "text": "-ι"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "-μα"
+        },
+        {
+            "voice": "en",
+            "text": "words?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "They are more energetic!"
+        },
+        {
+            "voice": "gr",
+            "text": "Το παιδί"
+        },
+        {
+            "voice": "gr_en",
+            "text": "becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "του παιδιού..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "with a loud stress on the end. And the"
+        },
+        {
+            "voice": "gr",
+            "text": "-μα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "words... like"
+        },
+        {
+            "voice": "gr",
+            "text": "μάθημα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "bulk up by adding an extra syllable. It becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "του μαθήματος."
         },
         {
             "voice": "en",
             "text": "It’s a rhythmic expansion. But wait... there’s a massive pronunciation secret in our lesson. The 'Shifting Accent'. What happens when the ending is 'too heavy'?"
         },
         {
+            "voice": "gr_en",
+            "text": "This is vital for your accent. If a word stretches too long... like"
+        },
+        {
             "voice": "gr",
-            "text": "This is vital for your accent. If a word stretches too long... like 'án-thro-pos'... person... the stress is forced to move one syllable to the right! It becomes... 'an-thró-pou'. 'Ó-no-ma'... name... becomes... 'o-nó-ma-tos'. You must move the punch!"
+            "text": "άνθρωπος..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "person... the stress is forced to move one syllable to the right! It becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "του ανθρώπου."
+        },
+        {
+            "voice": "gr",
+            "text": "Όνομα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "name... becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "του ονόματος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "You must move the punch!"
         },
         {
             "voice": "en",
-            "text": "Move the punch... or it sounds wrong. Finally... our '-os' traps. Neuter '-os' nouns like 'lá-thos'... and Feminine '-os' nouns like 'meth-o-thos'."
+            "text": "Move the punch... or it sounds wrong. Finally... our"
         },
         {
             "voice": "gr",
-            "text": "Be careful! 'To lá-thos' becomes 'tou lá-thous'. And 'ee mé-tho-thos' takes the masculine ending '-ou'... 'tees me-thó-thou'... because it is wearing masculine clothes. It guards its feminine article though!"
+            "text": "-ος"
+        },
+        {
+            "voice": "en",
+            "text": "traps. Neuter"
+        },
+        {
+            "voice": "gr",
+            "text": "-ος"
+        },
+        {
+            "voice": "en",
+            "text": "nouns like"
+        },
+        {
+            "voice": "gr",
+            "text": "λάθος..."
+        },
+        {
+            "voice": "en",
+            "text": "and Feminine"
+        },
+        {
+            "voice": "gr",
+            "text": "-ος"
+        },
+        {
+            "voice": "en",
+            "text": "nouns like"
+        },
+        {
+            "voice": "gr",
+            "text": "μέθοδος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Be careful!"
+        },
+        {
+            "voice": "gr",
+            "text": "Το λάθος"
+        },
+        {
+            "voice": "gr_en",
+            "text": "becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "του λάθους."
+        },
+        {
+            "voice": "gr_en",
+            "text": "And"
+        },
+        {
+            "voice": "gr",
+            "text": "η μέθοδος"
+        },
+        {
+            "voice": "gr_en",
+            "text": "takes the masculine ending"
+        },
+        {
+            "voice": "gr",
+            "text": "-ου..."
+        },
+        {
+            "voice": "gr",
+            "text": "της μεθόδου..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "because it is wearing masculine clothes. It guards its feminine article though!"
         },
         {
             "voice": "en",

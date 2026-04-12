@@ -1,74 +1,244 @@
 {
     "id": "particles-grammar",
-    "title": "Unit 22 Hyper-Exhaustive Masterclass: Advanced Particles & Spoken Expressions",
+    "title": "Unit 22 Learn Greek Grammar Masterclass: Advanced Particles & Spoken Expressions",
+    "curriculum_id": "unit-22-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 36: The Particles. These are the tiniest words in Greek, but they carry the biggest 'attitude'. They turn statements into dreams, orders into suggestions, or facts into futures. I'm Ava, and I'm joined by Athina. Athina... why do these tiny words like 'Tha' and 'Na' matter so much?"
-        },
-        {
-            "voice": "gr",
-            "text": "Γεια σας! In Greek, the verb tells you the action, but the 'Particle' tells you the 'Mood'. Without them, the language would be just a list of facts. They add the human element."
-        },
-        {
-            "voice": "en",
-            "text": "Let's look at the big three: 'Tha', 'Na', and 'As'. We already know 'Tha' is for the future. But what about 'Na'?"
-        },
-        {
-            "voice": "gr",
-            "text": " 'Na' is our Subjunctive particle. It expresses a wish, a command, or a purpose. 'Thé-lō na pá-ō'... I want to go. 'Na fý-ghe-te!'... You should leave! It’s like a bridge between the subject and the action."
-        },
-        {
-            "voice": "en",
-            "text": "And 'As'? That’s for 'Let's', right?"
-        },
-        {
-            "voice": "gr",
-            "text": "Exactly. 'As pá-me'... Let’s go. 'As póu-me'... Let’s say. It’s for collective suggestions or just giving permission to the universe for something to happen. 'As ghée-nei'... Let it be."
-        },
-        {
-            "voice": "en",
-            "text": " 'As ghée-nei'. I like that. Now... let's talk about the 'Nuance' particles. The ones that don’t have a direct translation but change the 'vibe'. Like 'Ma' and 'Re'."
-        },
-        {
-            "voice": "gr",
-            "text": "Oh, 'Re' is the most famous Greek word! It’s an informal address. 'É-la re!'... Come on, man! It can be friendly, or it can be angry, depending on your tone. But 'Ma' is for emphasis: 'Ma... dhen to í-pous!'... But... you didn't say it!"
-        },
-        {
-            "voice": "en",
-            "text": "So 'Ma' is like a focused 'But'. There’s also 'Loigh-íp-on' and 'Ís-ōs'. Athina?"
-        },
-        {
-            "voice": "gr",
-            "text": " 'Loi-pón' means 'So' or 'Therefore'. We use it to start new topics or conclude a point. 'Loi-pón, ti ká-nou-me?'... So, what are we doing? And 'Í-sōs' means 'Perhaps'. It’s the particle of uncertainty."
-        },
-        {
-            "voice": "en",
-            "text": "Pro Tip: If you want to sound like a local, sprinkle in some 'Loi-pón' and 'Re' (with friends!). They act as the 'punctuation' of speech. Athina, what’s your favorite particle for daily life?"
-        },
-        {
-            "voice": "gr",
-            "text": "I love 'Ya'. It’s an intensifying particle. 'Ya kée-ta!'... Just look! It makes the action sound more immediate and urgent. It’s very common when we want someone to pay attention."
-        },
-        {
-            "voice": "en",
-            "text": " 'Ya kée-ta'. Just look. Well, 'Ya kée-ta', everyone... you’ve just mastered the particles. This concludes Unit 36. Use these tiny words to give your Greek big energy."
-        },
-        {
-            "voice": "gr",
-            "text": "Μπράβο σας! Τα λέμε στο επόμενο μάθημα. Γεια σας!"
-        },
-        {
-            "voice": "en",
-            "text": "Excellent work. We’ll see you in Unit 37."
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 22: The Particles. These are the tiniest words in Greek, but they carry the biggest 'attitude'. They turn statements into dreams, orders into suggestions, or facts into futures. I'm William, and I'm joined by Athina. Athina... why do these tiny words matter so much?"
         },
         {
             "voice": "gr",
             "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "In Greek, the verb tells you the action, but the 'Particle' tells you the 'Mood'. Without them, the language would be just a list of facts. They add the human element."
+        },
+        {
+            "voice": "en",
+            "text": "Let's look at the big three:"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα, Να,"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Ας."
+        },
+        {
+            "voice": "en",
+            "text": "We already know"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "en",
+            "text": "is for the future. But what about"
+        },
+        {
+            "voice": "gr",
+            "text": "Να;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "It’s our Subjunctive particle. It expresses a wish... a command... or a purpose."
+        },
+        {
+            "voice": "gr",
+            "text": "Θέλω να πάω. Να φύγετε!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "I want to go. You should leave! It’s like a bridge."
+        },
+        {
+            "voice": "en",
+            "text": "And"
+        },
+        {
+            "voice": "gr",
+            "text": "Ας;"
+        },
+        {
+            "voice": "en",
+            "text": "That’s for 'Let's', right?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly."
+        },
+        {
+            "voice": "gr",
+            "text": "Ας πάμε... Ας πούμε."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Let’s go. Let’s say."
+        },
+        {
+            "voice": "gr",
+            "text": "Ας γίνει..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Let it be."
+        },
+        {
+            "voice": "en",
+            "text": "Now... let's talk about the 'Nuance' particles. The ones that don’t have a direct translation. Like"
+        },
+        {
+            "voice": "gr",
+            "text": "Μα"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Ρε."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Oh,"
+        },
+        {
+            "voice": "gr",
+            "text": "Ρε"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is the most famous Greek word! It’s an informal address."
+        },
+        {
+            "voice": "gr",
+            "text": "Έλα ρε!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Come on, man! It can be friendly... or it can be angry. But"
+        },
+        {
+            "voice": "gr",
+            "text": "Μα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is for emphasis."
+        },
+        {
+            "voice": "gr",
+            "text": "Μα... δεν το είπες!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "But... you didn't say it!"
+        },
+        {
+            "voice": "en",
+            "text": "There’s also"
+        },
+        {
+            "voice": "gr",
+            "text": "Λοιπόν"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Ίσως."
+        },
+        {
+            "voice": "gr_en",
+            "text": "The first means 'So' or 'Therefore'."
+        },
+        {
+            "voice": "gr",
+            "text": "Λοιπόν, τι κάνουμε;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "So, what are we doing? And"
+        },
+        {
+            "voice": "gr",
+            "text": "Ίσως"
+        },
+        {
+            "voice": "gr_en",
+            "text": "means 'Perhaps'."
+        },
+        {
+            "voice": "en",
+            "text": "Pro Tip: If you want to sound like a local, sprinkle in some"
+        },
+        {
+            "voice": "gr",
+            "text": "Λοιπόν"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Ρε."
+        },
+        {
+            "voice": "en",
+            "text": "They act as the 'punctuation' of speech. Athina, what’s your favorite particle for daily life?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "I love"
+        },
+        {
+            "voice": "gr",
+            "text": "Για."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It’s an intensifying particle."
+        },
+        {
+            "voice": "gr",
+            "text": "Για κοίτα!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Just look! It makes the action sound more immediate and urgent."
+        },
+        {
+            "voice": "en",
+            "text": "Well,"
+        },
+        {
+            "voice": "gr",
+            "text": "Για κοίτα,"
+        },
+        {
+            "voice": "en",
+            "text": "everyone... you’ve just mastered the particles. This concludes Unit 22. Use these tiny words to give your Greek big energy."
+        },
+        {
+            "voice": "gr",
+            "text": "Μπράβο σας! Τα λέμε στο επόμενο μάθημα. Γεια σας!"
         }
     ]
 }

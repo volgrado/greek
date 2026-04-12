@@ -1,62 +1,240 @@
 {
     "id": "object-pronouns-grammar",
-    "title": "Unit 13 Hyper-Exhaustive Masterclass: Direct & Indirect Object Pronouns (Weak Pronouns)",
+    "title": "Unit 13 Learn Greek Grammar Masterclass: Direct and Indirect Object Pronouns (Weak Pronouns)",
+    "curriculum_id": "unit-13-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 13: Direct and Indirect Object Pronouns. In Unit 3, we learned the subject pronouns like 'E-ghó'... and how Greeks usually drop them. But today... we meet the real stars of everyday conversation. The little words for 'me'... 'him'... or 'it'. We call them Weak Pronouns. I'm William... and here with me is Athina. Athina... why do we call them 'weak'?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 13: Direct and Indirect Object Pronouns. In Unit 3, we learned the subject pronouns like"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! We call them weak because they are short... unstressed... and they cannot stand alone. They are like parasites... they must cling to a verb to survive. But before we use them... we must know if the person is the 'Direct Target' or the 'Indirect Receiver'."
+            "text": "Εγώ..."
+        },
+        {
+            "voice": "en",
+            "text": "and how Greeks usually drop them. But today... we meet the real stars of everyday conversation. The little words for 'me'... 'him'... or 'it'. We call them Weak Pronouns. I'm William... and here with me is Athina. Athina... why do we call them 'weak'?"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "We call them weak because they are short... unstressed... and they cannot stand alone. They are like parasites... they must cling to a verb to survive. But before we use them... we must know if the person is the 'Direct Target' or the 'Indirect Receiver'."
         },
         {
             "voice": "en",
             "text": "This is the big distinction. If I say 'Do you see me?'... I am the direct target. That's the Accusative case. But if I say 'Give the coffee TO me'... I am the receiver. In Greek... you don't need the word 'to'... you just use the Genitive case. Athina... show us the difference between 'Me' and 'To Me'."
         },
         {
+            "voice": "gr_en",
+            "text": "Listen carefully."
+        },
+        {
             "voice": "gr",
-            "text": "Listen carefully. 'Me'... is 'Me'. 'To Me'... is 'Mou'. 'Se'... is 'You'. 'To You'... is 'Sou'. 'Ton'... is 'Him'. 'Tou'... is 'To Him'."
+            "text": "Με"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is 'Me'."
+        },
+        {
+            "voice": "gr",
+            "text": "Μου"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is 'To Me'."
+        },
+        {
+            "voice": "gr",
+            "text": "Σε"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is 'You'."
+        },
+        {
+            "voice": "gr",
+            "text": "Σου"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is 'To You'."
+        },
+        {
+            "voice": "gr",
+            "text": "Τον"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is 'Him'."
+        },
+        {
+            "voice": "gr",
+            "text": "Του"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is 'To Him'."
         },
         {
             "voice": "en",
-            "text": "One vowel change... and the whole meaning shifts. But wait... what about 'Us' and 'You all'? 'Mas' and 'Sas'?"
+            "text": "One vowel change... and the whole meaning shifts. But wait... what about 'Us' and 'You all'?"
         },
         {
             "voice": "gr",
-            "text": "These are our favorites! They are 'Freebies'. 'Mas' means both 'Us' and 'To Us'. 'Sas' means 'You all' and 'To You all'. No need to change anything!"
+            "text": "Μας"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Σας?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "These are our favorites! They are 'Freebies'."
+        },
+        {
+            "voice": "gr",
+            "text": "Μας"
+        },
+        {
+            "voice": "gr_en",
+            "text": "means both 'Us' and 'To Us'."
+        },
+        {
+            "voice": "gr",
+            "text": "Σας"
+        },
+        {
+            "voice": "gr_en",
+            "text": "means 'You all' and 'To You all'. No need to change anything!"
         },
         {
             "voice": "en",
             "text": "I love a freebie. Now... let's talk about the 'Clingy Rule'. Where do these pronouns sit in a sentence? In English... they come after the verb. 'I see HIM'. But in Greek?"
         },
         {
+            "voice": "gr_en",
+            "text": "Always strictly BEFORE the verb!"
+        },
+        {
             "voice": "gr",
-            "text": "Always strictly BEFORE the verb! 'Ton vlé-po'. 'Se a-gha-pó'. They must be first. And if you use particles like 'Tha' for the future... or 'Den' for no... the pronoun jumps right in the middle."
+            "text": "Τον βλέπω. Σε αγαπώ."
+        },
+        {
+            "voice": "gr_en",
+            "text": "They must be first. And if you use particles like"
+        },
+        {
+            "voice": "gr",
+            "text": "Θα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for the future... or"
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for no... the pronoun jumps right in the middle."
         },
         {
             "voice": "en",
-            "text": "The 'Particle Sandwich'. 'Den SE kksé-ro'... I don't know you. 'Tha SOU po'... I will tell you. But wait... there is a huge 'Command Exception' in our lesson. If I’m giving an order... like 'Tell me!'... what happens?"
+            "text": "The 'Particle Sandwich'."
         },
         {
             "voice": "gr",
-            "text": "If it is a command... the pronoun is forced to move to the very END of the verb. It becomes a tail! 'Mou to les' for a statement... but... 'Pes mou to!' for a command. Tell it to me!"
+            "text": "Δεν σε ξέρω..."
+        },
+        {
+            "voice": "en",
+            "text": "I don't know you."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα σου πω..."
+        },
+        {
+            "voice": "en",
+            "text": "I will tell you. But wait... there is a huge 'Command Exception' in our lesson. If I’m giving an order... like 'Tell me!'... what happens?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "If it is a command... the pronoun is forced to move to the very END of the verb. It becomes a tail!"
+        },
+        {
+            "voice": "gr",
+            "text": "Μου το λες..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "for a statement... but..."
+        },
+        {
+            "voice": "gr",
+            "text": "Πες μου το!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for a command. Tell it to me!"
         },
         {
             "voice": "en",
             "text": "From front to back. And what about 'Stacking'? If I want to say 'I give it to her'... I need two pronouns. What is the Greek order of operations?"
         },
         {
+            "voice": "gr_en",
+            "text": "Greek is very polite: the Person always comes before the Thing. Indirect before Direct."
+        },
+        {
             "voice": "gr",
-            "text": "Greek is very polite: the Person always comes before the Thing. Indirect before Direct. 'Tees to thée-no'... 'I give IT... TO HER'. The 'Tees' for her comes first. And a native secret: if you say 'Sou to' for 'to you it'... we blend it into a single sharp 's-to'!"
+            "text": "Της το δίνω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "'I give IT... TO HER'. The"
+        },
+        {
+            "voice": "gr",
+            "text": "Της"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for her comes first. And a native secret: if you say"
+        },
+        {
+            "voice": "gr",
+            "text": "Σου το"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for 'to you it'... we blend it into a single sharp sound."
+        },
+        {
+            "voice": "gr",
+            "text": "Σ’το."
+        },
+        {
+            "voice": "gr",
+            "text": "Σ’το λέω!"
         },
         {
             "voice": "en",
-            "text": "S'to léo! I am telling it to you. You have now completed the exhaustive Masterclass for Unit 13. You can target people... receive gifts... stack pronouns like a pro... and even handle the command exceptions. Review the shopping and clothes vocabulary to practice these object pronouns. Excellent work... we’ll see you in Unit 14... where we dive into the Past."
+            "text": "I am telling it to you. You have now completed the exhaustive Masterclass for Unit 13. You can target people... receive gifts... stack pronouns like a pro... and even handle the command exceptions. Review the shopping and clothes vocabulary to practice these object pronouns. Excellent work... we’ll see you in Unit 14... where we dive into the Past."
         },
         {
             "voice": "gr",

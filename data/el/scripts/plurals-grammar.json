@@ -1,74 +1,252 @@
 {
     "id": "plurals-grammar",
-    "title": "Unit 8 Hyper-Exhaustive Masterclass: Plural Nouns & Adjectives",
+    "title": "Unit 8 Learn Greek Grammar Masterclass: Plural Nouns and Articles",
+    "curriculum_id": "unit-8-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 8: Plural Nouns and Adjectives. You’ve mastered the singular world. Now... it’s time to multiply everything. In English... making a plural is boring... you just add an 'S'. But in Greek... the entire sentence must adapt. I'm William... and here with me is Athina. Athina... how does a Greek person think about 'more than one'?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 8: Plural Nouns and Articles. So far... we've lived in a world of 'ones'. One car... one friend... one book. But life is full of groups. In English... we just add 'S'. In Greek... we change the article... and we change the ending... but we do it with systematic rules. I'm William... and here with me is Athina. Athina... where do we start with the many?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! In Greek... when a noun becomes plural... its Article... its Ending... and even the Adjective describing it must all change shape together. We call it 'The Multiply Rule'. Let's start with the most active group: the Masculine nouns."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "We start with the Article. This is your first signal that we are talking about more than one. Let's look at Masculine first."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο φίλος..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "the friend (singular)... becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "Οι φίλοι."
         },
         {
             "voice": "en",
-            "text": "Masculine nouns are hyperactive. They have two different sets of endings in the plural... depending on whether they are the Subject or the Object. Athina... show us the 'ee' versus 'oos' split."
+            "text": "Wait..."
         },
         {
             "voice": "gr",
-            "text": "Listen to the rhyme. When they do the action... the article is 'EE' and the ending is 'EE'. 'Ee ka-loée phée-lee'... the good friends. But! When they receive the action... the article is 'TOOS' and the ending is 'OOS'. 'Toos ka-loós phee-loós'. Both are plural... but the sound tells you their role."
+            "text": "Οι;"
         },
         {
             "voice": "en",
-            "text": "So 'ee' for subjects... 'toos' for objects. And wait... there's a group called the 'Extra Syllable' nouns? This sounds like a gym workout."
+            "text": "That's the same sound as the feminine article"
         },
         {
             "voice": "gr",
-            "text": "It is! Common words like 'ka-phés'... coffee... or 'pa-pás'... priest... bulk up in the plural. They add the extra syllable 'thes'. 'O ka-phés' becomes... 'ee ka-phé-thes'. 'O pa-pás' becomes... 'ee pa-pá-thes'. It’s very rhythmic."
+            "text": "η"
         },
         {
             "voice": "en",
-            "text": "I can hear the rhythm. Now... Feminine nouns. They seem a bit more relaxed about all this."
+            "text": "from Unit 2. Is that right?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Phonetically... yes! Both are 'ee'. But in writing... the masculine plural is"
         },
         {
             "voice": "gr",
-            "text": "Much friendlier. The noun ending '-es' stays exactly the same for both the subject and the object. Only the article flips. 'EE mee-té-res' for the subject... and 'TEES mee-té-res' for the object. But! Watch out for the 'Masked Feminines'."
+            "text": "Οι."
         },
         {
             "voice": "en",
-            "text": "You mean words like 'ee o-thós'... the street? We learned in Unit 2 that they look masculine."
+            "text": "Okay... so 'ee' for the article... and 'ee' for the noun ending. It's another rhyme! What about Feminine?"
         },
         {
             "voice": "gr",
-            "text": "Exactly. They keep their mask in the plural too. They take masculine endings... 'ee o-thoée'... 'tees o-thoós'... but they strictly guard their feminine articles. They are masculine on the outside... but feminine in the heart!"
+            "text": "Η φίλη..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "singular... becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "Οι φίλες."
         },
         {
             "voice": "en",
-            "text": "Masterful. And finally... the Neuter nouns. The stable group."
+            "text": "So the article for BOTH masculine and feminine plural is"
         },
         {
             "voice": "gr",
-            "text": "Neuter plurals always use the article 'TA'. Endings change logically: '-o' becomes '-a'... 'vi-vlee-o' -> 'vi-vlee-a'. '-i' becomes '-ia'... 'pai-thée' -> 'pai-theé-a'. And my favorites... the '-ma' words... they grow into '-ma-ta'. 'Má-thee-ma' -> 'Ma-theée-ma-ta'."
+            "text": "Οι;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes! Both are"
+        },
+        {
+            "voice": "gr",
+            "text": "Οι."
+        },
+        {
+            "voice": "gr_en",
+            "text": "This makes the plural article very easy to remember. Just use"
+        },
+        {
+            "voice": "gr",
+            "text": "οι"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for everyone except the neuters."
         },
         {
             "voice": "en",
-            "text": "But there's an 'Ultimate Trap' for Neuters, isn't there? The '-os' words like 'lá-thos'?"
+            "text": "Ah... the neuters. They always have their own path."
         },
         {
             "voice": "gr",
-            "text": "Yes. This is the biggest mistake for students. Neuter words ending in '-os'... like 'to lá-thos'... mistake... or 'to thá-sos'... forest... do NOT use the '-a' ending. They drop the '-os' and add '-ee'. 'Ta lá-thee'... 'Ta thá-see'. Do not confuse them with masculine nouns!"
+            "text": "Το παιδί..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "Τα παιδιά."
         },
         {
             "voice": "en",
-            "text": "Got it. Neuter '-os' goes to '-ee'. You have now completed the exhaustive Masterclass for Unit 8. You can pluralize anything... you know the 'thes' gym workout... and you’ve avoided the 'lá-thos' trap. Every part of your sentence is now in full agreement. Review the routines and hobbies vocabulary to see these plurals in action. Excellent work... we’ll see you in Unit 9: The Verb Groups B1 and B2."
+            "text": "So"
         },
         {
             "voice": "gr",
-            "text": "Συγχαρητήρια! Τα λέμε στο επόμενο μάθημα."
+            "text": "Το"
+        },
+        {
+            "voice": "en",
+            "text": "becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "Τα..."
+        },
+        {
+            "voice": "en",
+            "text": "and the ending changes. It sounds very different. What about the other types of endings? Like"
+        },
+        {
+            "voice": "gr",
+            "text": "πατέρας"
+        },
+        {
+            "voice": "en",
+            "text": "or"
+        },
+        {
+            "voice": "gr",
+            "text": "θάλασσα;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Masculine nouns ending in"
+        },
+        {
+            "voice": "gr",
+            "text": "-ας"
+        },
+        {
+            "voice": "gr_en",
+            "text": "or"
+        },
+        {
+            "voice": "gr",
+            "text": "-ης"
+        },
+        {
+            "voice": "gr_en",
+            "text": "use the ending"
+        },
+        {
+            "voice": "gr",
+            "text": "-ες."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο πατέρας... Οι πατέρες. Ο μαθητής... Οι μαθητές."
+        },
+        {
+            "voice": "gr_en",
+            "text": "And Feminine nouns?"
+        },
+        {
+            "voice": "gr",
+            "text": "Η θάλασσα... Οι θάλασσες. Η αγάπη... Οι αγάπες."
+        },
+        {
+            "voice": "en",
+            "text": "So"
+        },
+        {
+            "voice": "gr",
+            "text": "-ες"
+        },
+        {
+            "voice": "en",
+            "text": "is the king of plural endings for many nouns. And finally... the Neuter nouns that end in"
+        },
+        {
+            "voice": "gr",
+            "text": "-μα;"
+        },
+        {
+            "voice": "gr",
+            "text": "Το μάθημα... Τα μαθήματα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "We add a"
+        },
+        {
+            "voice": "gr",
+            "text": "τα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "at the end. It sounds like a drumbeat!"
+        },
+        {
+            "voice": "en",
+            "text": "Wait... I noticed something. Does the accent mark... the"
+        },
+        {
+            "voice": "gr",
+            "text": "Τόνος..."
+        },
+        {
+            "voice": "en",
+            "text": "ever move when we pluralize?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "In regular nouns... no! It stays exactly where it was. If it was on the first syllable... it stays there."
+        },
+        {
+            "voice": "gr",
+            "text": "Μάθημα... Μαθήματα."
+        },
+        {
+            "voice": "en",
+            "text": "Got it. This has been a great dive into the world of 'Groups'. You now know the plural articles and the four common plural endings. Practice with the pluralization worksheet and try turning your singular vocabulary into pairs. Excellent work... we'll see you in Unit 9: Genitive Case and Possession."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
         }
     ]
 }

@@ -1,58 +1,320 @@
 {
     "id": "nouns-grammar",
-    "title": "Unit 2 Hyper-Exhaustive Masterclass: The Basics of Nouns & Articles",
+    "title": "Unit 2 Learn Greek Grammar Masterclass: The Basics of Nouns and Articles",
+    "curriculum_id": "unit-2-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 2: The Basics of Nouns and Articles. In English... a car is always a car. It doesn't care if it's the subject or the object. But in Greek... nouns are alive. They change their shape... they have genders... and they insist on matching their articles perfectly. Athina... where do we start with these 'living' nouns?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 2: The Basics of Nouns and Articles. In English... a car is always a car. It doesn't care if it's the subject or the object. But in Greek... nouns are alive. They change their shape... they have genders... and they insist on matching their articles perfectly. Athina... where do we start with these 'living' nouns?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! We start with the 'ID card'. Every Greek noun belongs to one of three categories: Masculine, Feminine, or Neuter. But listen carefully... grammatical gender has nothing to do with being male or female. For example... the word for girl... 'kor-ée-tsi'... and the word for boy... 'a-ghó-ri'... are BOTH grammatically neuter!"
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "We start with the 'ID card'. Every Greek noun belongs to one of three categories: Masculine, Feminine, or Neuter. But listen carefully... grammatical gender has nothing to do with being male or female. For example... the word for girl..."
+        },
+        {
+            "voice": "gr",
+            "text": "κορίτσι..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "and the word for boy..."
+        },
+        {
+            "voice": "gr",
+            "text": "αγόρι..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "are BOTH grammatically neuter!"
         },
         {
             "voice": "en",
             "text": "That's a huge point. Don't look for logic... look for endings! Athina... what are the typical 'ending signals' for each gender?"
         },
         {
+            "voice": "gr_en",
+            "text": "For Masculine... look for"
+        },
+        {
             "voice": "gr",
-            "text": "For Masculine... look for '-os', '-as', or '-ees'. Like 'o phí-los'. For Feminine... look for '-a' or '-ee'. Like 'ee a-ghá-pee'. And for Neuter... look for '-o', '-ee', or '-ma'. Like 'to spée-ti' or 'to má-thee-ma'."
+            "text": "-ος, -ας, ή -ης."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Like"
+        },
+        {
+            "voice": "gr",
+            "text": "ο φίλος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "For Feminine... look for"
+        },
+        {
+            "voice": "gr",
+            "text": "-α ή -η."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Like"
+        },
+        {
+            "voice": "gr",
+            "text": "η αγáπη."
+        },
+        {
+            "voice": "gr_en",
+            "text": "And for Neuter... look for"
+        },
+        {
+            "voice": "gr",
+            "text": "-ο, -ι, ή -μα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Like"
+        },
+        {
+            "voice": "gr",
+            "text": "το σπίτι"
+        },
+        {
+            "voice": "gr_en",
+            "text": "or"
+        },
+        {
+            "voice": "gr",
+            "text": "το μάθημα."
         },
         {
             "voice": "en",
-            "text": "But wait... I see a 'Warning' in our lesson about the '-os' ending. It's usually masculine... but not always?"
+            "text": "But wait... I see a 'Warning' in our lesson about the"
         },
         {
             "voice": "gr",
-            "text": "Correct. This is why you MUST learn the article first! Some '-os' words are feminine... like 'ee o-thós', the street. And some are neuter... like 'to lá-thos', the mistake. The article 'o', 'ee', or 'to' is your only true guide."
+            "text": "-ος"
+        },
+        {
+            "voice": "en",
+            "text": "ending. It's usually masculine... but not always?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Correct. This is why you MUST learn the article first! Some"
+        },
+        {
+            "voice": "gr",
+            "text": "-ος"
+        },
+        {
+            "voice": "gr_en",
+            "text": "words are feminine... like"
+        },
+        {
+            "voice": "gr",
+            "text": "η οδός,"
+        },
+        {
+            "voice": "gr_en",
+            "text": "the street. And some are neuter... like"
+        },
+        {
+            "voice": "gr",
+            "text": "το λάθος,"
+        },
+        {
+            "voice": "gr_en",
+            "text": "the mistake. The article"
+        },
+        {
+            "voice": "gr",
+            "text": "ο, η, ή το"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is your only true guide."
         },
         {
             "voice": "en",
             "text": "So... the 'Golden Rule' is: Never learn a noun without its article. Now... what if we want to say 'a' or 'an'... the indefinite article?"
         },
         {
+            "voice": "gr_en",
+            "text": "We have three of those too!"
+        },
+        {
             "voice": "gr",
-            "text": "We have three of those too! 'É-nas' for masculine... 'mee-a' for feminine... and 'é-na' for neuter. But here is a native secret: if you see 'mee-a' written as one syllable... 'mya'... it's just a quick 'a'. If it's written as 'mee-a' with an accent... you are emphasizing the number ONE."
+            "text": "Ένας"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for masculine..."
+        },
+        {
+            "voice": "gr",
+            "text": "μία"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for feminine... and"
+        },
+        {
+            "voice": "gr",
+            "text": "ένα"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for neuter. But here is a native secret: if you see"
+        },
+        {
+            "voice": "gr",
+            "text": "μία"
+        },
+        {
+            "voice": "gr_en",
+            "text": "written as one syllable..."
+        },
+        {
+            "voice": "gr",
+            "text": "μια..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "it's just a quick 'a'. If it's written as"
+        },
+        {
+            "voice": "gr",
+            "text": "μία"
+        },
+        {
+            "voice": "gr_en",
+            "text": "with an accent... you are emphasizing the number ONE."
         },
         {
             "voice": "en",
             "text": "Fascinating. Now... let's talk about the 'Shape-Shifting'. The Cases. A noun changes when it moves from being the Subject... to being the Object. In the 'Nominative Case'... the dictionary form... everything is normal. But what happens in the 'Accusative Case', when the noun is the target of the action?"
         },
         {
+            "voice": "gr_en",
+            "text": "This is where masculine nouns are very active!"
+        },
+        {
             "voice": "gr",
-            "text": "This is where masculine nouns are very active! 'O pa-té-ras'... the father... drops his final 'S' and his article becomes 'ton'. It becomes... 'ton pa-té-ra'. Feminine nouns are shy... the noun stays the same... but the article changes from 'ee' to 'teen'. And Neuter nouns? They are perfectly static. They don't change at all!"
+            "text": "Ο πατέρας..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "the father... drops his final"
+        },
+        {
+            "voice": "gr",
+            "text": "ς"
+        },
+        {
+            "voice": "gr_en",
+            "text": "and his article becomes"
+        },
+        {
+            "voice": "gr",
+            "text": "τον."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "τον πατέρα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Feminine nouns are shy... the noun stays the same... but the article changes from"
+        },
+        {
+            "voice": "gr",
+            "text": "η"
+        },
+        {
+            "voice": "gr_en",
+            "text": "to"
+        },
+        {
+            "voice": "gr",
+            "text": "την."
+        },
+        {
+            "voice": "gr_en",
+            "text": "And Neuter nouns? They are perfectly static. They don't change at all!"
         },
         {
             "voice": "en",
-            "text": "So... 'to pai-thée' stays 'to pai-thée'. But there's a rule about that 'N' in 'teen', isn't there?"
+            "text": "So..."
         },
         {
             "voice": "gr",
-            "text": "Yes! The 'Disappearing Nu'. We keep the 'N' in 'teen' only if the next word starts with a vowel or a hard sound like K, P, or T. Otherwise... we drop it. We say 'tee thef-té-ra'... but... 'teen á-nee-ksee'."
+            "text": "το παιδί"
+        },
+        {
+            "voice": "en",
+            "text": "stays"
+        },
+        {
+            "voice": "gr",
+            "text": "το παιδί."
+        },
+        {
+            "voice": "en",
+            "text": "But there's a rule about that 'N' in"
+        },
+        {
+            "voice": "gr",
+            "text": "την,"
+        },
+        {
+            "voice": "en",
+            "text": "isn't there?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes! The 'Disappearing Nu'. We keep the"
+        },
+        {
+            "voice": "gr",
+            "text": "ν"
+        },
+        {
+            "voice": "gr_en",
+            "text": "in"
+        },
+        {
+            "voice": "gr",
+            "text": "την"
+        },
+        {
+            "voice": "gr_en",
+            "text": "only if the next word starts with a vowel or a hard sound like K, P, or T. Otherwise... we drop it. We say"
+        },
+        {
+            "voice": "gr",
+            "text": "τη Δευτέρα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "but..."
+        },
+        {
+            "voice": "gr",
+            "text": "την άνοιξη."
         },
         {
             "voice": "en",
@@ -60,7 +322,31 @@
         },
         {
             "voice": "gr",
-            "text": "Ακριβώς! We say 'EE Ma-ré-a ee-nai e-thó'. 'The Maria is here'. Or... 'O Yór-ghos'. 'The George'. We even use articles for abstract ideas like 'fear'... 'O phó-vos'."
+            "text": "Ακριβώς!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "We say"
+        },
+        {
+            "voice": "gr",
+            "text": "Η Μαρία είναι εδώ."
+        },
+        {
+            "voice": "gr_en",
+            "text": "'The Maria is here'. Or..."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο Γιώργος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "'The George'. We even use articles for abstract ideas like 'fear'..."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο φόβος."
         },
         {
             "voice": "en",

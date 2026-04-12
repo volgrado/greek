@@ -1,66 +1,156 @@
 {
     "id": "diminutives-grammar",
-    "title": "Unit 29 Hyper-Exhaustive Masterclass: Diminutives & Augmentatives (Υποκοριστικά & Μεγεθυντικά)",
+    "title": "Unit 29 Learn Greek Grammar Masterclass: Diminutives & Augmentatives (Υποκοριστικά & Μεγεθυντικά)",
+    "curriculum_id": "unit-29-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 34: Diminutives and Augmentatives. This is one of my favorite topics because it’s where the Greek language shows its heart. Suffixes that change the size—and the mood—of a word. I'm Ava, and I'm joined by Athina. Athina... why do Greeks love shrinking things so much?"
-        },
-        {
-            "voice": "gr",
-            "text": "Γεια σας! In Greek, a 'Diminutive' isn't just about something being small. It’s about 'a-ghá-pee'... love. When we add '-a-kee' to a word, we are making it cute, familiar, and friendly. It’s like a verbal hug."
-        },
-        {
-            "voice": "en",
-            "text": "A verbal hug... I love that. Let's start with the king of diminutives: '-a-kee'. It’s Neuter, and it works with almost everything. Athina, give us some 'kawaii' Greek."
-        },
-        {
-            "voice": "gr",
-            "text": " 'Pai-dée' (child) becomes 'Pai-dá-kee'. 'Spée-ti' (house) becomes 'Spi-tá-kee'. Even 'Ne-ró' (water) becomes 'Ne-rá-kee'. It makes the object sound cozy and approachable. You’ll hear people ask for a 'Ne-rá-kee' at a cafe just to be polite!"
-        },
-        {
-            "voice": "en",
-            "text": "It’s very common in social interaction. But we also have feminine diminutives, like '-ee-tsa' and '-oú-la'. How do these feel different?"
-        },
-        {
-            "voice": "gr",
-            "text": " '-Ee-tsa' and '-oú-la' are even softer. 'Ma-mée-tsa'... mommy. 'Ad-er-f-oú-la'... little sister. They are very common with names too. 'Ma-rée-a' becomes 'Ma-ri-oú-la'. It’s an instant way to show closeness."
-        },
-        {
-            "voice": "en",
-            "text": "Now... let's go the other way. The Augmentatives. These make things HUGE. Sometimes in a good way, sometimes... in a 'too much' way. Athina, what’s the suffix for a giant?"
-        },
-        {
-            "voice": "gr",
-            "text": "The most common is '-á-ra'. It’s feminine even if the word was masculine! 'Spée-ti' (house) becomes 'Spi-tá-ra'... a huge, grand house. 'Má-ti' (eye) becomes 'Ma-tá-ra'... big, beautiful eyes. If you see a great goal in soccer, we say 'Gko-lá-ra'!"
-        },
-        {
-            "voice": "en",
-            "text": " 'Gko-lá-ra'! I'll remember that one. There’s also '-on-tas' or '-ar-os' for masculine augmentatives. 'An-dras' (man) becomes 'An-drár-os'... a big, strong man."
-        },
-        {
-            "voice": "gr",
-            "text": "Exactly. But be careful. Sometimes augmentatives can sound a bit rough or funny. 'Mý-tee' (nose) becomes 'My-tá-ra'... which might not be a compliment! It’s all about the context."
-        },
-        {
-            "voice": "en",
-            "text": "Pro Tip: Use diminutives freely to sound friendly and warm. Use augmentatives sparingly to express excitement or awe. Athina, do we ever combine them?"
-        },
-        {
-            "voice": "gr",
-            "text": "Not usually! That would be a 'small giant'... it would confuse the brain. But Greeks use these all the time in nicknames. It’s the soul of our informal conversation. Σας περιμένω να τα δοκιμάσετε!"
-        },
-        {
-            "voice": "en",
-            "text": "Excellent work today. You now have the power to resize the Greek world. We’ll see you in Unit 35."
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 29: Diminutives and Augmentatives. This is one of my favorite topics because it’s where the Greek language shows its heart. Suffixes that change the size—and the mood—of a word. I'm William, and I'm joined by Athina. Athina... why do Greeks love shrinking things so much?"
         },
         {
             "voice": "gr",
             "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "In Greek, a 'Diminutive' isn't just about something being small. It’s about"
+        },
+        {
+            "voice": "gr",
+            "text": "αγάπη..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "love. When we add"
+        },
+        {
+            "voice": "gr",
+            "text": "-άκι"
+        },
+        {
+            "voice": "gr_en",
+            "text": "to a word, we are making it cute, familiar, and friendly. It’s like a verbal hug."
+        },
+        {
+            "voice": "en",
+            "text": "A verbal hug... I love that. Let's start with the king of diminutives:"
+        },
+        {
+            "voice": "gr",
+            "text": "-άκι."
+        },
+        {
+            "voice": "en",
+            "text": "It’s Neuter, and it works with almost everything. Athina, give us some examples."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Listen to the change:"
+        },
+        {
+            "voice": "gr",
+            "text": "Παιδί – παιδάκι. Σπίτι – σπιτάκι. Νερό – νεράκι."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Child, house, water. It makes the object sound cozy and approachable. You’ll hear people ask for a"
+        },
+        {
+            "voice": "gr",
+            "text": "νεράκι"
+        },
+        {
+            "voice": "gr_en",
+            "text": "at a cafe just to be polite!"
+        },
+        {
+            "voice": "en",
+            "text": "It’s very common in social interaction. But we also have feminine diminutives, like"
+        },
+        {
+            "voice": "gr",
+            "text": "-ίτσα"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "-ούλα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "These are even softer."
+        },
+        {
+            "voice": "gr",
+            "text": "Μαμίτσα... Αδερφούλα... Μαριούλα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Mommy, little sister, little Maria. It’s an instant way to show closeness."
+        },
+        {
+            "voice": "en",
+            "text": "Now... let's go the other way. The Augmentatives. These make things HUGE. Athina, what’s the suffix for a giant?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "The most common is"
+        },
+        {
+            "voice": "gr",
+            "text": "-άρα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It’s feminine even if the word was masculine!"
+        },
+        {
+            "voice": "gr",
+            "text": "Σπίτι – σπιτάρα. Μάτι – ματάρα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "A huge house. Big, beautiful eyes. If you see a great goal in soccer, we say"
+        },
+        {
+            "voice": "gr",
+            "text": "Γκολάρα!"
+        },
+        {
+            "voice": "en",
+            "text": "There’s also"
+        },
+        {
+            "voice": "gr",
+            "text": "-άρος"
+        },
+        {
+            "voice": "en",
+            "text": "for masculine augmentatives."
+        },
+        {
+            "voice": "gr",
+            "text": "Άνδρας – ανδράρος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "A big, strong man."
+        },
+        {
+            "voice": "en",
+            "text": "Pro Tip: Use diminutives freely to sound friendly and warm. Use augmentatives sparingly to express excitement or awe. It’s the soul of informal conversation."
+        },
+        {
+            "voice": "gr",
+            "text": "Μπράβο σας! Τα λέμε στο επόμενο μάθημα. Γεια σας!"
         }
     ]
 }

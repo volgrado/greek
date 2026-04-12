@@ -1,66 +1,232 @@
 {
     "id": "verbs-grammar",
-    "title": "Unit 4 Hyper-Exhaustive Masterclass: Regular Verbs & Negation (Type A)",
+    "title": "Unit 4 Learn Greek Grammar Masterclass: Regular Verbs and Negation",
+    "curriculum_id": "unit-4-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 4: Regular Verbs and Negation. You’ve learned how to describe the world with nouns and adjectives. Now... it’s time to make things happen. Verbs are the engine of every Greek sentence. They don't just tell you the action... they tell you exactly WHO is doing it and WHEN. I'm William, and with me is Athina. Athina... how is a Greek verb built?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 4: Regular Verbs and Negation. In the last unit... we met 'Being' and 'Having'. But the real power of the Greek language lies in its regular verbs. They follow a strict pattern... a rhythm that... once you master it... unlocks thousands of actions. Athina... what is the secret to recognizing a Greek verb in its natural state?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! Think of a Greek verb as a puzzle with two pieces: the stem... and the ending. Take the verb 'to play': παίζω. 'Paíz-' is the stem... it carries the meaning. And '-o' is the ending... it tells you the person and the time."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "In Greek... we don’t have an 'Infinitive' like 'To Walk'. Instead... dictionaries use the 'I' form. And for most verbs... that means they end in a simple..."
+        },
+        {
+            "voice": "gr",
+            "text": "-ω."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Like"
+        },
+        {
+            "voice": "gr",
+            "text": "δουλεύω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "I work."
         },
         {
             "voice": "en",
-            "text": "In a dictionary... almost every verb ends in '-o'. That means 'I' am doing the action right now. But before we conjugate... we have to pick our team. Greek verbs play for three different 'teams' or conjugations. Athina... how do we identify 'Type A' verbs... our focus for today?"
+            "text": "So, just like in 'To Be'... the ending tells the whole story. Let's look at the patterns for the most common group: Group A. These are verbs like"
         },
         {
             "voice": "gr",
-            "text": "It’s all about the accent mark. For Type A verbs... the accent falls on the stem... anywhere BEFORE the final '-o'. Listen: παίζω... κάνω... γράφω. If the accent is on the very last letter... like 'a-gha-pó'... that’s a different team entirely."
+            "text": "κάνω"
         },
         {
             "voice": "en",
-            "text": "So Type A verbs have 'Stress-Free Stress'. The accent mark stays stubbornly on the stem and NEVER moves in the present tense. This makes them very predictable. Athina... let’s conjugate the verb 'thi-a-vá-zo'... to read or study. Please conjugate it slowly for our listeners."
+            "text": "for 'I do' or"
         },
         {
             "voice": "gr",
-            "text": "Εγώ διαβάζω... Εσύ διαβάζεις... Αυτός διαβάζει. Εμείς διαβάζουμε... Εσείς διαβάζετε... Αυτοί διαβάζουν. Ή... διαβάζουνε."
+            "text": "διαβάζω"
         },
         {
             "voice": "en",
-            "text": "Wait... I heard that extra 'e' at the end of the last one. 'Thi-a-vá-zun-e'. Is that a mistake?"
+            "text": "for 'I read'. Athina... let's hear the endings for 'I', 'You', 'He', 'We', 'You all', and 'They'."
         },
         {
             "voice": "gr",
-            "text": "Not at all! In spoken Greek... we often add that extra 'e' to the 3rd person plural. It makes the sentence flow more smoothly. 'Thi-a-vá-zun' and 'Thi-a-vá-zun-e' are both perfect."
+            "text": "-ω... -εις... -ει. -ουμε... -ετε... -ουν."
         },
         {
             "voice": "en",
-            "text": "It’s just an optional 'relaxed' ending. Now... let's learn how to say 'No'. This is a common trap for beginners. In English... we need helper words like 'do not'. In Greek... we just have one word: 'Den'. Athina... how do we use it?"
+            "text": "It's like a song! 'O... is... ee. Oume... ete... oun'. Let’s apply it to the verb 'To Drink'."
         },
         {
             "voice": "gr",
-            "text": "Just drop 'Den' right before the verb. Παίζω... I play. Δεν παίζω... I don't play. It is that simple. But! Do not confuse 'Den' with 'O-khi'. 'O-khi' is the answer to a question. 'Den' is for the action."
+            "text": "Πίνω... Πίνεις... Πίνει. Πίνουμε... Πίνετε... Πίνουν."
         },
         {
             "voice": "en",
-            "text": "So if someone asks... 'Do you play?'... you answer 'O-khi'... and then follow up with 'Den paí-zo'. But there is one last 'Masterclass' secret about 'Den'. The 'vowel crash'. What happens when 'Den' meets a hard consonant?"
+            "text": "Wait, I heard something familiar. The 'They' form ended in"
         },
         {
             "voice": "gr",
-            "text": "This is a phonetic magic trick. When the 'N' of 'Den' crashes into letters like P, T, or K... they blend to create a B, D, or G sound. Listen carefully: 'Den pi-rá-zi' sounds like 'dem-bi-rrá-zi'. 'Den kksé-ro' sounds like 'den-gzé-ro'. It’s an automatic reflex for native speakers."
+            "text": "-ουν."
         },
         {
             "voice": "en",
-            "text": "It’s like the 'N' prepares your mouth for the next letter. 'Dem-birazi'. Practice saying that to sound truly native. You have now mastered the basics of the Greek engine... the Type A verbs. You can conjugate... you can negate... and you can blend sounds like a pro. Review the vocabulary list for action verbs to see these rules in play. Excellent work... we’ll see you in Unit 5: The Accusative Case."
+            "text": "Just like"
         },
         {
             "voice": "gr",
-            "text": "Πολύ καλά! Τα λέμε στο επόμενο μάθημα."
+            "text": "έχουν"
+        },
+        {
+            "voice": "en",
+            "text": "in the last unit!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly. And just like 'To Have'... in the street you will often hear an extra"
+        },
+        {
+            "voice": "gr",
+            "text": "ε"
+        },
+        {
+            "voice": "gr_en",
+            "text": "at the end."
+        },
+        {
+            "voice": "gr",
+            "text": "Πίνουνε."
+        },
+        {
+            "voice": "en",
+            "text": "Now... what if we want to say what we AREN'T doing? Negation. In English... we need 'don't' or 'doesn't'. It’s complicated. In Greek?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "It is so simple. Just add the word"
+        },
+        {
+            "voice": "gr",
+            "text": "δεν"
+        },
+        {
+            "voice": "gr_en",
+            "text": "before the verb. That’s it! Listen:"
+        },
+        {
+            "voice": "gr",
+            "text": "Δουλεύω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν δουλεύω."
+        },
+        {
+            "voice": "en",
+            "text": "One word!"
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν."
+        },
+        {
+            "voice": "en",
+            "text": "Does"
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν"
+        },
+        {
+            "voice": "en",
+            "text": "ever change its shape like the article"
+        },
+        {
+            "voice": "gr",
+            "text": "την;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Yes! It follows the exact same 'Disappearing Nu' rule. We keep the"
+        },
+        {
+            "voice": "gr",
+            "text": "ν"
+        },
+        {
+            "voice": "gr_en",
+            "text": "only before vowels or hard sounds like K, P, or T. So we say..."
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν πίνω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "but..."
+        },
+        {
+            "voice": "gr",
+            "text": "Δε θέλω."
+        },
+        {
+            "voice": "en",
+            "text": "Got it. Keep the 'N' if the next word is 'hard'. Now... what about when we want to say 'AND'? It’s such a small but vital word."
+        },
+        {
+            "voice": "gr",
+            "text": "Και."
+        },
+        {
+            "voice": "gr_en",
+            "text": "But be careful... if the next word starts with a vowel... we often squish it together."
+        },
+        {
+            "voice": "gr",
+            "text": "Και εγώ..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "becomes..."
+        },
+        {
+            "voice": "gr",
+            "text": "Κι εγώ."
+        },
+        {
+            "voice": "en",
+            "text": "So... 'And I' is"
+        },
+        {
+            "voice": "gr",
+            "text": "Κι εγώ."
+        },
+        {
+            "voice": "en",
+            "text": "It flows much better. This has been another great session. You've mastered the regular 'O' endings and the simple power of"
+        },
+        {
+            "voice": "gr",
+            "text": "Δεν"
+        },
+        {
+            "voice": "en",
+            "text": "for negation. You can now build thousands of dynamic sentences. Practice with the common verbs list and try making your own negative sentences tonight. Excellent work... we'll see you in Unit 5: Objects and Direction."
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια σας!"
         }
     ]
 }

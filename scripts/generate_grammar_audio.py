@@ -1,7 +1,6 @@
 import asyncio
 import json
 import os
-import re
 import subprocess
 from pathlib import Path
 from pydub import AudioSegment
@@ -17,32 +16,6 @@ if sys.stdout.encoding.lower() != 'utf-8':
 ASSETS_DIR = Path("assets/audio/podcasts")
 ASSETS_DIR.mkdir(parents=True, exist_ok=True)
 BG_MUSIC_PATH = ASSETS_DIR.parent / "system" / "podcast_bg.mp3"
-
-# Voice Defaults
-DEFAULT_VOICE_EN = "en-US-AvaMultilingualNeural"  # "Voz inglesa buena"
-DEFAULT_VOICE_GR = "el-GR-AthinaNeural"          # Athina for Greek
-
-def split_text_by_language(text):
-    """
-    Splits text into segments of Greek and Non-Greek (Latin) scripts.
-    Returns a list of (voice_type, text_segment) tuples.
-    voice_type is either 'gr' (Greek) or 'en' (English).
-    """
-    # Unicode range for Greek: 0370-03FF
-    # This regex finds contiguous blocks of Greek characters vs anything else.
-    # We include punctuation and spaces in whichever block they are adjacent to.
-    tokens = re.findall(r'[\u0370-\u03FF\s\.,!\?;:·]+|[^\u0370-\u03FF]+', text)
-    
-    segments = []
-    for token in tokens:
-        if not token.strip():
-            continue
-        # If it contains Greek letters, it's Greek
-        if re.search(r'[\u0370-\u03FF]', token):
-            segments.append(('gr', token.strip()))
-        else:
-            segments.append(('en', token.strip()))
-    return segments
 
 async def generate_podcast_audio(script_path):
     with open(script_path, "r", encoding="utf-8") as f:
@@ -60,57 +33,62 @@ async def generate_podcast_audio(script_path):
     print(f"Generating Podcast Content: {data.get('title', podcast_id)}...")
     
     for i, item in enumerate(script_items):
-        item_voice_role = item["voice"] # 'en' or 'gr'
+        item_voice_role = item["voice"] # 'en', 'gr', or 'gr_en'
         text_to_process = item["text"]
         
-        print(f"  [{i+1}/{len(script_items)}] Processing item for {item_voice_role}...")
-        
-        # Split text into language segments
-        segments = split_text_by_language(text_to_process)
-        
-        item_audio = AudioSegment.silent(duration=0)
-        
-        for j, (lang, segment_text) in enumerate(segments):
-            # Determine which voice to use for this specific segment
-            if lang == 'gr':
-                voice_name = voices.get("gr", DEFAULT_VOICE_GR)
-            else:
-                voice_name = voices.get("en", DEFAULT_VOICE_EN)
-            
-            # Ensure we use Ava for anything English if the system voice is Athina
-            if lang == 'en' and "Athina" in voice_name:
-                voice_name = DEFAULT_VOICE_EN
-            elif lang == 'gr' and "William" in voice_name:
-                voice_name = DEFAULT_VOICE_GR
+        # Get the actual voice identifier from the JSON's 'voices' dict
+        voice_name = voices.get(item_voice_role)
+        if not voice_name:
+            print(f"ERROR: Voice mapping for '{item_voice_role}' not found in JSON.")
+            return
 
-            segment_file = temp_dir / f"segment_{i:03d}_{j:03d}.mp3"
-            print(f"    Segment {j+1}: [{lang}] -> {voice_name}")
+        print(f"  [{i+1}/{len(script_items)}] Generating segment... Role: {item_voice_role} | Voice: {voice_name} | Text: {repr(text_to_process)}")
+        
+        segment_file = temp_dir / f"segment_{i:03d}.mp3"
+        
+        # Check if text is only punctuation
+        import re
+        import string
+        # Strip all punctuation and whitespace to see if there is any alphanumeric
+        speakable = re.sub(r'[^\w]', '', text_to_process)
+        if not speakable:
+            print(f"    -> Text is only punctuation. Skipping TTS, adding small silence.")
+            segment_audio = AudioSegment.silent(duration=200)
+        else:
+            # Use a temporary file for the text to avoid command-line argument 
+            # parsing issues (like leading dashes) and encoding problems on Windows.
+            text_file = temp_dir / f"text_{i:03d}.txt"
+            with open(text_file, "w", encoding="utf-8") as tf:
+                tf.write(text_to_process)
             
-            # Use edge-tts CLI
             subprocess.run([
                 "python", "-m", "edge_tts", 
                 "--voice", voice_name, 
-                "--text", segment_text, 
+                "--file", str(text_file), 
                 "--write-media", str(segment_file)
             ], check=True)
-            
             segment_audio = AudioSegment.from_mp3(str(segment_file))
-            
-            # Add a very small pause between segments within the same item for flow
-            if j > 0:
-                item_audio += AudioSegment.silent(duration=300)
+        
+        # Add silences
+        silence_duration = 0
+        if i > 0:
+            prev_role = script_items[i-1]["voice"]
+            # If we switch between William ('en') and the Assistant ('gr' or 'gr_en'), longer pause
+            if prev_role == 'en' and item_voice_role != 'en':
+                silence_duration = 1600
+            elif prev_role != 'en' and item_voice_role == 'en':
+                silence_duration = 1600
+            elif prev_role != item_voice_role:
+                # Assistant switching between Greek and English mid-explanation, short pause
+                silence_duration = 300
+            else:
+                # Same person continuing, normal pause
+                silence_duration = 1000
                 
-            item_audio += segment_audio
-
-        # Add silences between items in the script
-        silence_duration = 1000 if i > 0 else 0
-        if i > 0 and script_items[i-1]["voice"] != item_voice_role:
-            silence_duration = 1600 # Pause for voice/character switch
-            
         if silence_duration > 0:
             combined_voice += AudioSegment.silent(duration=silence_duration)
             
-        combined_voice += item_audio
+        combined_voice += segment_audio
         
     # --- Background Music Integration ---
     final_audio = combined_voice

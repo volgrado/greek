@@ -1,66 +1,176 @@
 {
     "id": "relative-pronouns-grammar",
-    "title": "Unit 23 Hyper-Exhaustive Masterclass: Relative Pronouns (Who, Which, That)",
+    "title": "Unit 23 Learn Greek Grammar Masterclass: Relative Pronouns (Who, Which, That)",
+    "curriculum_id": "unit-23-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 39: Relative Pronouns. These are the words that link ideas together. 'The man WHO called', 'The book THAT I read'. In Greek, we have one word that is the absolute lazy-student's dream... and another that is a formal masterpiece. I'm Ava, and I'm joined by Athina. Athina... introduce us to the king of pronouns."
-        },
-        {
-            "voice": "gr",
-            "text": "Γεια σας! That king is 'Pou'. P-O-U. It is the most useful word in the whole language. It is the universal relative pronoun. It never declines, it never changes gender, and it never changes case."
-        },
-        {
-            "voice": "en",
-            "text": "Universal and indeclinable! So if I want to say 'The boy who sings', 'The girl who sings', and 'The children who sing'... I just use 'Pou' for all of them?"
-        },
-        {
-            "voice": "gr",
-            "text": "Exactly! 'To pai-dée pou tra-ghou-dá-ei'. 'O ándras pou vlé-pō'. 'Ta pai-diá pou ér-khon-tai'. It works for people, things, subjects, and objects. It’s perfect."
-        },
-        {
-            "voice": "en",
-            "text": " 'Pou' is definitely the favorite. But... sometimes we see a much longer, more complicated pronoun. 'O o-pói-os'."
-        },
-        {
-            "voice": "gr",
-            "text": "Ah, 'O o-pói-os' is our formal relative pronoun. It behaves like an adjective. It MUST match its noun in gender, number, and case. 'O ándras o o-pói-os'... 'Ee ghi-naí-ka ee o-pói-a'... 'To pai-dée to o-pói-o'."
-        },
-        {
-            "voice": "en",
-            "text": "Why would anyone choose 'O o-pói-os' when they could just use 'Pou'?"
-        },
-        {
-            "voice": "gr",
-            "text": "To be precise! Sometimes, if you have two nouns of different genders, 'Pou' can be ambiguous. But if you use 'O o-pói-os', the gender ending tells the listener exactly which noun you are referring to. It’s also used after prepositions. We say 'Me ton o-pói-on'... with whom."
-        },
-        {
-            "voice": "en",
-            "text": "So 'O o-pói-os' is for precision and prepositions. Pro Tip: Stick to 'Pou' for 95% of your life. Use 'O o-pói-os' when you're writing a formal email or a legal document. Now, Athina... what about 'Whoever' or 'Whatever'?"
-        },
-        {
-            "voice": "gr",
-            "text": "For 'Whoever', we use 'Ó-poi-os'. It declines just like the regular one. 'Whatever' is 'Ó,tee'. 'Can you give me whatever you have?'... 'Mpo-reís na mou dó-seis ó,tee é-kheis?'"
-        },
-        {
-            "voice": "en",
-            "text": " 'Ó,tee'. It sounds like a little sigh. This concludes Unit 39. You now have the glue to build complex sentences. Excellent work."
-        },
-        {
-            "voice": "gr",
-            "text": "Μπράβο σας! Ο δρόμος είναι δικός σας. Γεια σας!"
-        },
-        {
-            "voice": "en",
-            "text": "Excellent work. We’ll see you in Unit 40."
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 23: Relative Pronouns. These are the words that link ideas together. 'The man WHO called', 'The book THAT I read'. In Greek, we have one word that is the absolute lazy-student's dream... and another that is a formal masterpiece. I'm William, and I'm joined by Athina. Athina... introduce us to the king of pronouns."
         },
         {
             "voice": "gr",
             "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "That king is"
+        },
+        {
+            "voice": "gr",
+            "text": "Που."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It is the most useful word in the whole language. It is the universal relative pronoun. It never declines, it never changes gender, and it never changes case."
+        },
+        {
+            "voice": "en",
+            "text": "Universal and indeclinable! So if I want to say 'The boy who sings', 'The girl who sings', and 'The children who sing'... I just use"
+        },
+        {
+            "voice": "gr",
+            "text": "Που"
+        },
+        {
+            "voice": "en",
+            "text": "for all of them?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly!"
+        },
+        {
+            "voice": "gr",
+            "text": "Το παιδί που τραγουδάει. Ο άντρας που βλέπω. Τα παιδιά που έρχονται."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It works for people, things, subjects, and objects. It’s perfect."
+        },
+        {
+            "voice": "gr_en",
+            "text": " 'Που' is definitely the favorite. But... sometimes we see a much longer, more complicated pronoun."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο οποίος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Ah,"
+        },
+        {
+            "voice": "gr",
+            "text": "ο οποίος"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is our formal relative pronoun. It behaves like an adjective. It MUST match its noun in gender, number, and case."
+        },
+        {
+            "voice": "gr",
+            "text": "Ο άντρας ο οποίος... Η γυναίκα η οποία... Το παιδί το οποίο."
+        },
+        {
+            "voice": "en",
+            "text": "Why would anyone choose"
+        },
+        {
+            "voice": "gr",
+            "text": "Ο οποίος"
+        },
+        {
+            "voice": "en",
+            "text": "when they could just use"
+        },
+        {
+            "voice": "gr",
+            "text": "Που?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "To be precise! Sometimes, if you have two nouns of different genders,"
+        },
+        {
+            "voice": "gr",
+            "text": "Που"
+        },
+        {
+            "voice": "gr_en",
+            "text": "can be ambiguous. But if you use"
+        },
+        {
+            "voice": "gr",
+            "text": "Ο οποίος,"
+        },
+        {
+            "voice": "gr_en",
+            "text": "the gender ending tells the listener exactly which noun you are referring to. It’s also used after prepositions. We say"
+        },
+        {
+            "voice": "gr",
+            "text": "Με τον οποίο..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "with whom."
+        },
+        {
+            "voice": "en",
+            "text": "So"
+        },
+        {
+            "voice": "gr",
+            "text": "Ο οποίος"
+        },
+        {
+            "voice": "en",
+            "text": "is for precision and prepositions. Pro Tip: Stick to"
+        },
+        {
+            "voice": "gr",
+            "text": "Που"
+        },
+        {
+            "voice": "en",
+            "text": "for 95% of your life. Now, Athina... what about 'Whoever' or 'Whatever'?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "For 'Whoever', we use"
+        },
+        {
+            "voice": "gr",
+            "text": "Όποιος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It declines just like the regular one. 'Whatever' is"
+        },
+        {
+            "voice": "gr",
+            "text": "Ό,τι."
+        },
+        {
+            "voice": "gr",
+            "text": "Μπορείς να μου δώσεις ό,τι έχεις;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "... Can you give me whatever you have?"
+        },
+        {
+            "voice": "gr_en",
+            "text": " 'Ό,τι'. This concludes Unit 23. You now have the glue to build complex sentences. Excellent work."
+        },
+        {
+            "voice": "gr",
+            "text": "Μπράβο σας! Ο δρόμος είναι δικός σας. Γεια σας!"
         }
     ]
 }

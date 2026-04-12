@@ -1,34 +1,72 @@
 {
     "id": "idioms-grammar",
-    "title": "Unit 28 Hyper-Exhaustive Masterclass: Idioms & Ancient Remnants",
+    "title": "Unit 28 Learn Greek Grammar Masterclass: Idioms & Ancient Remnants",
+    "curriculum_id": "unit-28-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 47: Idioms and Proverbs. This is the 'Soul' of the Greek language. You can know all the grammar in the world, but if you don't know why Greeks talk about 'eating wood' or 'losing their eggs', you'll never truly understand the culture. I'm Ava, and I'm joined by Athina. Athina... why is Greek imagery so... edible?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 28: Idioms and Proverbs. This is the 'Soul' of the Greek language. You can know all the grammar in the world, but if you don't know why Greeks talk about 'eating wood' or 'losing their eggs', you'll never truly understand the culture. I'm William, and I'm joined by Athina. Athina... why is Greek imagery so... vivid?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! Greece is a land of food and history. We use what we know to describe what we feel. Our idioms are often funny, sometimes dark, but always very vivid."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Greece is a land of food and history. We use what we know to describe what we feel. Our idioms are often funny, sometimes dark, but always very colorful."
         },
         {
             "voice": "en",
-            "text": "Vivid is the word. Let's start with a classic one that confuses every student. 'Troo kseelo'. Literally... 'I am eating wood'."
+            "text": "Let's start with a classic one. 'Troo kseelo'. Literally... 'I am eating wood'."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly."
         },
         {
             "voice": "gr",
-            "text": "Exactly. 'Tró-ō ksý-lo'. It doesn't mean you are hungry for timber. It means you are getting a beating or being punished. 'Tha fas ksý-lo!'... you're going to get it! It comes from the old times when punishments were... well... wooden."
+            "text": "Τρώω ξύλο."
+        },
+        {
+            "voice": "gr_en",
+            "text": "It doesn't mean you are hungry for timber. It means you are getting a beating or being punished."
+        },
+        {
+            "voice": "gr",
+            "text": "Θα φας ξύλο!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "you're going to get it! It comes from the old times when punishments were... well... wooden."
         },
         {
             "voice": "en",
             "text": "I hope none of our listeners are 'eating wood'. What about when someone is talking too much? We say they 'ate our ears'?"
         },
         {
+            "voice": "gr_en",
+            "text": "Yes!"
+        },
+        {
             "voice": "gr",
-            "text": "Yes! 'Mou é-fa-ghe ta af-tyá'. He ate my ears. It means he talked my head off. 'Stamá-ta pia, mou é-fa-ghas ta af-tyá!'... stop it already, you're talking too much!"
+            "text": "Μου έφαγε τα αυτιά."
+        },
+        {
+            "voice": "gr_en",
+            "text": "He ate my ears. It means he talked my head off."
+        },
+        {
+            "voice": "gr",
+            "text": "Σταμάτα πια, μου έφαγες τα αυτιά!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "stop it already, you're talking too much!"
         },
         {
             "voice": "en",
@@ -36,35 +74,31 @@
         },
         {
             "voice": "gr",
-            "text": " 'Khá-nō ta av-ghá kai ta ka-lá-thia'. To lose the eggs and the baskets. It means to be in a total mess or to lose control of a situation. It’s like everything is falling apart."
+            "text": "Χάνει τα αυγά και τα καλάθια."
+        },
+        {
+            "voice": "gr_en",
+            "text": "To lose the eggs and the baskets. It means to be in a total mess or to lose control of a situation. It’s like everything is falling apart."
         },
         {
             "voice": "en",
-            "text": "Now... proverbs. These are the life lessons passed down through generations. Athina, give us one about being careful."
+            "text": "Now... proverbs. These are the life lessons passed down through generations. Athina, give us your favorite piece of advice."
+        },
+        {
+            "voice": "gr_en",
+            "text": "This is a very famous one."
         },
         {
             "voice": "gr",
-            "text": " 'O fó-vos phy-lá-ei ta ér-mee-a'. Fear guards the desolate places. It means that being a little bit afraid or cautious is what keeps you safe. It’s a very Greek way of being realistic."
+            "text": "Σιγά σιγά, γίνεται η αγουρίδα μέλι."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Slowly, slowly, the sour grape becomes honey. Patience, practice, and time. That is the only way to master Greek."
         },
         {
             "voice": "en",
-            "text": "What about the one about the night in Athens?"
-        },
-        {
-            "voice": "gr",
-            "text": " 'Ó-lee ee ný-khta steen A-thée-na, kai to prō-ée steen É-ghi-na'. All night in Athens, and in the morning in Aegina. It describes a life of partying and moving from one place to another. Athens for the nightlife, and then catching the boat to the island for the sunrise."
-        },
-        {
-            "voice": "en",
-            "text": "Pro Tip: Idioms are the 'secret handshake' of language. Use one correctly, and locals will treat you like a native. But use it wrong, and you'll just look like you're literally trying to eat wood. Athina, what’s your favorite piece of advice for the students?"
-        },
-        {
-            "voice": "gr",
-            "text": " 'Sighá sighá, ghée-ne-tai ee a-ghου-rée-da mé-lee'. Slowly, slowly, the sour grape becomes honey. Patience, practice, and time. That is the only way to master Greek."
-        },
-        {
-            "voice": "en",
-            "text": " 'Sighá sighá'. From the sour grape to the honey. You have all put in the time, and you are tasting the honey now. This concludes Unit 47. You have the grammar, and now you have the soul. Excellent work."
+            "text": " 'Sighá sighá'. From the sour grape to the honey. You have all put in the time, and you are tasting the honey now. This concludes Unit 28. You have the grammar, and now you have the soul. Excellent work."
         },
         {
             "voice": "gr",
@@ -72,7 +106,7 @@
         },
         {
             "voice": "en",
-            "text": "This concludes our series. Thank you for joining us on this Hyper-Exhaustive journey. Ya sas!"
+            "text": "This concludes our series. Thank you for joining us on this 'Learn Greek Grammar Masterclass'. Ya sas!"
         },
         {
             "voice": "gr",

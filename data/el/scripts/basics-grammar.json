@@ -1,18 +1,24 @@
 {
     "id": "basics-grammar",
-    "title": "Unit 1 Hyper-Exhaustive Masterclass: The Greek Writing System",
+    "title": "Unit 1 Learn Greek Grammar Masterclass: The Greek Writing System",
+    "curriculum_id": "unit-1-grammar",
     "voices": {
-        "en": "en-US-AvaMultilingualNeural",
-        "gr": "el-GR-AthinaNeural"
+        "en": "en-AU-WilliamMultilingualNeural",
+        "gr": "el-GR-AthinaNeural",
+        "gr_en": "en-US-AvaMultilingualNeural"
     },
     "script": [
         {
             "voice": "en",
-            "text": "Welcome... to the Hyper-Exhaustive Grammar Masterclass for Unit 1: The Greek Writing System. If you've ever looked at a Greek sentence and felt like it was code you couldn't crack... today is the day we change that. Greek isn't just an alphabet; it's the foundation of over 25% of the English words you use every day. I'm William, and I'm joined by Athina, our native phonetic expert. Athina... how should a beginner approach the Greek script?"
+            "text": "Welcome... to the Learn Greek Grammar Masterclass for Unit 1: The Greek Writing System. If you've ever looked at a Greek sentence and felt like it was code you couldn't crack... today is the day we change that. Greek isn't just an alphabet; it's the foundation of over 25% of the English words you use every day. I'm William, and I'm joined by Athina, our native phonetic expert. Athina... how should a beginner approach the Greek script?"
         },
         {
             "voice": "gr",
-            "text": "Γεια σας! My advice is simple: don’t try to memorize it like a random list of 24 symbols. Think of it as a logical evolution. Many letters are exactly like English... some are 'False Friends'... and some are the unique 'True Greeks'. We will master them all, step by step."
+            "text": "Γεια σας!"
+        },
+        {
+            "voice": "gr_en",
+            "text": "My advice is simple: don’t try to memorize it like a random list of 24 symbols. Think of it as a logical evolution. Many letters are exactly like English... some are 'False Friends'... and some are the unique 'True Greeks'. We will master them all, step by step."
         },
         {
             "voice": "en",
@@ -20,23 +26,103 @@
         },
         {
             "voice": "gr",
-            "text": "Α, Άλφα... sounds like 'a' in father. Ε, Έψιλον... like 'e' in pet. Ι, Ιώτα... like 'ee' in meet. Κ, Κάππα... like 'k' in kite. Μ, Μι... like 'm' in mom. Ν, Νι... like 'n' in no. Ο, Όμικρον... like 'o' in not. Τ, Ταυ... like 't' in top. And Ζ, Ζήτα... like 'z' in zoo."
+            "text": "Α, Άλφα... Ε, Έψιλον... Ι, Ιώτα... Κ, Κάππα... Μ, Μι... Ν, Νι... Ο, Όμικρον... Τ, Ταυ... Και Ζ, Ζήτα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "The sounds for these are straightforward: like 'a' in father, 'e' in pet, 'ee' in meet, 'k' in kite, 'm' in mom, 'n' in no, 'o' in not, 't' in top, and 'z' in zoo."
         },
         {
             "voice": "en",
-            "text": "Now... we have to pause here for a critical 'Pro Tip'. In English, when we say words like 'pot' or 'top'... we release a little puff of air. This is called aspiration. But in Greek... consonants like 'Káppa', 'Tau', and 'Pi' are perfectly crisp and dry. Athina... can you show the difference between a 'puffy' T and a 'Greek' T?"
+            "text": "Now... we have to pause here for a critical 'Pro Tip'. In English, when we say words like 'pot' or 'top'... we release a little puff of air. This is called aspiration. But in Greek... consonants like"
         },
         {
             "voice": "gr",
-            "text": "Of course. In English, you might say 'Top'. In Greek... the 'T' is short and sharp. Ταυ... Τώρα... Τραπέζι. Listen to the 'Káppa': Καλά... Κόκκινο. No air. It’s like the 'T' in 'stop' rather than 'top'."
+            "text": "Κάππα... Ταυ... και Πι..."
+        },
+        {
+            "voice": "en",
+            "text": "are perfectly crisp and dry. Athina... can you show the difference?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Of course. In English, you might say 'Top'. In Greek... the"
+        },
+        {
+            "voice": "gr",
+            "text": "Τ"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is short and sharp."
+        },
+        {
+            "voice": "gr",
+            "text": "Ταυ... Τώρα... Τραπέζι."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Listen to the"
+        },
+        {
+            "voice": "gr",
+            "text": "Κάππα:"
+        },
+        {
+            "voice": "gr",
+            "text": "Καλά... Κόκκινο."
+        },
+        {
+            "voice": "gr_en",
+            "text": "No air. It’s like the 'T' in 'stop' rather than 'top'."
         },
         {
             "voice": "en",
             "text": "That's a vital distinction. Keep it 'dry'. Now... let's tackle the dangerous ones. Group 2: The False Friends. These letters look familiar... but they are trying to trick you. Athina... alert the listeners."
         },
         {
+            "voice": "gr_en",
+            "text": "Be careful!"
+        },
+        {
             "voice": "gr",
-            "text": "Be careful! Βήτα... looks like a 'B'... but it is ALWAYS a 'V'. Never a 'B'. Η, Ήτα... looks like an 'H'... but it is ALWAYS an 'ee' sound. Ρ, Ρω... looks like a 'P'... but it is our rolled 'R'. Χ, Χι... looks like an 'X'... but it is a soft 'H' or the Scottish 'Loch'. And Ύψιλον... looks like a 'Y'... but it is another 'ee' sound."
+            "text": "Βήτα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "looks like a 'B'... but it is ALWAYS a 'V'. Never a 'B'."
+        },
+        {
+            "voice": "gr",
+            "text": "Η, Ήτα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "looks like an 'H'... but it is ALWAYS an 'ee' sound."
+        },
+        {
+            "voice": "gr",
+            "text": "Ρ, Ρω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "looks like a 'P'... but it is our rolled 'R'."
+        },
+        {
+            "voice": "gr",
+            "text": "Χ, Χι..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "looks like an 'X'... but it is a soft 'H' or the Scottish 'Loch'. And"
+        },
+        {
+            "voice": "gr",
+            "text": "Ύψιλον..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "looks like a 'Y'... but it is another 'ee' sound."
         },
         {
             "voice": "en",
@@ -44,67 +130,399 @@
         },
         {
             "voice": "gr",
-            "text": "Γάμμα... Δέλτα... Θήτα... Λάμδα... Ξι... Πι... Σίγμα... Φι... Ψι... Ωμέγα. Let’s look at the tricky ones. Γάμμα... 'Gámma'... is special. Before 'a', 'o', or 'ou'... it’s a soft 'gh' sound. But before 'e' or 'i'... it sounds like the 'y' in 'yes'. Listen: Γάλα... but... Γεια."
+            "text": "Γάμμα... Δέλτα... Θήτα... Λάμδα... Ξι... Πι... Σίγμα... Φι... Ψι... Ωμέγα."
         },
         {
-            "voice": "en",
-            "text": "So 'Ghá-la' for milk... and 'Ya' for hello. And what about Delta and Theta? Both are 'TH' sounds in English..."
-        },
-        {
-            "voice": "gr",
-            "text": "Exactly. Δέλτα... is the 'voiced' TH... like in 'This'. Δέλτα... Δέντρο. Θήτα... is the 'unvoiced' TH... like in 'Think'. Θήτα... Θάλασσα. They are very different sounds in Greek."
-        },
-        {
-            "voice": "en",
-            "text": "And Sigma... the letter with a double identity. Why does it change shape?"
+            "voice": "gr_en",
+            "text": "Let’s look at the tricky ones."
         },
         {
             "voice": "gr",
-            "text": "Sigma is the 'S' sound. In the middle of a word... it’s a circle with a tail: σ. Like 'Thá-las-sa'. But if it is the very last letter... it looks like a ς. Like 'Kós-mos'. Same sound... different outfit!"
+            "text": "Γάμμα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "is special. Before 'a', 'o', or 'ou'... it’s a soft 'gh' sound. But before 'e' or 'i'... it sounds like the 'y' in 'yes'. Listen:"
+        },
+        {
+            "voice": "gr",
+            "text": "Γάλα... Γεια."
+        },
+        {
+            "voice": "en",
+            "text": "So"
+        },
+        {
+            "voice": "gr",
+            "text": "Γάλα"
+        },
+        {
+            "voice": "en",
+            "text": "for milk... and"
+        },
+        {
+            "voice": "gr",
+            "text": "Γεια"
+        },
+        {
+            "voice": "en",
+            "text": "for hello. And what about"
+        },
+        {
+            "voice": "gr",
+            "text": "Δέλτα"
+        },
+        {
+            "voice": "en",
+            "text": "and"
+        },
+        {
+            "voice": "gr",
+            "text": "Θήτα?"
+        },
+        {
+            "voice": "en",
+            "text": "Both are 'TH' sounds in English..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Exactly."
+        },
+        {
+            "voice": "gr",
+            "text": "Δέλτα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "is the 'voiced' TH... like in 'This'."
+        },
+        {
+            "voice": "gr",
+            "text": "Δέλτα... Δέντρο."
+        },
+        {
+            "voice": "gr",
+            "text": "Θήτα..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "is the 'unvoiced' TH... like in 'Think'."
+        },
+        {
+            "voice": "gr",
+            "text": "Θήτα... Θάλασσα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "They are very different sounds in Greek."
+        },
+        {
+            "voice": "en",
+            "text": "And"
+        },
+        {
+            "voice": "gr",
+            "text": "Σίγμα,"
+        },
+        {
+            "voice": "en",
+            "text": "the letter with a double identity. Why does it change shape?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "Sigma is the 'S' sound. In the middle of a word... it’s a circle with a tail:"
+        },
+        {
+            "voice": "gr",
+            "text": "σ."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Like"
+        },
+        {
+            "voice": "gr",
+            "text": "Θάλασσα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "But if it is the very last letter... it looks like a"
+        },
+        {
+            "voice": "gr",
+            "text": "ς."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Like"
+        },
+        {
+            "voice": "gr",
+            "text": "Κόσμος."
+        },
+        {
+            "voice": "gr_en",
+            "text": "Same sound... different outfit!"
         },
         {
             "voice": "en",
             "text": "Excellent. Section 2: The Digraphs. This is the real 'Masterclass' level. Greek is famous for having multiple ways to write the same sound... especially the 'ee' sound. In fact... there are six! Athina... why so many 'ee's?"
         },
         {
+            "voice": "gr_en",
+            "text": "It’s a gift from History! Long ago... they all sounded different. But in Modern Greek... they all sound like"
+        },
+        {
             "voice": "gr",
-            "text": "It’s a gift from History! Long ago... they all sounded different. But in Modern Greek... they all sound like Ióta. The 'ee' family is: Ιώτα... Ήτα... Ύψιλον... and the combinations Ε-Ι... Ο-Ι... and Υ-Ι. That’s six ways to write 'ee'!"
+            "text": "Ιώτα."
+        },
+        {
+            "voice": "gr_en",
+            "text": "The 'ee' family is:"
+        },
+        {
+            "voice": "gr",
+            "text": "Ιώτα... Ήτα... Ύψιλον..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "and the combinations"
+        },
+        {
+            "voice": "gr",
+            "text": "Ε-Ι... Ο-Ι... Υ-Ι."
+        },
+        {
+            "voice": "gr_en",
+            "text": "That’s six ways to write 'ee'!"
         },
         {
             "voice": "en",
-            "text": "It keeps us on our toes. And then we have the 'Chameleon Vowels'. When Alpha or Epsilon team up with Upsilon... magic happens. Upsilon stops being a vowel and starts being a consonant. Athina... show us the two faces of 'av' and 'ev'."
+            "text": "It keeps us on our toes. And then we have the 'Chameleon Vowels'. When"
         },
         {
             "voice": "gr",
-            "text": "This is a key rule. If followed by a soft sound... 'αυ' is 'av' and 'ευ' is 'ev'. Like 'Av-tá'... or 'Ev-ró-pi'. But! If followed by a hard sound like K, P, or T... they become 'af' and 'ef'. Like 'Af-tós' for 'he'... or 'Ef-kha-ris-tó' for 'thank you'."
+            "text": "Άλφα"
         },
         {
             "voice": "en",
-            "text": "So 'Ef-kha-ris-tó'... because the 'Chi' sound after it is voiceless. Fascinating. And finally... the 'New' consonants. Ancient Greek didn't have a 'B' or 'D' sound as we know them today. So... we had to build them. Athina... show us the builders."
+            "text": "or"
         },
         {
             "voice": "gr",
-            "text": "To get a 'B' sound... we use Μ-Π. 'Mpa-mpás'... dad. To get a 'D' sound... we use Ν-Τ. 'Ntý-no'... to dress. And for a 'G' sound... we use Γ-Κ. 'Gkol'... like a soccer goal."
+            "text": "Έψιλον"
         },
         {
             "voice": "en",
-            "text": "So if you see 'NT'... your brain should read 'D'. If you see 'MP'... read 'B'. It’s an instant conversion. Section 3: The Energy. Greek words have a rhythm... and that rhythm is guided by the 'Tonos'. That little dash over a vowel. Athina... how important is it?"
+            "text": "team up with"
         },
         {
             "voice": "gr",
-            "text": "It is everything! In Greek... you must stress the correct syllable or the word might change meaning. The 'Tónos' tells you where the punch is. Listen to 'Poú'... where... vs 'Pou'... which. The accent mark is the only difference! 'Ne-RÓ'... water. 'PRÓ-vlee-ma'... problem."
+            "text": "Ύψιλον,"
+        },
+        {
+            "voice": "en",
+            "text": "magic happens."
+        },
+        {
+            "voice": "gr",
+            "text": "Ύψιλον"
+        },
+        {
+            "voice": "en",
+            "text": "stops being a vowel and starts being a consonant. Athina... show us the two faces of the combinations."
+        },
+        {
+            "voice": "gr_en",
+            "text": "This is a key rule. If followed by a soft sound..."
+        },
+        {
+            "voice": "gr",
+            "text": "αυ"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is 'av' and"
+        },
+        {
+            "voice": "gr",
+            "text": "ευ"
+        },
+        {
+            "voice": "gr_en",
+            "text": "is 'ev'. Like"
+        },
+        {
+            "voice": "gr",
+            "text": "Αυτά... Ευρώπη."
+        },
+        {
+            "voice": "gr_en",
+            "text": "But! If followed by a hard sound like"
+        },
+        {
+            "voice": "gr",
+            "text": "Κ, Π, ή Τ..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "they become 'af' and 'ef'. Like"
+        },
+        {
+            "voice": "gr",
+            "text": "Αυτός"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for 'he'... or"
+        },
+        {
+            "voice": "gr",
+            "text": "Ευχαριστώ"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for 'thank you'."
+        },
+        {
+            "voice": "en",
+            "text": "So"
+        },
+        {
+            "voice": "gr",
+            "text": "Ευχαριστώ,"
+        },
+        {
+            "voice": "en",
+            "text": "because the"
+        },
+        {
+            "voice": "gr",
+            "text": "Χ"
+        },
+        {
+            "voice": "en",
+            "text": "sound after it is voiceless. Fascinating. And finally... the 'New' consonants. Ancient Greek didn't have a 'B' or 'D' sound as we know them today. So... we had to build them. Athina... show us the builders."
+        },
+        {
+            "voice": "gr_en",
+            "text": "To get a 'B' sound... we use"
+        },
+        {
+            "voice": "gr",
+            "text": "Μ-Π."
+        },
+        {
+            "voice": "gr",
+            "text": "Μπαμπάς..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "dad. To get a 'D' sound... we use"
+        },
+        {
+            "voice": "gr",
+            "text": "Ν-Τ."
+        },
+        {
+            "voice": "gr",
+            "text": "Ντύνω..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "to dress. And for a 'G' sound... we use"
+        },
+        {
+            "voice": "gr",
+            "text": "Γ-Κ."
+        },
+        {
+            "voice": "gr",
+            "text": "Γκολ..."
+        },
+        {
+            "voice": "gr_en",
+            "text": "like a soccer goal."
+        },
+        {
+            "voice": "en",
+            "text": "So if you see"
+        },
+        {
+            "voice": "gr",
+            "text": "ΝΤ,"
+        },
+        {
+            "voice": "en",
+            "text": "your brain should read 'D'. If you see"
+        },
+        {
+            "voice": "gr",
+            "text": "ΜΠ,"
+        },
+        {
+            "voice": "en",
+            "text": "read 'B'. It’s an instant conversion. Section 3: The Energy. Greek words have a rhythm... and that rhythm is guided by the"
+        },
+        {
+            "voice": "gr",
+            "text": "Τόνος."
+        },
+        {
+            "voice": "en",
+            "text": "That little dash over a vowel. Athina... how important is it?"
+        },
+        {
+            "voice": "gr_en",
+            "text": "It is everything! In Greek... you must stress the correct syllable or the word might change meaning. The"
+        },
+        {
+            "voice": "gr",
+            "text": "Τόνος"
+        },
+        {
+            "voice": "gr_en",
+            "text": "tells you where the punch is. Listen to"
+        },
+        {
+            "voice": "gr",
+            "text": "Πού"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for where... vs"
+        },
+        {
+            "voice": "gr",
+            "text": "που"
+        },
+        {
+            "voice": "gr_en",
+            "text": "for who or which. The accent mark is the only difference!"
+        },
+        {
+            "voice": "gr",
+            "text": "Νερό... Πρόβλημα."
         },
         {
             "voice": "en",
             "text": "It’s the soul of the word. And lastly... punctuation. Most is the same as English... but the question mark...?"
         },
         {
+            "voice": "gr_en",
+            "text": "Yes... the Greek question mark is a semicolon! If you see"
+        },
+        {
             "voice": "gr",
-            "text": "Yes... the Greek question mark is a semicolon! If you see 'Ti ká-neis;'... it’s not a list... it’s a question. And our semicolon is just a dot in the air... the 'Upper Dot'."
+            "text": "Τι κάνεις;"
+        },
+        {
+            "voice": "gr_en",
+            "text": "... it’s not a list... it’s a question. And our semicolon is just a dot in the air... the 'Upper Dot'."
         },
         {
             "voice": "en",
-            "text": "You have now completed the truly exhaustive Masterclass for Unit 1. You can identify letters... navigate false friends... decode digraphs... and correctly stress every word. This foundation will make everything else so much easier. Excellent work... and we will see you in the deep dive for Unit 2: Nouns and Articles."
+            "text": "You have now completed the Learn Greek Grammar Masterclass for Unit 1. You can identify letters... navigate false friends... decode digraphs... and correctly stress every word. This foundation will make everything else so much easier. Excellent work... and we will see you in the deep dive for Unit 2: Nouns and Articles."
         },
         {
             "voice": "gr",
