@@ -40,7 +40,7 @@ export const updateUIStrings = () => {
         } else if (state.viewMode === 'vocabulary') {
             modeLabel.textContent = strings.vocabulary?.toUpperCase() || "L";
         } else {
-            modeLabel.textContent = strings.exercises?.toUpperCase() || "P";
+            modeLabel.textContent = strings.practice?.toUpperCase() || "P";
         }
     }
 

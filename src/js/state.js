@@ -13,7 +13,8 @@ class AppState {
         this._data = {
             currentLang: localStorage.getItem('lang') || CONFIG.DEFAULT_LANG,
             currentTheme: localStorage.getItem('theme'),
-            viewMode: localStorage.getItem('viewMode') || CONFIG.DEFAULT_VIEW_MODE,
+            // 'exercises' was renamed to 'practice'; migrate any stored value
+            viewMode: (localStorage.getItem('viewMode') === 'exercises' ? 'practice' : localStorage.getItem('viewMode')) || CONFIG.DEFAULT_VIEW_MODE,
             db: null,
             isDownloaded: false,
             lessonCache: {},

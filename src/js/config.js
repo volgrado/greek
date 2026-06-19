@@ -34,7 +34,7 @@ export const I18N = {
         resetConfirm: 'Confirm Reset?',
         grammar: 'G',
         vocabulary: 'L',
-        exercises: 'P',
+        practice: 'P',
         courseName: 'GREEK LANGUAGE COURSE'
     }
 };
