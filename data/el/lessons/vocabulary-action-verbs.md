@@ -19,7 +19,6 @@ The most common Type A verbs to get you speaking right away.
 - **καταλαβαίνω** *(ka-ta-la-vé-no)* = to understand
 - **θέλω** *(thé-lo)* = to want
 
-
 ---
 
 **Practice Grammar:** [Unit 4: Intro to Verbs (Type A)](/lessons/verbs)

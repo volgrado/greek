@@ -24,7 +24,6 @@ Mastering how to ask for things.
 - **εσείς** *(e-sís)* = you (plural)
 - **δεν** *(den)* = not
 
-
 ---
 
 **Practice Grammar:** [Unit 7: Asking Questions](/lessons/interrogative-pronouns)

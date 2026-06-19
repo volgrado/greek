@@ -29,7 +29,6 @@ Combine these with verbs to describe your day.
 - **το βράδυ** *(to vrá-dee)* = the evening / night
 - **η δουλειά** *(ee doo-lyá)* = work / job
 
-
 ---
 
 **Practice Grammar:** [Unit 9: Verb Groups B1 & B2](/lessons/verb-groups-b)

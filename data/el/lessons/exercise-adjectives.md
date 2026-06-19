@@ -1,6 +1,6 @@
 # Unit 6-7: Adjectives & Questions
 
-This exercise is divided into four fluency-building activities to move you from theory to automaticity.
+This exercise is divided into three fluency-building activities to move you from theory to automaticity.
 
 ## 1. The Constrained Picture Exercise
 
@@ -24,30 +24,7 @@ This exercise is divided into four fluency-building activities to move you from 
 
 ---
 
-## 2. Audio-Visual Shadowing
-
-Listen to the native speaker describing the scene. Your goal is to speak *at the exact same time*, mimicking the rhythm and speed.
-
-<audio controls>
-    <source src="/assets/audio/exercises/exercise-adjectives-model.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
-
-<details>
-<summary><strong>Click to reveal Transcript</strong></summary>
-
-«Αυτό το φρούτο είναι κόκκινο και φρέσκο. Πόσο κάνει;»
-(This fruit is red and fresh. How much does it cost?)
-</details>
-
-**Why it works:**
-
-* **κόκκινο και φρέσκο**: The noun "το φρούτο" is neuter. Therefore, the adjectives "κόκκινος" and "φρέσκος" must drop their masculine "-ος" ending and take the neuter "-ο" ending to become "κόκκινο" and "φρέσκο".
-* **Πόσο κάνει;**: This is the standard, everyday way to ask for the price of a singular item in Greece.
-
----
-
-## 3. The Mutation Drill (Speed-Shift)
+## 2. The Mutation Drill (Speed-Shift)
 
 Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change the sentence mentally before checking the Target. This builds agility without overthinking.
 
@@ -60,7 +37,7 @@ Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change
 
 ---
 
-## 4. The Grammar-Saturated Story
+## 3. The Grammar-Saturated Story
 
 Read this short story three times: first for accuracy, second for comprehension, and third *as fast as possible*. This forces your brain to "soak" in the patterns of adjectives and basic questions.
 

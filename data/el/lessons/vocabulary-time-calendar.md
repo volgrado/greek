@@ -27,7 +27,6 @@ Essential vocabulary for dealing with time, predicting the future, and talking a
 - **κάθε μέρα** *(ká-the mé-ra)* = every day
 - **ποτέ** *(po-té)* = never (used with *δεν*: *Δεν παίζω ποτέ* = I never play)
 
-
 ---
 
 **Practice Grammar:** [Unit 11: Future Tenses (Θα)](/lessons/future-continuous)

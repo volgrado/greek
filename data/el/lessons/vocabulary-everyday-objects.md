@@ -22,7 +22,6 @@ Words for the things and places around you.
 - **ο ουρανός** *(o oo-ra-nós)* = sky
 - **η θάλασσα** *(ee thá-las-sa)* = sea
 
-
 ---
 
 **Practice Grammar:** [Unit 5: The Accusative Case](/lessons/accusative-case)

@@ -1,7 +1,5 @@
 # Chapter 11: The Port of Piraeus (Το Λιμάνι του Πειραιά)
 
-<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-11.mp3"></audio>
-
 ![Nestoras running through the port of Piraeus towards a ferry boat at night](/assets/images/chapter-11-port.png)
 
 > [!NOTE]

@@ -21,7 +21,6 @@ Master the most common **-ομαι** verbs that describe thoughts, feelings, and
 - **χρειάζομαι** *(hree-á-zo-me)* = to need
 - **δανείζομαι** *(da-ní-zo-me)* = to borrow
 
-
 ---
 
 **Practice Grammar:** [Unit 18: Passive & Deponent Verbs](/lessons/deponent-verbs)

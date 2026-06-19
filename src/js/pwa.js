@@ -16,7 +16,6 @@ export const initPWA = () => {
             const lessons = state.getFlatLessons();
             const lang = state.currentLang;
             const lessonCacheName = `${CONFIG.LESSON_CACHE_PREFIX}${lang}-${CONFIG.LESSON_CACHE_VERSION}`;
-            const staticCacheName = CONFIG.APP_CACHE_NAME;
 
             const urlsToCache = lessons.map(l => `${I18N[lang].lessonsPath}${l.id}.html`);
             
@@ -26,7 +25,6 @@ export const initPWA = () => {
 
             try {
                 const lessonCache = await caches.open(lessonCacheName);
-                const staticCache = await caches.open(staticCacheName);
 
                 for (const url of urlsToCache) {
                     count++;
@@ -36,25 +34,6 @@ export const initPWA = () => {
                     const response = await fetch(url);
                     if (response.ok) {
                         await lessonCache.put(url, response.clone());
-                        
-                        // Phase 2: Scrape for media (Audio/VTT)
-                        const html = await response.text();
-                        const audioMatch = html.match(/src="([^"]+\.mp3)"/);
-                        if (audioMatch) {
-                            const audioUrl = audioMatch[1];
-                            const vttUrl = audioUrl.replace('.mp3', '.vtt');
-                            
-                            // Download audio and vtt into static cache
-                            try {
-                                const audioRes = await fetch(audioUrl);
-                                if (audioRes.ok) await staticCache.put(audioUrl, audioRes);
-                                
-                                const vttRes = await fetch(vttUrl);
-                                if (vttRes.ok) await staticCache.put(vttUrl, vttRes);
-                            } catch (err) {
-                                console.warn("Media download failed", audioUrl, err);
-                            }
-                        }
                     }
                 }
 

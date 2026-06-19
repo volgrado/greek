@@ -24,7 +24,6 @@ Vocabulary designed to pair with Relative/Reflexive pronouns and advanced interp
 - **η ιδέα** *(ee ee-dé-a)* = the idea (Plural: *οι ιδέες*)
 - **η δουλειά** *(ee doo-lyá)* = the work / job (Plural: *οι δουλειές*)
 
-
 ---
 
 **Practice Grammar:** [Unit 23: Relative Pronouns](/lessons/relative-pronouns)

@@ -1,27 +1,28 @@
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-vamer/
-.env
 .ipynb_checkpoints/
-.DS_Store
-__pycache__/
-*.py[cod]
-*$py.class
-vamer/
+
+# Node
+node_modules/
+
+# Environment
 .env
-.ipynb_checkpoints/
+
+# OS
 .DS_Store
 Thumbs.db
-greek_zero_app.zip
-greek_zero_app_v2.zip
+
+# Scratch / local
+vamer/
 temp_browser_data/
 temp*
-voices.txt
-audit_report.txt
 log/
+greek_zero_app.zip
+greek_zero_app_v2.zip
 
-# Build artifacts
+# Build tooling
 .wrangler/
 
 # Temporary exports

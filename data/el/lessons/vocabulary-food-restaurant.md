@@ -26,7 +26,6 @@ Vocabulary meant to be combined with the *Simple Past* (I ate) and *Subjunctive*
 - **Τι θα πάρετε;** *(ti tha pá-re-te?)* = What will you have/take?
 - **Μπορώ να έχω...;** *(bo-ró na é-ho...)* = Can I have...?
 
-
 ---
 
 **Practice Grammar:** [Unit 12: Building the Simple Stem](/lessons/simple-stem)

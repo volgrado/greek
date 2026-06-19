@@ -1,7 +1,5 @@
 # Chapter 4: The Cafe in Monastiraki (Το Καφενείο στο Μοναστηράκι)
 
-<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-04.mp3"></audio>
-
 ![Nestoras sitting at a traditional Greek cafe in Monastiraki](/assets/images/chapter-4-cafe.png)
 
 > [!NOTE]

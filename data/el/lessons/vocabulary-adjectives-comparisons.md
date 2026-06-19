@@ -26,7 +26,6 @@ Words for evaluating the world around you and comparing things.
 - **από...** *(a-pó)* = than... (*πιο ψηλός από εμένα*)
 - **ο πιο...** *(o pyo)* = the most... (the superlative)
 
-
 ---
 
 **Practice Grammar:** [Unit 25: Adjective Comparison](/lessons/adjective-comparison)

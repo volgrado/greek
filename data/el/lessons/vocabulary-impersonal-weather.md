@@ -26,7 +26,6 @@ Verbs and nouns that are frozen in the 3rd person singular to describe states, r
 - **είναι λογικό...** *(eé-ne lo-yee-kó)* = it makes sense...
 - **είναι δύσκολο / εύκολο...** *(dís-ko-lo / éf-ko-lo)* = it is difficult / easy...
 
-
 ---
 
 **Practice Grammar:** [Unit 27: Impersonal Verbs](/lessons/impersonal-verbs)

@@ -1,6 +1,6 @@
 # Unit 1-3: Foundations
 
-This exercise is divided into four fluency-building activities to move you from theory to automaticity.
+This exercise is divided into three fluency-building activities to move you from theory to automaticity.
 
 ## 1. The Constrained Picture Exercise
 
@@ -24,30 +24,7 @@ This exercise is divided into four fluency-building activities to move you from 
 
 ---
 
-## 2. Audio-Visual Shadowing
-
-Listen to the native speaker describing the scene. Your goal is to speak *at the exact same time*, mimicking the rhythm and speed.
-
-<audio controls>
-    <source src="/assets/audio/exercises/exercise-basics-model.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
-
-<details>
-<summary><strong>Click to reveal Transcript</strong></summary>
-
-«Η γιαγιά είναι στην κουζίνα. Έχει ωραίο φαγητό.»
-(The grandmother is in the kitchen. She has nice food.)
-</details>
-
-**Why it works:**
-
-* **Η γιαγιά είναι...**: Correct use of the feminine definite article "η" with the subject noun and the 3rd person singular present tense form of "είμαι".
-* **Έχει ωραίο φαγητό**: The verb "έχω" is conjugated to the 3rd person singular ("έχει" - she has). "Ωραίο φαγητό" (nice food) follows as the related object of possession.
-
----
-
-## 3. The Mutation Drill (Speed-Shift)
+## 2. The Mutation Drill (Speed-Shift)
 
 Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change the sentence mentally before checking the Target. This builds agility without overthinking.
 
@@ -60,7 +37,7 @@ Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change
 
 ---
 
-## 4. The Grammar-Saturated Story
+## 3. The Grammar-Saturated Story
 
 Read this short story three times: first for accuracy, second for comprehension, and third *as fast as possible*. This forces your brain to "soak" in the patterns of *to be* and *to have*.
 

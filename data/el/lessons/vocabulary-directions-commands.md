@@ -23,7 +23,6 @@ Combine these words with the **Imperative Mood** and **Adverbs** to navigate the
 - **απέναντι** *(a-pé-nan-di)* = opposite / across
 - **δίπλα σε** *(díp-la)* = next to
 
-
 ---
 
 **Practice Grammar:** [Unit 16: Imperative Mood](/lessons/imperative)

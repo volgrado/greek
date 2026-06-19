@@ -1,7 +1,5 @@
 # Chapter 6: The Golden Door (Η Χρυσή Πόρτα)
 
-<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-06.mp3"></audio>
-
 ![Nestoras standing before a mysterious golden door with three colored boxes](/assets/images/chapter-6-door.png)
 
 > [!NOTE]

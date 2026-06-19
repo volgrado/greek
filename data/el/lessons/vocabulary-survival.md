@@ -25,7 +25,6 @@ In this first vocabulary list, we focus on the words that will help you survive 
 - **η Βοήθεια** *(ee vo-ée-thya)* = Help
 - **Πού είναι...;** *(poo ee-ne)* = Where is...?
 
-
 ---
 
 **Practice Grammar:** [Unit 5: The Accusative Case](/lessons/accusative-case)

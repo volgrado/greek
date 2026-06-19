@@ -22,7 +22,6 @@ These words are naturally used with the **Perfect Tenses** (Have you ever...?) a
 - **ήδη** *(í-dee)* = already (*Το έχω ήδη κάνει* - I have already done it)
 - **ακόμα** *(a-kó-ma)* = yet / still (*Δεν το έχω δει ακόμα* - I haven't seen it yet)
 
-
 ---
 
 **Practice Grammar:** [Unit 20: The Perfect Tenses](/lessons/perfect-tenses)

@@ -1,7 +1,5 @@
 # Chapter 12: The Storm at Sea (Η Καταιγίδα στη Θάλασσα)
 
-<audio id="reading-audio" controls src="/assets/audio/chapters/chapter-12.mp3"></audio>
-
 ![Nestoras on the deck of a ferry boat looking at a dark, stormy sea with lightning in the distance](/assets/images/chapter-12-storm.png)
 
 > [!NOTE]

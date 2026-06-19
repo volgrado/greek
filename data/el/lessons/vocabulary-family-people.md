@@ -20,7 +20,6 @@ Learn the essential words to talk about people and family members in Greek.
 - **ο δάσκαλος / η δασκάλα** *(o dás-ka-los / ee das-ká-la)* = teacher
 - **ο/η γιατρός** *(o/ee ya-trós)* = doctor
 
-
 ---
 
 **Practice Grammar:** [Unit 2: The Basics of Nouns](/lessons/nouns)

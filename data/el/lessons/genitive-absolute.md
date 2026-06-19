@@ -6,11 +6,6 @@ It is called the **Genitive Absolute (Η Γενική Απόλυτη Μετοχ�
 
 You will rarely hear this spoken in a coffee shop, but you will absolutely see it in newspapers, official documents, literature, and news broadcasts.
 
-> [!TIP]
-> **Grammar Podcast** (Formal/Academic)
-> Listen to this unit's podcast on the Genitive Absolute (Noun + Participle), ancient active forms (θέλοντος), and the redoubling in formal passive participles.
-> <audio id="grammar-podcast" controls src="/assets/audio/podcasts/genitive-absolute-grammar.mp3" style="width: 100%; margin-top: 10px;"></audio>
-
 ---
 
 ## 1. What is the Genitive Absolute?

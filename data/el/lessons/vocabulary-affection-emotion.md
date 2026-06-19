@@ -27,7 +27,6 @@ When things are unusually large, impressive, or scary!
 - **ο άντρας** *(o án-dras)* = man ➔ **ο άντραρος** (big man)
 - **η φωνή** *(ee fo-ní)* = voice ➔ **η φωνάκλα** (loud, booming voice)
 
-
 ---
 
 **Practice Grammar:** [Unit 29: Diminutives](/lessons/diminutives)

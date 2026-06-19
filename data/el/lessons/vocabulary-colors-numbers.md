@@ -24,7 +24,6 @@ Describing quantities and colors.
 - **ροζ** *(roz)* = pink
 - **καφέ** *(ka-fé)* = brown
 
-
 ---
 
 **Practice Grammar:** [Unit 6: Adjectives & Agreement](/lessons/adjectives)

@@ -25,7 +25,6 @@ The little words that make you sound like a native.
 - **φυσικά / βεβαίως** *(fee-see-ká / ve-vé-os)* = naturally / certainly
 - **αποκλείεται!** *(a-po-klí-e-te)* = no way! / impossible!
 
-
 ---
 
 **Practice Grammar:** [Unit 22: Spoken Expressions](/lessons/particles)

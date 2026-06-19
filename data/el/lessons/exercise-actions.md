@@ -1,6 +1,6 @@
 # Unit 4-5: Action & The Accusative
 
-This exercise is divided into four fluency-building activities to move you from theory to automaticity.
+This exercise is divided into three fluency-building activities to move you from theory to automaticity.
 
 ## 1. The Constrained Picture Exercise
 
@@ -24,29 +24,7 @@ This exercise is divided into four fluency-building activities to move you from 
 
 ---
 
-## 2. Audio-Visual Shadowing
-
-Listen to the native speaker describing the scene. Your goal is to speak *at the exact same time*, mimicking the rhythm and speed.
-
-<audio controls>
-    <source src="/assets/audio/exercises/exercise-actions-model.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
-
-<details>
-<summary><strong>Click to reveal Transcript</strong></summary>
-
-«Βρέχει πολύ σήμερα. Ο άνθρωπος κρατάει την ομπρέλα.»
-(It is raining a lot today. The man is holding the umbrella.)
-</details>
-
-**Why it works:**
-
-* **κρατάει την ομπρέλα**: "Κρατάει" is the 3rd person singular of the Type A action verb "κρατάω". "Την ομπρέλα" is the direct object receiving the action, correctly inflected in the accusative case (changing from "Η ομπρέλα" to "Την ομπρέλα").
-
----
-
-## 3. The Mutation Drill (Speed-Shift)
+## 2. The Mutation Drill (Speed-Shift)
 
 Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change the sentence mentally before checking the Target. This builds agility without overthinking.
 
@@ -59,7 +37,7 @@ Read the "Base" sentence aloud. Then, look at the "Trigger" and instantly change
 
 ---
 
-## 4. The Grammar-Saturated Story
+## 3. The Grammar-Saturated Story
 
 Read this short story three times: first for accuracy, second for comprehension, and third *as fast as possible*. This forces your brain to "soak" in the patterns of the Accusative Case and Type A verbs.
 

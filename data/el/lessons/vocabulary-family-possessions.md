@@ -23,7 +23,6 @@ Perfect vocabulary for practicing the **Genitive Case** (e.g. "The brother *of t
 - **Ποιανής είναι...;** *(pya-nís eé-ne)* = Whose is it? (Feminine owner)
 - **Τίνος είναι...;** *(tí-nos eé-ne)* = Whose is it? (Formal / Generic)
 
-
 ---
 
 **Practice Grammar:** [Unit 15: Genitive Case](/lessons/genitive-case)

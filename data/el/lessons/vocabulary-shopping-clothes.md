@@ -30,7 +30,6 @@ Perfect for practicing plurals, adjective agreement, and object pronouns ("I wan
 - **μεγάλος, -η, -ο** *(me-gá-los)* = big
 - **μικρός, -ή, -ό** *(mik-rós)* = small
 
-
 ---
 
 **Practice Grammar:** [Unit 8: Plural Nouns & Adjectives](/lessons/plurals)

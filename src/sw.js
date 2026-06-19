@@ -41,7 +41,6 @@ const STATIC_ASSETS = [
     '/js/theme.js',
     '/js/i18n.js',
     '/js/data.js',
-    '/js/karaoke.js',
     '/js/router.js',
     '/js/pwa.js',
     '/js/main.js',
@@ -136,8 +135,7 @@ self.addEventListener('fetch', (e) => {
     }
 
     // 2. Font & Media: Cache-First
-    if (url.origin.includes('fonts.') || 
-        url.pathname.includes('/assets/audio/') || 
+    if (url.origin.includes('fonts.') ||
         url.pathname.includes('/assets/images/')) {
         
         e.respondWith(
