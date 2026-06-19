@@ -232,7 +232,9 @@ def build_lang(lang_code, dist_root):
         return text.lower()
 
     if lessons_dir.exists():
-        for file_path in lessons_dir.glob('*.md'):
+        # Lessons are organised into type subfolders (grammar/ vocabulary/ practice/);
+        # glob recursively and key output by stem id so paths stay flat.
+        for file_path in lessons_dir.rglob('*.md'):
             lesson_id = file_path.stem
             with file_path.open('r', encoding='utf-8') as f:
                 try:
