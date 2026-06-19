@@ -36,5 +36,13 @@ npm run dev
 
 ## Deploy
 
-Cloudflare Pages serves `./dist` (see `wrangler.jsonc`). Run `npm run build`
-before deploying so `dist/` reflects the latest content.
+Cloudflare serves `./dist` (see `wrangler.jsonc`). `dist/` is generated and
+**not** committed — it's built fresh for each deploy.
+
+- **CI (default):** pushing to `master` triggers `.github/workflows/deploy.yml`,
+  which builds and runs `wrangler deploy`. Requires two repo secrets:
+  `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID`.
+- **Manual:** `npm run build && npx wrangler deploy`.
+
+The service worker cache version is stamped automatically from a content hash at
+build time, so deploys invalidate stale caches without any manual version bump.
