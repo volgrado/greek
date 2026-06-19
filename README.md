@@ -19,6 +19,27 @@ scripts/          Python build + content tooling
 dist/             Build output (generated)
 ```
 
+## Authoring lessons
+
+Lessons are Markdown under `data/el/lessons/{grammar,vocabulary,practice}/`. The
+filename stem is the lesson `id` referenced in `curriculum.json`. Supported
+conventions beyond standard Markdown:
+
+- `> [!NOTE]` / `> [!TIP]` callouts.
+- `::: reading-segment` … `::: end` blocks for paired Greek/translation lines.
+- **Quick Check** self-tests (no JS, work offline) — a question in the summary,
+  the answer revealed on click:
+
+  ```html
+  <details>
+  <summary><strong>1. "I will go to the store tomorrow."</strong></summary>
+
+  **Θα πάω στο μαγαζί αύριο.**
+  </details>
+  ```
+
+After editing content, run `npm run build` (or push — CI builds for you).
+
 ## Develop
 
 Requires Python 3 and Node (for Wrangler).
