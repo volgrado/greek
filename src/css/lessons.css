@@ -157,12 +157,6 @@
 }
 
 
-/* Reading segments */
-.reading-segment {
-    padding: var(--space-3);
-    margin: var(--space-2) 0;
-}
-
 /* Mobile Tweaks */
 @media screen and (max-width: var(--breakpoint-mobile)) {
     .lesson-header h1 {

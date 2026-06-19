@@ -1,11 +1,11 @@
 /** 
  * GREEK PWA - Service Worker
  * Optimized for offline use and App Shell architecture.
- * v20 - Master Shell Fallback Fix (SPA Sub-path support)
+ * v21 - Remove audio feature and reading stories
  */
 
 const CONFIG = {
-    APP_CACHE_NAME: 'greek-v20',
+    APP_CACHE_NAME: 'greek-v21',
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     DEFAULT_LANG: 'el'
