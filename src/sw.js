@@ -1,12 +1,19 @@
-/** 
+/**
  * GREEK PWA - Service Worker
  * Optimized for offline use and App Shell architecture.
- * v21 - Remove audio feature and reading stories
+ *
+ * Cache versioning is automatic: scripts/build.py replaces __BUILD_ID__ with a
+ * hash of the built content, so every content change yields new cache names and
+ * the activate handler purges the stale ones. No manual version bump needed.
  */
 
+const BUILD_ID = '__BUILD_ID__';
+
 const CONFIG = {
-    APP_CACHE_NAME: 'greek-v21',
+    APP_CACHE_NAME: `greek-${BUILD_ID}`,
     LESSON_CACHE_PREFIX: 'pwa-lessons-',
+    // Kept in sync with src/js/config.js (offline download writes this cache).
+    // Lessons are served stale-while-revalidate, so they refresh without a bump.
     LESSON_CACHE_VERSION: 'v2',
     DEFAULT_LANG: 'el'
 };
@@ -53,7 +60,7 @@ self.addEventListener('install', (e) => {
     self.skipWaiting();
     e.waitUntil(
         caches.open(CONFIG.APP_CACHE_NAME).then((cache) => {
-            console.log('[SW] Caching static assets v20...');
+            console.log(`[SW] Caching static assets (${BUILD_ID})...`);
             return cache.addAll(STATIC_ASSETS);
         })
     );
@@ -113,6 +120,23 @@ self.addEventListener('fetch', (e) => {
                     headers: {'Content-Type': 'text/html'} 
                 });
             });
+        })());
+        return;
+    }
+
+    // 0b. Curriculum: Network-First (fresh content online, cached fallback offline).
+    // Precached in STATIC_ASSETS for offline, but must not be served stale-forever.
+    if (url.pathname.endsWith('/curriculum.json')) {
+        e.respondWith((async () => {
+            const cache = await caches.open(CONFIG.APP_CACHE_NAME);
+            try {
+                const res = await fetch(e.request);
+                if (res.status === 200) cache.put(e.request, res.clone());
+                return res;
+            } catch {
+                return (await cache.match(e.request, { ignoreSearch: true }))
+                    || new Response('{}', { status: 200, headers: { 'Content-Type': 'application/json' } });
+            }
         })());
         return;
     }

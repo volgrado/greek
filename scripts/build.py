@@ -3,6 +3,7 @@ from pathlib import Path
 import json
 import sys
 import re
+import hashlib
 import markdown
 
 def strip_html(html_text):
@@ -374,6 +375,23 @@ def build_all():
             print("[OK] Pre-rendered HTML shell injected into index.html")
     except Exception as e:
         print(f"[ERR] Failed to generate App Shell: {e}")
+
+    # 5. Stamp the service worker with a content-derived build id so cache names
+    #    change whenever the built output changes (no manual version bump needed).
+    sw_path = dist_dir / 'sw.js'
+    if sw_path.exists():
+        # Hash the SOURCE inputs (deterministic) rather than built output, whose
+        # embedded search index ordering varies with PYTHONHASHSEED.
+        h = hashlib.sha1()
+        src_root = Path('src')
+        sources = [p for p in Path('data').rglob('*') if p.is_file()]
+        sources += [p for p in src_root.rglob('*') if p.is_file() and p != src_root / 'sw.js']
+        for p in sorted(sources, key=lambda x: x.as_posix()):
+            h.update(p.as_posix().encode())
+            h.update(p.read_bytes())
+        build_id = h.hexdigest()[:12]
+        sw_path.write_text(sw_path.read_text(encoding='utf-8').replace('__BUILD_ID__', build_id), encoding='utf-8')
+        print(f"[OK] Service worker stamped with build id: {build_id}")
 
     print("\n--- Build process completed ---")
     print(f"[OK] Final production site ready in: {dist_dir.absolute()}")
