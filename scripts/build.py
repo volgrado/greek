@@ -176,12 +176,12 @@ def parse_markdown(md_text, lang_code):
 def build_lang(lang_code, dist_root):
     print(f"--- Building language: {lang_code} ---")
     
-    # Directorios fuente
+    # Source directories
     lang_dir = Path('data') / lang_code
     lessons_dir = lang_dir / 'lessons'
     curriculum_path = lang_dir / 'curriculum.json'
     
-    # Directorios destino (Directo a dist)
+    # Output directories (written straight into dist)
     out_dir = dist_root / 'public/data' / lang_code
     out_lessons_dir = out_dir / 'lessons'
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -241,7 +241,7 @@ def build_lang(lang_code, dist_root):
                     md_text = f.read()
                     html_content = parse_markdown(md_text, lang_code)
                     
-                    # Guardar HTML
+                    # Write the compiled lesson HTML
                     out_lesson_path = out_lessons_dir / f"{lesson_id}.html"
                     with out_lesson_path.open('w', encoding='utf-8') as out_f:
                         out_f.write(html_content)

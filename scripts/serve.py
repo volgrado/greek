@@ -29,8 +29,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         super().__init__(*args, directory=SERVE_DIR, **kwargs)
 
     def do_GET(self):
-        # 🧭 Genius Move: SPA Routing Support
-        # If the requested path is not a file or directory, redirect to index.html
+        # SPA routing: serve index.html for any path that isn't a real file
         path = self.translate_path(self.path)
         if not os.path.exists(path) and not path.endswith('/'):
             self.path = '/index.html'

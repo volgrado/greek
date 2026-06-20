@@ -229,7 +229,7 @@ export const route = async (pathOverride = null) => {
 };
 
 export const initRouter = () => {
-    // 🧭 Genius Migration: If we have a hash from the old system, migrate to clean URLs
+    // Migrate legacy hash-based URLs (#/path) to clean paths
     if (window.navigation && window.location.hash.startsWith('#/')) {
         const cleanPath = window.location.hash.slice(1);
         try {
@@ -239,7 +239,7 @@ export const initRouter = () => {
         }
     }
 
-    // 🧭 Genius Move: Native Navigation API interception
+    // Intercept the Navigation API to route clean URLs client-side
     if (window.navigation) {
         window.navigation.addEventListener('navigate', (event) => {
             // Ignore cross-origin, downloads, or targets outside current window
@@ -256,9 +256,6 @@ export const initRouter = () => {
                 }
             });
         });
-
-        // Log activation for dev awareness
-        console.log("🧭 Native Navigation API active. Clean URLs enabled.");
     } else {
         // Fallback for older browsers
         window.onhashchange = () => route();

@@ -57,26 +57,12 @@ export const initPWA = () => {
 
     if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw.js').then(reg => {
-            // Service Worker registered successfully.
-
-            // If there's a waiting SW, let's force it to activate (optional safety, but skipWaiting in SW is better)
-            reg.addEventListener('updatefound', () => {
-                const newWorker = reg.installing;
-                newWorker.addEventListener('statechange', () => {
-                    if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                        // A new SW was just installed during this session! 
-                        // It will take over because of skipWaiting().
-                        console.log("New Service Worker installed.");
-                    }
-                });
-            });
+            // Registered. The SW calls skipWaiting()/clients.claim(), so an
+            // updated worker takes over fetches on the next navigation.
         });
 
-        // We removed the auto-reload on controllerchange to avoid infinite HMR loops (especially on Hard Refreshes).
-        // The new Service Worker will quietly take over all subsequent fetches.
-        navigator.serviceWorker.addEventListener('controllerchange', () => {
-            console.log("[PWA] Service Worker took over. Next navigation will use newest code.");
-        });
+        // Intentionally no reload on 'controllerchange': a new worker takes over
+        // quietly to avoid reload loops on hard refreshes.
     }
 
     const updateDownloadStatusUI = (isDownloaded) => {

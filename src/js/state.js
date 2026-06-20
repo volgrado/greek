@@ -5,7 +5,7 @@ class AppState {
     constructor() {
         this._listeners = {};
 
-        // 📡 Genius Sync: Telepathic Broadcast Channel
+        // Cross-tab state sync via BroadcastChannel
         this.syncChannel = new BroadcastChannel(CONFIG.SYNC_CHANNEL_NAME);
 
         this.syncChannel.onmessage = (e) => this._handleSyncMessage(e);
