@@ -19,9 +19,9 @@ file and pushing the claim commit first (see Instructions §4).
 | R5  | Build-integrity check + CI gate        | MERGED | fleet-R5 | —          | no   |
 | R6  | Docs & authoring guide                 | MERGED | fleet-R6 | —          | no   |
 | R7  | Practice/SRS interactivity layer       | MERGED | coordinator | R2, R3, R4 | no   |
-| L1  | Collapse single-language i18n scaffolding | TODO | —        | L3         | no   |
-| L2  | Drop unused search-index generation    | TODO   | —        | —          | yes  |
-| L3  | Reuse the pre-rendered shell on first paint | TODO | —      | —          | yes  |
+| L1  | Collapse single-language i18n scaffolding | TODO | —        | L3 (merged) | no  |
+| L2  | Drop unused search-index generation    | MERGED | fleet-L2 | —          | yes  |
+| L3  | Reuse the pre-rendered shell on first paint | MERGED | fleet-L3 | —     | yes  |
 
 > **Round 1 complete**: R1–R6 merged. **R7 merged** (vocabulary flashcards with
 > Leitner spaced repetition, localStorage-backed, offline). Follow-ups F1 and F2
