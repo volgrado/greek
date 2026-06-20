@@ -1,27 +1,27 @@
 /**
- * GREEK PWA - Service Worker
- * Optimized for offline use and App Shell architecture.
+ * GREEK PWA — Service Worker
+ *
+ * Offline-first app shell with per-route caching strategies. No dependencies.
  *
  * Cache versioning is automatic: scripts/build.py replaces __BUILD_ID__ with a
- * hash of the built content, so every content change yields new cache names and
- * the activate handler purges the stale ones. No manual version bump needed.
+ * content hash, so every content change produces new cache names and the
+ * activate handler purges the stale ones. No manual version bump required.
  */
 
 const BUILD_ID = '__BUILD_ID__';
+const LANG = 'el';
 
-const CONFIG = {
-    APP_CACHE_NAME: `greek-${BUILD_ID}`,
-    LESSON_CACHE_PREFIX: 'pwa-lessons-',
-    // Kept in sync with src/js/config.js (offline download writes this cache).
-    // Lessons are served stale-while-revalidate, so they refresh without a bump.
-    LESSON_CACHE_VERSION: 'v2',
-    DEFAULT_LANG: 'el'
+// Cache names. The lessons cache must stay in sync with src/js/config.js, which
+// the offline-download feature in pwa.js writes to.
+const CACHES = {
+    app: `greek-app-${BUILD_ID}`,
+    lessons: `greek-lessons-${LANG}-v2`,
+    fonts: 'greek-fonts-v1',
 };
+const CURRENT_CACHES = Object.values(CACHES);
 
-const I18N_LANGS = ['el'];
-const LESSON_CACHES = I18N_LANGS.map(lang => `${CONFIG.LESSON_CACHE_PREFIX}${lang}-${CONFIG.LESSON_CACHE_VERSION}`);
-
-const STATIC_ASSETS = [
+// App shell + static assets precached on install.
+const PRECACHE_URLS = [
     '/',
     '/index.html',
     '/styles.css',
@@ -37,151 +37,102 @@ const STATIC_ASSETS = [
     '/js/main.js',
     '/manifest.json',
     '/assets/icon.svg',
-    '/public/data/el/curriculum.json'
+    `/public/data/${LANG}/curriculum.json`,
 ];
+const PRECACHE_PATHS = new Set(PRECACHE_URLS);
 
-self.addEventListener('install', (e) => {
+// --- Caching strategies -----------------------------------------------------
+
+// Serve from cache; on miss, fetch and cache. For immutable/static assets.
+async function cacheFirst(request, cacheName) {
+    const cached = await caches.match(request, { ignoreSearch: true });
+    if (cached) return cached;
+    try {
+        const response = await fetch(request);
+        if (response.ok) (await caches.open(cacheName)).put(request, response.clone());
+        return response;
+    } catch {
+        return new Response('', { status: 504, statusText: 'Offline' });
+    }
+}
+
+// Try network first, cache the result, fall back to cache offline. For content
+// that should be fresh when online (the curriculum).
+async function networkFirst(request, cacheName) {
+    try {
+        const response = await fetch(request);
+        if (response.ok) (await caches.open(cacheName)).put(request, response.clone());
+        return response;
+    } catch {
+        return (await caches.match(request, { ignoreSearch: true }))
+            || new Response('', { status: 504, statusText: 'Offline' });
+    }
+}
+
+// Serve cache immediately and refresh it in the background. For lesson content.
+async function staleWhileRevalidate(request, cacheName) {
+    const cached = await caches.match(request, { ignoreSearch: true });
+    const network = fetch(request).then(async (response) => {
+        if (response.ok) (await caches.open(cacheName)).put(request, response.clone());
+        return response;
+    }).catch(() => null);
+    return cached || (await network) || new Response('', { status: 504, statusText: 'Offline' });
+}
+
+// Navigation: return the cached app shell for any path (SPA routing happens
+// client-side), refreshing it in the background.
+async function appShell(request) {
+    const cache = await caches.open(CACHES.app);
+    const shell = await cache.match(request, { ignoreSearch: true })
+        || await cache.match('/index.html', { ignoreSearch: true })
+        || await cache.match('/', { ignoreSearch: true });
+    if (shell) {
+        fetch(request).then((res) => { if (res.ok) cache.put(request, res.clone()); }).catch(() => {});
+        return shell;
+    }
+    return fetch(request).catch(() => new Response('Offline: app shell unavailable.', {
+        status: 200, headers: { 'Content-Type': 'text/html' },
+    }));
+}
+
+// --- Routing ----------------------------------------------------------------
+
+const isFont = (url) => url.origin.includes('fonts.');
+const isImage = (url) => url.pathname.includes('/assets/images/');
+const isLesson = (url) => url.pathname.includes('/data/') && url.pathname.includes('/lessons/');
+const isCurriculum = (url) => url.pathname.endsWith('/curriculum.json');
+const isPrecached = (url) => PRECACHE_PATHS.has(url.pathname)
+    || (url.pathname === '/index.html' && PRECACHE_PATHS.has('/'));
+
+function handle(request) {
+    if (request.mode === 'navigate') return appShell(request);
+
+    const url = new URL(request.url);
+    if (isCurriculum(url)) return networkFirst(request, CACHES.app);
+    if (isLesson(url)) return staleWhileRevalidate(request, CACHES.lessons);
+    if (isFont(url)) return cacheFirst(request, CACHES.fonts);
+    if (isImage(url) || isPrecached(url)) return cacheFirst(request, CACHES.app);
+
+    // Unknown GETs: prefer cache, fall back to network, but don't pollute caches.
+    return caches.match(request, { ignoreSearch: true }).then((c) => c || fetch(request));
+}
+
+// --- Lifecycle --------------------------------------------------------------
+
+self.addEventListener('install', (event) => {
     self.skipWaiting();
-    e.waitUntil(
-        caches.open(CONFIG.APP_CACHE_NAME).then((cache) => {
-            console.log(`[SW] Caching static assets (${BUILD_ID})...`);
-            return cache.addAll(STATIC_ASSETS);
-        })
-    );
+    event.waitUntil(caches.open(CACHES.app).then((cache) => cache.addAll(PRECACHE_URLS)));
 });
 
-self.addEventListener('activate', (e) => {
-    e.waitUntil(self.clients.claim());
-    const WHITELIST = [CONFIG.APP_CACHE_NAME, 'pwa-fonts-v1', ...LESSON_CACHES];
-    e.waitUntil(
-        caches.keys().then((keyList) => {
-            return Promise.all(keyList.map((key) => {
-                if (!WHITELIST.includes(key)) {
-                    return caches.delete(key);
-                }
-            }));
-        })
-    );
+self.addEventListener('activate', (event) => {
+    event.waitUntil((async () => {
+        const names = await caches.keys();
+        await Promise.all(names.filter((n) => !CURRENT_CACHES.includes(n)).map((n) => caches.delete(n)));
+        await self.clients.claim();
+    })());
 });
 
-self.addEventListener('fetch', (e) => {
-    const url = new URL(e.request.url);
-
-    // 0. App Shell: SPA Navigation Fallback for ANY sub-path
-    if (e.request.mode === 'navigate') {
-        e.respondWith((async () => {
-            const cache = await caches.open(CONFIG.APP_CACHE_NAME);
-            
-            // 1. Try exact URL match (e.g. for / or /index.html)
-            let response = await cache.match(e.request, { ignoreSearch: true });
-            
-            // 2. ABSOLUTE GLOBAL FALLBACK: if we are on /lessons/x, we must return the master index.html
-            // We use the full URL to ensure matching succeeds regardless of current path.
-            if (!response) {
-                const shellUrl = new URL('/index.html', self.location.origin).href;
-                response = await cache.match(shellUrl, { ignoreSearch: true });
-            }
-
-            // 3. Last resort: try just '/'
-            if (!response) {
-                const rootUrl = new URL('/', self.location.origin).href;
-                response = await cache.match(rootUrl, { ignoreSearch: true });
-            }
-
-            if (response) {
-                // Background update the cache for the specific URL being requested
-                fetch(e.request).then(res => {
-                    if (res.status === 200) cache.put(e.request, res.clone());
-                }).catch(() => {});
-                
-                return response;
-            }
-
-            // If absolutely nothing is in cache, try network and fallback to a string
-            return fetch(e.request).catch(() => {
-                return new Response('Offline: App shell not found.', { 
-                    status: 200, 
-                    headers: {'Content-Type': 'text/html'} 
-                });
-            });
-        })());
-        return;
-    }
-
-    // 0b. Curriculum: Network-First (fresh content online, cached fallback offline).
-    // Precached in STATIC_ASSETS for offline, but must not be served stale-forever.
-    if (url.pathname.endsWith('/curriculum.json')) {
-        e.respondWith((async () => {
-            const cache = await caches.open(CONFIG.APP_CACHE_NAME);
-            try {
-                const res = await fetch(e.request);
-                if (res.status === 200) cache.put(e.request, res.clone());
-                return res;
-            } catch {
-                return (await cache.match(e.request, { ignoreSearch: true }))
-                    || new Response('{}', { status: 200, headers: { 'Content-Type': 'application/json' } });
-            }
-        })());
-        return;
-    }
-
-    // 1. Static Assets: Cache-First
-    const isStatic = STATIC_ASSETS.some(asset => url.pathname === asset || (asset === '/' && url.pathname === '/index.html'));
-    if (isStatic) {
-        e.respondWith(
-            caches.match(e.request, { ignoreSearch: true }).then(cached => {
-                return cached || fetch(e.request).then(response => {
-                    if (response.status === 200) {
-                        const clone = response.clone();
-                        caches.open(CONFIG.APP_CACHE_NAME).then(cache => cache.put(e.request, clone));
-                    }
-                    return response;
-                }).catch(() => new Response('', { status: 503 }));
-            })
-        );
-        return;
-    }
-
-    // 2. Font & Media: Cache-First
-    if (url.origin.includes('fonts.') ||
-        url.pathname.includes('/assets/images/')) {
-        
-        e.respondWith(
-            caches.match(e.request, { ignoreSearch: true }).then(cached => {
-                return cached || fetch(e.request).then(response => {
-                    if (response.status === 200) {
-                        const clone = response.clone();
-                        const cacheName = url.origin.includes('fonts') ? 'pwa-fonts-v1' : CONFIG.APP_CACHE_NAME;
-                        caches.open(cacheName).then(cache => cache.put(e.request, clone));
-                    }
-                    return response;
-                }).catch(() => new Response('', { status: 404 }));
-            })
-        );
-        return;
-    }
-
-    // 3. Lesson Data: Stale-While-Revalidate
-    if (url.pathname.includes('/data/') && url.pathname.includes('/lessons/')) {
-        const cacheName = `${CONFIG.LESSON_CACHE_PREFIX}${CONFIG.DEFAULT_LANG}-${CONFIG.LESSON_CACHE_VERSION}`;
-        e.respondWith(
-            caches.match(e.request, { ignoreSearch: true }).then(cached => {
-                const network = fetch(e.request).then(res => {
-                    if (res.status === 200) {
-                        const clone = res.clone();
-                        caches.open(cacheName).then(c => c.put(e.request, clone));
-                    }
-                    return res;
-                }).catch(() => null);
-
-                return cached || network || new Response('Offline Content Non-existent.', { status: 200 });
-            })
-        );
-        return;
-    }
-
-    // Default: Cache First
-    e.respondWith(
-        caches.match(e.request, { ignoreSearch: true }).then(res => res || fetch(e.request))
-    );
+self.addEventListener('fetch', (event) => {
+    if (event.request.method !== 'GET') return;
+    event.respondWith(handle(event.request));
 });

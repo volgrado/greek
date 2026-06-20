@@ -43,7 +43,8 @@ export const I18N = {
  * App global constants
  */
 export const CONFIG = {
-    LESSON_CACHE_PREFIX: 'pwa-lessons-',
+    // Must match the lessons cache name in sw.js (greek-lessons-<lang>-<ver>).
+    LESSON_CACHE_PREFIX: 'greek-lessons-',
     LESSON_CACHE_VERSION: 'v2',
     SYNC_CHANNEL_NAME: 'greek_app_sync',
     DEFAULT_LANG: 'el',
