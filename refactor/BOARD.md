@@ -18,10 +18,11 @@ file and pushing the claim commit first (see Instructions §4).
 | R4  | Accessibility + perf pass (shell)      | MERGED | fleet-R4 | —          | yes  |
 | R5  | Build-integrity check + CI gate        | MERGED | fleet-R5 | —          | no   |
 | R6  | Docs & authoring guide                 | MERGED | fleet-R6 | —          | no   |
-| R7  | Practice/SRS interactivity layer       | TODO   | —        | R2, R3, R4 | no   |
+| R7  | Practice/SRS interactivity layer       | MERGED | coordinator | R2, R3, R4 | no   |
 
-> **Round 1 complete**: R1–R6 merged to master (build + integrity check green).
-> R7 is now **unblocked** (its dependencies R2/R3/R4 are merged) and ready to claim.
+> **Round 1 complete**: R1–R6 merged. **R7 merged** (vocabulary flashcards with
+> Leitner spaced repetition, localStorage-backed, offline). Follow-ups F1 and F2
+> fixed; F3 confirmed as a real content bug (details below).
 
 ---
 
@@ -118,12 +119,18 @@ No files are currently locked. When you set a task `CLAIMED`/`IN-PROGRESS`, list
 Pre-existing issues surfaced by the round-1 agents (out of their scope; candidate
 follow-up tasks):
 
-- **F1 (from R3)** — Several `@media` queries use `max-width: var(--breakpoint-mobile)`.
-  CSS custom properties are invalid in media-query feature values, so those mobile
-  breakpoints currently never apply (`tables.css`, `footer.css`, `lessons.css`,
-  `mode-switcher.css`). Fix: inline the literal value or use a build-time substitution.
-- **F2 (from R2)** — `src/js/router.js` has a duplicated `state.markAsViewed(id);
-  prefetchNext(id);` pair (harmless redundancy). Remove one.
-- **F3 (from R1)** — The phrase-list inner split regex `^(.*?)\s*\((.*?)\)$` can still
-  pick a split point inside inline markup on a leaf item. Left as-is to preserve
-  byte-identical output on 40 lessons; harden separately with sign-off on byte changes.
+- **F1 (from R3)** — FIXED (`ffced42`). The four `@media (max-width:
+  var(--breakpoint-mobile))` queries used an invalid custom property in a media
+  feature; replaced with the literal `480px`, restoring the mobile breakpoints.
+- **F2 (from R2)** — FIXED (`ffced42`). Removed the duplicated
+  `state.markAsViewed(id); prefetchNext(id);` pair in `router.js`.
+- **F3 (from R1)** — OPEN, now **confirmed as real content corruption**. The
+  phrase-list transform fires on vocabulary items of the form
+  `**Greek** *(pron)* = English` because they end in `(...)`, splitting the
+  `.meaning` span across the pronunciation (the `.lang-el`/`.meaning` markup ends
+  up wrapping the pron, not the English). R7's card extractor works around it by
+  parsing the ` = ` separator from text, but the lesson HTML itself still renders
+  with mis-scoped spans. Fix: in `build.py`'s `process_li`, skip the phrase-list
+  wrap when the item contains ` = ` (the vocab definition format), so those items
+  render as plain `<strong>`/`<em>` list entries. Changes byte output on ~22 vocab
+  lessons — verify the new output is correct, not merely different.
