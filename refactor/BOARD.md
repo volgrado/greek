@@ -19,7 +19,7 @@ file and pushing the claim commit first (see Instructions §4).
 | R5  | Build-integrity check + CI gate        | MERGED | fleet-R5 | —          | no   |
 | R6  | Docs & authoring guide                 | MERGED | fleet-R6 | —          | no   |
 | R7  | Practice/SRS interactivity layer       | MERGED | coordinator | R2, R3, R4 | no   |
-| L1  | Collapse single-language i18n scaffolding | TODO | —        | L3 (merged) | no  |
+| L1  | Collapse single-language i18n scaffolding | MERGED | fleet-L1 | L3        | no  |
 | L2  | Drop unused search-index generation    | MERGED | fleet-L2 | —          | yes  |
 | L3  | Reuse the pre-rendered shell on first paint | MERGED | fleet-L3 | —     | yes  |
 
