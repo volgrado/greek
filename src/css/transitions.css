@@ -1,6 +1,5 @@
-/* 
-   View Transitions Masterclass 
-   Customizing how different parts of the UI morph.
+/*
+   View transitions: customize how parts of the UI morph between routes.
 */
 
 /* 1. Global Page Morph: Slide & Fade */
@@ -31,12 +30,6 @@
 }
 
 /* Keyframes */
-@keyframes slide-to-top {
-    to {
-        transform: translateY(calc(-1 * var(--space-4)));
-    }
-}
-
 @keyframes slide-from-bottom {
     from {
         transform: translateY(var(--space-4));

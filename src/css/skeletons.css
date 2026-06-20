@@ -7,15 +7,9 @@
 .skeleton-meta,
 .skeleton-title,
 .skeleton-line {
-    background: var(--secondary-bg);
     border-radius: var(--radius-sm);
     margin-bottom: var(--space-6);
-    height: var(--space-4); /* 🚨 FIX: Default height for visibility */
-}
-
-.skeleton-meta,
-.skeleton-title,
-.skeleton-line {
+    height: var(--space-4); /* Default height for visibility */
     background: linear-gradient(90deg,
             var(--secondary-bg) 25%,
             var(--card-bg) 50%,

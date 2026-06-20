@@ -1,4 +1,4 @@
-/* 👣 Master Footer (Editorial Ledger Aesthetic) */
+/* Footer */
 #footer-root {
     margin-top: var(--space-20);
     padding: var(--space-12) var(--space-4) var(--space-16) var(--space-4);
@@ -98,7 +98,7 @@
     }
 }
 
-/* 🔌 Offline Status Integrated Badge (Subtle Typography) */
+/* Offline status badge */
 .offline-badge {
     font-family: var(--font-ui);
     font-size: 0.55rem;
@@ -107,13 +107,13 @@
     letter-spacing: var(--ls-widest);
     color: var(--important);
     margin-left: var(--space-2);
-    border: 1px solid var(--important);
-    padding: 0 4px;
+    border: var(--border-width) solid var(--important);
+    padding: 0 var(--space-1);
     border-radius: 2px;
     vertical-align: middle;
 }
 
-/* ⏳ Loading & Done states for download */
+/* Loading and done states for download */
 .is-loading {
     pointer-events: none;
     opacity: 0.5 !important;
