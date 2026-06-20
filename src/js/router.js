@@ -4,7 +4,7 @@
  */
 
 import { state } from './state.js';
-import { I18N } from './config.js';
+import { STRINGS } from './config.js';
 import { fetchLessonHTML, prefetchNext } from './data.js';
 import { getFlatLessons, getLessonNavigation } from './lesson-utils.js';
 import { matchLessonPath } from './route-utils.js';
@@ -240,7 +240,7 @@ export const route = async (pathOverride = null) => {
                 prefetchNext(id);
             } else {
                 const errorType = res ? res.error : 'NOT_FOUND';
-                const strings = I18N[state.currentLang];
+                const strings = STRINGS;
                 const isConnError = errorType === 'OFFLINE' || errorType === 'NETWORK';
 
                 const errorTemplate = document.getElementById('error-template');

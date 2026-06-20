@@ -1,17 +1,16 @@
 /**
- * Internationalization: paints UI strings and wires language/mode controls.
+ * UI chrome: paints UI strings and wires the mode switcher and reset control.
  */
 
 import { state } from './state.js';
-import { I18N } from './config.js';
-import { loadData } from './data.js';
+import { STRINGS, CONFIG } from './config.js';
 
 // Element selection helpers (using dynamic lookups to avoid nulls at module load time)
 const getEl = (id) => document.getElementById(id);
 
 /**
- * Repaints all localized UI text and control labels for the current language,
- * view mode, and download state.
+ * Repaints all UI text and control labels for the current view mode and
+ * download state.
  * @returns {void}
  */
 export const updateUIStrings = () => {
@@ -21,10 +20,9 @@ export const updateUIStrings = () => {
     const modeLabel = getEl('mode-label');
     const downloadStatusText = getEl('download-status-text');
     const downloadToggle = getEl('download-toggle');
-    if (!I18N[state.currentLang]) state.currentLang = 'el';
-    const strings = I18N[state.currentLang];
+    const strings = STRINGS;
 
-    document.documentElement.lang = state.currentLang;
+    document.documentElement.lang = CONFIG.DEFAULT_LANG;
     if (langLabel) langLabel.textContent = strings.label;
     if (themeToggle) themeToggle.title = strings.themeToggle;
     if (footerRoot) {
@@ -68,7 +66,7 @@ export const updateUIStrings = () => {
  * @returns {void}
  */
 export const resetProgress = (linkElement, routeFn) => {
-    const strings = I18N[state.currentLang];
+    const strings = STRINGS;
     const clearLabel = linkElement.querySelector('span') || linkElement;
     if (clearLabel.textContent === strings.resetProgress) {
         clearLabel.textContent = strings.resetConfirm;
@@ -94,28 +92,16 @@ export const resetProgress = (linkElement, routeFn) => {
 };
 
 /**
- * Initializes i18n: subscribes to language/mode/download state changes, paints
+ * Initializes the UI chrome: subscribes to mode/download state changes, paints
  * initial strings, and wires the mode switcher and reset-progress controls.
- * @param {Function} routeFn - Router callback invoked on language/mode changes.
+ * @param {Function} routeFn - Router callback invoked on mode changes.
  * @returns {void}
  */
 export const initI18n = (routeFn) => {
-    // 1. Subscribe to changes via our new Proxy Signal
-    state.subscribe('currentLang', async (lang) => {
-        localStorage.setItem('lang', lang);
-        updateUIStrings();
-        await loadData();
-
-        if (window.navigation) window.navigation.navigate('/');
-        else window.location.href = '/';
-
-        if (routeFn) routeFn();
-    });
-
-    // 2. Initial string paint
+    // 1. Initial string paint
     updateUIStrings();
 
-    // 3. User interaction just modifies the reactive variable
+    // 2. User interaction just modifies the reactive variable
     const modeSwitchBtn = getEl('mode-switch-btn');
     const clearProgressBtn = getEl('clear-progress');
 
