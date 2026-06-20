@@ -1,3 +1,7 @@
+/**
+ * Application entry point: boots subsystems and wires offline status on load.
+ */
+
 import { initTheme } from './theme.js';
 import { updateUIStrings, initI18n } from './i18n.js';
 import { loadData } from './data.js';
@@ -16,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
         route();
     });
 
-    // 🔌 Offline Status Monitoring
+    // Offline status monitoring
     const offlineIndicator = document.getElementById('offline-indicator');
     const updateOnlineStatus = () => {
         if (offlineIndicator) {

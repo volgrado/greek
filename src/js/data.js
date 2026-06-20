@@ -1,7 +1,15 @@
+/**
+ * Curriculum and lesson data loading, caching, and prefetching.
+ */
+
 import { state } from './state.js';
 import { I18N } from './config.js';
 
-
+/**
+ * Loads the curriculum index for the current language into state.
+ * On a network failure it retries once so the Service Worker cache can serve it.
+ * @returns {Promise<void>}
+ */
 export const loadData = async () => {
     try {
         const r = await fetch(I18N[state.currentLang].dataFile);
@@ -15,6 +23,12 @@ export const loadData = async () => {
     }
 };
 
+/**
+ * Fetches the rendered HTML for a lesson, using an in-memory cache.
+ * @param {string} id - The lesson id (filename stem).
+ * @returns {Promise<string|{error: string}>} The HTML string, or an error
+ *   object with a code of NOT_FOUND, OFFLINE, or NETWORK.
+ */
 export const fetchLessonHTML = async (id) => {
     if (state.lessonCache[id]) return state.lessonCache[id];
     try {
@@ -32,6 +46,11 @@ export const fetchLessonHTML = async (id) => {
     }
 };
 
+/**
+ * Warms the cache with the lesson that follows the given one, if any.
+ * @param {string} currentId - The id of the currently viewed lesson.
+ * @returns {Promise<void>}
+ */
 export const prefetchNext = async (currentId) => {
     const lessons = state.getFlatLessons();
     const idx = lessons.findIndex(l => l.id === currentId);

@@ -1,4 +1,8 @@
 /**
+ * App-wide configuration: i18n strings and global constants.
+ */
+
+/**
  * @typedef {Object} Lesson
  * @property {string} id - Unique identifier for the lesson
  * @property {string} title - Human-readable title
@@ -11,8 +15,8 @@
  * @property {Object.<string, Lesson[]>} structure - Curriculum structure organized by sections
  */
 
-/** 
- * i18n Configuration
+/**
+ * Per-language UI strings and data paths.
  */
 export const I18N = {
     el: {

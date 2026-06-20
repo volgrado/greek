@@ -1,6 +1,15 @@
+/**
+ * Reactive application state: a Proxy-based signal store with cross-tab sync,
+ * viewed-lesson tracking, and offline download-status checks.
+ */
+
 import { getFlatLessons } from './lesson-utils.js';
 import { CONFIG } from './config.js';
 
+/**
+ * Central reactive store. Property reads/writes go through a Proxy that
+ * notifies subscribers and broadcasts changes to other tabs.
+ */
 class AppState {
     constructor() {
         this._listeners = {};
@@ -78,11 +87,24 @@ class AppState {
         }
     }
 
+    /**
+     * Registers a callback to run whenever the given state property changes.
+     * @param {string} key - The state property name to watch.
+     * @param {Function} callback - Invoked with the new value on change.
+     * @returns {void}
+     */
     subscribe(key, callback) {
         if (!this._listeners[key]) this._listeners[key] = [];
         this._listeners[key].push(callback);
     }
 
+    /**
+     * Marks a lesson as viewed, persisting it and optionally broadcasting to
+     * other tabs.
+     * @param {string} id - The lesson id.
+     * @param {boolean} [broadcast] - Whether to notify other tabs.
+     * @returns {void}
+     */
     markAsViewed(id, broadcast = true) {
         if (!this._data.viewedLessons.has(id)) {
             this._data.viewedLessons.add(id);
@@ -93,6 +115,11 @@ class AppState {
         }
     }
 
+    /**
+     * Clears all viewed-lesson progress, optionally broadcasting to other tabs.
+     * @param {boolean} [broadcast] - Whether to notify other tabs.
+     * @returns {void}
+     */
     clearViewed(broadcast = true) {
         this._data.viewedLessons.clear();
         localStorage.removeItem('viewed');
@@ -101,10 +128,19 @@ class AppState {
         }
     }
 
+    /**
+     * Flattens the current curriculum for the active view mode.
+     * @returns {Array} The flattened list of lesson objects.
+     */
     getFlatLessons() {
         return getFlatLessons(this._data.db?.structure || this._data.db, this._data.viewMode);
     }
 
+    /**
+     * Checks whether every lesson for the current language is present in the
+     * offline lesson cache.
+     * @returns {Promise<boolean>} True if all lessons are cached.
+     */
     async checkDownloadStatus() {
         if (!this._data.db || !this._data.db.structure) return false;
 
@@ -138,9 +174,16 @@ class AppState {
         }
     }
 
+    /**
+     * Normalizes text for accent-insensitive comparison (strips diacritics,
+     * lowercases).
+     * @param {string} text - The input text.
+     * @returns {string} The normalized text.
+     */
     normalizeText(text) {
         return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
     }
 }
 
+/** Shared singleton application state instance. */
 export const state = new AppState();
