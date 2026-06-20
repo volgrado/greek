@@ -124,13 +124,9 @@ follow-up tasks):
   feature; replaced with the literal `480px`, restoring the mobile breakpoints.
 - **F2 (from R2)** — FIXED (`ffced42`). Removed the duplicated
   `state.markAsViewed(id); prefetchNext(id);` pair in `router.js`.
-- **F3 (from R1)** — OPEN, now **confirmed as real content corruption**. The
-  phrase-list transform fires on vocabulary items of the form
-  `**Greek** *(pron)* = English` because they end in `(...)`, splitting the
-  `.meaning` span across the pronunciation (the `.lang-el`/`.meaning` markup ends
-  up wrapping the pron, not the English). R7's card extractor works around it by
-  parsing the ` = ` separator from text, but the lesson HTML itself still renders
-  with mis-scoped spans. Fix: in `build.py`'s `process_li`, skip the phrase-list
-  wrap when the item contains ` = ` (the vocab definition format), so those items
-  render as plain `<strong>`/`<em>` list entries. Changes byte output on ~22 vocab
-  lessons — verify the new output is correct, not merely different.
+- **F3 (from R1)** — FIXED (`47f56d6`). `process_li` now skips the gloss-span
+  transform when an item contains ` = ` (the vocab definition separator), so
+  `**Greek** *(pron)* = English` entries render as clean `<strong>`/`<em>` items
+  instead of splitting `.meaning` across the pronunciation. Removed 103 mis-scoped
+  span pairs across the vocabulary lessons; legitimate `Target (English)` gloss
+  items are unchanged. Verified the new output is correct (not merely different).
