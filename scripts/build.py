@@ -212,9 +212,13 @@ def transform_leaf_li(inner, lang_code):
         checked_attr = 'checked' if checked else ''
         return f'<li class="checklist-item"><input type="checkbox" disabled {checked_attr}> <span>{content}</span></li>'
 
-    # 2. Phrase-list format "Target text (English text)"
+    # 2. Phrase-list/gloss format "Target text (English text)".
+    # Skip vocabulary definition items of the form "**Greek** *(pron)* = English":
+    # they end in parentheses (the pronunciation or a qualifier) so the regex would
+    # otherwise split the meaning span across the pronunciation. Vocab items are
+    # distinguished by the " = " separator, which gloss items never contain.
     m = re.match(r'^(.*?)\s*\((.*?)\)$', li_content, re.DOTALL)
-    if m:
+    if m and ' = ' not in li_content:
         target_text, en_text = m.groups()
         return f'<li><span class="lang-{lang_code}">{target_text}</span> <span class="meaning">({en_text})</span></li>'
 
