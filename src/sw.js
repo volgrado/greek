@@ -34,6 +34,7 @@ const PRECACHE_URLS = [
     '/js/data.js',
     '/js/router.js',
     '/js/pwa.js',
+    '/js/practice.js',
     '/js/main.js',
     '/manifest.json',
     '/assets/icon.svg',

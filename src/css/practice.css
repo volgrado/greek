@@ -1,0 +1,126 @@
+/* Practice layer: review call-to-action + flashcard session overlay. */
+
+.practice-cta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-3);
+    margin: var(--space-8) 0 var(--space-4);
+    padding-top: var(--space-4);
+    border-top: var(--border-width) solid var(--border);
+}
+
+.practice-cta-meta {
+    font-size: var(--text-sm);
+    opacity: 0.7;
+}
+
+.practice-btn {
+    font: inherit;
+    font-size: var(--text-base);
+    font-weight: 600;
+    color: var(--bg);
+    background: var(--accent);
+    border: none;
+    border-radius: var(--radius-md);
+    padding: var(--space-2) var(--space-5);
+    cursor: pointer;
+    transition: filter var(--transition-fast);
+}
+
+.practice-btn:hover {
+    filter: brightness(1.08);
+}
+
+.practice-btn:focus-visible {
+    outline: var(--border-width-thick) solid var(--accent);
+    outline-offset: 2px;
+}
+
+/* Session overlay */
+.practice-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: var(--space-4);
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.practice-card {
+    position: relative;
+    width: min(32rem, 100%);
+    background: var(--card-bg);
+    color: var(--text);
+    border: var(--border-width) solid var(--border);
+    border-radius: var(--radius-md);
+    padding: var(--space-10) var(--space-6) var(--space-6);
+    text-align: center;
+    box-shadow: 0 var(--space-4) var(--space-12) rgba(0, 0, 0, 0.25);
+}
+
+.practice-progress {
+    font-size: var(--text-sm);
+    opacity: 0.6;
+    margin-bottom: var(--space-4);
+}
+
+.practice-front {
+    font-size: var(--text-4xl);
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: var(--space-4);
+}
+
+.practice-pron {
+    font-style: italic;
+    opacity: 0.7;
+    margin-bottom: var(--space-2);
+}
+
+.practice-english {
+    font-size: var(--text-xl);
+    margin-bottom: var(--space-2);
+}
+
+.practice-actions {
+    margin-top: var(--space-6);
+}
+
+.practice-rating {
+    display: flex;
+    gap: var(--space-2);
+    justify-content: center;
+    margin-top: var(--space-6);
+}
+
+.practice-rating .practice-btn {
+    flex: 1;
+    max-width: 8rem;
+}
+
+.rate-again {
+    background: color-mix(in srgb, #d64545 80%, var(--accent));
+}
+
+.rate-easy {
+    background: color-mix(in srgb, #3a9d5d 75%, var(--accent));
+}
+
+.practice-close {
+    position: absolute;
+    top: var(--space-2);
+    right: var(--space-3);
+    font-size: var(--text-2xl);
+    line-height: 1;
+    color: var(--text);
+    background: none;
+    border: none;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.practice-close:hover {
+    opacity: 1;
+}

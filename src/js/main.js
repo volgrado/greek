@@ -7,12 +7,14 @@ import { updateUIStrings, initI18n } from './i18n.js';
 import { loadData } from './data.js';
 import { route, initRouter, renderCurriculum } from './router.js';
 import { initPWA } from './pwa.js';
+import { initPractice } from './practice.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     initTheme();
     initI18n(route);
     initRouter();
     initPWA();
+    initPractice();
 
 
 
