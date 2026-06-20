@@ -6,11 +6,6 @@ import re
 import hashlib
 from html.parser import HTMLParser
 import markdown
-
-def strip_html(html_text):
-    """Removes HTML tags to create clean searchable text."""
-    clean = re.sub(r'<.*?>', ' ', html_text)
-    return re.sub(r'\s+', ' ', clean).strip()
 from markdown.extensions import Extension
 from markdown.preprocessors import Preprocessor
 
@@ -304,23 +299,17 @@ def build_lang(lang_code, dist_root):
     with curriculum_path.open('r', encoding='utf-8') as f:
         structure = json.load(f)
 
-    # Numeración jerárquica y Mapeo de Metadatos
-    lesson_meta_map = {}
-    
+    # Numeración jerárquica: stamp each lesson with its chapter.lesson number so
+    # the pre-rendered app shell and curriculum.json carry stable labels.
     # structure can be {"grammar": {...}, "vocabulary": {...}} or just {...}
     is_nested = "grammar" in structure
-    
+
     def process_branch(branch, branch_name=""):
         c_idx = 1
         for section_name, lessons in branch.items():
             l_idx = 1
             for l in lessons:
                 l['hierarchical_num'] = f"{c_idx}.{l_idx}"
-                lesson_meta_map[l['id']] = {
-                    'title': l['title'],
-                    'chapter': f"{c_idx}. {section_name}",
-                    'num': f"{c_idx}.{l_idx}"
-                }
                 l_idx += 1
             c_idx += 1
 
@@ -330,16 +319,7 @@ def build_lang(lang_code, dist_root):
     else:
         process_branch(structure)
 
-    # 3. Procesar Lessons y generar índice de búsqueda
-    doc_store = {}
-    inverted_index = {}
-    
-    import unicodedata
-    def normalize_text_py(text):
-        text = unicodedata.normalize('NFD', str(text))
-        text = "".join([c for c in text if not unicodedata.combining(c)])
-        return text.lower()
-
+    # 3. Procesar Lessons (compilar Markdown a HTML)
     if lessons_dir.exists():
         # Lessons are organised into type subfolders (grammar/ vocabulary/ practice/);
         # glob recursively and key output by stem id so paths stay flat.
@@ -355,53 +335,14 @@ def build_lang(lang_code, dist_root):
                     with out_lesson_path.open('w', encoding='utf-8') as out_f:
                         out_f.write(html_content)
 
-                    # Obtener título y metadatos para el índice
-                    meta = lesson_meta_map.get(lesson_id, {})
-                    title = meta.get('title', lesson_id)
-                    chapter = meta.get('chapter', "")
-                    h_num = meta.get('num', "")
-                    clean_text = strip_html(html_content)
-
-                    # Añadir al Document Store
-                    doc_store[lesson_id] = {
-                        "id": lesson_id,
-                        "title": title,
-                        "chapter": chapter,
-                        "num": h_num,
-                        "content": clean_text
-                    }
-                    
-                    # Añadir al Inverted Index
-                    # Tokenize words using basic alphanumeric matching
-                    # Range \u0370-\u03FF covers the Greek and Coptic block
-                    raw_words = re.findall(r'[a-z0-9\u0370-\u03ff]+', normalize_text_py(title + " " + clean_text))
-                    unique_words = set(raw_words)
-                    
-                    for w in unique_words:
-                        if len(w) >= 2: # Omit very short 1-char words from index
-                            if w not in inverted_index:
-                                inverted_index[w] = []
-                            inverted_index[w].append(lesson_id)
-
                 except Exception as e:
                     print(f"[ERR] Error compiling Markdown {file_path.name}: {e}")
 
     # curriculum.json holds only the navigation structure (a few KB) so it stays
-    # cheap to load on every visit. The search index is an order of magnitude
-    # larger and is not needed for first paint, so it is written to a separate
-    # file that a search feature can lazy-load on demand. Keys are sorted so the
-    # output is deterministic (independent of PYTHONHASHSEED).
+    # cheap to load on every visit.
     with (out_dir / 'curriculum.json').open('w', encoding='utf-8') as f:
         json.dump({"structure": structure}, f, ensure_ascii=False, indent=2)
     print(f"[OK] {out_dir}/curriculum.json generated (navigation only).")
-
-    search_data = {
-        "searchIndex": doc_store,
-        "invertedIndex": {w: sorted(ids) for w, ids in sorted(inverted_index.items())},
-    }
-    with (out_dir / 'search-index.json').open('w', encoding='utf-8') as f:
-        json.dump(search_data, f, ensure_ascii=False, sort_keys=True)
-    print(f"[OK] {out_dir}/search-index.json generated (lazy-loaded).")
 
     return {"structure": structure}
 
@@ -515,8 +456,8 @@ def build_all():
     #    change whenever the built output changes (no manual version bump needed).
     sw_path = dist_dir / 'sw.js'
     if sw_path.exists():
-        # Hash the SOURCE inputs (deterministic) rather than built output, whose
-        # embedded search index ordering varies with PYTHONHASHSEED.
+        # Hash the SOURCE inputs (deterministic) rather than built output, so the
+        # build id is stable across runs and independent of PYTHONHASHSEED.
         h = hashlib.sha1()
         src_root = Path('src')
         sources = [p for p in Path('data').rglob('*') if p.is_file()]
