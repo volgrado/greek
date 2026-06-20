@@ -139,12 +139,6 @@ export const route = async (pathOverride = null) => {
     }
 
     const updateDOM = async () => {
-        // Ensure search panel is closed during transition if navigating
-        const searchDrawer = document.getElementById('search-drawer');
-        if (searchDrawer && searchDrawer.hidePopover) {
-            try { searchDrawer.hidePopover(); } catch (e) { }
-        }
-        document.body.classList.remove('search-mode');
 
         if (path === '/' || path === '/curriculum') {
             app.innerHTML = '';

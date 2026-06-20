@@ -15,7 +15,7 @@ export const getFlatLessons = (structure, viewMode = null) => {
     // If viewMode is provided, pick that branch if possible
     const branch = (viewMode && structure[viewMode]) ? structure[viewMode] : structure;
     
-    // If the branch is actually the whole DB (with searchIndex etc), dive into 'structure'
+    // Accept either the structure object or the whole db ({ structure: ... }).
     const actualStructure = branch.structure || branch;
 
     const flat = [];

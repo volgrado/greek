@@ -5,7 +5,7 @@
 import { initTheme } from './theme.js';
 import { updateUIStrings, initI18n } from './i18n.js';
 import { loadData } from './data.js';
-import { route, initRouter, renderCurriculum } from './router.js';
+import { route, initRouter } from './router.js';
 import { initPWA } from './pwa.js';
 import { initPractice } from './practice.js';
 
