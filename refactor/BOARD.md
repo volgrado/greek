@@ -19,10 +19,17 @@ file and pushing the claim commit first (see Instructions §4).
 | R5  | Build-integrity check + CI gate        | MERGED | fleet-R5 | —          | no   |
 | R6  | Docs & authoring guide                 | MERGED | fleet-R6 | —          | no   |
 | R7  | Practice/SRS interactivity layer       | MERGED | coordinator | R2, R3, R4 | no   |
+| L1  | Collapse single-language i18n scaffolding | TODO | —        | L3         | no   |
+| L2  | Drop unused search-index generation    | TODO   | —        | —          | yes  |
+| L3  | Reuse the pre-rendered shell on first paint | TODO | —      | —          | yes  |
 
 > **Round 1 complete**: R1–R6 merged. **R7 merged** (vocabulary flashcards with
 > Leitner spaced repetition, localStorage-backed, offline). Follow-ups F1 and F2
-> fixed; F3 confirmed as a real content bug (details below).
+> fixed; F3 fixed.
+>
+> **Round 2 (lightenings)**: L2 (`build.py`) and L3 (`router.js`) are disjoint and
+> run in parallel first; L1 collapses the i18n indirection across `src/js/**` and
+> depends on L3 (both touch `router.js`), so it runs after L3 merges.
 
 ---
 
@@ -77,6 +84,37 @@ file and pushing the claim commit first (see Instructions §4).
 - **Goal**: a vanilla-JS, `localStorage`-backed flashcard/spaced-repetition + typed-cloze
   layer built from existing vocab tables. Offline, zero dependencies.
 - **Done when**: build clean; cards persist across reloads; works offline; no new deps.
+
+### L2 — Drop unused search-index generation · `solo`
+- **Owns**: `scripts/build.py`
+- **Goal**: the build computes a per-lesson `doc_store` + `invertedIndex` and writes
+  `search-index.json`, but no code loads it (there is no search feature). Remove that
+  computation and the file write. `curriculum.json` (navigation structure only) is
+  unchanged; lessons still build.
+- **Done when**: `python scripts/build.py` clean; `search-index.json` no longer emitted;
+  all 61 lessons still compile; `curriculum.json` byte-identical.
+
+### L3 — Reuse the pre-rendered shell on first paint
+- **Owns**: `src/js/router.js`
+- **Goal**: `build.py` pre-renders the curriculum into `index.html` for instant paint,
+  but `route()` immediately clears `#app` and re-renders it. On the *initial* home
+  render, detect the existing pre-rendered curriculum already in `#app` and keep it
+  (no re-render); still re-render on later client navigations and view-mode changes.
+  Detect client-side (e.g. an existing `.curriculum-container`), with no `build.py` change.
+- **Done when**: build clean; first paint keeps the server markup; navigating away and
+  back, and switching modes, still render correctly; no console errors.
+
+### L1 — Collapse single-language i18n scaffolding · depends on L3
+- **Owns**: `src/js/**` (config.js, i18n.js, data.js, main.js, router.js, state.js, theme.js)
+- **Goal**: there is exactly one language (`el`), but the app carries a language
+  dimension: `I18N[state.currentLang]`, a `currentLang` state field, `localStorage` lang
+  persistence, and language-switch machinery. Collapse it: expose the `el` strings/paths
+  directly (e.g. a single `STRINGS` constant), drop `currentLang` and the switch code,
+  and simplify `i18n.js` to its real job (applying UI strings + the mode switcher).
+  Behaviour and every visible string stay identical; this only removes the unused
+  multi-language indirection. Depends on L3 because both edit `router.js`.
+- **Done when**: build clean; app renders, navigates, switches view modes, opens lessons,
+  and toggles theme exactly as before; no console errors; no `state.currentLang` left.
 
 ---
 
