@@ -27,7 +27,8 @@ A **zero-dependency, offline-first, static** Greek-language course PWA.
 - **Build**: `python scripts/build.py` compiles Markdown → HTML, bundles CSS into one
   `styles.css`, and stamps the SW with a content-hash build id, all into `dist/`.
 - **Serve**: `python scripts/serve.py` (http://localhost:8002).
-- **Deploy**: GitHub Actions builds and runs `wrangler deploy` on push to `master`.
+- **Deploy**: Cloudflare Pages builds and deploys on push to `master` (git
+  integration); GitHub Actions only validates the build. No `wrangler`, no secrets.
   `dist/` is generated, **never committed**.
 
 ## 2. Non-negotiable constraints (violating these fails review)

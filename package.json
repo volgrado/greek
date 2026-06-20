@@ -6,9 +6,5 @@
     "build": "pip install -r requirements.txt && python3 scripts/build.py",
     "serve": "python3 scripts/serve.py",
     "dev": "npm run build && npm run serve"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "wrangler": "^3.0.0"
   }
 }

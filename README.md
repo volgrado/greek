@@ -9,7 +9,8 @@ dependency is the `markdown` library (`requirements.txt`).
 
 ## Quick start
 
-Requires Python 3 and Node (Node only for the Wrangler CLI used to deploy).
+Requires Python 3. The build is pure Python, so Node is optional — the `npm run`
+commands below are thin aliases for the `python3` invocations shown in comments.
 
 ```bash
 # Build content + assets into dist/
@@ -43,7 +44,7 @@ dist/             Build output (generated, gitignored)
 | [docs/architecture.md](docs/architecture.md)     | System overview: repo layout, build pipeline, the SPA runtime and its modules, routing, state, offline. |
 | [docs/authoring.md](docs/authoring.md)           | How to write lessons: curriculum registration, callouts, phrase lists, checklists, reading-segment blocks, Quick Check self-tests, images. |
 | [docs/service-worker.md](docs/service-worker.md) | Caching model: the `greek-*` cache scheme, automatic build-id versioning, per-route strategies, the offline-download feature. |
-| [docs/deploy.md](docs/deploy.md)                 | Deploy/secrets runbook: CI workflow, Cloudflare config, `CLOUDFLARE_API_TOKEN` / `CLOUDFLARE_ACCOUNT_ID`, manual deploy. |
+| [docs/deploy.md](docs/deploy.md)                 | Deploy: Cloudflare Pages git integration, the CI validation workflow, build command, custom domains. |
 
 ## Authoring a lesson (at a glance)
 
@@ -56,8 +57,9 @@ See [docs/authoring.md](docs/authoring.md) for the full conventions.
 
 ## Deploy (at a glance)
 
-Pushing to `master` triggers `.github/workflows/deploy.yml`, which builds and runs
-`wrangler deploy`. It needs two repo secrets: `CLOUDFLARE_API_TOKEN` and
-`CLOUDFLARE_ACCOUNT_ID`. The service-worker cache version is stamped from a content
-hash at build time, so deploys invalidate stale caches with no manual version bump.
-See [docs/deploy.md](docs/deploy.md).
+Cloudflare Pages is connected to the repo and **builds + deploys on every push to
+`master`** — there is no deploy step or secret in this repo. Separately,
+`.github/workflows/ci.yml` validates the build (integrity check + compile) so
+breakage is caught before Cloudflare builds. The service-worker cache version is
+stamped from a content hash at build time, so deploys invalidate stale caches with
+no manual version bump. See [docs/deploy.md](docs/deploy.md).
