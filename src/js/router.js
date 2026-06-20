@@ -11,6 +11,90 @@ import { matchLessonPath } from './route-utils.js';
 
 const app = document.getElementById('app');
 
+// True until the first home render runs. Used to decide whether the
+// server-rendered curriculum shell can be reused instead of rebuilt.
+let firstHomeRender = true;
+
+/**
+ * Persists a section's collapsed/expanded state to localStorage.
+ * @param {string} id - The section's data-section-id.
+ * @param {boolean} isCollapsed - Whether the section is now collapsed.
+ * @returns {void}
+ */
+const persistCollapseState = (id, isCollapsed) => {
+    let current = JSON.parse(localStorage.getItem('collapsedChapters') || '[]');
+    if (isCollapsed && !current.includes(id)) {
+        current.push(id);
+    } else if (!isCollapsed) {
+        current = current.filter(cid => cid !== id);
+    }
+    localStorage.setItem('collapsedChapters', JSON.stringify(current));
+};
+
+/**
+ * Wires the collapse toggle on a section header.
+ * @param {HTMLElement} header - The .section-header element.
+ * @param {HTMLElement} section - The owning .curriculum-section element.
+ * @returns {void}
+ */
+const attachSectionToggle = (header, section) => {
+    header.addEventListener('click', () => {
+        const id = section.getAttribute('data-section-id');
+        const isCollapsed = section.classList.toggle('collapsed');
+        persistCollapseState(id, isCollapsed);
+    });
+};
+
+/**
+ * Restores saved collapse state on the curriculum sections within a container.
+ * @param {HTMLElement} container - Element holding the curriculum sections.
+ * @returns {void}
+ */
+const applyCollapseState = (container) => {
+    const collapsedSections = JSON.parse(localStorage.getItem('collapsedChapters') || '[]');
+    collapsedSections.forEach(id => {
+        container.querySelector(`.curriculum-section[data-section-id="${id}"]`)?.classList.add('collapsed');
+    });
+};
+
+/**
+ * Adopts the pre-rendered curriculum shell already present in the DOM: marks
+ * viewed links, wires section toggles, and restores collapse state, without
+ * clearing or rebuilding the markup. Used only on the very first home paint.
+ * @param {HTMLElement} container - Element holding the pre-rendered shell.
+ * @returns {void}
+ */
+const hydrateCurriculum = (container) => {
+    container.querySelectorAll('.curriculum-section').forEach(section => {
+        const header = section.querySelector('.section-header');
+        if (header) attachSectionToggle(header, section);
+    });
+
+    // Mark links for lessons the user has already viewed.
+    container.querySelectorAll('.curriculum-link').forEach(link => {
+        const id = link.getAttribute('href')?.replace('/lessons/', '');
+        if (id && state.viewedLessons.has(id)) {
+            link.classList.add('viewed');
+        }
+    });
+
+    applyCollapseState(container);
+};
+
+/**
+ * Returns true if #app holds the server-rendered curriculum shell that can be
+ * reused as-is. The shell is always pre-rendered in grammar mode, so it is only
+ * reusable when the active view mode also resolves to grammar sections.
+ * @returns {boolean}
+ */
+const hasReusableShell = () => {
+    if (state.viewMode !== 'grammar') return false;
+    const shell = app.querySelector('.curriculum-container');
+    if (!shell) return false;
+    // Confirm the pre-rendered sections match the grammar view's id scheme.
+    return shell.querySelector('.curriculum-section[data-section-id^="grammar-"]') !== null;
+};
+
 /**
  * Renders the collapsible curriculum tree for the current view mode into the
  * given container, restoring saved collapse state.
@@ -71,30 +155,14 @@ export const renderCurriculum = (container) => {
         section.appendChild(content);
         curriculumContainer.appendChild(section);
 
-        // Header click logic
-        header.addEventListener('click', () => {
-            const id = section.getAttribute('data-section-id');
-            const isCollapsed = section.classList.toggle('collapsed');
-
-            let current = JSON.parse(localStorage.getItem('collapsedChapters') || '[]');
-            if (isCollapsed && !current.includes(id)) {
-                current.push(id);
-            } else if (!isCollapsed) {
-                current = current.filter(cid => cid !== id);
-            }
-            localStorage.setItem('collapsedChapters', JSON.stringify(current));
-        });
+        attachSectionToggle(header, section);
 
         chapterIdx++;
     }
 
     container.appendChild(curriculumContainer);
 
-    // Apply saved collapses
-    const collapsedSections = JSON.parse(localStorage.getItem('collapsedChapters') || '[]');
-    collapsedSections.forEach(id => {
-        container.querySelector(`.curriculum-section[data-section-id="${id}"]`)?.classList.add('collapsed');
-    });
+    applyCollapseState(container);
 };
 
 
@@ -141,8 +209,17 @@ export const route = async (pathOverride = null) => {
     const updateDOM = async () => {
 
         if (path === '/' || path === '/curriculum') {
-            app.innerHTML = '';
-            renderCurriculum(app);
+            // On the first home paint, reuse the server-rendered shell if it is
+            // present and matches the active view mode: just wire handlers and
+            // restore state instead of clearing and rebuilding. Later
+            // navigations and view-mode changes always re-render from scratch.
+            if (firstHomeRender && hasReusableShell()) {
+                hydrateCurriculum(app);
+            } else {
+                app.innerHTML = '';
+                renderCurriculum(app);
+            }
+            firstHomeRender = false;
         } else if (isLesson) {
             const id = lessonId;
             const res = preFetchedLesson;
