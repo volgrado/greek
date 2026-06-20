@@ -167,9 +167,6 @@ export const route = async (pathOverride = null) => {
 
                 state.markAsViewed(id);
                 prefetchNext(id);
-
-                state.markAsViewed(id);
-                prefetchNext(id);
             } else {
                 const errorType = res ? res.error : 'NOT_FOUND';
                 const strings = I18N[state.currentLang];

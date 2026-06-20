@@ -18,7 +18,7 @@ table {
     font-size: var(--text-base);
 }
 
-@media screen and (max-width: var(--breakpoint-mobile)) {
+@media screen and (max-width: 480px) {
     .table-container {
         margin: var(--space-4) 0;
         width: 100%;

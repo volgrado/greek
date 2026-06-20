@@ -86,7 +86,7 @@
 }
 
 /* Mobile adjustments */
-@media screen and (max-width: var(--breakpoint-mobile)) {
+@media screen and (max-width: 480px) {
     .dropdown-menu {
         min-width: 160px;
         padding: var(--space-1);

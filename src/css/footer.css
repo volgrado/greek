@@ -81,7 +81,7 @@
     border-left: var(--border-width) solid var(--border);
 }
 
-@media screen and (max-width: var(--breakpoint-mobile)) {
+@media screen and (max-width: 480px) {
     #footer-root {
         padding: var(--space-12) var(--space-4);
         gap: var(--space-6);
