@@ -10,10 +10,10 @@ header.root-nav {
     top: 0;
     z-index: var(--z-header);
 
-    /* 🛡️ Genius Mask: Solid block that hides content but looks like a margin */
+    /* Solid block that hides scrolled content but reads as a top margin */
     border-top: var(--space-3) solid var(--bg);
 
-    /* Premium touch: subtle transparency and blur if supported */
+    /* Subtle transparency and blur where supported */
     backdrop-filter: blur(var(--blur-lg));
     -webkit-backdrop-filter: blur(var(--blur-lg));
     background-color: color-mix(in srgb, var(--bg), transparent 5%);

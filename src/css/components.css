@@ -1,4 +1,4 @@
-/* 🔘 Buttons & Controls */
+/* Buttons and controls */
 .btn-base {
     background: none;
     border: var(--border-width) solid var(--border);
@@ -90,7 +90,7 @@ img {
     letter-spacing: var(--ls-widest);
 }
 
-/* 🧭 View Toggle (Header) */
+/* View toggle (header) */
 #mode-switch-btn {
     justify-content: center;
 }

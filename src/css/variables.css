@@ -1,5 +1,5 @@
 :root {
-    /* 🎨 1. Base Palette (Static Source Literals) */
+    /* 1. Base palette (static source literals) */
     --bg-white: #ffffff;
     --bg-rgb-white: 255, 255, 255;
     --bg-dark: #0f172a;
@@ -25,13 +25,13 @@
     --accent: var(--brand-accent);
     --card-bg: var(--bg);
 
-    /* 🧬 2. Parametric Logic (Derived via color-mix) */
+    /* 2. Parametric logic (derived via color-mix) */
     --border: color-mix(in srgb, var(--text) var(--p-strong), transparent);
     --muted-text: color-mix(in srgb, var(--text) var(--p-text), transparent);
     --secondary-bg: color-mix(in srgb, var(--text) var(--p-subtle), transparent);
     --hover-overlay: color-mix(in srgb, var(--text) var(--p-medium), transparent);
 
-    /* 📏 3. Percentage / Opacity Scale */
+    /* 3. Percentage / opacity scale */
     --p-subtle: 4%;
     --p-medium: 8%;
     --p-strong: 15%;
@@ -46,7 +46,7 @@
     --opacity-subtle: 0.3;
     --opacity-ghost: 0.15;
 
-    /* 🖋️ 4. Typographic System */
+    /* 4. Typographic system */
     --font-ui: 'Inter', system-ui, sans-serif;
     --font-editorial: 'Lora', serif;
     --line-height-heading: 1.1;
@@ -78,7 +78,7 @@
     --ls-mega: 0.25em;
     --ls-extreme: 0.3em;
 
-    /* 🧱 5. Layout & Spacing */
+    /* 5. Layout and spacing */
     --base-spacing: 0.25rem;
     --space-1: var(--base-spacing);
     --space-2: calc(var(--base-spacing) * 2);
@@ -92,14 +92,14 @@
     --space-16: calc(var(--base-spacing) * 16);
     --space-20: calc(var(--base-spacing) * 20);
 
-    /* Responsive Meaures */
+    /* Responsive measures */
     --max-width-content: 65ch;
     --measure-narrow: 280px;
     --measure-base: 400px;
     --measure-wide: 500px;
     --breakpoint-mobile: 480px;
 
-    /* 💎 6. Visual Effects */
+    /* 6. Visual effects */
     --radius-sm: 4px;
     --radius-md: 8px;
     --border-width: 1px;
@@ -110,7 +110,7 @@
     --blur-xl: 12px;
     --img-filter: none;
 
-    /* 🎭 7. Layering & Motion */
+    /* 7. Layering and motion */
     --z-below: -1;
     --z-base: 1;
     --z-header: 1000;
@@ -124,7 +124,7 @@
     --scale-active: 0.97;
 }
 
-/* 🌙 Dark Mode Overrides */
+/* Dark mode overrides */
 html.dark-mode {
     --bg: var(--bg-dark);
     --bg-rgb: var(--bg-rgb-dark);
@@ -139,7 +139,7 @@ html.dark-mode {
     --p-heavy: 95%;
 }
 
-/* 📜 Sepia Mode Overrides */
+/* Sepia mode overrides */
 html.sepia-mode {
     --bg: var(--bg-sepia);
     --bg-rgb: var(--bg-rgb-sepia);

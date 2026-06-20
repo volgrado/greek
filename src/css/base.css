@@ -3,7 +3,7 @@ html {
     /* Standard properties for Firefox/Future */
     scrollbar-width: thin;
     scrollbar-color: var(--muted-text) transparent;
-    overflow-x: hidden; /* 🛡️ Global safety: moved here to not break sticky in children of body */
+    overflow-x: hidden; /* Global safety: kept on html so sticky children of body still work */
 }
 
 /* Chrome, Safari, and Edge */
@@ -35,12 +35,14 @@ body {
     line-height: var(--line-height-base);
     -webkit-font-smoothing: antialiased;
     transition: background-color var(--transition-slow), color var(--transition-slow), border-color var(--transition-slow), fill var(--transition-slow);
-    /* 🛡️ overflow-x: hidden moved to html to avoid breaking postion: sticky */
+    /* overflow-x: hidden lives on html to avoid breaking position: sticky */
 }
 
 img {
     max-width: 100%;
     height: auto;
+    display: block;
+    margin: var(--space-6) auto;
     filter: var(--img-filter);
 }
 
@@ -69,7 +71,7 @@ main#app {
 
 /* Mode-specific image handling moved to global img with --img-filter token */
 
-/* 🦉 Lobotomized Owl for vertical rhythm */
+/* Lobotomized owl selector for vertical rhythm */
 *+* {
     margin-top: var(--space-5);
 }

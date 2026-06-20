@@ -1,4 +1,4 @@
-/* 🧭 Refined Mode Switcher Dropdown */
+/* Mode switcher dropdown */
 .dropdown-menu {
     background: color-mix(in srgb, var(--bg) 98%, transparent);
     backdrop-filter: blur(var(--blur-lg));
@@ -36,9 +36,9 @@
     border: none;
     padding: 6px 10px; /* Ultra-tight padding */
     font-family: var(--font-ui);
-    font-size: 0.65rem;
+    font-size: var(--text-xs);
     font-weight: 500;
-    line-height: 1; /* ⚖️ Exact centering */
+    line-height: 1; /* Exact centering */
     text-transform: uppercase;
     letter-spacing: var(--ls-wide);
     color: var(--muted-text);
@@ -74,7 +74,7 @@
     font-size: 0.6rem;
     opacity: 0.6;
     font-weight: 700;
-    margin-top: -1px; /* ⚖️ Micro-adjustment to match cap-height baseline */
+    margin-top: -1px; /* Micro-adjustment to match cap-height baseline */
     transition: all var(--transition-fast);
 }
 
@@ -85,7 +85,7 @@
     opacity: 1;
 }
 
-/* 📱 Mobile Adjustments */
+/* Mobile adjustments */
 @media screen and (max-width: var(--breakpoint-mobile)) {
     .dropdown-menu {
         min-width: 160px;

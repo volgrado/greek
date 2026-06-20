@@ -7,7 +7,7 @@ h3 {
     letter-spacing: var(--ls-tight);
     color: var(--text);
     text-wrap: balance;
-    /* 🖋️ Genius Typograpy: Prevents awkward orphans in headings */
+    /* Prevents awkward orphans in headings */
 }
 
 h1 {
@@ -50,7 +50,7 @@ p,
 li,
 td {
     text-wrap: pretty;
-    /* 🖋️ Genius Typograpy: Prevents single-word orphans at the end of paragraphs */
+    /* Prevents single-word orphans at the end of paragraphs */
 }
 
 a {
