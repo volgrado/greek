@@ -27,3 +27,9 @@ dist/
 
 # Temporary exports
 full_curriculum.md
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example

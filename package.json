@@ -5,6 +5,11 @@
   "scripts": {
     "build": "pip install -r requirements.txt && python3 scripts/build.py",
     "serve": "python3 scripts/serve.py",
-    "dev": "npm run build && npm run serve"
+    "dev": "npm run build && npm run serve",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.103.0"
   }
 }
