@@ -1,3 +1,7 @@
+/**
+ * Theme handling: cycles light/dark/sepia themes and persists the choice.
+ */
+
 import { state } from './state.js';
 
 const themeToggle = document.getElementById('theme-toggle');
@@ -9,6 +13,11 @@ const themeIcons = {
     sepia: '<path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"></path>' // Book
 };
 
+/**
+ * Applies a theme by toggling document classes and swapping the toggle icon.
+ * @param {string} theme - One of 'light', 'dark', or 'sepia'.
+ * @returns {void}
+ */
 export const applyTheme = (theme) => {
     document.documentElement.classList.remove('dark-mode', 'sepia-mode');
     if (theme !== 'light') {
@@ -18,6 +27,11 @@ export const applyTheme = (theme) => {
     if (icon) icon.innerHTML = themeIcons[theme];
 };
 
+/**
+ * Initializes theming: subscribes to theme changes, paints the initial theme,
+ * and wires the toggle to cycle through the available themes.
+ * @returns {void}
+ */
 export const initTheme = () => {
     // 1. Subscribe to changes via our new Proxy Signal
     state.subscribe('currentTheme', (theme) => {

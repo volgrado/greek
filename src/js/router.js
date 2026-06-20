@@ -1,12 +1,22 @@
+/**
+ * Client-side router: renders the curriculum and lessons, and intercepts
+ * navigation via the Navigation API with a hash-routing fallback.
+ */
+
 import { state } from './state.js';
 import { I18N } from './config.js';
 import { fetchLessonHTML, prefetchNext } from './data.js';
 import { getFlatLessons, getLessonNavigation } from './lesson-utils.js';
 import { matchLessonPath } from './route-utils.js';
 
-
 const app = document.getElementById('app');
 
+/**
+ * Renders the collapsible curriculum tree for the current view mode into the
+ * given container, restoring saved collapse state.
+ * @param {HTMLElement} container - Element to render the curriculum into.
+ * @returns {void}
+ */
 export const renderCurriculum = (container) => {
     container.innerHTML = ''; // Clear container
 
@@ -15,7 +25,7 @@ export const renderCurriculum = (container) => {
     const curriculumContainer = document.createElement('div');
     curriculumContainer.className = 'curriculum-container';
 
-    // 🎯 Logic split: use viewMode to pick the branch
+    // Logic split: use viewMode to pick the branch
     const structure = state.db.structure[state.viewMode] || state.db.structure;
 
     let chapterIdx = 1;
@@ -89,6 +99,12 @@ export const renderCurriculum = (container) => {
 
 
 
+/**
+ * Resolves the current (or overridden) path and renders the matching view:
+ * curriculum, a lesson, or an error/404, using a View Transition when available.
+ * @param {string|null} [pathOverride] - Path to route to instead of the URL.
+ * @returns {Promise<void>}
+ */
 export const route = async (pathOverride = null) => {
     if (!state.db) return;
 
@@ -113,7 +129,7 @@ export const route = async (pathOverride = null) => {
     let preFetchedLesson = null;
     let lessonId = null;
 
-    // 🛣️ Centralized Routing Logic
+    // Centralized routing logic
     const lessonMatch = matchLessonPath(path);
     let isLesson = false;
     if (lessonMatch) {
@@ -228,6 +244,11 @@ export const route = async (pathOverride = null) => {
     }
 };
 
+/**
+ * Wires the router: migrates legacy hash URLs, intercepts Navigation API
+ * events (with a hashchange fallback), and adds arrow-key lesson navigation.
+ * @returns {void}
+ */
 export const initRouter = () => {
     // Migrate legacy hash-based URLs (#/path) to clean paths
     if (window.navigation && window.location.hash.startsWith('#/')) {

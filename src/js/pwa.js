@@ -1,7 +1,17 @@
+/**
+ * PWA wiring: bulk lesson download, Service Worker registration, and the
+ * offline-ready status indicator.
+ */
+
 import { state } from './state.js';
 import { I18N, CONFIG } from './config.js';
 
-
+/**
+ * Initializes PWA features: the offline-download button (caches every lesson
+ * for the current language), Service Worker registration, and download-status
+ * UI updates driven by state changes.
+ * @returns {void}
+ */
 export const initPWA = () => {
     const downloadToggle = document.getElementById('download-toggle');
     const downloadStatusText = document.getElementById('download-status-text');

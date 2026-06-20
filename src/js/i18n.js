@@ -1,3 +1,7 @@
+/**
+ * Internationalization: paints UI strings and wires language/mode controls.
+ */
+
 import { state } from './state.js';
 import { I18N } from './config.js';
 import { loadData } from './data.js';
@@ -5,6 +9,11 @@ import { loadData } from './data.js';
 // Element selection helpers (using dynamic lookups to avoid nulls at module load time)
 const getEl = (id) => document.getElementById(id);
 
+/**
+ * Repaints all localized UI text and control labels for the current language,
+ * view mode, and download state.
+ * @returns {void}
+ */
 export const updateUIStrings = () => {
     const langLabel = getEl('lang-label');
     const themeToggle = getEl('theme-toggle');
@@ -51,6 +60,13 @@ export const updateUIStrings = () => {
     if (logoSymbol) logoSymbol.textContent = strings.symbol;
 };
 
+/**
+ * Handles the two-step "reset progress" control: first click asks for
+ * confirmation, second click clears viewed lessons and re-renders.
+ * @param {HTMLElement} linkElement - The reset control element.
+ * @param {Function} routeFn - Router callback used to re-render after reset.
+ * @returns {void}
+ */
 export const resetProgress = (linkElement, routeFn) => {
     const strings = I18N[state.currentLang];
     const clearLabel = linkElement.querySelector('span') || linkElement;
@@ -77,6 +93,12 @@ export const resetProgress = (linkElement, routeFn) => {
     }, 1500);
 };
 
+/**
+ * Initializes i18n: subscribes to language/mode/download state changes, paints
+ * initial strings, and wires the mode switcher and reset-progress controls.
+ * @param {Function} routeFn - Router callback invoked on language/mode changes.
+ * @returns {void}
+ */
 export const initI18n = (routeFn) => {
     // 1. Subscribe to changes via our new Proxy Signal
     state.subscribe('currentLang', async (lang) => {
