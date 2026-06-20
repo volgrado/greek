@@ -1,16 +1,23 @@
 {
     "name": "Greek",
     "short_name": "Greek",
+    "description": "A zero-dependency, offline-first Greek language course covering A1 to C2.",
+    "lang": "en",
+    "dir": "ltr",
+    "id": "/",
     "start_url": "/",
+    "scope": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "orientation": "portrait-primary",
+    "categories": ["education"],
     "icons": [
         {
             "src": "assets/icon.svg",
             "sizes": "192x192 512x512",
-            "type": "image/svg+xml"
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
         }
     ]
 }
