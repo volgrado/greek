@@ -14,12 +14,8 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/assets/icon.svg">
-    <!-- Fonts: Lora (Editorial), Inter (UI). display=swap keeps text visible during font load. -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link
-        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Lora:ital,wght@0,400;0,700;1,400&display=swap"
-        rel="stylesheet">
+    <!-- Fonts (Lora editorial, Inter UI) are self-hosted via @font-face in the
+         bundled stylesheet — no third-party CDN, works offline. -->
 
     <!-- Preload the single bundled stylesheet so first paint is not render-blocked behind discovery. -->
     <link rel="preload" href="/styles.css" as="style">

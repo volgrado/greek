@@ -98,7 +98,7 @@ async function appShell(request) {
 
 // --- Routing ----------------------------------------------------------------
 
-const isFont = (url) => url.origin.includes('fonts.');
+const isFont = (url) => url.origin.includes('fonts.') || url.pathname.includes('/assets/fonts/');
 const isImage = (url) => url.pathname.includes('/assets/images/');
 const isLesson = (url) => url.pathname.includes('/data/') && url.pathname.includes('/lessons/');
 const isCurriculum = (url) => url.pathname.endsWith('/curriculum.json');

@@ -1,5 +1,6 @@
 /* Main CSS Entry Point */
 
+@import url('/css/fonts.css');
 @import url('/css/variables.css');
 @import url('/css/base.css');
 @import url('/css/utilities.css');
