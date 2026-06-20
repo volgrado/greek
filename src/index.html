@@ -5,20 +5,24 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Greek</title>
+    <meta name="description" content="A zero-dependency, offline-first Greek language course covering A1 to C2.">
     <!-- Mobile App Settings -->
     <link rel="manifest" href="/manifest.json">
     <meta name="theme-color" content="#ffffff">
+    <meta name="color-scheme" content="light dark">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/assets/icon.svg">
-    <!-- Fonts: Lora (Editorial), Inter (UI) -->
+    <!-- Fonts: Lora (Editorial), Inter (UI). display=swap keeps text visible during font load. -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
         href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Lora:ital,wght@0,400;0,700;1,400&display=swap"
         rel="stylesheet">
 
+    <!-- Preload the single bundled stylesheet so first paint is not render-blocked behind discovery. -->
+    <link rel="preload" href="/styles.css" as="style">
     <link rel="stylesheet" href="/styles.css">
 
     <!-- Speculation Rules API for instant navigation -->
@@ -37,57 +41,65 @@
 </head>
 
 <body>
-    <header class="root-nav">
-        <a href="/" class="logo">
-            <svg class="flag-logo" viewBox="0 0 27 18">
+    <a href="#app" class="skip-link visually-hidden">Skip to main content</a>
+    <header class="root-nav" role="banner">
+        <a href="/" class="logo" aria-label="Greek home">
+            <svg class="flag-logo" viewBox="0 0 27 18" aria-hidden="true" focusable="false">
                 <rect class="flag-bg" width="27" height="18"/>
                 <path class="flag-stripes" fill="none" stroke-width="2" d="M5,0V11 M0,5H10 M10,3H27 M10,7H27 M0,11H27 M0,15H27"/>
             </svg>
             <span id="logo-text">GREEK</span>
         </a>
-        <div class="header-actions">
-            <button id="mode-switch-btn" popovertarget="mode-menu" class="btn-base btn-icon-only" title="Switch Mode">
-                <span id="mode-label">G</span>
+        <nav class="header-actions" aria-label="Course controls">
+            <!-- aria-expanded is intentionally omitted: this button uses the native popover API,
+                 which manages open/close state itself, and the JS owner does not sync the attribute.
+                 A static value would be stale once the menu opens. -->
+            <button id="mode-switch-btn" popovertarget="mode-menu" class="btn-base btn-icon-only"
+                title="Switch Mode" aria-label="Switch mode" aria-haspopup="menu">
+                <span id="mode-label" aria-hidden="true">G</span>
             </button>
-            <button id="theme-toggle" class="btn-base btn-icon-only" title="Change Theme">
+            <button id="theme-toggle" class="btn-base btn-icon-only" title="Change Theme" aria-label="Change theme">
                 <svg id="theme-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-                    stroke-linecap="round" stroke-linejoin="round">
+                    stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
                     <!-- Icon updated by Javascript -->
                 </svg>
             </button>
-        </div>
-        <div class="scroll-progress"></div>
+        </nav>
+        <div class="scroll-progress" aria-hidden="true"></div>
     </header>
-    <div id="mode-menu" popover class="dropdown-menu">
+    <!-- Plain focusable buttons in a popover. We deliberately avoid role="menu"/menuitemradio:
+         that pattern requires roving tabindex, arrow-key handling and aria-checked sync, none of
+         which the JS owner implements. Native buttons are Tab/Enter operable as-is. -->
+    <div id="mode-menu" popover class="dropdown-menu" role="group" aria-label="Study mode">
         <div class="dropdown-list">
             <button class="dropdown-item" data-mode="grammar">
                 <span>Grammar</span>
-                <span class="mode-key">G</span>
+                <span class="mode-key" aria-hidden="true">G</span>
             </button>
             <button class="dropdown-item" data-mode="vocabulary">
                 <span>Lexis</span>
-                <span class="mode-key">L</span>
+                <span class="mode-key" aria-hidden="true">L</span>
             </button>
             <button class="dropdown-item" data-mode="practice">
                 <span>Practice</span>
-                <span class="mode-key">P</span>
+                <span class="mode-key" aria-hidden="true">P</span>
             </button>
         </div>
     </div>
 
     <main id="app"></main>
-    <footer id="footer-root">
+    <footer id="footer-root" role="contentinfo">
         <div id="footer-disclaimer">
             <span id="footer-course-name">GREEK LANGUAGE COURSE</span> &middot; A1-C2 MASTERY
-            <div id="offline-indicator" class="offline-badge" hidden>Offline</div>
+            <div id="offline-indicator" class="offline-badge" role="status" aria-live="polite" hidden>Offline</div>
         </div>
 
         <div class="footer-actions">
-            <button id="download-toggle" class="footer-action-link">
+            <button id="download-toggle" class="footer-action-link" aria-label="Download course for offline use">
                 <span id="footer-download-label">Download Offline</span>
-                <span id="download-status-text" class="status-meta">...</span>
+                <span id="download-status-text" class="status-meta" aria-live="polite">...</span>
             </button>
-            <button id="clear-progress" class="footer-action-link warning">
+            <button id="clear-progress" class="footer-action-link warning" aria-label="Reset reading progress">
                 <span id="footer-clear-label">Reset Progress</span>
             </button>
         </div>
