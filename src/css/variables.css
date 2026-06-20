@@ -31,6 +31,10 @@
     --secondary-bg: color-mix(in srgb, var(--text) var(--p-subtle), transparent);
     --hover-overlay: color-mix(in srgb, var(--text) var(--p-medium), transparent);
 
+    /* Text-emphasis scale (theme-aware; prefer these over ad-hoc opacity). */
+    --text-muted: var(--muted-text);                                            /* secondary text */
+    --text-faint: color-mix(in srgb, var(--text) var(--p-strong), transparent); /* tertiary / meta */
+
     /* 3. Percentage / opacity scale */
     --p-subtle: 4%;
     --p-medium: 8%;

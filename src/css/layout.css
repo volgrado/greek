@@ -52,17 +52,8 @@ header.root-nav .flag-logo {
     font-family: var(--font-ui);
 }
 
-footer {
-    margin-top: var(--space-4) !important;
-    text-align: center;
-    color: var(--muted-text);
-    padding: var(--space-4);
-    border: var(--border-width) solid var(--border);
-    border-radius: var(--radius-md);
-    text-transform: uppercase;
-    letter-spacing: var(--ls-widest);
-    font-family: var(--font-ui);
-}
+/* Footer styling lives in footer.css. The footer mirrors the header: a hairline
+   top border bracketing the content, not a boxed card. */
 
 @media screen and (max-width: 480px) {
     header.root-nav a.logo {
