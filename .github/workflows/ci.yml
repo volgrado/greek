@@ -1,12 +1,16 @@
-name: Build & Deploy
+name: CI
+
+# Deployment is handled by Cloudflare Pages' git integration on push.
+# This workflow only validates the build so breakage is caught before deploy.
 
 on:
   push:
     branches: [master]
+  pull_request:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -16,16 +20,10 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Check build integrity
+      - name: Content integrity check
         run: python scripts/check.py
 
       - name: Build site
         run: |
           pip install -r requirements.txt
           python scripts/build.py
-
-      - name: Deploy to Cloudflare
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
