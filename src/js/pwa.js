@@ -4,12 +4,12 @@
  */
 
 import { state } from './state.js';
-import { I18N, CONFIG } from './config.js';
+import { STRINGS, CONFIG } from './config.js';
 
 /**
- * Initializes PWA features: the offline-download button (caches every lesson
- * for the current language), Service Worker registration, and download-status
- * UI updates driven by state changes.
+ * Initializes PWA features: the offline-download button (caches every lesson),
+ * Service Worker registration, and download-status UI updates driven by state
+ * changes.
  * @returns {void}
  */
 export const initPWA = () => {
@@ -24,10 +24,10 @@ export const initPWA = () => {
             downloadToggle.disabled = true;
 
             const lessons = state.getFlatLessons();
-            const lang = state.currentLang;
+            const lang = CONFIG.DEFAULT_LANG;
             const lessonCacheName = `${CONFIG.LESSON_CACHE_PREFIX}${lang}-${CONFIG.LESSON_CACHE_VERSION}`;
 
-            const urlsToCache = lessons.map(l => `${I18N[lang].lessonsPath}${l.id}.html`);
+            const urlsToCache = lessons.map(l => `${STRINGS.lessonsPath}${l.id}.html`);
             
             // Phase 1: Download Lessons
             let count = 0;
@@ -87,13 +87,12 @@ export const initPWA = () => {
         }
     };
 
-    // Check status whenever library or language changes
+    // Check status whenever the library changes
     const runCheck = async () => {
         state.isDownloaded = await state.checkDownloadStatus();
     };
 
     if (state.db) runCheck();
     state.subscribe('db', runCheck);
-    state.subscribe('currentLang', runCheck);
     state.subscribe('isDownloaded', updateDownloadStatusUI);
 };

@@ -20,7 +20,6 @@ class AppState {
         this.syncChannel.onmessage = (e) => this._handleSyncMessage(e);
 
         this._data = {
-            currentLang: localStorage.getItem('lang') || CONFIG.DEFAULT_LANG,
             currentTheme: localStorage.getItem('theme'),
             // 'exercises' was renamed to 'practice'; migrate any stored value
             viewMode: (localStorage.getItem('viewMode') === 'exercises' ? 'practice' : localStorage.getItem('viewMode')) || CONFIG.DEFAULT_VIEW_MODE,
@@ -137,15 +136,14 @@ class AppState {
     }
 
     /**
-     * Checks whether every lesson for the current language is present in the
-     * offline lesson cache.
+     * Checks whether every lesson is present in the offline lesson cache.
      * @returns {Promise<boolean>} True if all lessons are cached.
      */
     async checkDownloadStatus() {
         if (!this._data.db || !this._data.db.structure) return false;
 
         const lessons = this.getFlatLessons();
-        const lang = this._data.currentLang;
+        const lang = CONFIG.DEFAULT_LANG;
         const cacheName = `${CONFIG.LESSON_CACHE_PREFIX}${lang}-${CONFIG.LESSON_CACHE_VERSION}`;
 
         try {

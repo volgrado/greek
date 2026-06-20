@@ -1,5 +1,5 @@
 /**
- * App-wide configuration: i18n strings and global constants.
+ * App-wide configuration: UI strings/data paths and global constants.
  */
 
 /**
@@ -16,31 +16,28 @@
  */
 
 /**
- * Per-language UI strings and data paths.
+ * UI strings and data paths. The app ships a single language (el).
  */
-export const I18N = {
-    el: {
-        label: 'EL',
-        symbol: 'Ω',
-        title: 'GREEK',
-        themeToggle: 'Change Theme',
-        downloadToggle: 'Download Offline',
-        langToggle: 'Change Course',
-        footer: '&copy; 2026 / GREEK PROJECT',
-        dataFile: '/public/data/el/curriculum.json',
-        lessonsPath: '/public/data/el/lessons/',
-        errorTitle: 'Oops!',
-        errorOffline: 'You are offline and this lesson hasn\'t been downloaded.',
-        errorNotFound: 'Lesson content not found.',
-        errorRetry: 'Retry',
-        errorBack: 'Back to Curriculum',
-        resetProgress: 'Reset Progress',
-        resetConfirm: 'Confirm Reset?',
-        grammar: 'G',
-        vocabulary: 'L',
-        practice: 'P',
-        courseName: 'GREEK LANGUAGE COURSE'
-    }
+export const STRINGS = {
+    label: 'EL',
+    symbol: 'Ω',
+    title: 'GREEK',
+    themeToggle: 'Change Theme',
+    downloadToggle: 'Download Offline',
+    footer: '&copy; 2026 / GREEK PROJECT',
+    dataFile: '/public/data/el/curriculum.json',
+    lessonsPath: '/public/data/el/lessons/',
+    errorTitle: 'Oops!',
+    errorOffline: 'You are offline and this lesson hasn\'t been downloaded.',
+    errorNotFound: 'Lesson content not found.',
+    errorRetry: 'Retry',
+    errorBack: 'Back to Curriculum',
+    resetProgress: 'Reset Progress',
+    resetConfirm: 'Confirm Reset?',
+    grammar: 'G',
+    vocabulary: 'L',
+    practice: 'P',
+    courseName: 'GREEK LANGUAGE COURSE'
 };
 
 /**
