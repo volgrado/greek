@@ -10,18 +10,18 @@ file and pushing the claim commit first (see Instructions §4).
 
 ## Status table
 
-| ID  | Task                                   | Status | Owner | Depends on | Solo |
-| --- | -------------------------------------- | ------ | ----- | ---------- | ---- |
-| R1  | Harden the Markdown build pipeline     | TODO   | —     | —          | yes  |
-| R2  | JSDoc + consistent module headers (JS) | TODO   | —     | —          | yes  |
-| R3  | CSS audit & token consolidation        | TODO   | —     | —          | yes  |
-| R4  | Accessibility + perf pass (shell)      | TODO   | —     | —          | yes  |
-| R5  | Build-integrity check + CI gate        | TODO   | —     | —          | no   |
-| R6  | Docs & authoring guide                 | TODO   | —     | —          | no   |
-| R7  | Practice/SRS interactivity layer       | TODO   | —     | R2, R3, R4 | no   |
+| ID  | Task                                   | Status | Owner    | Depends on | Solo |
+| --- | -------------------------------------- | ------ | -------- | ---------- | ---- |
+| R1  | Harden the Markdown build pipeline     | MERGED | fleet-R1 | —          | yes  |
+| R2  | JSDoc + consistent module headers (JS) | MERGED | fleet-R2 | —          | yes  |
+| R3  | CSS audit & token consolidation        | MERGED | fleet-R3 | —          | yes  |
+| R4  | Accessibility + perf pass (shell)      | MERGED | fleet-R4 | —          | yes  |
+| R5  | Build-integrity check + CI gate        | MERGED | fleet-R5 | —          | no   |
+| R6  | Docs & authoring guide                 | MERGED | fleet-R6 | —          | no   |
+| R7  | Practice/SRS interactivity layer       | TODO   | —        | R2, R3, R4 | no   |
 
-> **Parallelizable now**: R1, R2, R3, R4, R5, R6 (disjoint ownership).
-> R7 waits on R2/R3/R4 because it adds wiring lines into files those tasks own.
+> **Round 1 complete**: R1–R6 merged to master (build + integrity check green).
+> R7 is now **unblocked** (its dependencies R2/R3/R4 are merged) and ready to claim.
 
 ---
 
@@ -94,7 +94,9 @@ No files are currently locked. When you set a task `CLAIMED`/`IN-PROGRESS`, list
 
 | UTC timestamp | Agent | Action |
 | ------------- | ----- | ------ |
-| —             | —     | board seeded |
+| seed          | —     | board seeded |
+| round 1       | fleet-R1..R6 | claimed + completed R1–R6 in parallel worktrees |
+| round 1       | coordinator | merged R1–R6 → master, build + check green, branches deleted |
 
 ---
 
@@ -102,11 +104,26 @@ No files are currently locked. When you set a task `CLAIMED`/`IN-PROGRESS`, list
 
 | Task | Branch | Commit | Verified | Notes |
 | ---- | ------ | ------ | -------- | ----- |
-| —    | —      | —      | —        | —     |
+| R1   | refactor/R1 | 10c4a3e | merged | structured build pass; fixed crossed-markup bug |
+| R2   | refactor/R2 | 695c567 | merged | JSDoc/headers, comments-only |
+| R3   | refactor/R3 | 6e2cbb5 | merged | dedup + tokens, zero visual change |
+| R4   | refactor/R4 | 6fa57bc | merged | a11y landmarks, skip link, preload |
+| R5   | refactor/R5 | 42f698f | merged | check.py + CI gate |
+| R6   | refactor/R6 | 0e4440f | merged | README + docs/ |
 
 ---
 
 ## Blockers / Decisions
 
-- _(none yet)_ — record cross-cutting issues, scope changes, and resolutions here with
-  a UTC timestamp and the agent id.
+Pre-existing issues surfaced by the round-1 agents (out of their scope; candidate
+follow-up tasks):
+
+- **F1 (from R3)** — Several `@media` queries use `max-width: var(--breakpoint-mobile)`.
+  CSS custom properties are invalid in media-query feature values, so those mobile
+  breakpoints currently never apply (`tables.css`, `footer.css`, `lessons.css`,
+  `mode-switcher.css`). Fix: inline the literal value or use a build-time substitution.
+- **F2 (from R2)** — `src/js/router.js` has a duplicated `state.markAsViewed(id);
+  prefetchNext(id);` pair (harmless redundancy). Remove one.
+- **F3 (from R1)** — The phrase-list inner split regex `^(.*?)\s*\((.*?)\)$` can still
+  pick a split point inside inline markup on a leaf item. Left as-is to preserve
+  byte-identical output on 40 lessons; harden separately with sign-off on byte changes.
