@@ -386,18 +386,24 @@ def build_lang(lang_code, dist_root):
                 except Exception as e:
                     print(f"[ERR] Error compiling Markdown {file_path.name}: {e}")
 
-    curriculum_data = {
-        "structure": structure,
-        "searchIndex": doc_store,
-        "invertedIndex": inverted_index
-    }
-    
-    # Escribir el JSON de currículo y búsqueda unificado
+    # curriculum.json holds only the navigation structure (a few KB) so it stays
+    # cheap to load on every visit. The search index is an order of magnitude
+    # larger and is not needed for first paint, so it is written to a separate
+    # file that a search feature can lazy-load on demand. Keys are sorted so the
+    # output is deterministic (independent of PYTHONHASHSEED).
     with (out_dir / 'curriculum.json').open('w', encoding='utf-8') as f:
-        json.dump(curriculum_data, f, ensure_ascii=False, indent=2)
-    print(f"[OK] {out_dir}/curriculum.json generated with embedded search index.")
+        json.dump({"structure": structure}, f, ensure_ascii=False, indent=2)
+    print(f"[OK] {out_dir}/curriculum.json generated (navigation only).")
 
-    return curriculum_data
+    search_data = {
+        "searchIndex": doc_store,
+        "invertedIndex": {w: sorted(ids) for w, ids in sorted(inverted_index.items())},
+    }
+    with (out_dir / 'search-index.json').open('w', encoding='utf-8') as f:
+        json.dump(search_data, f, ensure_ascii=False, sort_keys=True)
+    print(f"[OK] {out_dir}/search-index.json generated (lazy-loaded).")
+
+    return {"structure": structure}
 
 def bundle_css(src_dir, dist_dir):
     """Concatenate split CSS sources into one styles.css, preserving the cascade
