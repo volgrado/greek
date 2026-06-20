@@ -4,6 +4,7 @@ import json
 import sys
 import re
 import hashlib
+from html.parser import HTMLParser
 import markdown
 
 def strip_html(html_text):
@@ -127,6 +128,133 @@ class CustomBlockExtension(Extension):
         md.preprocessors.register(CalloutPreprocessor(md), 'callouts', 102)
         md.preprocessors.register(ListFixPreprocessor(md), 'list_fix', 103)
 
+class ElementLocator(HTMLParser):
+    """
+    Locates <li> and <table> element spans in the markdown-generated HTML using
+    a real tag stack, so the post-processing operates on correctly-nested
+    elements instead of a flat regex.
+
+    The previous pipeline used `re.sub(r'<li>(.*?)</li>', ...)` with DOTALL,
+    whose non-greedy match stops at the first inner </li>. On nested lists that
+    captured a fragment straddling a child <ul>, and the phrase-list rewrite
+    could then split inside an inline tag, emitting crossed markup like
+    `<em></span> ... </em>`. Walking the parse tree pairs every <li>/<table>
+    with its true close and flags items that contain a nested list, so
+    transformations apply only to leaf list items and table spans are wrapped
+    by element, not by blind string replacement.
+
+    Offsets are recorded against the source text so the caller can splice the
+    transformed fragments back in without re-serialising (and thus altering)
+    any untouched output.
+    """
+
+    _WRAP_TAGS = ('li', 'table')
+    _LIST_TAGS = ('ul', 'ol')
+
+    def __init__(self, text):
+        super().__init__(convert_charrefs=False)
+        # Map (line, col) reported by HTMLParser to absolute character offsets.
+        self._line_starts = [0]
+        for i, ch in enumerate(text):
+            if ch == '\n':
+                self._line_starts.append(i + 1)
+        self._stack = []
+        # Each li span: (outer_start, inner_start, inner_end, outer_end, has_nested_list)
+        self.li_spans = []
+        # Each table span: (outer_start, outer_end)
+        self.table_spans = []
+
+    def _offset(self):
+        line, col = self.getpos()
+        return self._line_starts[line - 1] + col
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self._WRAP_TAGS:
+            start = self._offset()
+            inner_start = start + len(self.get_starttag_text())
+            self._stack.append([tag, start, inner_start, False])
+        elif tag in self._LIST_TAGS:
+            # Mark the nearest enclosing <li> as containing a nested list.
+            for frame in reversed(self._stack):
+                if frame[0] == 'li':
+                    frame[3] = True
+                    break
+            self._stack.append([tag, None, None, False])
+
+    def handle_endtag(self, tag):
+        if tag not in self._WRAP_TAGS and tag not in self._LIST_TAGS:
+            return
+        # Pop to the matching open frame. Markdown emits well-formed block
+        # structure, so the nearest open frame of this tag is the right one.
+        for idx in range(len(self._stack) - 1, -1, -1):
+            if self._stack[idx][0] == tag:
+                frame = self._stack.pop(idx)
+                if tag in self._WRAP_TAGS:
+                    inner_end = self._offset()
+                    outer_end = inner_end + len('</%s>' % tag)
+                    if tag == 'li':
+                        self.li_spans.append((frame[1], frame[2], inner_end, outer_end, frame[3]))
+                    else:
+                        self.table_spans.append((frame[1], outer_end))
+                break
+
+def transform_leaf_li(inner, lang_code):
+    """Rewrite the inner HTML of a leaf <li> (one with no nested list) into a
+    checklist item or a phrase/gloss item, mirroring the original markup. Items
+    that match neither pattern are re-emitted unchanged."""
+    li_content = inner.strip()
+
+    # 1. Checklist format "[ ]" or "[x]"
+    checkbox_m = re.match(r'\[([ xX])\]\s*(.*)', li_content, re.DOTALL)
+    if checkbox_m:
+        checked = checkbox_m.group(1).lower() == 'x'
+        content = checkbox_m.group(2)
+        checked_attr = 'checked' if checked else ''
+        return f'<li class="checklist-item"><input type="checkbox" disabled {checked_attr}> <span>{content}</span></li>'
+
+    # 2. Phrase-list format "Target text (English text)"
+    m = re.match(r'^(.*?)\s*\((.*?)\)$', li_content, re.DOTALL)
+    if m:
+        target_text, en_text = m.groups()
+        return f'<li><span class="lang-{lang_code}">{target_text}</span> <span class="meaning">({en_text})</span></li>'
+
+    return f'<li>{li_content}</li>'
+
+def apply_html_transforms(html, lang_code):
+    """Structured post-processing of the markdown-generated HTML: wrap tables
+    for responsive scrolling and rewrite leaf list items. Uses ElementLocator
+    to find correctly-nested element spans and splices replacements by offset,
+    leaving all other bytes untouched."""
+    locator = ElementLocator(html)
+    locator.feed(html)
+    locator.close()
+
+    # Build a list of (start, end, replacement) edits over the source string.
+    edits = []
+    for (start, end) in locator.table_spans:
+        edits.append((start, end, f'<div class="table-container">{html[start:end]}</div>'))
+    for (outer_start, inner_start, inner_end, outer_end, has_nested_list) in locator.li_spans:
+        # Only transform leaf items; items wrapping a nested list keep their
+        # structure and their child <li>s are handled as their own leaf spans.
+        if has_nested_list:
+            continue
+        replacement = transform_leaf_li(html[inner_start:inner_end], lang_code)
+        edits.append((outer_start, outer_end, replacement))
+
+    # Apply edits left-to-right. Spans never overlap (tables hold <td>, not
+    # <li>), but guard defensively against any nesting just in case.
+    edits.sort(key=lambda e: e[0])
+    out = []
+    pos = 0
+    for (start, end, replacement) in edits:
+        if start < pos:
+            continue
+        out.append(html[pos:start])
+        out.append(replacement)
+        pos = end
+    out.append(html[pos:])
+    return ''.join(out)
+
 def parse_markdown(md_text, lang_code):
     """Compiles Markdown to HTML."""
 
@@ -143,33 +271,10 @@ def parse_markdown(md_text, lang_code):
         ]
     )
 
-    # Wrap tables for responsiveness
-    html = re.sub(r'<table>', '<div class="table-container"><table>', html)
-    html = re.sub(r'</table>', '</table></div>', html)
-    
-    # Process specific styling like translation lists
-    # Current pattern in markdown: - Target text (English text)
-    def process_li(match):
-        li_content = match.group(1).strip()
+    # Structured post-processing: wrap tables and rewrite leaf list items using
+    # the parsed element tree instead of flat regexes over generated HTML.
+    html = apply_html_transforms(html, lang_code)
 
-        # 1. Check for checklist-format "[ ]" or "[x]"
-        checkbox_m = re.match(r'\[([ xX])\]\s*(.*)', li_content, re.DOTALL)
-        if checkbox_m:
-            checked = checkbox_m.group(1).lower() == 'x'
-            content = checkbox_m.group(2)
-            checked_attr = 'checked' if checked else ''
-            return f'<li class="checklist-item"><input type="checkbox" disabled {checked_attr}> <span>{content}</span></li>'
-
-        # 2. Check for phrase-list format "Target text (English text)"
-        m = re.match(r'^(.*?)\s*\((.*?)\)$', li_content, re.DOTALL)
-        if m:
-            target_text, en_text = m.groups()
-            return f'<li><span class="lang-{lang_code}">{target_text}</span> <span class="meaning">({en_text})</span></li>'
-        
-        return f'<li>{li_content}</li>'
-        
-    html = re.sub(r'<li>(.*?)</li>', process_li, html, flags=re.DOTALL)
-    
     return f'<div class="lesson-container">\n{html}\n</div>'
 
 
